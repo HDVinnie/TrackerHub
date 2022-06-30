@@ -14,6 +14,7 @@ status-website:
   baseUrl: /TrackerHub
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: TrackerHub
+  theme: dark
   introTitle: "**TrackerHub** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: Powered By GitHub
   navbar:
