@@ -12,6 +12,8 @@ sites:
   - name: BTN
     url: $BTN
     icon: $BTN_ICON
+  - name: BTN Announce
+    url: $BTN_ANNOUNCE
   - name: HDB
     url: $HDB
     icon: $HDB_ICON
