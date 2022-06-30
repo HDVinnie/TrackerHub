@@ -5,6 +5,8 @@ repo: TrackerHub # The name of this repository
 sites:
   - name: UNIT3D Demo
     url: https://unit3d.site
+  - name: Private Tracker List
+    url: https://hdvinnie.github.io/Private-Trackers-Spreadsheet
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
