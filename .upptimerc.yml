@@ -5,6 +5,7 @@ repo: TrackerHub # The name of this repository
 sites:
   - name: UNIT3D Demo
     url: https://unit3d.site
+    icon: https://unit3d.site/favicon.ico
   - name: Private Tracker List
     url: https://hdvinnie.github.io/Private-Trackers-Spreadsheet
 
@@ -16,7 +17,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: TrackerHub
   introTitle: "**TrackerHub** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Powered By GitHub
+  # introMessage: Powered By GitHub
   navbar:
     - title: Status
       href: /
