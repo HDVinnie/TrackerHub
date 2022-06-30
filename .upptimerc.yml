@@ -5,10 +5,10 @@ repo: TrackerHub # The name of this repository
 sites:
   - name: BLU
     url: $BLU
-    icon: $BLU/favicon.ico
+    icon: $BLU_ICON
   - name: PTP
     url: $PTP
-    icon: $PTP/favicon.ico
+    icon: $PTP_ICON
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
