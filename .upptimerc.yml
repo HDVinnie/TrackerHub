@@ -15,6 +15,8 @@ sites:
   - name: PTP
     url: $PTP
     icon: $PTP_ICON
+  - name: PTP Announce
+    url: $PTP_ANNOUNCE
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
