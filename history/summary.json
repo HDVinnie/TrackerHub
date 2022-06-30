@@ -58,18 +58,20 @@
     "url": "$BTN_ANNOUNCE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "btn-announce",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 234,
     "timeDay": 234,
     "timeWeek": 234,
     "timeMonth": 234,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   },
   {
     "name": "HDB",
@@ -112,19 +114,19 @@
     "url": "$PTP_ANNOUNCE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ptp-announce",
-    "status": "down",
-    "uptime": "40.69%",
-    "uptimeDay": "40.69%",
-    "uptimeWeek": "40.69%",
-    "uptimeMonth": "40.69%",
-    "uptimeYear": "40.69%",
-    "time": 364,
-    "timeDay": 364,
-    "timeWeek": 364,
-    "timeMonth": 364,
-    "timeYear": 364,
+    "status": "up",
+    "uptime": "22.53%",
+    "uptimeDay": "22.53%",
+    "uptimeWeek": "22.53%",
+    "uptimeMonth": "22.53%",
+    "uptimeYear": "22.53%",
+    "time": 2873,
+    "timeDay": 2873,
+    "timeWeek": 2873,
+    "timeMonth": 2873,
+    "timeYear": 2873,
     "dailyMinutesDown": {
-      "2022-06-30": 21
+      "2022-06-30": 50
     }
   }
 ]
