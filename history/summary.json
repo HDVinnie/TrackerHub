@@ -1,5 +1,23 @@
 [
   {
+    "name": "BHD",
+    "url": "$BHD",
+    "icon": "$BHD_ICON",
+    "slug": "bhd",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 483,
+    "timeDay": 483,
+    "timeWeek": 483,
+    "timeMonth": 483,
+    "timeYear": 483,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "BLU",
     "url": "$BLU",
     "icon": "$BLU_ICON",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 303,
-    "timeWeek": 303,
-    "timeMonth": 303,
-    "timeYear": 303,
+    "time": 381,
+    "timeDay": 381,
+    "timeWeek": 381,
+    "timeMonth": 381,
+    "timeYear": 381,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 220,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "time": 243,
+    "timeDay": 243,
+    "timeWeek": 243,
+    "timeMonth": 243,
+    "timeYear": 243,
     "dailyMinutesDown": {}
   }
 ]
