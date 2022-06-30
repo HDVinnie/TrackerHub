@@ -58,19 +58,19 @@
     "url": "$BTN_ANNOUNCE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "btn-announce",
-    "status": "down",
-    "uptime": "85.42%",
-    "uptimeDay": "85.42%",
-    "uptimeWeek": "85.42%",
-    "uptimeMonth": "85.42%",
-    "uptimeYear": "85.42%",
-    "time": 200,
-    "timeDay": 200,
-    "timeWeek": 200,
-    "timeMonth": 200,
-    "timeYear": 200,
+    "status": "up",
+    "uptime": "83.15%",
+    "uptimeDay": "83.15%",
+    "uptimeWeek": "83.15%",
+    "uptimeMonth": "83.15%",
+    "uptimeYear": "83.15%",
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {
-      "2022-06-30": 20
+      "2022-06-30": 24
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "$PTP_ANNOUNCE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ptp-announce",
-    "status": "down",
-    "uptime": "64.32%",
-    "uptimeDay": "64.32%",
-    "uptimeWeek": "64.32%",
-    "uptimeMonth": "64.32%",
-    "uptimeYear": "64.32%",
-    "time": 2833,
-    "timeDay": 2833,
-    "timeWeek": 2833,
-    "timeMonth": 2833,
-    "timeYear": 2833,
+    "status": "up",
+    "uptime": "62.71%",
+    "uptimeDay": "62.71%",
+    "uptimeWeek": "62.71%",
+    "uptimeMonth": "62.71%",
+    "uptimeYear": "62.71%",
+    "time": 3317,
+    "timeDay": 3317,
+    "timeWeek": 3317,
+    "timeMonth": 3317,
+    "timeYear": 3317,
     "dailyMinutesDown": {
-      "2022-06-30": 54
+      "2022-06-30": 58
     }
   }
 ]
