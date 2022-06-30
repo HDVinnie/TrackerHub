@@ -9,6 +9,9 @@ sites:
   - name: BLU
     url: $BLU
     icon: $BLU_ICON
+  - name: BTN
+    url: $BTN
+    icon: $BTN_ICON
   - name: PTP
     url: $PTP
     icon: $PTP_ICON
