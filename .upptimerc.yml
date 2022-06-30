@@ -12,6 +12,9 @@ sites:
   - name: BTN
     url: $BTN
     icon: $BTN_ICON
+  - name: HDB
+    url: $HDB
+    icon: $HDB_ICON
   - name: PTP
     url: $PTP
     icon: $PTP_ICON
