@@ -15,6 +15,10 @@ sites:
     url: $BHD
     icon: $BHD_ICON
     maxResponseTime: 500
+  - name: Bibliotik
+    url: $BIB
+    icon: $BIB_ICON
+    maxResponseTime: 500
   - name: Blutopia
     url: $BLU
     icon: $BLU_ICON
