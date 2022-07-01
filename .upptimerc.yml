@@ -3,34 +3,34 @@ owner: HDVinnie # Your GitHub organization or username, where this repository li
 repo: TrackerHub # The name of this repository
 
 sites:
-  - name: BHD
+  - name: BeyondHD
     url: $BHD
     icon: $BHD_ICON
-  - name: BLU
+  - name: Blutopia
     url: $BLU
     icon: $BLU_ICON
-  - name: BTN
+  - name: BroadcasTheNet
     url: $BTN
     icon: $BTN_ICON
-  - name: BTN Announce
+  - name: BroadcasTheNet Announce
     url: $BTN_ANNOUNCE
-  - name: HDB
+  - name: HDBits
     url: $HDB
     icon: $HDB_ICON
-  - name: PHD
+  - name: PrivateHD
     url: $PHD
     icon: $PHD_ICON
-  - name: PHD Announce
+  - name: PrivateHD Announce
     url: $PHD_ANNOUNCE
-  - name: PTP
+  - name: PassThePopcorn
     url: $PTP
     icon: $PTP_ICON
-  - name: PTP Announce
+  - name: PassThePopcorn Announce
     url: $PTP_ANNOUNCE
-  - name: RED
+  - name: Redacted
     url: $RED
     icon: $RED_ICON
-  - name: RED Announce
+  - name: Redacted Announce
     url: $RED_ANNOUNCE
 
 status-website:
@@ -41,11 +41,9 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: TrackerHub
   theme: night
-  introTitle: "**TrackerHub** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**TrackerHub** is the open-source uptime monitor and status page for trackers, powered entirely by GitHub."
   introMessage: Maintained with 💖 by HDVinnie
   navbar:
-    - title: Status
-      href: /
     - title: GitHub Repo
       href: https://github.com/$OWNER/$REPO
     - title: Tracker Spreadsheet
