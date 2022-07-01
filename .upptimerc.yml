@@ -33,6 +33,10 @@ sites:
     url: $HDB
     icon: $HDB_ICON
     maxResponseTime: 500
+  - name: Orpheus
+    url: $OPS
+    icon: $OPS_ICON
+    maxResponseTime: 500
   - name: PrivateHD
     url: $PHD
     icon: $PHD_ICON
