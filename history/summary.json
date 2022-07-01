@@ -58,18 +58,20 @@
     "url": "$BTN_ANNOUNCE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "broadcas-the-net-announce",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "98.81%",
     "time": 129,
     "timeDay": 129,
     "timeWeek": 129,
     "timeMonth": 129,
     "timeYear": 129,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-01": 0
+    }
   },
   {
     "name": "HDBits",
@@ -112,18 +114,20 @@
     "url": "$PHD_ANNOUNCE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "private-hd-announce",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
     "time": 161,
     "timeDay": 161,
     "timeWeek": 161,
     "timeMonth": 161,
     "timeYear": 161,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-01": 0
+    }
   },
   {
     "name": "PassThePopcorn",
@@ -148,18 +152,20 @@
     "url": "$PTP_ANNOUNCE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pass-the-popcorn-announce",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.24%",
     "time": 221,
     "timeDay": 221,
     "timeWeek": 221,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-01": 0
+    }
   },
   {
     "name": "Redacted",
