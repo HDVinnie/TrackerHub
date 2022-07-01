@@ -43,18 +43,18 @@
     "icon": "$BHD_ICON",
     "slug": "beyond-hd",
     "status": "up",
-    "uptime": "94.96%",
-    "uptimeDay": "94.96%",
-    "uptimeWeek": "94.96%",
-    "uptimeMonth": "94.96%",
-    "uptimeYear": "94.96%",
+    "uptime": "95.59%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "95.59%",
+    "uptimeMonth": "95.59%",
+    "uptimeYear": "95.59%",
     "time": 435,
     "timeDay": 435,
     "timeWeek": 435,
     "timeMonth": 435,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2022-07-01": 43
+      "2022-07-01": 38
     }
   },
   {
@@ -63,19 +63,17 @@
     "icon": "$BIB_ICON",
     "slug": "bibliotik",
     "status": "up",
-    "uptime": "88.30%",
-    "uptimeDay": "88.30%",
-    "uptimeWeek": "88.30%",
-    "uptimeMonth": "88.30%",
-    "uptimeYear": "88.30%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 209,
     "timeDay": 209,
     "timeWeek": 209,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {
-      "2022-07-01": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blutopia",
@@ -101,18 +99,18 @@
     "icon": "$BTN_ICON",
     "slug": "broadcas-the-net",
     "status": "up",
-    "uptime": "97.61%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "97.61%",
-    "uptimeMonth": "97.61%",
-    "uptimeYear": "97.61%",
+    "uptime": "98.24%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "98.24%",
     "time": 288,
     "timeDay": 288,
     "timeWeek": 288,
     "timeMonth": 288,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2022-07-01": 20
+      "2022-07-01": 15
     }
   },
   {
@@ -211,18 +209,18 @@
     "icon": "$PHD_ICON",
     "slug": "private-hd",
     "status": "up",
-    "uptime": "97.60%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "97.60%",
+    "uptime": "98.24%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "98.24%",
     "time": 756,
     "timeDay": 756,
     "timeWeek": 756,
     "timeMonth": 756,
     "timeYear": 756,
     "dailyMinutesDown": {
-      "2022-07-01": 20
+      "2022-07-01": 15
     }
   },
   {
@@ -231,18 +229,18 @@
     "icon": "$PTP_ICON",
     "slug": "pass-the-popcorn",
     "status": "up",
-    "uptime": "97.60%",
-    "uptimeDay": "97.60%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "97.60%",
+    "uptime": "98.24%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "98.24%",
     "time": 230,
     "timeDay": 230,
     "timeWeek": 230,
     "timeMonth": 230,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2022-07-01": 20
+      "2022-07-01": 15
     }
   },
   {
@@ -269,18 +267,16 @@
     "icon": "$TLY_ICON",
     "slug": "telly",
     "status": "up",
-    "uptime": "80.23%",
-    "uptimeDay": "80.23%",
-    "uptimeWeek": "80.23%",
-    "uptimeMonth": "80.23%",
-    "uptimeYear": "80.23%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 360,
     "timeDay": 360,
     "timeWeek": 360,
     "timeMonth": 360,
     "timeYear": 360,
-    "dailyMinutesDown": {
-      "2022-07-01": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
