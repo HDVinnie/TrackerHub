@@ -3,6 +3,14 @@ owner: HDVinnie # Your GitHub organization or username, where this repository li
 repo: TrackerHub # The name of this repository
 
 sites:
+  - name: Aither
+    url: $AIH
+    icon: $AIH_ICON
+    maxResponseTime: 500
+  - name: AlphaRatio
+    url: $AR
+    icon: $AR_ICON
+    maxResponseTime: 500
   - name: BeyondHD
     url: $BHD
     icon: $BHD_ICON
@@ -17,9 +25,6 @@ sites:
     url: $BTN
     icon: $BTN_ICON
     maxResponseTime: 500
-  - name: BroadcasTheNet Announce
-    url: $BTN_ANNOUNCE
-    maxResponseTime: 500
   - name: HDBits
     url: $HDB
     icon: $HDB_ICON
@@ -28,22 +33,13 @@ sites:
     url: $PHD
     icon: $PHD_ICON
     maxResponseTime: 500
-  - name: PrivateHD Announce
-    url: $PHD_ANNOUNCE
-    maxResponseTime: 500
   - name: PassThePopcorn
     url: $PTP
     icon: $PTP_ICON
     maxResponseTime: 500
-  - name: PassThePopcorn Announce
-    url: $PTP_ANNOUNCE
-    maxResponseTime: 500
   - name: Redacted
     url: $RED
     icon: $RED_ICON
-    maxResponseTime: 500
-  - name: Redacted Announce
-    url: $RED_ANNOUNCE
     maxResponseTime: 500
 
 status-website:
