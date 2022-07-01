@@ -11,6 +11,8 @@ sites:
     url: $BLU
     icon: $BLU_ICON
     maxResponseTime: 500
+    assignees:
+      - HDVinnie
   - name: BroadcasTheNet
     url: $BTN
     icon: $BTN_ICON
