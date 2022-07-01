@@ -33,6 +33,10 @@ sites:
     url: $EMP
     icon: $EMP_ICON
     maxResponseTime: 500
+  - name: GazelleGames
+    url: $GGN
+    icon: $GGN_ICON
+    maxResponseTime: 500
   - name: HDBits
     url: $HDB
     icon: $HDB_ICON
