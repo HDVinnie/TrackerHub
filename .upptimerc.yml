@@ -57,6 +57,10 @@ sites:
     url: $RED
     icon: $RED_ICON
     maxResponseTime: 500
+  - name: Telly
+    url: $TLY
+    icon: $TLY_ICON
+    maxResponseTime: 500
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
