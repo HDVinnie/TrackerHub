@@ -29,6 +29,10 @@ sites:
     url: $BTN
     icon: $BTN_ICON
     maxResponseTime: 500
+  - name: DesiTorrents
+    url: $DST
+    icon: $DST_ICON
+    maxResponseTime: 500
   - name: Empornium
     url: $EMP
     icon: $EMP_ICON
