@@ -6,32 +6,43 @@ sites:
   - name: BeyondHD
     url: $BHD
     icon: $BHD_ICON
+    maxResponseTime: 500
   - name: Blutopia
     url: $BLU
     icon: $BLU_ICON
+    maxResponseTime: 500
   - name: BroadcasTheNet
     url: $BTN
     icon: $BTN_ICON
+    maxResponseTime: 500
   - name: BroadcasTheNet Announce
     url: $BTN_ANNOUNCE
+    maxResponseTime: 500
   - name: HDBits
     url: $HDB
     icon: $HDB_ICON
+    maxResponseTime: 500
   - name: PrivateHD
     url: $PHD
     icon: $PHD_ICON
+    maxResponseTime: 500
   - name: PrivateHD Announce
     url: $PHD_ANNOUNCE
+    maxResponseTime: 500
   - name: PassThePopcorn
     url: $PTP
     icon: $PTP_ICON
+    maxResponseTime: 500
   - name: PassThePopcorn Announce
     url: $PTP_ANNOUNCE
+    maxResponseTime: 500
   - name: Redacted
     url: $RED
     icon: $RED_ICON
+    maxResponseTime: 500
   - name: Redacted Announce
     url: $RED_ANNOUNCE
+    maxResponseTime: 500
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
