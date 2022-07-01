@@ -42,7 +42,7 @@ status-website:
   name: TrackerHub
   theme: night
   introTitle: "**TrackerHub** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  # introMessage: Powered By GitHub
+  introMessage: Maintained with 💖 by HDVinnie
   navbar:
     - title: Status
       href: /
