@@ -22,6 +22,11 @@ sites:
     icon: $PTP_ICON
   - name: PTP Announce
     url: $PTP_ANNOUNCE
+  - name: RED
+    url: $RED
+    icon: $RED_ICON
+  - name: RED Announce
+    url: $RED_ANNOUNCE
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -36,8 +41,10 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: GitHub Repo
       href: https://github.com/$OWNER/$REPO
+    - title: Tracker Spreadsheet
+      href: https://hdvinnie.github.io/Private-Trackers-Spreadsheet
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
