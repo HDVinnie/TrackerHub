@@ -59,11 +59,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "broadcas-the-net-announce",
     "status": "up",
-    "uptime": "37.91%",
-    "uptimeDay": "37.91%",
-    "uptimeWeek": "37.91%",
-    "uptimeMonth": "37.91%",
-    "uptimeYear": "37.91%",
+    "uptime": "42.04%",
+    "uptimeDay": "42.04%",
+    "uptimeWeek": "42.04%",
+    "uptimeMonth": "42.04%",
+    "uptimeYear": "42.04%",
     "time": 237,
     "timeDay": 237,
     "timeWeek": 237,
@@ -115,18 +115,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "private-hd-announce",
     "status": "down",
-    "uptime": "37.32%",
-    "uptimeDay": "37.32%",
-    "uptimeWeek": "37.32%",
-    "uptimeMonth": "37.32%",
-    "uptimeYear": "37.32%",
+    "uptime": "34.83%",
+    "uptimeDay": "34.83%",
+    "uptimeWeek": "34.83%",
+    "uptimeMonth": "34.83%",
+    "uptimeYear": "34.83%",
     "time": 161,
     "timeDay": 161,
     "timeWeek": 161,
     "timeMonth": 161,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2022-07-01": 26
+      "2022-07-01": 29
     }
   },
   {
@@ -152,19 +152,19 @@
     "url": "$PTP_ANNOUNCE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pass-the-popcorn-announce",
-    "status": "down",
-    "uptime": "37.39%",
-    "uptimeDay": "37.39%",
-    "uptimeWeek": "37.39%",
-    "uptimeMonth": "37.39%",
-    "uptimeYear": "37.39%",
-    "time": 221,
-    "timeDay": 221,
-    "timeWeek": 221,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "status": "up",
+    "uptime": "35.22%",
+    "uptimeDay": "35.22%",
+    "uptimeWeek": "35.22%",
+    "uptimeMonth": "35.22%",
+    "uptimeYear": "35.22%",
+    "time": 306,
+    "timeDay": 306,
+    "timeWeek": 306,
+    "timeMonth": 306,
+    "timeYear": 306,
     "dailyMinutesDown": {
-      "2022-07-01": 26
+      "2022-07-01": 28
     }
   },
   {
@@ -190,17 +190,19 @@
     "url": "$RED_ANNOUNCE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "redacted-announce",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 253,
     "timeDay": 253,
     "timeWeek": 253,
     "timeMonth": 253,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-01": 0
+    }
   }
 ]
