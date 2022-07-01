@@ -17,6 +17,11 @@ sites:
   - name: HDB
     url: $HDB
     icon: $HDB_ICON
+  - name: PHD
+    url: $PHD
+    icon: $PHD_ICON
+  - name: PHD Announce
+    url: $PHD_ANNOUNCE
   - name: PTP
     url: $PTP
     icon: $PTP_ICON
