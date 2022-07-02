@@ -41,6 +41,10 @@ sites:
     url: $GGN
     icon: $GGN_ICON
     maxResponseTime: 500
+  - name: GreatPosterWall
+    url: $GPW
+    icon: $GPW_ICON
+    maxResponseTime: 500
   - name: HDBits
     url: $HDB
     icon: $HDB_ICON
