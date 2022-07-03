@@ -6,77 +6,85 @@ sites:
   - name: Aither
     url: $AIH
     icon: $AIH_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
   - name: AlphaRatio
     url: $AR
     icon: $AR_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
   - name: BeyondHD
     url: $BHD
     icon: $BHD_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
   - name: Bibliotik
     url: $BIB
     icon: $BIB_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
   - name: Blutopia
     url: $BLU
     icon: $BLU_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
     assignees:
       - HDVinnie
   - name: BroadcasTheNet
     url: $BTN
     icon: $BTN_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
   - name: DesiTorrents
     url: $DST
     icon: $DST_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
   - name: Empornium
     url: $EMP
     icon: $EMP_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
   - name: GazelleGames
     url: $GGN
     icon: $GGN_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
   - name: GreatPosterWall
     url: $GPW
     icon: $GPW_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
   - name: HDBits
     url: $HDB
     icon: $HDB_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
   - name: MorethanTV
     url: $MTV
     icon: $MTV_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
   - name: MyAnonaMouse
     url: $MAM
     icon: $MAM_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
   - name: Orpheus
     url: $OPS
     icon: $OPS_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
   - name: PrivateHD
     url: $PHD
     icon: $PHD_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
   - name: PassThePopcorn
     url: $PTP
     icon: $PTP_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
   - name: Redacted
     url: $RED
     icon: $RED_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
+  - name: SkipTheCommericals
+    url: $STC
+    icon: $STC_ICON
+    maxResponseTime: 1000
+  - name: SkipTheTrailers
+    url: $STT
+    icon: $STT_ICON
+    maxResponseTime: 1000
   - name: Telly
     url: $TLY
     icon: $TLY_ICON
-    maxResponseTime: 500
+    maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
