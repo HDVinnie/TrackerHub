@@ -53,6 +53,10 @@ sites:
     url: $MTV
     icon: $MTV_ICON
     maxResponseTime: 500
+  - name: MyAnonaMouse
+    url: $MAM
+    icon: $MAM_ICON
+    maxResponseTime: 500
   - name: Orpheus
     url: $OPS
     icon: $OPS_ICON
