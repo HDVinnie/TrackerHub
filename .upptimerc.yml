@@ -15,6 +15,10 @@ sites:
     url: $AR
     icon: $AR_ICON
     maxResponseTime: 1000
+  - name: Anthelion
+    url: $ATH
+    icon: $ATH_ICON
+    maxResponseTime: 1000
   - name: BeyondHD
     url: $BHD
     icon: $BHD_ICON
@@ -60,6 +64,10 @@ sites:
   - name: MyAnonaMouse
     url: $MAM
     icon: $MAM_ICON
+    maxResponseTime: 1000
+  - name: Nebulance
+    url: $NBL
+    icon: $NBL_ICON
     maxResponseTime: 1000
   - name: Orpheus
     url: $OPS
