@@ -388,19 +388,20 @@
     "url": "$RED",
     "icon": "$RED_ICON",
     "slug": "redacted",
-    "status": "down",
-    "uptime": "97.51%",
-    "uptimeDay": "58.01%",
-    "uptimeWeek": "94.00%",
-    "uptimeMonth": "97.51%",
-    "uptimeYear": "97.51%",
-    "time": 871,
-    "timeDay": 3035,
-    "timeWeek": 1797,
-    "timeMonth": 871,
-    "timeYear": 871,
+    "status": "degraded",
+    "uptime": "97.46%",
+    "uptimeDay": "57.15%",
+    "uptimeWeek": "93.88%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "97.46%",
+    "time": 885,
+    "timeDay": 2858,
+    "timeWeek": 1776,
+    "timeMonth": 885,
+    "timeYear": 885,
     "dailyMinutesDown": {
-      "2022-07-17": 605
+      "2022-07-18": 0,
+      "2022-07-17": 617
     }
   },
   {
