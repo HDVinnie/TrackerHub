@@ -127,18 +127,18 @@
     "icon": "$BLU_ICON",
     "slug": "blutopia",
     "status": "down",
-    "uptime": "97.08%",
-    "uptimeDay": "43.23%",
-    "uptimeWeek": "91.89%",
-    "uptimeMonth": "97.08%",
-    "uptimeYear": "97.08%",
+    "uptime": "97.05%",
+    "uptimeDay": "42.58%",
+    "uptimeWeek": "91.80%",
+    "uptimeMonth": "97.05%",
+    "uptimeYear": "97.05%",
     "time": 252,
     "timeDay": 136,
     "timeWeek": 206,
     "timeMonth": 252,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2022-07-20": 817
+      "2022-07-20": 827
     }
   },
   {
@@ -262,9 +262,9 @@
     "url": "$MTV",
     "icon": "$MTV_ICON",
     "slug": "morethan-tv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -273,7 +273,9 @@
     "timeWeek": 293,
     "timeMonth": 266,
     "timeYear": 266,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-20": 0
+    }
   },
   {
     "name": "MyAnonaMouse",
@@ -349,7 +351,7 @@
     "uptimeYear": "95.14%",
     "time": 1383,
     "timeDay": 1004,
-    "timeWeek": 1339,
+    "timeWeek": 1326,
     "timeMonth": 1383,
     "timeYear": 1383,
     "dailyMinutesDown": {
@@ -397,18 +399,18 @@
     "icon": "$RED_ICON",
     "slug": "redacted",
     "status": "up",
-    "uptime": "90.57%",
-    "uptimeDay": "86.98%",
-    "uptimeWeek": "73.81%",
-    "uptimeMonth": "90.57%",
-    "uptimeYear": "90.57%",
+    "uptime": "90.62%",
+    "uptimeDay": "88.38%",
+    "uptimeWeek": "73.92%",
+    "uptimeMonth": "90.62%",
+    "uptimeYear": "90.62%",
     "time": 3084,
     "timeDay": 2364,
     "timeWeek": 3922,
     "timeMonth": 3084,
     "timeYear": 3084,
     "dailyMinutesDown": {
-      "2022-07-20": 35,
+      "2022-07-20": 24,
       "2022-07-19": 839,
       "2022-07-18": 1147,
       "2022-07-17": 617
