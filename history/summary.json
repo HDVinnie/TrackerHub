@@ -176,11 +176,11 @@
     "url": "$BTN",
     "icon": "$BTN_ICON",
     "slug": "broadcas-the-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
     "time": 258,
     "timeDay": 285,
@@ -188,6 +188,7 @@
     "timeMonth": 262,
     "timeYear": 258,
     "dailyMinutesDown": {
+      "2022-08-23": 0,
       "2022-07-25": 33,
       "2022-07-01": 15
     }
@@ -402,18 +403,18 @@
     "icon": "$PHD_ICON",
     "slug": "private-hd",
     "status": "up",
-    "uptime": "96.57%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "88.24%",
-    "uptimeMonth": "94.00%",
-    "uptimeYear": "96.57%",
+    "uptime": "96.56%",
+    "uptimeDay": "94.52%",
+    "uptimeWeek": "88.33%",
+    "uptimeMonth": "93.98%",
+    "uptimeYear": "96.56%",
     "time": 1557,
     "timeDay": 1297,
     "timeWeek": 1538,
     "timeMonth": 1598,
     "timeYear": 1557,
     "dailyMinutesDown": {
-      "2022-08-23": 70,
+      "2022-08-23": 61,
       "2022-08-22": 48,
       "2022-08-21": 136,
       "2022-08-20": 245,
@@ -436,7 +437,7 @@
       "2022-08-02": 22,
       "2022-08-01": 83,
       "2022-07-31": 182,
-      "2022-07-30": 32
+      "2022-07-30": 47
     }
   },
   {
