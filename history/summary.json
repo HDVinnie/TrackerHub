@@ -155,9 +155,9 @@
     "slug": "blutopia",
     "status": "up",
     "uptime": "95.52%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "96.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.73%",
     "uptimeYear": "95.52%",
     "time": 831,
     "timeDay": 98,
@@ -165,7 +165,6 @@
     "timeMonth": 1298,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2022-09-09": 6,
       "2022-08-18": 132,
       "2022-08-17": 486,
       "2022-08-16": 352,
@@ -419,15 +418,15 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "up",
-    "uptime": "96.83%",
-    "uptimeDay": "82.15%",
+    "status": "degraded",
+    "uptime": "96.86%",
+    "uptimeDay": "82.13%",
     "uptimeWeek": "84.32%",
-    "uptimeMonth": "92.64%",
-    "uptimeYear": "96.83%",
+    "uptimeMonth": "92.70%",
+    "uptimeYear": "96.86%",
     "time": 1573,
-    "timeDay": 1679,
-    "timeWeek": 1558,
+    "timeDay": 1686,
+    "timeWeek": 1559,
     "timeMonth": 1606,
     "timeYear": 1573,
     "dailyMinutesDown": {
@@ -447,7 +446,7 @@
       "2022-08-27": 219,
       "2022-08-26": 356,
       "2022-08-25": 104,
-      "2022-08-24": 68
+      "2022-08-24": 40
     }
   },
   {
