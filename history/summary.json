@@ -275,7 +275,7 @@
     "uptimeYear": "90.72%",
     "time": 1078,
     "timeDay": 259,
-    "timeWeek": 582,
+    "timeWeek": 564,
     "timeMonth": 667,
     "timeYear": 1078,
     "dailyMinutesDown": {
@@ -418,12 +418,12 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "up",
-    "uptime": "96.95%",
-    "uptimeDay": "70.74%",
-    "uptimeWeek": "82.68%",
-    "uptimeMonth": "92.85%",
-    "uptimeYear": "96.95%",
+    "status": "degraded",
+    "uptime": "96.96%",
+    "uptimeDay": "70.72%",
+    "uptimeWeek": "82.73%",
+    "uptimeMonth": "92.89%",
+    "uptimeYear": "96.96%",
     "time": 1575,
     "timeDay": 1717,
     "timeWeek": 1555,
@@ -445,7 +445,7 @@
       "2022-08-29": 226,
       "2022-08-28": 265,
       "2022-08-27": 219,
-      "2022-08-26": 144
+      "2022-08-26": 127
     }
   },
   {
@@ -517,7 +517,7 @@
     "uptimeYear": "98.41%",
     "time": 2814,
     "timeDay": 4590,
-    "timeWeek": 2857,
+    "timeWeek": 2872,
     "timeMonth": 3035,
     "timeYear": 2814,
     "dailyMinutesDown": {
