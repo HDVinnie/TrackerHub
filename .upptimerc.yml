@@ -45,6 +45,10 @@ sites:
     url: $EMP
     icon: $EMP_ICON
     maxResponseTime: 1000
+  - name: Exoticaz
+    url: $EZ
+    icon: $EZ_ICON
+    maxResponseTime: 1000
   - name: GazelleGames
     url: $GGN
     icon: $GGN_ICON
