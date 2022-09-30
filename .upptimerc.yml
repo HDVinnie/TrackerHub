@@ -29,7 +29,7 @@ sites:
     maxResponseTime: 1000
   - name: Blutopia
     url: $BLU
-    icon: $BLU_ICON
+    icon: https://blutopia.xyz/favicon.ico
     maxResponseTime: 1000
     assignees:
       - HDVinnie
