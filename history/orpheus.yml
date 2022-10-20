@@ -1,7 +1,7 @@
 url: $OPS
-status: up
-code: 200
-responseTime: 969
-lastUpdated: 2022-10-19T23:03:54.008Z
+status: degraded
+code: 504
+responseTime: 21162
+lastUpdated: 2022-10-20T14:12:36.708Z
 startTime: Fri Jul 01 2022 17:03:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
