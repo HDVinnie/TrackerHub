@@ -93,6 +93,10 @@ sites:
     url: $RED
     icon: $RED_ICON
     maxResponseTime: 1000
+  - name: Secret-Cinema
+    url: $SC
+    icon: $SC_ICON
+    maxResponseTime: 1000
   - name: SkipTheCommericals
     url: $STC
     icon: $STC_ICON
