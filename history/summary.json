@@ -289,18 +289,18 @@
     "icon": "$CIN_ICON",
     "slug": "cinemageddon",
     "status": "down",
-    "uptime": "0.87%",
-    "uptimeDay": "0.87%",
-    "uptimeWeek": "0.87%",
-    "uptimeMonth": "0.87%",
-    "uptimeYear": "0.87%",
+    "uptime": "0.84%",
+    "uptimeDay": "0.84%",
+    "uptimeWeek": "0.84%",
+    "uptimeMonth": "0.84%",
+    "uptimeYear": "0.84%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-24": 2
+      "2022-12-24": 3
     }
   },
   {
@@ -872,18 +872,18 @@
     "icon": "$TVV_ICON",
     "slug": "tv-vault",
     "status": "degraded",
-    "uptime": "11.82%",
-    "uptimeDay": "11.82%",
-    "uptimeWeek": "11.82%",
-    "uptimeMonth": "11.82%",
-    "uptimeYear": "11.82%",
+    "uptime": "10.73%",
+    "uptimeDay": "10.73%",
+    "uptimeWeek": "10.73%",
+    "uptimeMonth": "10.73%",
+    "uptimeYear": "10.73%",
     "time": 17453,
     "timeDay": 17453,
     "timeWeek": 17453,
     "timeMonth": 17453,
     "timeYear": 17453,
     "dailyMinutesDown": {
-      "2022-12-24": 7
+      "2022-12-24": 8
     }
   }
 ]
