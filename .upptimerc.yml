@@ -41,6 +41,10 @@ sites:
     url: $BTN
     icon: $BTN_ICON
     maxResponseTime: 1000
+  - name: Cinemageddon
+    url: $CIN
+    icon: $CIN_ICON
+    maxResponseTime: 1000
   - name: DesiTorrents
     url: $DST
     icon: $DST_ICON
