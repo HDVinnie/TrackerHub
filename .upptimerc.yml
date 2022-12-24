@@ -97,6 +97,10 @@ sites:
     url: $RED
     icon: $RED_ICON
     maxResponseTime: 1000
+  - name: SceneTime
+    url: $ST
+    icon: $ST_ICON
+    maxResponseTime: 1000
   - name: Secret-Cinema
     url: $SC
     icon: $SC_ICON
