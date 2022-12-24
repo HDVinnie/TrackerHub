@@ -113,6 +113,10 @@ sites:
     url: $TLY
     icon: $TLY_ICON
     maxResponseTime: 1000
+  - name: TorrentLeech
+    url: $TL
+    icon: $TL_ICON
+    maxResponseTime: 1000
   - name: TV-Vault
     url: $TVV
     icon: $TVV_ICON
