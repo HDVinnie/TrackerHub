@@ -50,9 +50,9 @@
     "slug": "alpha-ratio",
     "status": "down",
     "uptime": "96.32%",
-    "uptimeDay": "92.87%",
-    "uptimeWeek": "93.84%",
-    "uptimeMonth": "96.24%",
+    "uptimeDay": "92.40%",
+    "uptimeWeek": "93.77%",
+    "uptimeMonth": "96.22%",
     "uptimeYear": "96.32%",
     "time": 764,
     "timeDay": 0,
@@ -60,7 +60,7 @@
     "timeMonth": 848,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2022-12-26": 103,
+      "2022-12-26": 109,
       "2022-12-23": 519,
       "2022-12-09": 18,
       "2022-12-06": 50,
@@ -301,7 +301,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-26": 654,
+      "2022-12-26": 661,
       "2022-12-25": 1440,
       "2022-12-24": 15
     }
@@ -551,7 +551,7 @@
     "uptime": "94.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.28%",
+    "uptimeMonth": "97.30%",
     "uptimeYear": "94.84%",
     "time": 1893,
     "timeDay": 0,
@@ -762,9 +762,9 @@
     "slug": "skip-the-commericals",
     "status": "up",
     "uptime": "97.67%",
-    "uptimeDay": "66.63%",
-    "uptimeWeek": "92.55%",
-    "uptimeMonth": "97.49%",
+    "uptimeDay": "67.01%",
+    "uptimeWeek": "92.60%",
+    "uptimeMonth": "97.50%",
     "uptimeYear": "97.67%",
     "time": 2479,
     "timeDay": 529,
@@ -772,7 +772,7 @@
     "timeMonth": 529,
     "timeYear": 2479,
     "dailyMinutesDown": {
-      "2022-12-26": 215,
+      "2022-12-26": 210,
       "2022-12-25": 530,
       "2022-12-24": 4,
       "2022-12-14": 77,
@@ -802,7 +802,7 @@
       "2022-08-31": 52,
       "2022-08-29": 271,
       "2022-08-28": 246,
-      "2022-08-27": 105
+      "2022-08-27": 130
     }
   },
   {
@@ -847,19 +847,19 @@
     "url": "$TLY",
     "icon": "$TLY_ICON",
     "slug": "telly",
-    "status": "down",
+    "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "70.53%",
-    "uptimeWeek": "92.17%",
-    "uptimeMonth": "98.20%",
+    "uptimeDay": "70.18%",
+    "uptimeWeek": "92.12%",
+    "uptimeMonth": "98.19%",
     "uptimeYear": "98.98%",
-    "time": 1065,
-    "timeDay": 690,
-    "timeWeek": 692,
-    "timeMonth": 759,
-    "timeYear": 1065,
+    "time": 1063,
+    "timeDay": 680,
+    "timeWeek": 686,
+    "timeMonth": 755,
+    "timeYear": 1063,
     "dailyMinutesDown": {
-      "2022-12-26": 261,
+      "2022-12-26": 266,
       "2022-12-25": 523,
       "2022-12-24": 3,
       "2022-11-26": 29,
@@ -924,7 +924,7 @@
     "timeMonth": 18760,
     "timeYear": 18760,
     "dailyMinutesDown": {
-      "2022-12-26": 655,
+      "2022-12-26": 661,
       "2022-12-25": 1440,
       "2022-12-24": 20
     }
