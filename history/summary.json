@@ -301,7 +301,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-26": 1169,
+      "2022-12-26": 1176,
       "2022-12-25": 1440,
       "2022-12-24": 15
     }
@@ -551,7 +551,7 @@
     "uptime": "94.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.69%",
+    "uptimeMonth": "97.71%",
     "uptimeYear": "94.85%",
     "time": 1893,
     "timeDay": 0,
@@ -760,10 +760,10 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
+    "status": "down",
     "uptime": "97.67%",
-    "uptimeDay": "79.09%",
-    "uptimeWeek": "91.92%",
+    "uptimeDay": "78.95%",
+    "uptimeWeek": "91.90%",
     "uptimeMonth": "97.34%",
     "uptimeYear": "97.67%",
     "time": 2445,
@@ -772,7 +772,7 @@
     "timeMonth": 536,
     "timeYear": 2445,
     "dailyMinutesDown": {
-      "2022-12-26": 279,
+      "2022-12-26": 281,
       "2022-12-25": 530,
       "2022-12-24": 4,
       "2022-12-14": 77,
@@ -802,7 +802,7 @@
       "2022-08-31": 52,
       "2022-08-29": 271,
       "2022-08-28": 246,
-      "2022-08-27": 73
+      "2022-08-27": 49
     }
   },
   {
@@ -812,9 +812,9 @@
     "slug": "skip-the-trailers",
     "status": "down",
     "uptime": "98.39%",
-    "uptimeDay": "68.06%",
-    "uptimeWeek": "88.40%",
-    "uptimeMonth": "95.29%",
+    "uptimeDay": "67.60%",
+    "uptimeWeek": "88.33%",
+    "uptimeMonth": "95.27%",
     "uptimeYear": "98.39%",
     "time": 1108,
     "timeDay": 313,
@@ -822,7 +822,7 @@
     "timeMonth": 578,
     "timeYear": 1108,
     "dailyMinutesDown": {
-      "2022-12-26": 382,
+      "2022-12-26": 389,
       "2022-12-25": 603,
       "2022-12-24": 4,
       "2022-12-23": 181,
@@ -854,7 +854,7 @@
     "uptimeMonth": "97.93%",
     "uptimeYear": "98.94%",
     "time": 1049,
-    "timeDay": 687,
+    "timeDay": 681,
     "timeWeek": 692,
     "timeMonth": 750,
     "timeYear": 1049,
@@ -924,7 +924,7 @@
     "timeMonth": 20267,
     "timeYear": 20267,
     "dailyMinutesDown": {
-      "2022-12-26": 1170,
+      "2022-12-26": 1177,
       "2022-12-25": 1440,
       "2022-12-24": 20
     }
