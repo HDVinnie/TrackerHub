@@ -50,9 +50,9 @@
     "slug": "alpha-ratio",
     "status": "down",
     "uptime": "96.24%",
-    "uptimeDay": "78.51%",
-    "uptimeWeek": "91.79%",
-    "uptimeMonth": "95.77%",
+    "uptimeDay": "78.00%",
+    "uptimeWeek": "91.71%",
+    "uptimeMonth": "95.75%",
     "uptimeYear": "96.24%",
     "time": 764,
     "timeDay": 0,
@@ -60,7 +60,7 @@
     "timeMonth": 848,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2022-12-26": 309,
+      "2022-12-26": 317,
       "2022-12-23": 519,
       "2022-12-09": 18,
       "2022-12-06": 50,
@@ -301,7 +301,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-26": 861,
+      "2022-12-26": 868,
       "2022-12-25": 1440,
       "2022-12-24": 15
     }
@@ -760,19 +760,19 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
-    "uptime": "97.66%",
-    "uptimeDay": "71.73%",
-    "uptimeWeek": "92.07%",
+    "status": "down",
+    "uptime": "97.67%",
+    "uptimeDay": "72.13%",
+    "uptimeWeek": "92.06%",
     "uptimeMonth": "97.38%",
-    "uptimeYear": "97.66%",
+    "uptimeYear": "97.67%",
     "time": 2463,
     "timeDay": 543,
     "timeWeek": 540,
     "timeMonth": 533,
     "timeYear": 2463,
     "dailyMinutesDown": {
-      "2022-12-26": 263,
+      "2022-12-26": 265,
       "2022-12-25": 530,
       "2022-12-24": 4,
       "2022-12-14": 77,
@@ -802,7 +802,7 @@
       "2022-08-31": 52,
       "2022-08-29": 271,
       "2022-08-28": 246,
-      "2022-08-27": 89
+      "2022-08-27": 73
     }
   },
   {
@@ -847,19 +847,19 @@
     "url": "$TLY",
     "icon": "$TLY_ICON",
     "slug": "telly",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "71.15%",
-    "uptimeWeek": "91.66%",
+    "uptimeDay": "71.03%",
+    "uptimeWeek": "91.64%",
     "uptimeMonth": "98.08%",
     "uptimeYear": "98.96%",
     "time": 1058,
-    "timeDay": 673,
+    "timeDay": 680,
     "timeWeek": 685,
     "timeMonth": 750,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2022-12-26": 313,
+      "2022-12-26": 315,
       "2022-12-25": 523,
       "2022-12-24": 3,
       "2022-11-26": 29,
@@ -924,7 +924,7 @@
     "timeMonth": 20267,
     "timeYear": 20267,
     "dailyMinutesDown": {
-      "2022-12-26": 862,
+      "2022-12-26": 869,
       "2022-12-25": 1440,
       "2022-12-24": 20
     }
