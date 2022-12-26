@@ -301,7 +301,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-26": 1301,
+      "2022-12-26": 1308,
       "2022-12-25": 1440,
       "2022-12-24": 15
     }
@@ -551,7 +551,7 @@
     "uptime": "94.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.99%",
+    "uptimeMonth": "98.01%",
     "uptimeYear": "94.86%",
     "time": 1893,
     "timeDay": 0,
@@ -760,11 +760,11 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
+    "status": "down",
     "uptime": "97.68%",
-    "uptimeDay": "76.76%",
-    "uptimeWeek": "91.58%",
-    "uptimeMonth": "97.27%",
+    "uptimeDay": "76.63%",
+    "uptimeWeek": "91.56%",
+    "uptimeMonth": "97.26%",
     "uptimeYear": "97.68%",
     "time": 2434,
     "timeDay": 526,
@@ -772,7 +772,7 @@
     "timeMonth": 531,
     "timeYear": 2434,
     "dailyMinutesDown": {
-      "2022-12-26": 312,
+      "2022-12-26": 314,
       "2022-12-25": 530,
       "2022-12-24": 4,
       "2022-12-14": 77,
@@ -801,8 +801,7 @@
       "2022-09-01": 61,
       "2022-08-31": 52,
       "2022-08-29": 271,
-      "2022-08-28": 246,
-      "2022-08-27": 15
+      "2022-08-28": 246
     }
   },
   {
@@ -811,18 +810,18 @@
     "icon": "$STT_ICON",
     "slug": "skip-the-trailers",
     "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "67.50%",
-    "uptimeWeek": "88.12%",
-    "uptimeMonth": "95.22%",
-    "uptimeYear": "98.38%",
+    "uptime": "98.39%",
+    "uptimeDay": "68.10%",
+    "uptimeWeek": "88.18%",
+    "uptimeMonth": "95.24%",
+    "uptimeYear": "98.39%",
     "time": 1094,
     "timeDay": 300,
     "timeWeek": 426,
     "timeMonth": 565,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2022-12-26": 410,
+      "2022-12-26": 404,
       "2022-12-25": 603,
       "2022-12-24": 4,
       "2022-12-23": 181,
@@ -847,11 +846,11 @@
     "url": "$TLY",
     "icon": "$TLY_ICON",
     "slug": "telly",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "67.88%",
-    "uptimeWeek": "90.31%",
-    "uptimeMonth": "97.77%",
+    "uptimeDay": "68.19%",
+    "uptimeWeek": "90.35%",
+    "uptimeMonth": "97.78%",
     "uptimeYear": "98.91%",
     "time": 1044,
     "timeDay": 699,
@@ -859,7 +858,7 @@
     "timeMonth": 747,
     "timeYear": 1044,
     "dailyMinutesDown": {
-      "2022-12-26": 449,
+      "2022-12-26": 445,
       "2022-12-25": 523,
       "2022-12-24": 3,
       "2022-11-26": 29,
@@ -924,7 +923,7 @@
     "timeMonth": 20267,
     "timeYear": 20267,
     "dailyMinutesDown": {
-      "2022-12-26": 1302,
+      "2022-12-26": 1308,
       "2022-12-25": 1440,
       "2022-12-24": 20
     }
