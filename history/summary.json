@@ -300,7 +300,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-26": 139,
+      "2022-12-26": 155,
       "2022-12-25": 1440,
       "2022-12-24": 15
     }
@@ -550,7 +550,7 @@
     "uptime": "94.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.10%",
+    "uptimeMonth": "96.14%",
     "uptimeYear": "94.83%",
     "time": 1893,
     "timeDay": 0,
@@ -811,10 +811,10 @@
     "url": "$STT",
     "icon": "$STT_ICON",
     "slug": "skip-the-trailers",
-    "status": "up",
+    "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "61.18%",
-    "uptimeWeek": "91.46%",
+    "uptimeDay": "62.16%",
+    "uptimeWeek": "91.44%",
     "uptimeMonth": "95.99%",
     "uptimeYear": "98.51%",
     "time": 1193,
@@ -823,7 +823,7 @@
     "timeMonth": 675,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2022-12-26": 72,
+      "2022-12-26": 74,
       "2022-12-25": 603,
       "2022-12-24": 4,
       "2022-12-23": 181,
@@ -849,18 +849,18 @@
     "icon": "$TLY_ICON",
     "slug": "telly",
     "status": "down",
-    "uptime": "99.05%",
+    "uptime": "99.04%",
     "uptimeDay": "65.30%",
-    "uptimeWeek": "93.95%",
-    "uptimeMonth": "98.61%",
-    "uptimeYear": "99.05%",
+    "uptimeWeek": "93.79%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "99.04%",
     "time": 1081,
     "timeDay": 701,
     "timeWeek": 699,
     "timeMonth": 774,
     "timeYear": 1081,
     "dailyMinutesDown": {
-      "2022-12-26": 82,
+      "2022-12-26": 98,
       "2022-12-25": 523,
       "2022-12-24": 3,
       "2022-11-26": 29,
@@ -925,7 +925,7 @@
     "timeMonth": 18760,
     "timeYear": 18760,
     "dailyMinutesDown": {
-      "2022-12-26": 139,
+      "2022-12-26": 156,
       "2022-12-25": 1440,
       "2022-12-24": 20
     }
