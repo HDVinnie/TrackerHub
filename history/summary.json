@@ -301,7 +301,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-26": 1394,
+      "2022-12-26": 1403,
       "2022-12-25": 1440,
       "2022-12-24": 15
     }
@@ -551,7 +551,7 @@
     "uptime": "94.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.20%",
+    "uptimeMonth": "98.23%",
     "uptimeYear": "94.86%",
     "time": 1891,
     "timeDay": 313,
@@ -846,11 +846,11 @@
     "url": "$TLY",
     "icon": "$TLY_ICON",
     "slug": "telly",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "67.72%",
-    "uptimeWeek": "90.29%",
-    "uptimeMonth": "97.76%",
+    "uptimeDay": "68.20%",
+    "uptimeWeek": "90.36%",
+    "uptimeMonth": "97.78%",
     "uptimeYear": "98.91%",
     "time": 1040,
     "timeDay": 691,
@@ -858,7 +858,7 @@
     "timeMonth": 744,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2022-12-26": 452,
+      "2022-12-26": 445,
       "2022-12-25": 523,
       "2022-12-24": 3,
       "2022-11-26": 29,
@@ -923,7 +923,7 @@
     "timeMonth": 20172,
     "timeYear": 20172,
     "dailyMinutesDown": {
-      "2022-12-26": 1394,
+      "2022-12-26": 1403,
       "2022-12-25": 1440,
       "2022-12-24": 20
     }
