@@ -301,7 +301,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-26": 1157,
+      "2022-12-26": 1169,
       "2022-12-25": 1440,
       "2022-12-24": 15
     }
@@ -400,11 +400,11 @@
     "icon": "$GGN_ICON",
     "slug": "gazelle-games",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.84%",
     "time": 800,
     "timeDay": 0,
     "timeWeek": 635,
@@ -551,7 +551,7 @@
     "uptime": "94.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.66%",
+    "uptimeMonth": "97.69%",
     "uptimeYear": "94.85%",
     "time": 1893,
     "timeDay": 0,
@@ -762,17 +762,17 @@
     "slug": "skip-the-commericals",
     "status": "up",
     "uptime": "97.67%",
-    "uptimeDay": "78.50%",
-    "uptimeWeek": "91.83%",
-    "uptimeMonth": "97.33%",
+    "uptimeDay": "79.09%",
+    "uptimeWeek": "91.92%",
+    "uptimeMonth": "97.34%",
     "uptimeYear": "97.67%",
     "time": 2445,
-    "timeDay": 539,
+    "timeDay": 541,
     "timeWeek": 543,
     "timeMonth": 536,
     "timeYear": 2445,
     "dailyMinutesDown": {
-      "2022-12-26": 288,
+      "2022-12-26": 279,
       "2022-12-25": 530,
       "2022-12-24": 4,
       "2022-12-14": 77,
@@ -802,7 +802,7 @@
       "2022-08-31": 52,
       "2022-08-29": 271,
       "2022-08-28": 246,
-      "2022-08-27": 49
+      "2022-08-27": 73
     }
   },
   {
@@ -810,19 +810,19 @@
     "url": "$STT",
     "icon": "$STT_ICON",
     "slug": "skip-the-trailers",
-    "status": "up",
+    "status": "down",
     "uptime": "98.39%",
-    "uptimeDay": "68.20%",
-    "uptimeWeek": "88.42%",
+    "uptimeDay": "68.06%",
+    "uptimeWeek": "88.40%",
     "uptimeMonth": "95.29%",
     "uptimeYear": "98.39%",
     "time": 1108,
-    "timeDay": 310,
+    "timeDay": 313,
     "timeWeek": 436,
     "timeMonth": 578,
     "timeYear": 1108,
     "dailyMinutesDown": {
-      "2022-12-26": 380,
+      "2022-12-26": 382,
       "2022-12-25": 603,
       "2022-12-24": 4,
       "2022-12-23": 181,
@@ -924,7 +924,7 @@
     "timeMonth": 20267,
     "timeYear": 20267,
     "dailyMinutesDown": {
-      "2022-12-26": 1158,
+      "2022-12-26": 1170,
       "2022-12-25": 1440,
       "2022-12-24": 20
     }
