@@ -301,7 +301,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-26": 915,
+      "2022-12-26": 924,
       "2022-12-25": 1440,
       "2022-12-24": 15
     }
@@ -760,19 +760,19 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
-    "uptime": "97.66%",
-    "uptimeDay": "73.64%",
-    "uptimeWeek": "92.07%",
+    "status": "down",
+    "uptime": "97.67%",
+    "uptimeDay": "74.17%",
+    "uptimeWeek": "92.05%",
     "uptimeMonth": "97.38%",
-    "uptimeYear": "97.66%",
+    "uptimeYear": "97.67%",
     "time": 2459,
     "timeDay": 541,
     "timeWeek": 541,
     "timeMonth": 534,
     "timeYear": 2459,
     "dailyMinutesDown": {
-      "2022-12-26": 263,
+      "2022-12-26": 265,
       "2022-12-25": 530,
       "2022-12-24": 4,
       "2022-12-14": 77,
@@ -802,7 +802,7 @@
       "2022-08-31": 52,
       "2022-08-29": 271,
       "2022-08-28": 246,
-      "2022-08-27": 89
+      "2022-08-27": 73
     }
   },
   {
@@ -812,17 +812,17 @@
     "slug": "skip-the-trailers",
     "status": "down",
     "uptime": "98.41%",
-    "uptimeDay": "63.20%",
-    "uptimeWeek": "88.95%",
-    "uptimeMonth": "95.41%",
+    "uptimeDay": "62.53%",
+    "uptimeWeek": "88.85%",
+    "uptimeMonth": "95.39%",
     "uptimeYear": "98.41%",
     "time": 1130,
-    "timeDay": 325,
+    "timeDay": 329,
     "timeWeek": 453,
     "timeMonth": 601,
     "timeYear": 1130,
     "dailyMinutesDown": {
-      "2022-12-26": 327,
+      "2022-12-26": 337,
       "2022-12-25": 603,
       "2022-12-24": 4,
       "2022-12-23": 181,
@@ -924,7 +924,7 @@
     "timeMonth": 20267,
     "timeYear": 20267,
     "dailyMinutesDown": {
-      "2022-12-26": 915,
+      "2022-12-26": 925,
       "2022-12-25": 1440,
       "2022-12-24": 20
     }
