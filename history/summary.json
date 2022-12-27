@@ -303,7 +303,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-27": 333,
+      "2022-12-27": 345,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 15
@@ -551,11 +551,11 @@
     "icon": "$OPS_ICON",
     "slug": "orpheus",
     "status": "up",
-    "uptime": "94.86%",
+    "uptime": "94.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "94.86%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "94.87%",
     "time": 1891,
     "timeDay": 313,
     "timeWeek": 397,
@@ -763,19 +763,19 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
-    "uptime": "97.84%",
-    "uptimeDay": "73.07%",
-    "uptimeWeek": "89.95%",
+    "status": "down",
+    "uptime": "97.85%",
+    "uptimeDay": "73.67%",
+    "uptimeWeek": "89.93%",
     "uptimeMonth": "96.89%",
-    "uptimeYear": "97.84%",
+    "uptimeYear": "97.85%",
     "time": 2413,
     "timeDay": 535,
     "timeWeek": 543,
     "timeMonth": 539,
     "timeYear": 2413,
     "dailyMinutesDown": {
-      "2022-12-27": 136,
+      "2022-12-27": 138,
       "2022-12-26": 340,
       "2022-12-25": 530,
       "2022-12-24": 4,
@@ -802,8 +802,7 @@
       "2022-09-04": 61,
       "2022-09-03": 20,
       "2022-09-02": 18,
-      "2022-09-01": 61,
-      "2022-08-31": 21
+      "2022-09-01": 61
     }
   },
   {
@@ -813,7 +812,7 @@
     "slug": "skip-the-trailers",
     "status": "up",
     "uptime": "98.32%",
-    "uptimeDay": "67.20%",
+    "uptimeDay": "67.93%",
     "uptimeWeek": "86.32%",
     "uptimeMonth": "94.81%",
     "uptimeYear": "98.32%",
@@ -927,7 +926,7 @@
     "timeMonth": 20172,
     "timeYear": 20172,
     "dailyMinutesDown": {
-      "2022-12-27": 333,
+      "2022-12-27": 346,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
       "2022-12-24": 20
