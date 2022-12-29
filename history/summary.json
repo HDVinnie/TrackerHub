@@ -303,7 +303,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-29": 681,
+      "2022-12-29": 688,
       "2022-12-28": 1440,
       "2022-12-27": 1440,
       "2022-12-26": 1440,
@@ -766,11 +766,11 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
+    "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "65.91%",
-    "uptimeWeek": "78.80%",
-    "uptimeMonth": "94.33%",
+    "uptimeDay": "66.21%",
+    "uptimeWeek": "78.78%",
+    "uptimeMonth": "94.32%",
     "uptimeYear": "98.25%",
     "time": 2238,
     "timeDay": 543,
@@ -778,7 +778,7 @@
     "timeMonth": 547,
     "timeYear": 2238,
     "dailyMinutesDown": {
-      "2022-12-29": 228,
+      "2022-12-29": 230,
       "2022-12-28": 464,
       "2022-12-27": 568,
       "2022-12-26": 340,
@@ -792,7 +792,7 @@
       "2022-10-19": 437,
       "2022-10-18": 311,
       "2022-10-17": 50,
-      "2022-10-16": 152
+      "2022-10-16": 135
     }
   },
   {
@@ -802,9 +802,9 @@
     "slug": "skip-the-trailers",
     "status": "down",
     "uptime": "97.68%",
-    "uptimeDay": "36.97%",
-    "uptimeWeek": "69.59%",
-    "uptimeMonth": "90.96%",
+    "uptimeDay": "36.51%",
+    "uptimeWeek": "69.52%",
+    "uptimeMonth": "90.94%",
     "uptimeYear": "97.68%",
     "time": 994,
     "timeDay": 1285,
@@ -812,7 +812,7 @@
     "timeMonth": 580,
     "timeYear": 994,
     "dailyMinutesDown": {
-      "2022-12-29": 667,
+      "2022-12-29": 674,
       "2022-12-28": 555,
       "2022-12-27": 623,
       "2022-12-26": 434,
@@ -840,19 +840,19 @@
     "url": "$TLY",
     "icon": "$TLY_ICON",
     "slug": "telly",
-    "status": "up",
-    "uptime": "98.39%",
-    "uptimeDay": "63.05%",
-    "uptimeWeek": "76.53%",
-    "uptimeMonth": "94.60%",
-    "uptimeYear": "98.39%",
+    "status": "down",
+    "uptime": "98.40%",
+    "uptimeDay": "62.89%",
+    "uptimeWeek": "76.50%",
+    "uptimeMonth": "94.59%",
+    "uptimeYear": "98.40%",
     "time": 965,
     "timeDay": 664,
     "timeWeek": 679,
     "timeMonth": 709,
     "timeYear": 965,
     "dailyMinutesDown": {
-      "2022-12-29": 349,
+      "2022-12-29": 351,
       "2022-12-28": 475,
       "2022-12-27": 553,
       "2022-12-26": 462,
@@ -881,8 +881,7 @@
       "2022-07-24": 16,
       "2022-07-22": 29,
       "2022-07-20": 22,
-      "2022-07-19": 31,
-      "2022-07-02": 22
+      "2022-07-19": 31
     }
   },
   {
@@ -920,7 +919,7 @@
     "timeMonth": 20663,
     "timeYear": 20663,
     "dailyMinutesDown": {
-      "2022-12-29": 682,
+      "2022-12-29": 688,
       "2022-12-28": 1440,
       "2022-12-27": 1440,
       "2022-12-26": 1440,
