@@ -50,7 +50,7 @@
     "slug": "alpha-ratio",
     "status": "down",
     "uptime": "96.33%",
-    "uptimeDay": "94.13%",
+    "uptimeDay": "93.60%",
     "uptimeWeek": "96.49%",
     "uptimeMonth": "96.91%",
     "uptimeYear": "96.33%",
@@ -60,7 +60,7 @@
     "timeMonth": 798,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2023-01-02": 85,
+      "2023-01-02": 92,
       "2022-12-26": 353,
       "2022-12-23": 519,
       "2022-12-09": 18,
@@ -744,25 +744,25 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "71.65%",
-    "uptimeWeek": "71.11%",
-    "uptimeMonth": "93.35%",
-    "uptimeYear": "98.89%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "71.51%",
+    "uptimeWeek": "71.53%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "98.91%",
     "time": 1990,
     "timeDay": 494,
     "timeWeek": 539,
     "timeMonth": 538,
     "timeYear": 1990,
     "dailyMinutesDown": {
-      "2023-01-02": 169,
+      "2023-01-02": 171,
       "2023-01-01": 446,
       "2022-12-31": 495,
       "2022-12-30": 472,
       "2022-12-29": 389,
       "2022-12-28": 464,
-      "2022-12-27": 477
+      "2022-12-27": 432
     }
   },
   {
@@ -772,9 +772,9 @@
     "slug": "skip-the-trailers",
     "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "73.13%",
-    "uptimeWeek": "66.15%",
-    "uptimeMonth": "92.21%",
+    "uptimeDay": "74.23%",
+    "uptimeWeek": "65.99%",
+    "uptimeMonth": "92.17%",
     "uptimeYear": "98.70%",
     "time": 806,
     "timeDay": 342,
@@ -782,13 +782,13 @@
     "timeMonth": 462,
     "timeYear": 806,
     "dailyMinutesDown": {
-      "2023-01-02": 130,
+      "2023-01-02": 122,
       "2023-01-01": 502,
       "2022-12-31": 397,
       "2022-12-30": 519,
       "2022-12-29": 920,
       "2022-12-28": 555,
-      "2022-12-27": 392
+      "2022-12-27": 416
     }
   },
   {
@@ -853,7 +853,7 @@
     "timeMonth": 20810,
     "timeYear": 20810,
     "dailyMinutesDown": {
-      "2023-01-02": 636,
+      "2023-01-02": 644,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
