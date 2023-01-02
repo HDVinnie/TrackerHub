@@ -362,9 +362,9 @@
     "slug": "exoticaz",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "80.37%",
-    "uptimeWeek": "97.20%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "80.03%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.80%",
     "time": 1168,
     "timeDay": 4948,
@@ -372,7 +372,7 @@
     "timeMonth": 1967,
     "timeYear": 1168,
     "dailyMinutesDown": {
-      "2023-01-02": 283,
+      "2023-01-02": 288,
       "2022-12-06": 17,
       "2022-10-04": 19
     }
@@ -797,26 +797,25 @@
     "url": "$TLY",
     "icon": "$TLY_ICON",
     "slug": "telly",
-    "status": "up",
-    "uptime": "98.70%",
-    "uptimeDay": "67.07%",
-    "uptimeWeek": "65.74%",
-    "uptimeMonth": "92.12%",
-    "uptimeYear": "98.70%",
+    "status": "down",
+    "uptime": "98.71%",
+    "uptimeDay": "67.25%",
+    "uptimeWeek": "65.91%",
+    "uptimeMonth": "92.15%",
+    "uptimeYear": "98.71%",
     "time": 898,
     "timeDay": 690,
     "timeWeek": 687,
     "timeMonth": 701,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2023-01-02": 367,
+      "2023-01-02": 369,
       "2023-01-01": 608,
       "2022-12-31": 476,
       "2022-12-30": 403,
       "2022-12-29": 556,
       "2022-12-28": 475,
-      "2022-12-27": 553,
-      "2022-12-26": 19
+      "2022-12-27": 553
     }
   },
   {
@@ -854,7 +853,7 @@
     "timeMonth": 20810,
     "timeYear": 20810,
     "dailyMinutesDown": {
-      "2023-01-02": 1124,
+      "2023-01-02": 1129,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
