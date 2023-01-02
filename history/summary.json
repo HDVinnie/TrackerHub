@@ -771,25 +771,25 @@
     "url": "$STT",
     "icon": "$STT_ICON",
     "slug": "skip-the-trailers",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "77.89%",
-    "uptimeWeek": "65.70%",
-    "uptimeMonth": "92.11%",
-    "uptimeYear": "98.69%",
+    "status": "down",
+    "uptime": "98.70%",
+    "uptimeDay": "77.73%",
+    "uptimeWeek": "65.94%",
+    "uptimeMonth": "92.16%",
+    "uptimeYear": "98.70%",
     "time": 792,
     "timeDay": 330,
     "timeWeek": 394,
     "timeMonth": 457,
     "timeYear": 792,
     "dailyMinutesDown": {
-      "2023-01-02": 273,
+      "2023-01-02": 275,
       "2023-01-01": 502,
       "2022-12-31": 397,
       "2022-12-30": 519,
       "2022-12-29": 920,
       "2022-12-28": 555,
-      "2022-12-27": 294
+      "2022-12-27": 268
     }
   },
   {
@@ -824,19 +824,17 @@
     "icon": "$TL_ICON",
     "slug": "torrent-leech",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 385,
     "timeDay": 378,
     "timeWeek": 349,
     "timeMonth": 385,
     "timeYear": 385,
-    "dailyMinutesDown": {
-      "2023-01-02": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TV-Vault",
@@ -855,7 +853,7 @@
     "timeMonth": 20810,
     "timeYear": 20810,
     "dailyMinutesDown": {
-      "2023-01-02": 1254,
+      "2023-01-02": 1260,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
