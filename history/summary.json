@@ -142,18 +142,18 @@
     "icon": "$ACM_ICON",
     "slug": "asian-cinema",
     "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "97.25%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.71%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
     "time": 781,
     "timeDay": 1282,
     "timeWeek": 926,
     "timeMonth": 781,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2023-01-05": 40
+      "2023-01-05": 46
     }
   },
   {
@@ -750,11 +750,11 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "69.26%",
-    "uptimeWeek": "69.04%",
-    "uptimeMonth": "92.88%",
+    "uptimeDay": "69.54%",
+    "uptimeWeek": "69.08%",
+    "uptimeMonth": "92.89%",
     "uptimeYear": "98.83%",
     "time": 1859,
     "timeDay": 541,
@@ -762,7 +762,7 @@
     "timeMonth": 535,
     "timeYear": 1859,
     "dailyMinutesDown": {
-      "2023-01-05": 79,
+      "2023-01-05": 75,
       "2023-01-04": 519,
       "2023-01-03": 404,
       "2023-01-02": 423,
@@ -777,11 +777,11 @@
     "url": "$STT",
     "icon": "$STT_ICON",
     "slug": "skip-the-trailers",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "58.05%",
-    "uptimeWeek": "68.36%",
-    "uptimeMonth": "92.72%",
+    "uptimeDay": "57.89%",
+    "uptimeWeek": "68.59%",
+    "uptimeMonth": "92.77%",
     "uptimeYear": "98.81%",
     "time": 754,
     "timeDay": 628,
@@ -789,14 +789,14 @@
     "timeMonth": 430,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2023-01-05": 119,
+      "2023-01-05": 121,
       "2023-01-04": 666,
       "2023-01-03": 589,
       "2023-01-02": 359,
       "2023-01-01": 502,
       "2022-12-31": 397,
       "2022-12-30": 519,
-      "2022-12-29": 40
+      "2022-12-29": 14
     }
   },
   {
@@ -863,7 +863,7 @@
     "timeMonth": 20495,
     "timeYear": 20495,
     "dailyMinutesDown": {
-      "2023-01-05": 226,
+      "2023-01-05": 233,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
       "2023-01-02": 1440,
