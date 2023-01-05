@@ -514,7 +514,7 @@
     "slug": "nebulance",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.50%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.03%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.41%",
@@ -750,25 +750,25 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "73.34%",
-    "uptimeWeek": "70.57%",
-    "uptimeMonth": "93.23%",
-    "uptimeYear": "98.89%",
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "73.17%",
+    "uptimeWeek": "70.70%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "98.90%",
     "time": 1824,
     "timeDay": 515,
     "timeWeek": 522,
     "timeMonth": 532,
     "timeYear": 1824,
     "dailyMinutesDown": {
-      "2023-01-05": 383,
+      "2023-01-05": 385,
       "2023-01-04": 519,
       "2023-01-03": 404,
       "2023-01-02": 423,
       "2023-01-01": 446,
       "2022-12-31": 495,
-      "2022-12-30": 296
+      "2022-12-30": 280
     }
   },
   {
@@ -778,9 +778,9 @@
     "slug": "skip-the-trailers",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "67.41%",
-    "uptimeWeek": "69.80%",
-    "uptimeMonth": "93.05%",
+    "uptimeDay": "67.85%",
+    "uptimeWeek": "69.59%",
+    "uptimeMonth": "93.00%",
     "uptimeYear": "98.86%",
     "time": 738,
     "timeDay": 400,
@@ -788,13 +788,13 @@
     "timeMonth": 429,
     "timeYear": 738,
     "dailyMinutesDown": {
-      "2023-01-05": 413,
+      "2023-01-05": 407,
       "2023-01-04": 666,
       "2023-01-03": 589,
       "2023-01-02": 359,
       "2023-01-01": 502,
       "2022-12-31": 397,
-      "2022-12-30": 118
+      "2022-12-30": 146
     }
   },
   {
@@ -860,7 +860,7 @@
     "timeMonth": 20495,
     "timeYear": 20495,
     "dailyMinutesDown": {
-      "2023-01-05": 1252,
+      "2023-01-05": 1259,
       "2023-01-04": 1440,
       "2023-01-03": 1440,
       "2023-01-02": 1440,
