@@ -369,8 +369,8 @@
     "status": "up",
     "uptime": "95.18%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "28.89%",
-    "uptimeMonth": "80.53%",
+    "uptimeWeek": "28.83%",
+    "uptimeMonth": "80.51%",
     "uptimeYear": "95.18%",
     "time": 1730,
     "timeDay": 575,
@@ -378,7 +378,7 @@
     "timeMonth": 2625,
     "timeYear": 1730,
     "dailyMinutesDown": {
-      "2023-01-14": 1409,
+      "2023-01-14": 1416,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
@@ -398,7 +398,7 @@
     "slug": "gazelle-games",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "76.06%",
+    "uptimeDay": "76.52%",
     "uptimeWeek": "90.04%",
     "uptimeMonth": "97.71%",
     "uptimeYear": "99.50%",
@@ -769,25 +769,25 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "70.74%",
-    "uptimeWeek": "67.22%",
-    "uptimeMonth": "92.46%",
-    "uptimeYear": "98.82%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "70.60%",
+    "uptimeWeek": "67.47%",
+    "uptimeMonth": "92.51%",
+    "uptimeYear": "98.83%",
     "time": 1550,
     "timeDay": 549,
     "timeWeek": 561,
     "timeMonth": 545,
     "timeYear": 1550,
     "dailyMinutesDown": {
-      "2023-01-14": 425,
+      "2023-01-14": 427,
       "2023-01-13": 505,
       "2023-01-12": 461,
       "2023-01-11": 513,
       "2023-01-10": 614,
       "2023-01-09": 454,
-      "2023-01-08": 336
+      "2023-01-08": 309
     }
   },
   {
@@ -795,11 +795,11 @@
     "url": "$STT",
     "icon": "$STT_ICON",
     "slug": "skip-the-trailers",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "70.23%",
-    "uptimeWeek": "71.42%",
-    "uptimeMonth": "93.42%",
+    "uptimeDay": "70.07%",
+    "uptimeWeek": "71.63%",
+    "uptimeMonth": "93.47%",
     "uptimeYear": "98.98%",
     "time": 625,
     "timeDay": 297,
@@ -807,12 +807,12 @@
     "timeMonth": 415,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2023-01-14": 429,
+      "2023-01-14": 431,
       "2023-01-13": 475,
       "2023-01-12": 494,
       "2023-01-11": 623,
       "2023-01-10": 595,
-      "2023-01-09": 266
+      "2023-01-09": 243
     }
   },
   {
@@ -822,9 +822,9 @@
     "slug": "telly",
     "status": "up",
     "uptime": "98.20%",
-    "uptimeDay": "68.84%",
-    "uptimeWeek": "50.28%",
-    "uptimeMonth": "88.36%",
+    "uptimeDay": "69.77%",
+    "uptimeWeek": "50.34%",
+    "uptimeMonth": "88.33%",
     "uptimeYear": "98.20%",
     "time": 1045,
     "timeDay": 717,
@@ -832,14 +832,14 @@
     "timeMonth": 1006,
     "timeYear": 1045,
     "dailyMinutesDown": {
-      "2023-01-14": 431,
+      "2023-01-14": 425,
       "2023-01-13": 475,
       "2023-01-12": 617,
       "2023-01-11": 475,
       "2023-01-10": 881,
       "2023-01-09": 1440,
       "2023-01-08": 675,
-      "2023-01-07": 107
+      "2023-01-07": 126
     }
   },
   {
@@ -880,7 +880,7 @@
     "timeMonth": 21594,
     "timeYear": 21594,
     "dailyMinutesDown": {
-      "2023-01-14": 1410,
+      "2023-01-14": 1417,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
