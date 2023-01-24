@@ -538,7 +538,7 @@
     "slug": "nebulance",
     "status": "up",
     "uptime": "98.64%",
-    "uptimeDay": "90.03%",
+    "uptimeDay": "90.56%",
     "uptimeWeek": "79.33%",
     "uptimeMonth": "94.46%",
     "uptimeYear": "98.64%",
@@ -789,11 +789,11 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "64.68%",
-    "uptimeWeek": "72.99%",
-    "uptimeMonth": "93.78%",
+    "uptimeDay": "64.54%",
+    "uptimeWeek": "73.15%",
+    "uptimeMonth": "93.82%",
     "uptimeYear": "99.08%",
     "time": 1361,
     "timeDay": 551,
@@ -801,13 +801,13 @@
     "timeMonth": 548,
     "timeYear": 1361,
     "dailyMinutesDown": {
-      "2023-01-24": 143,
+      "2023-01-24": 145,
       "2023-01-23": 457,
       "2023-01-22": 379,
       "2023-01-21": 498,
       "2023-01-20": 596,
       "2023-01-19": 521,
-      "2023-01-18": 127
+      "2023-01-18": 108
     }
   },
   {
@@ -843,7 +843,7 @@
     "slug": "telly",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "66.48%",
+    "uptimeDay": "67.02%",
     "uptimeWeek": "70.54%",
     "uptimeMonth": "93.22%",
     "uptimeYear": "99.00%",
@@ -900,7 +900,7 @@
     "timeMonth": 20763,
     "timeYear": 20763,
     "dailyMinutesDown": {
-      "2023-01-24": 514,
+      "2023-01-24": 521,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
