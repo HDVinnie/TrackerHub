@@ -52,7 +52,7 @@
     "status": "up",
     "uptime": "96.42%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.40%",
+    "uptimeWeek": "94.46%",
     "uptimeMonth": "97.43%",
     "uptimeYear": "96.42%",
     "time": 759,
@@ -578,8 +578,8 @@
     "status": "up",
     "uptime": "94.61%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.38%",
-    "uptimeMonth": "92.95%",
+    "uptimeWeek": "69.31%",
+    "uptimeMonth": "92.94%",
     "uptimeYear": "94.61%",
     "time": 1862,
     "timeDay": 0,
@@ -587,7 +587,7 @@
     "timeMonth": 525,
     "timeYear": 1862,
     "dailyMinutesDown": {
-      "2023-01-27": 680,
+      "2023-01-27": 686,
       "2023-01-26": 1440,
       "2023-01-25": 967,
       "2022-12-15": 22,
@@ -802,9 +802,9 @@
     "slug": "skip-the-commericals",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "64.54%",
-    "uptimeWeek": "72.76%",
-    "uptimeMonth": "93.73%",
+    "uptimeDay": "65.17%",
+    "uptimeWeek": "72.67%",
+    "uptimeMonth": "93.71%",
     "uptimeYear": "99.08%",
     "time": 1314,
     "timeDay": 557,
@@ -812,13 +812,13 @@
     "timeMonth": 550,
     "timeYear": 1314,
     "dailyMinutesDown": {
-      "2023-01-27": 329,
+      "2023-01-27": 320,
       "2023-01-26": 448,
       "2023-01-25": 412,
       "2023-01-24": 555,
       "2023-01-23": 457,
       "2023-01-22": 379,
-      "2023-01-21": 170
+      "2023-01-21": 188
     }
   },
   {
@@ -829,8 +829,8 @@
     "status": "down",
     "uptime": "99.02%",
     "uptimeDay": "58.36%",
-    "uptimeWeek": "70.90%",
-    "uptimeMonth": "93.30%",
+    "uptimeWeek": "70.83%",
+    "uptimeMonth": "93.29%",
     "uptimeYear": "99.02%",
     "time": 549,
     "timeDay": 375,
@@ -838,7 +838,7 @@
     "timeMonth": 395,
     "timeYear": 549,
     "dailyMinutesDown": {
-      "2023-01-27": 392,
+      "2023-01-27": 398,
       "2023-01-26": 478,
       "2023-01-25": 480,
       "2023-01-24": 573,
@@ -852,11 +852,11 @@
     "url": "$TLY",
     "icon": "$TLY_ICON",
     "slug": "telly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "71.07%",
-    "uptimeWeek": "71.41%",
-    "uptimeMonth": "93.42%",
+    "uptimeDay": "70.86%",
+    "uptimeWeek": "71.62%",
+    "uptimeMonth": "93.47%",
     "uptimeYear": "99.05%",
     "time": 938,
     "timeDay": 665,
@@ -864,13 +864,13 @@
     "timeMonth": 908,
     "timeYear": 938,
     "dailyMinutesDown": {
-      "2023-01-27": 207,
+      "2023-01-27": 210,
       "2023-01-26": 478,
       "2023-01-25": 564,
       "2023-01-24": 617,
       "2023-01-23": 430,
       "2023-01-22": 510,
-      "2023-01-21": 71
+      "2023-01-21": 46
     }
   },
   {
@@ -911,7 +911,7 @@
     "timeMonth": 21088,
     "timeYear": 20890,
     "dailyMinutesDown": {
-      "2023-01-27": 681,
+      "2023-01-27": 688,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
