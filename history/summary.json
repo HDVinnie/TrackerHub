@@ -306,7 +306,7 @@
     "status": "up",
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.60%",
+    "uptimeWeek": "94.73%",
     "uptimeMonth": "97.64%",
     "uptimeYear": "99.47%",
     "time": 1102,
@@ -804,25 +804,24 @@
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "70.48%",
-    "uptimeWeek": "71.55%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "99.06%",
+    "uptime": "99.05%",
+    "uptimeDay": "71.95%",
+    "uptimeWeek": "71.44%",
+    "uptimeMonth": "93.43%",
+    "uptimeYear": "99.05%",
     "time": 1268,
     "timeDay": 537,
     "timeWeek": 560,
     "timeMonth": 551,
     "timeYear": 1268,
     "dailyMinutesDown": {
-      "2023-01-31": 2,
-      "2023-01-30": 426,
+      "2023-01-30": 421,
       "2023-01-29": 598,
       "2023-01-28": 455,
       "2023-01-27": 530,
       "2023-01-26": 448,
       "2023-01-25": 412,
-      "2023-01-24": 1
+      "2023-01-24": 20
     }
   },
   {
@@ -832,9 +831,9 @@
     "slug": "skip-the-trailers",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "66.73%",
-    "uptimeWeek": "69.83%",
-    "uptimeMonth": "93.06%",
+    "uptimeDay": "67.25%",
+    "uptimeWeek": "69.70%",
+    "uptimeMonth": "93.03%",
     "uptimeYear": "99.00%",
     "time": 530,
     "timeDay": 341,
@@ -842,14 +841,13 @@
     "timeMonth": 378,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2023-01-31": 2,
-      "2023-01-30": 476,
+      "2023-01-30": 471,
       "2023-01-29": 415,
       "2023-01-28": 500,
       "2023-01-27": 564,
       "2023-01-26": 478,
       "2023-01-25": 480,
-      "2023-01-24": 128
+      "2023-01-24": 148
     }
   },
   {
@@ -915,7 +913,7 @@
     "timeMonth": 20964,
     "timeYear": 21050,
     "dailyMinutesDown": {
-      "2023-01-31": 5,
+      "2023-01-31": 19,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
       "2023-01-28": 1440,
