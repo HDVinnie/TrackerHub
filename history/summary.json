@@ -146,10 +146,10 @@
     "url": "$ACM",
     "icon": "$ACM_ICON",
     "slug": "asian-cinema",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 3059,
@@ -158,6 +158,7 @@
     "timeMonth": 3956,
     "timeYear": 3059,
     "dailyMinutesDown": {
+      "2023-02-05": 1,
       "2023-01-05": 245
     }
   },
@@ -392,7 +393,7 @@
     "time": 1651,
     "timeDay": 325,
     "timeWeek": 418,
-    "timeMonth": 1184,
+    "timeMonth": 1041,
     "timeYear": 1651,
     "dailyMinutesDown": {
       "2023-01-17": 287,
@@ -812,24 +813,24 @@
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
     "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "79.93%",
-    "uptimeWeek": "71.47%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "99.08%",
+    "uptime": "99.07%",
+    "uptimeDay": "80.37%",
+    "uptimeWeek": "71.34%",
+    "uptimeMonth": "93.41%",
+    "uptimeYear": "99.07%",
     "time": 1206,
     "timeDay": 565,
     "timeWeek": 554,
     "timeMonth": 559,
     "timeYear": 1206,
     "dailyMinutesDown": {
-      "2023-02-05": 115,
+      "2023-02-05": 109,
       "2023-02-04": 458,
       "2023-02-03": 377,
       "2023-02-02": 553,
       "2023-02-01": 596,
       "2023-01-31": 467,
-      "2023-01-30": 309
+      "2023-01-30": 328
     }
   },
   {
@@ -865,9 +866,9 @@
     "slug": "telly",
     "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "72.63%",
-    "uptimeWeek": "72.18%",
-    "uptimeMonth": "93.60%",
+    "uptimeDay": "72.09%",
+    "uptimeWeek": "72.11%",
+    "uptimeMonth": "93.58%",
     "uptimeYear": "99.11%",
     "time": 881,
     "timeDay": 633,
@@ -875,7 +876,7 @@
     "timeMonth": 886,
     "timeYear": 881,
     "dailyMinutesDown": {
-      "2023-02-05": 294,
+      "2023-02-05": 301,
       "2023-02-04": 295,
       "2023-02-03": 500,
       "2023-02-02": 456,
@@ -922,7 +923,7 @@
     "timeMonth": 21715,
     "timeYear": 21345,
     "dailyMinutesDown": {
-      "2023-02-05": 690,
+      "2023-02-05": 698,
       "2023-02-04": 1440,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
