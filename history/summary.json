@@ -391,7 +391,7 @@
     "uptime": "94.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "84.63%",
+    "uptimeMonth": "84.66%",
     "uptimeYear": "94.62%",
     "time": 1616,
     "timeDay": 402,
@@ -820,26 +820,26 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "60.04%",
-    "uptimeWeek": "67.14%",
-    "uptimeMonth": "92.44%",
-    "uptimeYear": "98.97%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "59.89%",
+    "uptimeWeek": "67.43%",
+    "uptimeMonth": "92.51%",
+    "uptimeYear": "98.98%",
     "time": 1146,
     "timeDay": 627,
     "timeWeek": 620,
     "timeMonth": 572,
     "timeYear": 1146,
     "dailyMinutesDown": {
-      "2023-02-12": 309,
+      "2023-02-12": 311,
       "2023-02-11": 497,
       "2023-02-10": 475,
       "2023-02-09": 517,
       "2023-02-08": 440,
       "2023-02-07": 508,
       "2023-02-06": 512,
-      "2023-02-05": 60
+      "2023-02-05": 28
     }
   },
   {
@@ -855,7 +855,7 @@
     "uptimeYear": "99.11%",
     "time": 487,
     "timeDay": 352,
-    "timeWeek": 336,
+    "timeWeek": 337,
     "timeMonth": 359,
     "timeYear": 487,
     "dailyMinutesDown": {
@@ -875,9 +875,9 @@
     "slug": "telly",
     "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "69.11%",
-    "uptimeWeek": "66.76%",
-    "uptimeMonth": "92.35%",
+    "uptimeDay": "70.52%",
+    "uptimeWeek": "66.62%",
+    "uptimeMonth": "92.32%",
     "uptimeYear": "98.97%",
     "time": 854,
     "timeDay": 692,
@@ -885,13 +885,13 @@
     "timeMonth": 667,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2023-02-12": 186,
+      "2023-02-12": 171,
       "2023-02-11": 646,
       "2023-02-10": 441,
       "2023-02-09": 565,
       "2023-02-08": 553,
       "2023-02-07": 562,
-      "2023-02-06": 399
+      "2023-02-06": 428
     }
   },
   {
@@ -932,7 +932,7 @@
     "timeMonth": 21650,
     "timeYear": 21418,
     "dailyMinutesDown": {
-      "2023-02-12": 755,
+      "2023-02-12": 769,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
