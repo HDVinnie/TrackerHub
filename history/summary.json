@@ -457,7 +457,7 @@
     "status": "up",
     "uptime": "94.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "26.41%",
+    "uptimeWeek": "26.48%",
     "uptimeMonth": "77.01%",
     "uptimeYear": "94.11%",
     "time": 1054,
@@ -868,9 +868,9 @@
     "slug": "skip-the-trailers",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "58.92%",
-    "uptimeWeek": "68.15%",
-    "uptimeMonth": "92.67%",
+    "uptimeDay": "60.29%",
+    "uptimeWeek": "67.97%",
+    "uptimeMonth": "92.63%",
     "uptimeYear": "99.04%",
     "time": 500,
     "timeDay": 565,
@@ -878,13 +878,13 @@
     "timeMonth": 428,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2023-02-22": 179,
+      "2023-02-22": 166,
       "2023-02-21": 530,
       "2023-02-20": 458,
       "2023-02-19": 665,
       "2023-02-18": 308,
       "2023-02-17": 734,
-      "2023-02-16": 337
+      "2023-02-16": 368
     }
   },
   {
@@ -892,26 +892,26 @@
     "url": "$TLY",
     "icon": "$TLY_ICON",
     "slug": "telly",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "73.71%",
-    "uptimeWeek": "70.01%",
-    "uptimeMonth": "93.10%",
-    "uptimeYear": "99.11%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "73.52%",
+    "uptimeWeek": "70.68%",
+    "uptimeMonth": "93.25%",
+    "uptimeYear": "99.13%",
     "time": 826,
     "timeDay": 637,
     "timeWeek": 659,
     "timeMonth": 655,
     "timeYear": 826,
     "dailyMinutesDown": {
-      "2023-02-22": 106,
+      "2023-02-22": 109,
       "2023-02-21": 389,
       "2023-02-20": 431,
       "2023-02-19": 557,
       "2023-02-18": 402,
       "2023-02-17": 448,
       "2023-02-16": 419,
-      "2023-02-15": 267
+      "2023-02-15": 197
     }
   },
   {
@@ -952,7 +952,7 @@
     "timeMonth": 22543,
     "timeYear": 21640,
     "dailyMinutesDown": {
-      "2023-02-22": 300,
+      "2023-02-22": 307,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
       "2023-02-19": 1440,
