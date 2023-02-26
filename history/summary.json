@@ -460,7 +460,7 @@
     "status": "up",
     "uptime": "94.22%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.81%",
+    "uptimeWeek": "89.87%",
     "uptimeMonth": "77.01%",
     "uptimeYear": "94.22%",
     "time": 1063,
@@ -618,7 +618,7 @@
     "uptime": "94.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "92.37%",
+    "uptimeMonth": "92.39%",
     "uptimeYear": "94.66%",
     "time": 1850,
     "timeDay": 0,
@@ -844,11 +844,11 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "73.19%",
-    "uptimeWeek": "69.00%",
-    "uptimeMonth": "92.87%",
+    "uptimeDay": "73.05%",
+    "uptimeWeek": "69.18%",
+    "uptimeMonth": "92.91%",
     "uptimeYear": "99.09%",
     "time": 1066,
     "timeDay": 600,
@@ -856,13 +856,13 @@
     "timeMonth": 626,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2023-02-26": 232,
+      "2023-02-26": 234,
       "2023-02-25": 396,
       "2023-02-24": 641,
       "2023-02-23": 588,
       "2023-02-22": 506,
       "2023-02-21": 539,
-      "2023-02-20": 223
+      "2023-02-20": 203
     }
   },
   {
@@ -955,7 +955,7 @@
     "timeMonth": 21974,
     "timeYear": 21400,
     "dailyMinutesDown": {
-      "2023-02-26": 931,
+      "2023-02-26": 937,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
