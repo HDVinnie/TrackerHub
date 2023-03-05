@@ -849,25 +849,25 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "67.08%",
-    "uptimeWeek": "66.78%",
-    "uptimeMonth": "92.36%",
-    "uptimeYear": "99.05%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "67.93%",
+    "uptimeWeek": "67.09%",
+    "uptimeMonth": "92.43%",
+    "uptimeYear": "99.06%",
     "time": 1031,
     "timeDay": 606,
     "timeWeek": 583,
     "timeMonth": 639,
     "timeYear": 1031,
     "dailyMinutesDown": {
-      "2023-03-05": 217,
+      "2023-03-05": 219,
       "2023-03-04": 642,
       "2023-03-03": 645,
       "2023-03-02": 453,
       "2023-03-01": 368,
       "2023-02-28": 619,
-      "2023-02-27": 407
+      "2023-02-27": 374
     }
   },
   {
@@ -877,14 +877,14 @@
     "slug": "skip-the-trailers",
     "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "64.67%",
+    "uptimeDay": "65.66%",
     "uptimeWeek": "68.51%",
     "uptimeMonth": "92.75%",
     "uptimeYear": "99.10%",
     "time": 511,
     "timeDay": 581,
     "timeWeek": 583,
-    "timeMonth": 513,
+    "timeMonth": 514,
     "timeYear": 511,
     "dailyMinutesDown": {
       "2023-03-05": 243,
@@ -903,9 +903,9 @@
     "slug": "telly",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "64.73%",
-    "uptimeWeek": "66.61%",
-    "uptimeMonth": "92.32%",
+    "uptimeDay": "66.74%",
+    "uptimeWeek": "66.50%",
+    "uptimeMonth": "92.29%",
     "uptimeYear": "99.05%",
     "time": 804,
     "timeDay": 800,
@@ -913,13 +913,13 @@
     "timeMonth": 661,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2023-03-05": 296,
+      "2023-03-05": 281,
       "2023-03-04": 569,
       "2023-03-03": 663,
       "2023-03-02": 540,
       "2023-03-01": 570,
       "2023-02-28": 512,
-      "2023-02-27": 217
+      "2023-02-27": 242
     }
   },
   {
@@ -960,7 +960,7 @@
     "timeMonth": 21362,
     "timeYear": 21350,
     "dailyMinutesDown": {
-      "2023-03-05": 755,
+      "2023-03-05": 770,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
