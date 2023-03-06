@@ -291,9 +291,9 @@
     "slug": "broadcas-the-net",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.86%",
     "time": 611,
     "timeDay": 870,
@@ -301,7 +301,6 @@
     "timeMonth": 1764,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2023-03-06": 6,
       "2023-02-22": 52,
       "2023-02-03": 27,
       "2022-10-23": 40,
@@ -854,9 +853,9 @@
     "slug": "skip-the-commericals",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "67.17%",
-    "uptimeWeek": "68.65%",
-    "uptimeMonth": "92.79%",
+    "uptimeDay": "68.68%",
+    "uptimeWeek": "68.62%",
+    "uptimeMonth": "92.78%",
     "uptimeYear": "99.11%",
     "time": 1027,
     "timeDay": 750,
@@ -864,13 +863,13 @@
     "timeMonth": 645,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2023-03-06": 322,
+      "2023-03-06": 309,
       "2023-03-05": 468,
       "2023-03-04": 642,
       "2023-03-03": 645,
       "2023-03-02": 453,
       "2023-03-01": 368,
-      "2023-02-28": 262
+      "2023-02-28": 278
     }
   },
   {
@@ -878,10 +877,10 @@
     "url": "$STT",
     "icon": "$STT_ICON",
     "slug": "skip-the-trailers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "70.58%",
-    "uptimeWeek": "68.09%",
+    "uptimeDay": "70.81%",
+    "uptimeWeek": "68.12%",
     "uptimeMonth": "92.66%",
     "uptimeYear": "99.09%",
     "time": 512,
@@ -890,7 +889,7 @@
     "timeMonth": 526,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2023-03-06": 350,
+      "2023-03-06": 347,
       "2023-03-05": 418,
       "2023-03-04": 649,
       "2023-03-03": 583,
@@ -906,9 +905,9 @@
     "slug": "telly",
     "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "56.37%",
-    "uptimeWeek": "65.44%",
-    "uptimeMonth": "92.05%",
+    "uptimeDay": "56.91%",
+    "uptimeWeek": "65.34%",
+    "uptimeMonth": "92.02%",
     "uptimeYear": "99.02%",
     "time": 805,
     "timeDay": 957,
@@ -916,13 +915,13 @@
     "timeMonth": 673,
     "timeYear": 805,
     "dailyMinutesDown": {
-      "2023-03-06": 438,
+      "2023-03-06": 432,
       "2023-03-05": 551,
       "2023-03-04": 569,
       "2023-03-03": 663,
       "2023-03-02": 540,
       "2023-03-01": 570,
-      "2023-02-28": 152
+      "2023-02-28": 168
     }
   },
   {
@@ -964,7 +963,7 @@
     "timeMonth": 21220,
     "timeYear": 21304,
     "dailyMinutesDown": {
-      "2023-03-06": 965,
+      "2023-03-06": 973,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
