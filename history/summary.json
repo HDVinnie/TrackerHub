@@ -57,7 +57,7 @@
     "uptimeYear": "96.66%",
     "time": 768,
     "timeDay": 1018,
-    "timeWeek": 1008,
+    "timeWeek": 915,
     "timeMonth": 873,
     "timeYear": 768,
     "dailyMinutesDown": {
@@ -851,11 +851,11 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "58.28%",
-    "uptimeWeek": "69.17%",
-    "uptimeMonth": "92.91%",
+    "uptimeDay": "58.78%",
+    "uptimeWeek": "69.33%",
+    "uptimeMonth": "92.94%",
     "uptimeYear": "99.13%",
     "time": 1021,
     "timeDay": 582,
@@ -863,12 +863,12 @@
     "timeMonth": 643,
     "timeYear": 1021,
     "dailyMinutesDown": {
-      "2023-03-07": 579,
+      "2023-03-07": 582,
       "2023-03-06": 523,
       "2023-03-05": 468,
       "2023-03-04": 642,
       "2023-03-03": 645,
-      "2023-03-02": 250
+      "2023-03-02": 231
     }
   },
   {
@@ -878,9 +878,9 @@
     "slug": "skip-the-trailers",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "66.68%",
-    "uptimeWeek": "66.94%",
-    "uptimeMonth": "92.39%",
+    "uptimeDay": "67.27%",
+    "uptimeWeek": "66.84%",
+    "uptimeMonth": "92.37%",
     "uptimeYear": "99.06%",
     "time": 513,
     "timeDay": 575,
@@ -888,13 +888,13 @@
     "timeMonth": 538,
     "timeYear": 513,
     "dailyMinutesDown": {
-      "2023-03-07": 481,
+      "2023-03-07": 472,
       "2023-03-06": 492,
       "2023-03-05": 418,
       "2023-03-04": 649,
       "2023-03-03": 583,
       "2023-03-02": 525,
-      "2023-03-01": 185
+      "2023-03-01": 204
     }
   },
   {
@@ -904,7 +904,7 @@
     "slug": "telly",
     "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "67.86%",
+    "uptimeDay": "68.54%",
     "uptimeWeek": "65.13%",
     "uptimeMonth": "91.98%",
     "uptimeYear": "99.02%",
@@ -962,7 +962,7 @@
     "timeMonth": 21274,
     "timeYear": 21400,
     "dailyMinutesDown": {
-      "2023-03-07": 1393,
+      "2023-03-07": 1402,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
