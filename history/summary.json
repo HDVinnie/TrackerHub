@@ -858,24 +858,24 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.21%",
-    "uptimeDay": "59.94%",
-    "uptimeWeek": "71.76%",
-    "uptimeMonth": "93.50%",
+    "uptimeDay": "59.78%",
+    "uptimeWeek": "71.93%",
+    "uptimeMonth": "93.54%",
     "uptimeYear": "99.21%",
     "time": 1014,
-    "timeDay": 719,
-    "timeWeek": 627,
-    "timeMonth": 644,
+    "timeDay": 771,
+    "timeWeek": 633,
+    "timeMonth": 645,
     "timeYear": 1014,
     "dailyMinutesDown": {
-      "2023-03-09": 577,
+      "2023-03-09": 579,
       "2023-03-08": 441,
       "2023-03-07": 597,
       "2023-03-06": 523,
       "2023-03-05": 468,
-      "2023-03-04": 241
+      "2023-03-04": 222
     }
   },
   {
@@ -890,8 +890,8 @@
     "uptimeMonth": "92.81%",
     "uptimeYear": "99.12%",
     "time": 514,
-    "timeDay": 541,
-    "timeWeek": 578,
+    "timeDay": 543,
+    "timeWeek": 577,
     "timeMonth": 555,
     "timeYear": 514,
     "dailyMinutesDown": {
@@ -917,7 +917,7 @@
     "uptimeYear": "99.07%",
     "time": 803,
     "timeDay": 569,
-    "timeWeek": 764,
+    "timeWeek": 765,
     "timeMonth": 682,
     "timeYear": 803,
     "dailyMinutesDown": {
@@ -969,7 +969,7 @@
     "timeMonth": 21685,
     "timeYear": 21528,
     "dailyMinutesDown": {
-      "2023-03-09": 1359,
+      "2023-03-09": 1366,
       "2023-03-08": 1440,
       "2023-03-07": 1440,
       "2023-03-06": 1440,
