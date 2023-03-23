@@ -868,9 +868,9 @@
     "slug": "skip-the-commericals",
     "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "72.46%",
-    "uptimeWeek": "73.82%",
-    "uptimeMonth": "93.97%",
+    "uptimeDay": "71.48%",
+    "uptimeWeek": "73.68%",
+    "uptimeMonth": "93.94%",
     "uptimeYear": "99.30%",
     "time": 966,
     "timeDay": 575,
@@ -878,7 +878,7 @@
     "timeMonth": 611,
     "timeYear": 966,
     "dailyMinutesDown": {
-      "2023-03-23": 3,
+      "2023-03-23": 17,
       "2023-03-22": 394,
       "2023-03-21": 441,
       "2023-03-20": 345,
@@ -894,25 +894,24 @@
     "icon": "$STT_ICON",
     "slug": "skip-the-trailers",
     "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "62.61%",
-    "uptimeWeek": "69.71%",
-    "uptimeMonth": "93.03%",
-    "uptimeYear": "99.19%",
+    "uptime": "99.18%",
+    "uptimeDay": "63.12%",
+    "uptimeWeek": "69.44%",
+    "uptimeMonth": "92.97%",
+    "uptimeYear": "99.18%",
     "time": 520,
     "timeDay": 574,
     "timeWeek": 566,
     "timeMonth": 572,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2023-03-23": 0,
-      "2023-03-22": 537,
+      "2023-03-22": 530,
       "2023-03-21": 396,
       "2023-03-20": 579,
       "2023-03-19": 454,
       "2023-03-18": 572,
       "2023-03-17": 477,
-      "2023-03-16": 41
+      "2023-03-16": 76
     }
   },
   {
@@ -922,8 +921,8 @@
     "slug": "telly",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "60.46%",
-    "uptimeWeek": "71.28%",
+    "uptimeDay": "61.41%",
+    "uptimeWeek": "71.26%",
     "uptimeMonth": "93.39%",
     "uptimeYear": "99.24%",
     "time": 784,
@@ -932,14 +931,13 @@
     "timeMonth": 685,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2023-03-23": 0,
-      "2023-03-22": 569,
+      "2023-03-22": 556,
       "2023-03-21": 375,
       "2023-03-20": 410,
       "2023-03-19": 487,
       "2023-03-18": 535,
       "2023-03-17": 447,
-      "2023-03-16": 72
+      "2023-03-16": 87
     }
   },
   {
@@ -981,7 +979,7 @@
     "timeMonth": 21701,
     "timeYear": 21628,
     "dailyMinutesDown": {
-      "2023-03-23": 3,
+      "2023-03-23": 18,
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
