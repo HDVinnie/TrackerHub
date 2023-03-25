@@ -869,8 +869,8 @@
     "slug": "skip-the-commericals",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "46.12%",
-    "uptimeWeek": "67.18%",
+    "uptimeDay": "46.58%",
+    "uptimeWeek": "67.25%",
     "uptimeMonth": "92.43%",
     "uptimeYear": "99.13%",
     "time": 956,
@@ -894,11 +894,11 @@
     "url": "$STT",
     "icon": "$STT_ICON",
     "slug": "skip-the-trailers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "75.15%",
-    "uptimeWeek": "68.15%",
-    "uptimeMonth": "92.67%",
+    "uptimeDay": "74.96%",
+    "uptimeWeek": "68.34%",
+    "uptimeMonth": "92.72%",
     "uptimeYear": "99.16%",
     "time": 522,
     "timeDay": 566,
@@ -906,14 +906,14 @@
     "timeMonth": 572,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2023-03-25": 359,
+      "2023-03-25": 362,
       "2023-03-24": 428,
       "2023-03-23": 406,
       "2023-03-22": 530,
       "2023-03-21": 396,
       "2023-03-20": 579,
       "2023-03-19": 454,
-      "2023-03-18": 61
+      "2023-03-18": 39
     }
   },
   {
@@ -981,7 +981,7 @@
     "timeMonth": 21925,
     "timeYear": 21628,
     "dailyMinutesDown": {
-      "2023-03-25": 1249,
+      "2023-03-25": 1255,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
