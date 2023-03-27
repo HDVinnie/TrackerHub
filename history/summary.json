@@ -870,7 +870,7 @@
     "slug": "skip-the-commericals",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "60.84%",
+    "uptimeDay": "62.45%",
     "uptimeWeek": "67.04%",
     "uptimeMonth": "92.42%",
     "uptimeYear": "99.13%",
@@ -895,11 +895,11 @@
     "url": "$STT",
     "icon": "$STT_ICON",
     "slug": "skip-the-trailers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "70.86%",
-    "uptimeWeek": "68.11%",
-    "uptimeMonth": "92.48%",
+    "uptimeDay": "72.48%",
+    "uptimeWeek": "68.34%",
+    "uptimeMonth": "92.51%",
     "uptimeYear": "99.14%",
     "time": 522,
     "timeDay": 571,
@@ -907,7 +907,7 @@
     "timeMonth": 571,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2023-03-27": 33,
+      "2023-03-27": 36,
       "2023-03-26": 445,
       "2023-03-25": 459,
       "2023-03-24": 428,
@@ -915,7 +915,7 @@
       "2023-03-22": 530,
       "2023-03-21": 396,
       "2023-03-20": 579,
-      "2023-03-19": 22
+      "2023-03-19": 4
     }
   },
   {
@@ -925,7 +925,7 @@
     "slug": "telly",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "70.08%",
+    "uptimeDay": "71.80%",
     "uptimeWeek": "72.58%",
     "uptimeMonth": "93.69%",
     "uptimeYear": "99.28%",
@@ -984,7 +984,7 @@
     "timeMonth": 22019,
     "timeYear": 21567,
     "dailyMinutesDown": {
-      "2023-03-27": 108,
+      "2023-03-27": 135,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
