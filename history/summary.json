@@ -879,7 +879,7 @@
     "slug": "skip-the-commericals",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "73.36%",
+    "uptimeDay": "73.80%",
     "uptimeWeek": "71.06%",
     "uptimeMonth": "93.34%",
     "uptimeYear": "99.26%",
@@ -905,7 +905,7 @@
     "slug": "skip-the-trailers",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "63.98%",
+    "uptimeDay": "64.42%",
     "uptimeWeek": "70.84%",
     "uptimeMonth": "93.29%",
     "uptimeYear": "99.26%",
@@ -928,11 +928,11 @@
     "url": "$TLY",
     "icon": "$TLY_ICON",
     "slug": "telly",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "64.34%",
-    "uptimeWeek": "58.38%",
-    "uptimeMonth": "90.42%",
+    "uptimeDay": "64.52%",
+    "uptimeWeek": "58.53%",
+    "uptimeMonth": "90.46%",
     "uptimeYear": "98.95%",
     "time": 770,
     "timeDay": 610,
@@ -940,13 +940,13 @@
     "timeMonth": 685,
     "timeYear": 770,
     "dailyMinutesDown": {
-      "2023-04-03": 442,
+      "2023-04-03": 446,
       "2023-04-02": 613,
       "2023-04-01": 453,
       "2023-03-31": 433,
       "2023-03-30": 930,
       "2023-03-29": 635,
-      "2023-03-28": 687
+      "2023-03-28": 668
     }
   },
   {
@@ -988,7 +988,7 @@
     "timeMonth": 22146,
     "timeYear": 21580,
     "dailyMinutesDown": {
-      "2023-04-03": 1369,
+      "2023-04-03": 1375,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
