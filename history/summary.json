@@ -487,7 +487,7 @@
     "time": 1130,
     "timeDay": 933,
     "timeWeek": 789,
-    "timeMonth": 1898,
+    "timeMonth": 1949,
     "timeYear": 1130,
     "dailyMinutesDown": {
       "2023-03-13": 16,
@@ -904,7 +904,7 @@
     "slug": "skip-the-trailers",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "67.61%",
+    "uptimeDay": "68.16%",
     "uptimeWeek": "69.57%",
     "uptimeMonth": "93.00%",
     "uptimeYear": "99.22%",
@@ -928,11 +928,11 @@
     "url": "$TLY",
     "icon": "$TLY_ICON",
     "slug": "telly",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
-    "uptimeDay": "53.09%",
-    "uptimeWeek": "57.71%",
-    "uptimeMonth": "90.27%",
+    "uptimeDay": "52.83%",
+    "uptimeWeek": "57.92%",
+    "uptimeMonth": "90.32%",
     "uptimeYear": "98.93%",
     "time": 772,
     "timeDay": 638,
@@ -940,14 +940,14 @@
     "timeMonth": 685,
     "timeYear": 772,
     "dailyMinutesDown": {
-      "2023-04-03": 198,
+      "2023-04-03": 202,
       "2023-04-02": 613,
       "2023-04-01": 453,
       "2023-03-31": 433,
       "2023-03-30": 930,
       "2023-03-29": 635,
       "2023-03-28": 833,
-      "2023-03-27": 165
+      "2023-03-27": 140
     }
   },
   {
@@ -989,7 +989,7 @@
     "timeMonth": 22026,
     "timeYear": 21544,
     "dailyMinutesDown": {
-      "2023-04-03": 426,
+      "2023-04-03": 433,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
