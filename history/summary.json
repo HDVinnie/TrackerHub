@@ -878,24 +878,24 @@
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
     "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "70.00%",
-    "uptimeWeek": "72.48%",
-    "uptimeMonth": "93.67%",
-    "uptimeYear": "99.30%",
+    "uptime": "99.29%",
+    "uptimeDay": "70.89%",
+    "uptimeWeek": "72.23%",
+    "uptimeMonth": "93.61%",
+    "uptimeYear": "99.29%",
     "time": 923,
     "timeDay": 572,
     "timeWeek": 557,
     "timeMonth": 599,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2023-04-04": 433,
+      "2023-04-04": 420,
       "2023-04-03": 343,
       "2023-04-02": 412,
       "2023-04-01": 500,
       "2023-03-31": 552,
       "2023-03-30": 390,
-      "2023-03-29": 144
+      "2023-03-29": 182
     }
   },
   {
@@ -928,11 +928,11 @@
     "url": "$TLY",
     "icon": "$TLY_ICON",
     "slug": "telly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "70.16%",
-    "uptimeWeek": "60.94%",
-    "uptimeMonth": "90.98%",
+    "uptimeDay": "69.95%",
+    "uptimeWeek": "60.91%",
+    "uptimeMonth": "91.01%",
     "uptimeYear": "99.01%",
     "time": 769,
     "timeDay": 627,
@@ -940,14 +940,13 @@
     "timeMonth": 682,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2023-04-04": 431,
+      "2023-04-04": 434,
       "2023-04-03": 442,
       "2023-04-02": 613,
       "2023-04-01": 453,
       "2023-03-31": 433,
       "2023-03-30": 930,
-      "2023-03-29": 635,
-      "2023-03-28": 16
+      "2023-03-29": 635
     }
   },
   {
@@ -989,7 +988,7 @@
     "timeMonth": 22319,
     "timeYear": 21615,
     "dailyMinutesDown": {
-      "2023-04-04": 1422,
+      "2023-04-04": 1428,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
