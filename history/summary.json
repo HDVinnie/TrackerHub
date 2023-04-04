@@ -877,10 +877,10 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "down",
+    "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "75.52%",
-    "uptimeWeek": "71.16%",
+    "uptimeDay": "75.27%",
+    "uptimeWeek": "71.13%",
     "uptimeMonth": "93.36%",
     "uptimeYear": "99.26%",
     "time": 926,
@@ -889,7 +889,7 @@
     "timeMonth": 600,
     "timeYear": 926,
     "dailyMinutesDown": {
-      "2023-04-03": 352,
+      "2023-04-03": 356,
       "2023-04-02": 412,
       "2023-04-01": 500,
       "2023-03-31": 552,
@@ -905,9 +905,9 @@
     "slug": "skip-the-trailers",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "66.83%",
-    "uptimeWeek": "71.04%",
-    "uptimeMonth": "93.34%",
+    "uptimeDay": "68.11%",
+    "uptimeWeek": "70.84%",
+    "uptimeMonth": "93.29%",
     "uptimeYear": "99.26%",
     "time": 526,
     "timeDay": 554,
@@ -915,12 +915,12 @@
     "timeMonth": 569,
     "timeYear": 526,
     "dailyMinutesDown": {
-      "2023-04-03": 473,
+      "2023-04-03": 460,
       "2023-04-02": 457,
       "2023-04-01": 535,
       "2023-03-31": 522,
       "2023-03-30": 453,
-      "2023-03-29": 477
+      "2023-03-29": 510
     }
   },
   {
@@ -930,9 +930,9 @@
     "slug": "telly",
     "status": "up",
     "uptime": "98.95%",
-    "uptimeDay": "68.62%",
-    "uptimeWeek": "58.50%",
-    "uptimeMonth": "90.45%",
+    "uptimeDay": "69.45%",
+    "uptimeWeek": "58.38%",
+    "uptimeMonth": "90.42%",
     "uptimeYear": "98.95%",
     "time": 770,
     "timeDay": 614,
@@ -940,13 +940,13 @@
     "timeMonth": 684,
     "timeYear": 770,
     "dailyMinutesDown": {
-      "2023-04-03": 448,
+      "2023-04-03": 442,
       "2023-04-02": 613,
       "2023-04-01": 453,
       "2023-03-31": 433,
       "2023-03-30": 930,
       "2023-03-29": 635,
-      "2023-03-28": 668
+      "2023-03-28": 687
     }
   },
   {
@@ -988,7 +988,8 @@
     "timeMonth": 22256,
     "timeYear": 21615,
     "dailyMinutesDown": {
-      "2023-04-03": 1437,
+      "2023-04-04": 2,
+      "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
       "2023-03-31": 1440,
