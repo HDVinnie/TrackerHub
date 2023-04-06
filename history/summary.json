@@ -880,11 +880,11 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "71.57%",
-    "uptimeWeek": "71.84%",
-    "uptimeMonth": "93.52%",
+    "uptimeDay": "71.40%",
+    "uptimeWeek": "72.02%",
+    "uptimeMonth": "93.56%",
     "uptimeYear": "99.29%",
     "time": 918,
     "timeDay": 583,
@@ -892,14 +892,14 @@
     "timeMonth": 593,
     "timeYear": 918,
     "dailyMinutesDown": {
-      "2023-04-06": 313,
+      "2023-04-06": 315,
       "2023-04-05": 247,
       "2023-04-04": 430,
       "2023-04-03": 343,
       "2023-04-02": 412,
       "2023-04-01": 500,
       "2023-03-31": 552,
-      "2023-03-30": 41
+      "2023-03-30": 20
     }
   },
   {
@@ -908,24 +908,24 @@
     "icon": "$STT_ICON",
     "slug": "skip-the-trailers",
     "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "77.63%",
-    "uptimeWeek": "74.16%",
-    "uptimeMonth": "94.05%",
-    "uptimeYear": "99.35%",
+    "uptime": "99.34%",
+    "uptimeDay": "78.06%",
+    "uptimeWeek": "73.98%",
+    "uptimeMonth": "94.01%",
+    "uptimeYear": "99.34%",
     "time": 526,
     "timeDay": 544,
     "timeWeek": 565,
     "timeMonth": 566,
     "timeYear": 526,
     "dailyMinutesDown": {
-      "2023-04-06": 281,
+      "2023-04-06": 275,
       "2023-04-05": 250,
       "2023-04-04": 518,
       "2023-04-03": 460,
       "2023-04-02": 457,
       "2023-04-01": 535,
-      "2023-03-31": 105
+      "2023-03-31": 129
     }
   },
   {
@@ -933,11 +933,11 @@
     "url": "$TLY",
     "icon": "$TLY_ICON",
     "slug": "telly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "63.21%",
-    "uptimeWeek": "67.21%",
-    "uptimeMonth": "92.45%",
+    "uptimeDay": "62.95%",
+    "uptimeWeek": "67.34%",
+    "uptimeMonth": "92.48%",
     "uptimeYear": "99.18%",
     "time": 767,
     "timeDay": 661,
@@ -945,14 +945,14 @@
     "timeMonth": 666,
     "timeYear": 767,
     "dailyMinutesDown": {
-      "2023-04-06": 280,
+      "2023-04-06": 284,
       "2023-04-05": 476,
       "2023-04-04": 447,
       "2023-04-03": 442,
       "2023-04-02": 613,
       "2023-04-01": 453,
       "2023-03-31": 433,
-      "2023-03-30": 161
+      "2023-03-30": 144
     }
   },
   {
@@ -994,7 +994,7 @@
     "timeMonth": 22567,
     "timeYear": 21620,
     "dailyMinutesDown": {
-      "2023-04-06": 822,
+      "2023-04-06": 829,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
