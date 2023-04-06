@@ -880,25 +880,25 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "61.74%",
-    "uptimeWeek": "72.26%",
-    "uptimeMonth": "93.62%",
-    "uptimeYear": "99.30%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "61.94%",
+    "uptimeWeek": "72.51%",
+    "uptimeMonth": "93.67%",
+    "uptimeYear": "99.31%",
     "time": 917,
     "timeDay": 582,
     "timeWeek": 566,
     "timeMonth": 593,
     "timeYear": 917,
     "dailyMinutesDown": {
-      "2023-04-06": 534,
+      "2023-04-06": 537,
       "2023-04-05": 247,
       "2023-04-04": 430,
       "2023-04-03": 343,
       "2023-04-02": 412,
       "2023-04-01": 500,
-      "2023-03-31": 328
+      "2023-03-31": 301
     }
   },
   {
@@ -939,7 +939,7 @@
     "uptimeYear": "99.18%",
     "time": 767,
     "timeDay": 664,
-    "timeWeek": 645,
+    "timeWeek": 644,
     "timeMonth": 666,
     "timeYear": 767,
     "dailyMinutesDown": {
@@ -991,7 +991,7 @@
     "timeMonth": 22389,
     "timeYear": 21652,
     "dailyMinutesDown": {
-      "2023-04-06": 1388,
+      "2023-04-06": 1394,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
