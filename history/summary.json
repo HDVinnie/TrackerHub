@@ -304,7 +304,7 @@
     "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.06%",
+    "uptimeMonth": "98.07%",
     "uptimeYear": "99.66%",
     "time": 637,
     "timeDay": 611,
@@ -839,9 +839,9 @@
     "slug": "scene-time",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "95.55%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "95.17%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.92%",
     "time": 2851,
     "timeDay": 400,
@@ -849,7 +849,7 @@
     "timeMonth": 2196,
     "timeYear": 2851,
     "dailyMinutesDown": {
-      "2023-04-08": 64,
+      "2023-04-08": 69,
       "2023-01-20": 30,
       "2023-01-14": 24
     }
@@ -908,25 +908,25 @@
     "url": "$STT",
     "icon": "$STT_ICON",
     "slug": "skip-the-trailers",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "60.08%",
-    "uptimeWeek": "71.44%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "99.28%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "59.90%",
+    "uptimeWeek": "71.76%",
+    "uptimeMonth": "93.50%",
+    "uptimeYear": "99.29%",
     "time": 527,
     "timeDay": 567,
     "timeWeek": 564,
     "timeMonth": 566,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2023-04-08": 256,
+      "2023-04-08": 259,
       "2023-04-07": 580,
       "2023-04-06": 436,
       "2023-04-05": 250,
       "2023-04-04": 518,
       "2023-04-03": 460,
-      "2023-04-02": 378
+      "2023-04-02": 343
     }
   },
   {
@@ -995,7 +995,7 @@
     "timeMonth": 22333,
     "timeYear": 21734,
     "dailyMinutesDown": {
-      "2023-04-08": 398,
+      "2023-04-08": 403,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
