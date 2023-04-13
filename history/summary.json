@@ -431,8 +431,8 @@
     "status": "up",
     "uptime": "94.72%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "59.89%",
-    "uptimeMonth": "90.77%",
+    "uptimeWeek": "59.77%",
+    "uptimeMonth": "90.74%",
     "uptimeYear": "94.72%",
     "time": 1477,
     "timeDay": 0,
@@ -440,7 +440,7 @@
     "timeMonth": 522,
     "timeYear": 1477,
     "dailyMinutesDown": {
-      "2023-04-13": 735,
+      "2023-04-13": 747,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 428,
@@ -496,12 +496,12 @@
     "uptime": "95.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "95.14%",
     "time": 1127,
     "timeDay": 0,
     "timeWeek": 939,
-    "timeMonth": 1849,
+    "timeMonth": 1726,
     "timeYear": 1127,
     "dailyMinutesDown": {
       "2023-03-13": 16,
@@ -906,7 +906,7 @@
     "uptimeMonth": "93.32%",
     "uptimeYear": "99.28%",
     "time": 898,
-    "timeDay": 534,
+    "timeDay": 535,
     "timeWeek": 548,
     "timeMonth": 567,
     "timeYear": 898,
@@ -927,9 +927,9 @@
     "slug": "skip-the-trailers",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "56.53%",
-    "uptimeWeek": "68.90%",
-    "uptimeMonth": "92.84%",
+    "uptimeDay": "58.03%",
+    "uptimeWeek": "68.81%",
+    "uptimeMonth": "92.82%",
     "uptimeYear": "99.23%",
     "time": 529,
     "timeDay": 568,
@@ -937,13 +937,13 @@
     "timeMonth": 565,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2023-04-13": 363,
+      "2023-04-13": 353,
       "2023-04-12": 446,
       "2023-04-11": 446,
       "2023-04-10": 658,
       "2023-04-09": 479,
       "2023-04-08": 618,
-      "2023-04-07": 123
+      "2023-04-07": 143
     }
   },
   {
@@ -951,11 +951,11 @@
     "url": "$TLY",
     "icon": "$TLY_ICON",
     "slug": "telly",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "73.74%",
-    "uptimeWeek": "71.71%",
-    "uptimeMonth": "93.49%",
+    "uptimeDay": "73.52%",
+    "uptimeWeek": "71.84%",
+    "uptimeMonth": "93.52%",
     "uptimeYear": "99.31%",
     "time": 759,
     "timeDay": 640,
@@ -963,13 +963,13 @@
     "timeMonth": 654,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2023-04-13": 159,
+      "2023-04-13": 162,
       "2023-04-12": 434,
       "2023-04-11": 568,
       "2023-04-10": 573,
       "2023-04-09": 447,
       "2023-04-08": 384,
-      "2023-04-07": 285
+      "2023-04-07": 269
     }
   },
   {
@@ -1011,7 +1011,7 @@
     "timeMonth": 23076,
     "timeYear": 21847,
     "dailyMinutesDown": {
-      "2023-04-13": 738,
+      "2023-04-13": 750,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
