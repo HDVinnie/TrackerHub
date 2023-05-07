@@ -955,25 +955,25 @@
     "url": "$STC",
     "icon": "$STC_ICON",
     "slug": "skip-the-commericals",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "65.19%",
-    "uptimeWeek": "69.19%",
-    "uptimeMonth": "92.91%",
-    "uptimeYear": "99.30%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "66.14%",
+    "uptimeWeek": "69.49%",
+    "uptimeMonth": "92.98%",
+    "uptimeYear": "99.31%",
     "time": 857,
     "timeDay": 600,
     "timeWeek": 584,
     "timeMonth": 605,
     "timeYear": 857,
     "dailyMinutesDown": {
-      "2023-05-07": 199,
+      "2023-05-07": 201,
       "2023-05-06": 433,
       "2023-05-05": 649,
       "2023-05-04": 418,
       "2023-05-03": 440,
       "2023-05-02": 462,
-      "2023-05-01": 501
+      "2023-05-01": 469
     }
   },
   {
@@ -983,9 +983,9 @@
     "slug": "skip-the-trailers",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "61.32%",
-    "uptimeWeek": "68.83%",
-    "uptimeMonth": "92.83%",
+    "uptimeDay": "63.07%",
+    "uptimeWeek": "68.73%",
+    "uptimeMonth": "92.80%",
     "uptimeYear": "99.29%",
     "time": 536,
     "timeDay": 578,
@@ -993,13 +993,13 @@
     "timeMonth": 567,
     "timeYear": 536,
     "dailyMinutesDown": {
-      "2023-05-07": 266,
+      "2023-05-07": 257,
       "2023-05-06": 494,
       "2023-05-05": 494,
       "2023-05-04": 440,
       "2023-05-03": 516,
       "2023-05-02": 667,
-      "2023-05-01": 266
+      "2023-05-01": 286
     }
   },
   {
@@ -1009,9 +1009,9 @@
     "slug": "telly",
     "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "70.25%",
-    "uptimeWeek": "66.80%",
-    "uptimeMonth": "92.36%",
+    "uptimeDay": "69.15%",
+    "uptimeWeek": "66.64%",
+    "uptimeMonth": "92.32%",
     "uptimeYear": "99.25%",
     "time": 740,
     "timeDay": 668,
@@ -1019,7 +1019,7 @@
     "timeMonth": 645,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2023-05-07": 152,
+      "2023-05-07": 168,
       "2023-05-06": 448,
       "2023-05-05": 492,
       "2023-05-04": 493,
@@ -1067,7 +1067,7 @@
     "timeMonth": 23077,
     "timeYear": 21949,
     "dailyMinutesDown": {
-      "2023-05-07": 497,
+      "2023-05-07": 513,
       "2023-05-06": 1440,
       "2023-05-05": 1440,
       "2023-05-04": 1440,
