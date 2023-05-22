@@ -33,7 +33,7 @@ sites:
     maxResponseTime: 1000
   - name: Blutopia
     url: $BLU
-    icon: https://blutopia.xyz/favicon.ico
+    icon: $BLU_ICON
     maxResponseTime: 1000
     assignees:
       - HDVinnie
@@ -101,18 +101,6 @@ sites:
     url: $SC
     icon: $SC_ICON
     maxResponseTime: 1000
-  - name: SkipTheCommericals
-    url: $STC
-    icon: $STC_ICON
-    maxResponseTime: 1000
-  - name: SkipTheTrailers
-    url: $STT
-    icon: $STT_ICON
-    maxResponseTime: 1000
-  - name: Telly
-    url: $TLY
-    icon: $TLY_ICON
-    maxResponseTime: 1000
   - name: TorrentLeech
     url: $TL
     icon: $TL_ICON
@@ -128,7 +116,7 @@ sites:
 
 status-website:
   workflowSchedule:
-    uptime: "*/30 * * * *"
+    uptime: "*/10 * * * *"
   baseUrl: /TrackerHub
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: TrackerHub
@@ -140,6 +128,3 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Tracker Spreadsheet
       href: https://hdvinnie.github.io/Private-Trackers-Spreadsheet
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
