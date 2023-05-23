@@ -116,7 +116,7 @@ sites:
 
 status-website:
   workflowSchedule:
-    uptime: "*/10 * * * *"
+    uptime: "*/5 * * * *"
   baseUrl: /TrackerHub
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: TrackerHub
