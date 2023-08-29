@@ -133,18 +133,19 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.92%",
-    "uptimeDay": "85.66%",
-    "uptimeWeek": "96.20%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "85.55%",
+    "uptimeWeek": "96.19%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "99.91%",
-    "time": 980,
-    "timeDay": 2299,
-    "timeWeek": 1761,
-    "timeMonth": 1613,
-    "timeYear": 1013,
+    "time": 981,
+    "timeDay": 2325,
+    "timeWeek": 1759,
+    "timeMonth": 1612,
+    "timeYear": 1014,
     "dailyMinutesDown": {
+      "2023-08-29": 1,
       "2023-08-28": 208,
       "2023-08-27": 116,
       "2023-08-26": 59,
@@ -161,7 +162,7 @@
     "status": "up",
     "uptime": "98.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.24%",
+    "uptimeWeek": "60.44%",
     "uptimeMonth": "90.76%",
     "uptimeYear": "98.20%",
     "time": 2570,
@@ -419,7 +420,7 @@
     "uptime": "81.87%",
     "uptimeDay": "95.12%",
     "uptimeWeek": "99.30%",
-    "uptimeMonth": "69.93%",
+    "uptimeMonth": "69.97%",
     "uptimeYear": "79.20%",
     "time": 1048,
     "timeDay": 1033,
@@ -606,7 +607,7 @@
     "timeDay": 376,
     "timeWeek": 475,
     "timeMonth": 557,
-    "timeYear": 934,
+    "timeYear": 937,
     "dailyMinutesDown": {
       "2023-08-07": 1111,
       "2023-08-06": 560,
@@ -624,8 +625,7 @@
       "2023-01-14": 314,
       "2023-01-13": 690,
       "2022-11-08": 31,
-      "2022-09-27": 185,
-      "2022-08-29": 170
+      "2022-09-27": 185
     }
   },
   {
@@ -864,8 +864,7 @@
       "2022-09-05": 24,
       "2022-09-02": 38,
       "2022-09-01": 27,
-      "2022-08-30": 56,
-      "2022-08-29": 44
+      "2022-08-30": 56
     }
   },
   {
@@ -883,7 +882,7 @@
     "timeDay": 217,
     "timeWeek": 386,
     "timeMonth": 369,
-    "timeYear": 1453,
+    "timeYear": 1452,
     "dailyMinutesDown": {
       "2023-08-14": 18,
       "2023-02-12": 18,
@@ -913,8 +912,8 @@
     "slug": "pass-the-popcorn",
     "status": "up",
     "uptime": "87.55%",
-    "uptimeDay": "0.15%",
-    "uptimeWeek": "0.02%",
+    "uptimeDay": "1.52%",
+    "uptimeWeek": "0.22%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "85.55%",
     "time": 477,
@@ -1185,7 +1184,8 @@
     "timeMonth": 22392,
     "timeYear": 21838,
     "dailyMinutesDown": {
-      "2023-08-28": 1423,
+      "2023-08-29": 2,
+      "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
