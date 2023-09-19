@@ -105,10 +105,6 @@ sites:
     url: $TL
     icon: $TL_ICON
     maxResponseTime: 1000
-  - name: TV-Vault
-    url: $TVV
-    icon: $TVV_ICON
-    maxResponseTime: 1000
   - name: UHDBits
     url: $UHD
     icon: $UHD_ICON
