@@ -33,8 +33,7 @@
       "2022-10-01": 20,
       "2022-09-28": 79,
       "2022-09-25": 352,
-      "2022-09-24": 157,
-      "2022-09-23": 22
+      "2022-09-24": 157
     }
   },
   {
@@ -164,7 +163,7 @@
     "uptime": "98.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.07%",
+    "uptimeMonth": "94.14%",
     "uptimeYear": "98.36%",
     "time": 2675,
     "timeDay": 4634,
@@ -218,7 +217,7 @@
     "timeDay": 1078,
     "timeWeek": 1212,
     "timeMonth": 1341,
-    "timeYear": 1370,
+    "timeYear": 1371,
     "dailyMinutesDown": {
       "2023-09-22": 43,
       "2023-09-21": 113,
@@ -248,8 +247,7 @@
       "2022-10-06": 52,
       "2022-10-03": 168,
       "2022-10-02": 155,
-      "2022-09-28": 58,
-      "2022-09-23": 65
+      "2022-09-28": 58
     }
   },
   {
@@ -340,7 +338,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 576,
-    "timeDay": 345,
+    "timeDay": 364,
     "timeWeek": 722,
     "timeMonth": 509,
     "timeYear": 671,
@@ -422,17 +420,17 @@
     "slug": "empornium",
     "status": "up",
     "uptime": "82.55%",
-    "uptimeDay": "90.52%",
-    "uptimeWeek": "93.27%",
-    "uptimeMonth": "94.99%",
+    "uptimeDay": "92.64%",
+    "uptimeWeek": "93.40%",
+    "uptimeMonth": "95.02%",
     "uptimeYear": "78.80%",
     "time": 1085,
-    "timeDay": 3059,
+    "timeDay": 3517,
     "timeWeek": 1328,
     "timeMonth": 1201,
     "timeYear": 1105,
     "dailyMinutesDown": {
-      "2023-09-22": 119,
+      "2023-09-22": 106,
       "2023-09-21": 155,
       "2023-09-20": 81,
       "2023-09-19": 50,
@@ -542,8 +540,7 @@
       "2022-10-25": 48,
       "2022-10-24": 17,
       "2022-10-05": 231,
-      "2022-09-28": 19,
-      "2022-09-23": 19
+      "2022-09-28": 19
     }
   },
   {
@@ -760,7 +757,7 @@
     "uptime": "98.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "97.88%",
     "time": 959,
     "timeDay": 673,
@@ -866,8 +863,7 @@
       "2022-10-04": 16,
       "2022-10-03": 22,
       "2022-09-26": 24,
-      "2022-09-25": 18,
-      "2022-09-23": 25
+      "2022-09-25": 18
     }
   },
   {
@@ -885,14 +881,13 @@
     "timeDay": 225,
     "timeWeek": 277,
     "timeMonth": 343,
-    "timeYear": 860,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2023-08-14": 18,
       "2023-02-12": 18,
       "2023-01-03": 564,
       "2023-01-02": 141,
-      "2022-09-24": 125,
-      "2022-09-23": 410
+      "2022-09-24": 125
     }
   },
   {
@@ -904,10 +899,10 @@
     "uptime": "88.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.25%",
+    "uptimeMonth": "80.32%",
     "uptimeYear": "85.62%",
     "time": 481,
-    "timeDay": 462,
+    "timeDay": 434,
     "timeWeek": 736,
     "timeMonth": 546,
     "timeYear": 517,
@@ -1027,18 +1022,19 @@
     "url": "$ST",
     "icon": "$ST_ICON",
     "slug": "scene-time",
-    "status": "up",
+    "status": "degraded",
     "uptime": "97.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.67%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "98.66%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "97.27%",
-    "time": 3480,
-    "timeDay": 1996,
-    "timeWeek": 3567,
-    "timeMonth": 4060,
-    "timeYear": 3480,
+    "time": 3490,
+    "timeDay": 3822,
+    "timeWeek": 3683,
+    "timeMonth": 4097,
+    "timeYear": 3490,
     "dailyMinutesDown": {
+      "2023-09-23": 1,
       "2023-09-21": 119,
       "2023-09-18": 15,
       "2023-09-07": 21,
