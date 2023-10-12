@@ -124,10 +124,10 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 996,
@@ -136,6 +136,7 @@
     "timeMonth": 1106,
     "timeYear": 1055,
     "dailyMinutesDown": {
+      "2023-10-12": 1,
       "2023-08-29": 55,
       "2023-08-28": 208,
       "2023-08-27": 116,
@@ -206,7 +207,7 @@
     "time": 1491,
     "timeDay": 1370,
     "timeWeek": 1918,
-    "timeMonth": 1456,
+    "timeMonth": 1453,
     "timeYear": 1323,
     "dailyMinutesDown": {
       "2023-10-09": 25,
@@ -1001,7 +1002,7 @@
     "uptimeYear": "97.44%",
     "time": 3487,
     "timeDay": 2583,
-    "timeWeek": 3265,
+    "timeWeek": 3295,
     "timeMonth": 3781,
     "timeYear": 3487,
     "dailyMinutesDown": {
@@ -1102,7 +1103,7 @@
     "time": 1187,
     "timeDay": 1826,
     "timeWeek": 1278,
-    "timeMonth": 1358,
+    "timeMonth": 1327,
     "timeYear": 1187,
     "dailyMinutesDown": {
       "2023-10-08": 25,
