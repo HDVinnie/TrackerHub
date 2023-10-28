@@ -1,7 +1,7 @@
 url: $ST
-status: up
-code: 200
-responseTime: 686
-lastUpdated: 2023-10-28T17:59:20.908Z
+status: degraded
+code: 503
+responseTime: 20753
+lastUpdated: 2023-10-28T22:55:18.015Z
 startTime: 2022-12-24T23:57:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
