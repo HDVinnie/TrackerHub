@@ -33,7 +33,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.36%",
+    "uptimeYear": "97.37%",
     "time": 887,
     "timeDay": 718,
     "timeWeek": 726,
@@ -76,8 +76,7 @@
       "2022-12-06": 50,
       "2022-12-02": 414,
       "2022-11-30": 545,
-      "2022-11-18": 20,
-      "2022-11-08": 84
+      "2022-11-18": 20
     }
   },
   {
@@ -145,12 +144,12 @@
     "slug": "asian-cinema",
     "status": "up",
     "uptime": "98.54%",
-    "uptimeDay": "83.59%",
+    "uptimeDay": "85.60%",
     "uptimeWeek": "97.66%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "98.54%",
     "time": 2639,
-    "timeDay": 7145,
+    "timeDay": 492,
     "timeWeek": 3623,
     "timeMonth": 2064,
     "timeYear": 2639,
@@ -195,18 +194,19 @@
     "icon": "$BHD_ICON",
     "slug": "beyond-hd",
     "status": "degraded",
-    "uptime": "99.43%",
-    "uptimeDay": "50.94%",
-    "uptimeWeek": "92.71%",
-    "uptimeMonth": "98.03%",
-    "uptimeYear": "99.47%",
+    "uptime": "99.42%",
+    "uptimeDay": "46.03%",
+    "uptimeWeek": "92.01%",
+    "uptimeMonth": "97.87%",
+    "uptimeYear": "99.46%",
     "time": 1370,
     "timeDay": 10305,
     "timeWeek": 1838,
     "timeMonth": 1466,
     "timeYear": 1381,
     "dailyMinutesDown": {
-      "2023-11-07": 706,
+      "2023-11-08": 15,
+      "2023-11-07": 762,
       "2023-11-01": 28,
       "2023-10-31": 17,
       "2023-10-29": 24,
@@ -256,7 +256,7 @@
     "timeDay": 130,
     "timeWeek": 181,
     "timeMonth": 202,
-    "timeYear": 361,
+    "timeYear": 362,
     "dailyMinutesDown": {
       "2023-06-12": 285,
       "2023-03-05": 185,
@@ -331,7 +331,7 @@
     "timeDay": 349,
     "timeWeek": 378,
     "timeMonth": 370,
-    "timeYear": 585,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2023-08-21": 218,
       "2023-07-26": 41,
@@ -356,7 +356,7 @@
     "time": 1486,
     "timeDay": 440,
     "timeWeek": 573,
-    "timeMonth": 870,
+    "timeMonth": 872,
     "timeYear": 1593,
     "dailyMinutesDown": {
       "2023-11-05": 182,
@@ -391,8 +391,7 @@
       "2023-01-24": 511,
       "2023-01-23": 399,
       "2023-01-16": 62,
-      "2022-12-31": 26,
-      "2022-11-08": 44
+      "2022-12-31": 26
     }
   },
   {
@@ -401,7 +400,7 @@
     "icon": "$EMP_ICON",
     "slug": "empornium",
     "status": "up",
-    "uptime": "83.97%",
+    "uptime": "83.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "98.32%",
@@ -522,8 +521,7 @@
       "2022-12-01": 38,
       "2022-11-26": 17,
       "2022-11-14": 16,
-      "2022-11-09": 19,
-      "2022-11-08": 47
+      "2022-11-09": 19
     }
   },
   {
@@ -617,8 +615,7 @@
       "2023-04-20": 26,
       "2023-01-25": 15,
       "2023-01-14": 314,
-      "2023-01-13": 690,
-      "2022-11-08": 31
+      "2023-01-13": 690
     }
   },
   {
@@ -982,9 +979,9 @@
     "uptimeMonth": "98.53%",
     "uptimeYear": "97.52%",
     "time": 3461,
-    "timeDay": 3505,
+    "timeDay": 3577,
     "timeWeek": 2929,
-    "timeMonth": 3337,
+    "timeMonth": 3341,
     "timeYear": 3461,
     "dailyMinutesDown": {
       "2023-11-07": 152,
