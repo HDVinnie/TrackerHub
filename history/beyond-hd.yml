@@ -1,7 +1,7 @@
 url: $BHD
-status: down
-code: 502
-responseTime: 229
-lastUpdated: 2023-11-11T13:18:36.470Z
+status: degraded
+code: 504
+responseTime: 21383
+lastUpdated: 2023-11-11T13:32:36.115Z
 startTime: 2022-07-01T03:37:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
