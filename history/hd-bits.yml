@@ -1,7 +1,7 @@
 url: $HDB
-status: up
-code: 200
-responseTime: 486
-lastUpdated: 2023-11-16T23:04:03.577Z
+status: degraded
+code: 502
+responseTime: 1528
+lastUpdated: 2023-11-17T22:33:56.394Z
 startTime: 2022-07-01T03:37:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
