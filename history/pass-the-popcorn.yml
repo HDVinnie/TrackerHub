@@ -1,7 +1,7 @@
 url: $PTP
-status: up
-code: 200
-responseTime: 524
-lastUpdated: 2023-12-11T23:03:35.401Z
+status: degraded
+code: 502
+responseTime: 4912
+lastUpdated: 2023-12-12T20:20:24.656Z
 startTime: 2022-07-01T03:37:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
