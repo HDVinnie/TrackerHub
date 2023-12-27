@@ -197,7 +197,7 @@
     "uptime": "93.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "34.05%",
+    "uptimeMonth": "34.18%",
     "uptimeYear": "90.33%",
     "time": 1846,
     "timeDay": 238,
@@ -310,7 +310,7 @@
     "timeDay": 471,
     "timeWeek": 404,
     "timeMonth": 372,
-    "timeYear": 478,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2023-12-26": 62,
       "2023-12-20": 81,
@@ -336,8 +336,7 @@
       "2023-05-16": 131,
       "2023-05-15": 172,
       "2023-04-11": 44,
-      "2023-01-09": 211,
-      "2022-12-27": 24
+      "2023-01-09": 211
     }
   },
   {
@@ -735,8 +734,7 @@
       "2023-05-26": 35,
       "2023-03-13": 66,
       "2023-02-04": 19,
-      "2023-01-25": 44,
-      "2022-12-27": 34
+      "2023-01-25": 44
     }
   },
   {
@@ -898,15 +896,16 @@
     "uptime": "88.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.11%",
-    "uptimeYear": "82.91%",
+    "uptimeMonth": "64.97%",
+    "uptimeYear": "82.90%",
     "time": 595,
     "timeDay": 436,
     "timeWeek": 514,
     "timeMonth": 941,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2023-12-26": 1384,
+      "2023-12-27": 1,
+      "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -1045,7 +1044,7 @@
     "time": 3387,
     "timeDay": 429,
     "timeWeek": 889,
-    "timeMonth": 3208,
+    "timeMonth": 3202,
     "timeYear": 3389,
     "dailyMinutesDown": {
       "2023-12-25": 30,
@@ -1138,18 +1137,19 @@
     "url": "$TL",
     "icon": "$TL_ICON",
     "slug": "torrent-leech",
-    "status": "up",
+    "status": "degraded",
     "uptime": "95.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "95.00%",
-    "time": 1291,
-    "timeDay": 599,
-    "timeWeek": 1610,
-    "timeMonth": 1699,
-    "timeYear": 1295,
+    "time": 1298,
+    "timeDay": 3264,
+    "timeWeek": 1850,
+    "timeMonth": 1746,
+    "timeYear": 1302,
     "dailyMinutesDown": {
+      "2023-12-27": 1,
       "2023-12-06": 136,
       "2023-10-18": 494,
       "2023-10-17": 891,
@@ -1200,7 +1200,7 @@
     "timeDay": 655,
     "timeWeek": 730,
     "timeMonth": 714,
-    "timeYear": 720,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2023-08-08": 41,
       "2023-03-17": 896,
