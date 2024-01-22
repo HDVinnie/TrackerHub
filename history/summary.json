@@ -270,8 +270,7 @@
       "2023-03-28": 34,
       "2023-03-09": 150,
       "2023-02-28": 54,
-      "2023-01-23": 50,
-      "2023-01-22": 55
+      "2023-01-23": 50
     }
   },
   {
@@ -300,18 +299,19 @@
     "url": "$BLU",
     "icon": "$BLU_ICON",
     "slug": "blutopia",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.69%",
-    "uptimeDay": "91.51%",
-    "uptimeWeek": "96.74%",
+    "uptimeDay": "91.47%",
+    "uptimeWeek": "96.73%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "99.35%",
-    "time": 571,
-    "timeDay": 2179,
-    "timeWeek": 1551,
-    "timeMonth": 1008,
-    "timeYear": 543,
+    "time": 584,
+    "timeDay": 2631,
+    "timeWeek": 1718,
+    "timeMonth": 1102,
+    "timeYear": 560,
     "dailyMinutesDown": {
+      "2024-01-22": 1,
       "2024-01-21": 122,
       "2024-01-20": 29,
       "2024-01-19": 64,
@@ -614,7 +614,7 @@
     "slug": "gazelle-games",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "22.81%",
+    "uptimeDay": "23.36%",
     "uptimeWeek": "82.99%",
     "uptimeMonth": "96.09%",
     "uptimeYear": "98.05%",
@@ -771,7 +771,7 @@
     "time": 928,
     "timeDay": 434,
     "timeWeek": 1955,
-    "timeMonth": 1227,
+    "timeMonth": 1228,
     "timeYear": 836,
     "dailyMinutesDown": {
       "2023-12-22": 24,
@@ -817,8 +817,7 @@
       "2023-01-29": 121,
       "2023-01-28": 83,
       "2023-01-25": 54,
-      "2023-01-23": 656,
-      "2023-01-22": 345
+      "2023-01-23": 656
     }
   },
   {
@@ -885,7 +884,7 @@
     "uptime": "88.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.48%",
+    "uptimeMonth": "71.50%",
     "uptimeYear": "81.89%",
     "time": 628,
     "timeDay": 701,
