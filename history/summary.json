@@ -30,8 +30,8 @@
     "status": "down",
     "uptime": "95.60%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "18.67%",
-    "uptimeMonth": "67.36%",
+    "uptimeWeek": "18.41%",
+    "uptimeMonth": "67.30%",
     "uptimeYear": "94.99%",
     "time": 1111,
     "timeDay": 7233,
@@ -39,7 +39,8 @@
     "timeMonth": 3991,
     "timeYear": 1225,
     "dailyMinutesDown": {
-      "2024-02-21": 1423,
+      "2024-02-22": 10,
+      "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -77,8 +78,7 @@
       "2023-03-10": 19,
       "2023-03-03": 19,
       "2023-02-28": 200,
-      "2023-02-24": 19,
-      "2023-02-22": 22
+      "2023-02-24": 19
     }
   },
   {
@@ -87,18 +87,19 @@
     "icon": "$AB_ICON",
     "slug": "anime-bytes",
     "status": "down",
-    "uptime": "98.06%",
+    "uptime": "98.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "67.88%",
-    "uptimeMonth": "92.61%",
-    "uptimeYear": "97.12%",
+    "uptimeWeek": "67.61%",
+    "uptimeMonth": "92.55%",
+    "uptimeYear": "97.11%",
     "time": 1134,
     "timeDay": 0,
     "timeWeek": 617,
     "timeMonth": 1862,
     "timeYear": 1243,
     "dailyMinutesDown": {
-      "2024-02-21": 1423,
+      "2024-02-22": 10,
+      "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 375,
       "2024-01-07": 30,
@@ -313,12 +314,12 @@
     "uptime": "98.52%",
     "uptimeDay": "94.01%",
     "uptimeWeek": "96.79%",
-    "uptimeMonth": "95.27%",
+    "uptimeMonth": "95.31%",
     "uptimeYear": "98.96%",
     "time": 998,
     "timeDay": 3660,
     "timeWeek": 2562,
-    "timeMonth": 2335,
+    "timeMonth": 2303,
     "timeYear": 1098,
     "dailyMinutesDown": {
       "2024-02-21": 87,
@@ -386,8 +387,7 @@
       "2023-07-26": 41,
       "2023-03-22": 20,
       "2023-03-09": 107,
-      "2023-03-08": 740,
-      "2023-02-22": 52
+      "2023-03-08": 740
     }
   },
   {
@@ -573,8 +573,7 @@
       "2023-04-09": 28,
       "2023-03-09": 22,
       "2023-03-05": 97,
-      "2023-03-01": 22,
-      "2023-02-22": 62
+      "2023-03-01": 22
     }
   },
   {
@@ -1051,19 +1050,19 @@
     "url": "$ST",
     "icon": "$ST_ICON",
     "slug": "scene-time",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.48%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "98.77%",
     "uptimeYear": "99.40%",
-    "time": 3375,
-    "timeDay": 1580,
-    "timeWeek": 1423,
-    "timeMonth": 3433,
-    "timeYear": 3380,
+    "time": 3377,
+    "timeDay": 2392,
+    "timeWeek": 1835,
+    "timeMonth": 3450,
+    "timeYear": 3382,
     "dailyMinutesDown": {
-      "2024-02-21": 6,
+      "2024-02-22": 1,
       "2024-02-09": 75,
       "2024-02-08": 102,
       "2024-02-07": 19,
