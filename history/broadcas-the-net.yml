@@ -1,7 +1,7 @@
 url: $BTN
-status: down
-code: 503
-responseTime: 851
-lastUpdated: 2024-03-24T16:41:13.974Z
+status: degraded
+code: 502
+responseTime: 9006
+lastUpdated: 2024-03-24T16:54:32.914Z
 startTime: 2022-07-01T03:37:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
