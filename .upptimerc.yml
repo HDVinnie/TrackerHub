@@ -53,6 +53,10 @@ sites:
     url: $EZ
     icon: $EZ_ICON
     maxResponseTime: 1000
+  - name: FearNoPeer
+    url: $FNP
+    icon: $FNP_ICON
+    maxResponseTime: 1000
   - name: GazelleGames
     url: $GGN
     icon: $GGN_ICON
@@ -60,6 +64,10 @@ sites:
   - name: GreatPosterWall
     url: $GPW
     icon: $GPW_ICON
+    maxResponseTime: 1000
+  - name: HawkeUno
+    url: $UNO
+    icon: $UNO_ICON
     maxResponseTime: 1000
   - name: HDBits
     url: $HDB
@@ -76,6 +84,10 @@ sites:
   - name: Nebulance
     url: $NBL
     icon: $NBL_ICON
+    maxResponseTime: 1000
+  - name: OnlyEncodes
+    url: $OE
+    icon: $OE_ICON
     maxResponseTime: 1000
   - name: Orpheus
     url: $OPS
