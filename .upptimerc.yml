@@ -69,6 +69,10 @@ sites:
     url: $UNO
     icon: $UNO_ICON
     maxResponseTime: 1000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
   - name: HDBits
     url: $HDB
     icon: $HDB_ICON
