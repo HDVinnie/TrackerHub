@@ -329,7 +329,7 @@
     "icon": "$BLU_ICON",
     "slug": "blutopia",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
@@ -896,11 +896,11 @@
     "icon": "$OE_ICON",
     "slug": "only-encodes",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 663,
     "timeDay": 627,
     "timeWeek": 663,
@@ -1115,8 +1115,7 @@
       "2023-05-04": 656,
       "2023-04-20": 15,
       "2023-04-09": 46,
-      "2023-04-08": 1,
-      "2023-04-03": 561
+      "2023-04-08": 1
     }
   },
   {
@@ -1125,18 +1124,17 @@
     "icon": "$ST_ICON",
     "slug": "scene-time",
     "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "99.26%",
+    "uptime": "99.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.87%",
+    "uptimeYear": "99.25%",
     "time": 3172,
     "timeDay": 1282,
     "timeWeek": 1440,
-    "timeMonth": 1601,
+    "timeMonth": 1597,
     "timeYear": 3175,
     "dailyMinutesDown": {
-      "2024-04-01": 6,
       "2024-03-22": 18,
       "2024-03-20": 148,
       "2024-03-19": 57,
@@ -1185,7 +1183,8 @@
       "2023-11-05": 46,
       "2023-10-31": 16,
       "2023-10-30": 44,
-      "2023-10-29": 16
+      "2023-10-29": 16,
+      "2023-10-28": 24
     }
   },
   {
@@ -1225,7 +1224,7 @@
     "icon": "$TL_ICON",
     "slug": "torrent-leech",
     "status": "up",
-    "uptime": "95.99%",
+    "uptime": "96.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
