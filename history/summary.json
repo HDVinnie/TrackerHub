@@ -222,7 +222,7 @@
     "uptime": "93.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.71%",
+    "uptimeMonth": "96.75%",
     "uptimeYear": "88.13%",
     "time": 1655,
     "timeDay": 525,
@@ -1026,10 +1026,10 @@
     "icon": "$ST_ICON",
     "slug": "scene-time",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.72%",
+    "uptime": "99.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.25%",
     "time": 3088,
     "timeDay": 982,
@@ -1037,8 +1037,6 @@
     "timeMonth": 1343,
     "timeYear": 3094,
     "dailyMinutesDown": {
-      "2024-04-21": 0,
-      "2024-04-20": 6,
       "2024-04-17": 17,
       "2024-04-16": 21,
       "2024-04-12": 36,
@@ -1088,7 +1086,8 @@
       "2023-11-26": 52,
       "2023-11-07": 152,
       "2023-11-06": 136,
-      "2023-11-05": 46
+      "2023-11-05": 46,
+      "2023-10-31": 16
     }
   },
   {
@@ -1131,7 +1130,7 @@
     "uptime": "96.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "94.93%",
     "time": 1407,
     "timeDay": 647,
