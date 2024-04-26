@@ -30,16 +30,17 @@
     "status": "degraded",
     "uptime": "94.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.56%",
-    "uptimeMonth": "89.88%",
-    "uptimeYear": "92.32%",
+    "uptimeWeek": "74.12%",
+    "uptimeMonth": "89.78%",
+    "uptimeYear": "92.31%",
     "time": 1175,
     "timeDay": 3147,
     "timeWeek": 1391,
     "timeMonth": 976,
     "timeYear": 1184,
     "dailyMinutesDown": {
-      "2024-04-25": 1412,
+      "2024-04-26": 16,
+      "2024-04-25": 1440,
       "2024-04-24": 544,
       "2024-04-22": 375,
       "2024-04-21": 233,
@@ -442,8 +443,7 @@
       "2023-05-09": 170,
       "2023-05-05": 133,
       "2023-05-01": 793,
-      "2023-04-30": 524,
-      "2023-04-27": 69
+      "2023-04-30": 524
     }
   },
   {
@@ -528,8 +528,7 @@
       "2023-06-20": 176,
       "2023-06-19": 110,
       "2023-05-07": 63,
-      "2023-04-28": 1375,
-      "2023-04-27": 1440
+      "2023-04-28": 1375
     }
   },
   {
@@ -740,18 +739,17 @@
     "icon": "$NBL_ICON",
     "slug": "nebulance",
     "status": "up",
-    "uptime": "98.39%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.89%",
+    "uptime": "98.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "98.11%",
     "time": 896,
-    "timeDay": 513,
+    "timeDay": 480,
     "timeWeek": 550,
     "timeMonth": 687,
     "timeYear": 843,
     "dailyMinutesDown": {
-      "2024-04-25": 5,
       "2024-04-22": 20,
       "2024-04-14": 23,
       "2024-03-04": 127,
@@ -1028,7 +1026,7 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.25%",
     "time": 3061,
-    "timeDay": 1683,
+    "timeDay": 1709,
     "timeWeek": 1186,
     "timeMonth": 1293,
     "timeYear": 3058,
