@@ -30,8 +30,8 @@
     "status": "degraded",
     "uptime": "94.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "60.00%",
-    "uptimeMonth": "86.67%",
+    "uptimeWeek": "59.84%",
+    "uptimeMonth": "86.63%",
     "uptimeYear": "92.04%",
     "time": 1196,
     "timeDay": 2265,
@@ -39,7 +39,8 @@
     "timeMonth": 1110,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2024-04-26": 1439,
+      "2024-04-27": 16,
+      "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 544,
       "2024-04-22": 375,
@@ -428,7 +429,7 @@
     "timeDay": 742,
     "timeWeek": 860,
     "timeMonth": 682,
-    "timeYear": 1204,
+    "timeYear": 1206,
     "dailyMinutesDown": {
       "2024-02-01": 137,
       "2023-12-26": 20,
@@ -453,9 +454,9 @@
     "slug": "empornium",
     "status": "up",
     "uptime": "98.36%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "96.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.69%",
     "uptimeYear": "97.01%",
     "time": 1518,
     "timeDay": 199,
@@ -463,7 +464,6 @@
     "timeMonth": 1002,
     "timeYear": 1537,
     "dailyMinutesDown": {
-      "2024-04-26": 11,
       "2024-04-14": 149,
       "2024-04-12": 1187,
       "2024-04-11": 114,
@@ -501,7 +501,7 @@
       "2023-09-19": 50,
       "2023-09-18": 101,
       "2023-09-17": 130,
-      "2023-09-16": 23
+      "2023-09-16": 40
     }
   },
   {
@@ -528,8 +528,7 @@
       "2023-06-23": 143,
       "2023-06-20": 176,
       "2023-06-19": 110,
-      "2023-05-07": 63,
-      "2023-04-28": 1375
+      "2023-05-07": 63
     }
   },
   {
@@ -623,12 +622,12 @@
     "uptime": "97.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.29%",
-    "uptimeMonth": "97.00%",
+    "uptimeMonth": "97.01%",
     "uptimeYear": "97.13%",
     "time": 1753,
     "timeDay": 564,
     "timeWeek": 1761,
-    "timeMonth": 1776,
+    "timeMonth": 1777,
     "timeYear": 1753,
     "dailyMinutesDown": {
       "2024-04-20": 72,
@@ -1023,9 +1022,9 @@
     "slug": "scene-time",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "94.91%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "93.73%",
+    "uptimeWeek": "98.51%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.25%",
     "time": 3050,
     "timeDay": 958,
@@ -1033,6 +1032,7 @@
     "timeMonth": 1262,
     "timeYear": 3053,
     "dailyMinutesDown": {
+      "2024-04-27": 17,
       "2024-04-26": 74,
       "2024-04-25": 38,
       "2024-04-22": 21,
