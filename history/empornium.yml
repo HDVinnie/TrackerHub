@@ -1,7 +1,7 @@
 url: $EMP
-status: up
-code: 200
-responseTime: 873
-lastUpdated: 2024-04-30T19:10:42.885Z
+status: degraded
+code: 500
+responseTime: 1055
+lastUpdated: 2024-04-30T19:17:01.395Z
 startTime: 2022-07-01T14:27:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
