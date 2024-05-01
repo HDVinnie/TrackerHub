@@ -449,19 +449,19 @@
     "url": "$EMP",
     "icon": "$EMP_ICON",
     "slug": "empornium",
-    "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "92.58%",
-    "uptimeWeek": "97.02%",
+    "status": "degraded",
+    "uptime": "98.37%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "97.01%",
     "uptimeMonth": "96.00%",
     "uptimeYear": "97.00%",
     "time": 1492,
-    "timeDay": 791,
-    "timeWeek": 881,
-    "timeMonth": 991,
+    "timeDay": 799,
+    "timeWeek": 885,
+    "timeMonth": 992,
     "timeYear": 1513,
     "dailyMinutesDown": {
-      "2024-05-01": 37,
+      "2024-05-01": 38,
       "2024-04-30": 96,
       "2024-04-28": 168,
       "2024-04-14": 149,
@@ -498,8 +498,7 @@
       "2023-09-22": 106,
       "2023-09-21": 155,
       "2023-09-20": 81,
-      "2023-09-19": 50,
-      "2023-09-18": 28
+      "2023-09-19": 50
     }
   },
   {
@@ -626,7 +625,7 @@
     "time": 1718,
     "timeDay": 173,
     "timeWeek": 445,
-    "timeMonth": 1805,
+    "timeMonth": 1798,
     "timeYear": 1718,
     "dailyMinutesDown": {
       "2024-04-29": 26,
