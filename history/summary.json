@@ -28,10 +28,10 @@
     "icon": "$AR_ICON",
     "slug": "alpha-ratio",
     "status": "down",
-    "uptime": "93.76%",
+    "uptime": "93.75%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "51.66%",
-    "uptimeMonth": "77.30%",
+    "uptimeWeek": "51.61%",
+    "uptimeMonth": "77.29%",
     "uptimeYear": "91.07%",
     "time": 1197,
     "timeDay": 0,
@@ -39,7 +39,8 @@
     "timeMonth": 1178,
     "timeYear": 1201,
     "dailyMinutesDown": {
-      "2024-05-05": 1436,
+      "2024-05-06": 2,
+      "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 556,
@@ -306,8 +307,7 @@
       "2023-09-11": 21,
       "2023-06-03": 19,
       "2023-05-22": 56,
-      "2023-05-19": 40,
-      "2023-05-07": 35
+      "2023-05-19": 40
     }
   },
   {
@@ -452,19 +452,20 @@
     "url": "$EMP",
     "icon": "$EMP_ICON",
     "slug": "empornium",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.32%",
-    "uptimeDay": "97.58%",
-    "uptimeWeek": "90.58%",
-    "uptimeMonth": "94.14%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "90.54%",
+    "uptimeMonth": "94.13%",
     "uptimeYear": "96.89%",
-    "time": 1516,
-    "timeDay": 5228,
-    "timeWeek": 1582,
-    "timeMonth": 1315,
+    "time": 1514,
+    "timeDay": 4866,
+    "timeWeek": 1576,
+    "timeMonth": 1313,
     "timeYear": 1548,
     "dailyMinutesDown": {
-      "2024-05-05": 35,
+      "2024-05-06": 1,
+      "2024-05-05": 39,
       "2024-05-03": 60,
       "2024-05-02": 0,
       "2024-05-01": 758,
@@ -528,8 +529,7 @@
       "2023-06-24": 401,
       "2023-06-23": 143,
       "2023-06-20": 176,
-      "2023-06-19": 110,
-      "2023-05-07": 63
+      "2023-06-19": 110
     }
   },
   {
@@ -747,7 +747,7 @@
     "slug": "nebulance",
     "status": "up",
     "uptime": "98.42%",
-    "uptimeDay": "98.21%",
+    "uptimeDay": "98.27%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "98.65%",
