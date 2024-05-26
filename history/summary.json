@@ -29,7 +29,7 @@
     "uptime": "93.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.87%",
+    "uptimeMonth": "80.90%",
     "uptimeYear": "91.27%",
     "time": 1179,
     "timeDay": 545,
@@ -423,8 +423,7 @@
       "2023-11-27": 105,
       "2023-11-05": 182,
       "2023-11-04": 1440,
-      "2023-11-03": 417,
-      "2023-05-27": 135
+      "2023-11-03": 417
     }
   },
   {
@@ -951,7 +950,7 @@
     "slug": "redacted",
     "status": "up",
     "uptime": "97.79%",
-    "uptimeDay": "60.97%",
+    "uptimeDay": "61.88%",
     "uptimeWeek": "92.60%",
     "uptimeMonth": "98.30%",
     "uptimeYear": "97.81%",
@@ -992,8 +991,7 @@
       "2023-06-07": 786,
       "2023-05-30": 989,
       "2023-05-29": 625,
-      "2023-05-28": 50,
-      "2023-05-27": 32
+      "2023-05-28": 50
     }
   },
   {
@@ -1001,19 +999,20 @@
     "url": "$ST",
     "icon": "$ST_ICON",
     "slug": "scene-time",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "98.76%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "99.22%",
     "time": 2895,
-    "timeDay": 1194,
-    "timeWeek": 1209,
-    "timeMonth": 1156,
-    "timeYear": 2862,
+    "timeDay": 1137,
+    "timeWeek": 1199,
+    "timeMonth": 1154,
+    "timeYear": 2861,
     "dailyMinutesDown": {
-      "2024-05-25": 1,
+      "2024-05-26": 9,
+      "2024-05-25": 4,
       "2024-05-23": 27,
       "2024-05-21": 22,
       "2024-05-17": 15,
