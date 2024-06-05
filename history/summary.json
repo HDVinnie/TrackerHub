@@ -27,9 +27,9 @@
     "slug": "alpha-ratio",
     "status": "up",
     "uptime": "93.20%",
-    "uptimeDay": "47.18%",
+    "uptimeDay": "48.51%",
     "uptimeWeek": "28.44%",
-    "uptimeMonth": "77.63%",
+    "uptimeMonth": "77.68%",
     "uptimeYear": "90.06%",
     "time": 1273,
     "timeDay": 591,
@@ -140,7 +140,7 @@
     "uptime": "98.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.41%",
+    "uptimeMonth": "69.37%",
     "uptimeYear": "96.81%",
     "time": 989,
     "timeDay": 0,
@@ -148,7 +148,8 @@
     "timeMonth": 514,
     "timeYear": 1089,
     "dailyMinutesDown": {
-      "2024-06-04": 1438,
+      "2024-06-05": 17,
+      "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
@@ -167,8 +168,7 @@
       "2023-08-28": 208,
       "2023-08-27": 116,
       "2023-08-26": 59,
-      "2023-07-27": 31,
-      "2023-06-06": 21
+      "2023-07-27": 31
     }
   },
   {
@@ -554,7 +554,7 @@
     "status": "up",
     "uptime": "98.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.15%",
+    "uptimeWeek": "61.34%",
     "uptimeMonth": "89.03%",
     "uptimeYear": "97.20%",
     "time": 772,
@@ -746,7 +746,7 @@
     "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.48%",
-    "uptimeMonth": "97.45%",
+    "uptimeMonth": "97.49%",
     "uptimeYear": "98.59%",
     "time": 877,
     "timeDay": 667,
@@ -977,9 +977,9 @@
     "slug": "redacted",
     "status": "degraded",
     "uptime": "97.83%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "97.16%",
-    "uptimeMonth": "97.64%",
+    "uptimeDay": "95.64%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "97.60%",
     "uptimeYear": "98.08%",
     "time": 1709,
     "timeDay": 790,
@@ -987,7 +987,8 @@
     "timeMonth": 1272,
     "timeYear": 1616,
     "dailyMinutesDown": {
-      "2024-06-04": 44,
+      "2024-06-05": 17,
+      "2024-06-04": 45,
       "2024-06-01": 243,
       "2024-05-25": 559,
       "2024-05-24": 187,
@@ -1169,8 +1170,7 @@
       "2023-06-10": 287,
       "2023-06-09": 495,
       "2023-06-08": 467,
-      "2023-06-07": 1240,
-      "2023-06-06": 1239
+      "2023-06-07": 1240
     }
   },
   {
