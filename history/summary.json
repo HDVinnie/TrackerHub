@@ -591,9 +591,9 @@
     "slug": "great-poster-wall",
     "status": "up",
     "uptime": "98.07%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1041,
     "timeDay": 1199,
@@ -601,7 +601,6 @@
     "timeMonth": 925,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2024-06-19": 9,
       "2023-11-27": 41
     }
   },
@@ -1025,18 +1024,19 @@
     "url": "$ST",
     "icon": "$ST_ICON",
     "slug": "scene-time",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.35%",
+    "status": "degraded",
+    "uptime": "99.57%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.36%",
     "time": 2677,
-    "timeDay": 1305,
-    "timeWeek": 1315,
-    "timeMonth": 1198,
+    "timeDay": 1402,
+    "timeWeek": 1319,
+    "timeMonth": 1199,
     "timeYear": 2642,
     "dailyMinutesDown": {
+      "2024-06-19": 1,
       "2024-06-17": 16,
       "2024-06-07": 36,
       "2024-06-06": 72,
@@ -1095,7 +1095,7 @@
       "2023-12-08": 74,
       "2023-12-07": 36,
       "2023-12-06": 119,
-      "2023-12-05": 98
+      "2023-12-05": 78
     }
   },
   {
