@@ -507,7 +507,7 @@
     "uptimeDay": "98.60%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 849,
     "timeDay": 2653,
     "timeWeek": 1119,
@@ -749,7 +749,7 @@
     "time": 869,
     "timeDay": 640,
     "timeWeek": 616,
-    "timeMonth": 1008,
+    "timeMonth": 1010,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2024-06-14": 418,
@@ -1026,18 +1026,19 @@
     "url": "$ST",
     "icon": "$ST_ICON",
     "slug": "scene-time",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.57%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "99.44%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 2673,
-    "timeDay": 2716,
-    "timeWeek": 2048,
-    "timeMonth": 1350,
+    "timeDay": 2699,
+    "timeWeek": 2045,
+    "timeMonth": 1351,
     "timeYear": 2644,
     "dailyMinutesDown": {
+      "2024-06-23": 1,
       "2024-06-22": 23,
       "2024-06-17": 16,
       "2024-06-07": 36,
@@ -1097,7 +1098,7 @@
       "2023-12-08": 74,
       "2023-12-07": 36,
       "2023-12-06": 119,
-      "2023-12-05": 78
+      "2023-12-05": 51
     }
   },
   {
