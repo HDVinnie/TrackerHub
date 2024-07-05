@@ -142,7 +142,7 @@
     "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.81%",
+    "uptimeMonth": "88.83%",
     "uptimeYear": "95.68%",
     "time": 1018,
     "timeDay": 565,
@@ -460,9 +460,9 @@
     "slug": "empornium",
     "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "97.00%",
     "time": 1468,
     "timeDay": 2428,
@@ -470,7 +470,6 @@
     "timeMonth": 730,
     "timeYear": 1518,
     "dailyMinutesDown": {
-      "2024-07-05": 6,
       "2024-07-03": 17,
       "2024-06-15": 74,
       "2024-05-27": 98,
@@ -505,7 +504,8 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1413,
-      "2023-12-01": 193
+      "2023-12-01": 193,
+      "2023-11-04": 18
     }
   },
   {
@@ -992,7 +992,7 @@
     "uptime": "97.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.27%",
-    "uptimeMonth": "98.53%",
+    "uptimeMonth": "98.54%",
     "uptimeYear": "98.20%",
     "time": 1609,
     "timeDay": 393,
@@ -1037,18 +1037,19 @@
     "url": "$ST",
     "icon": "$ST_ICON",
     "slug": "scene-time",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "99.35%",
-    "time": 2623,
-    "timeDay": 1495,
-    "timeWeek": 1391,
-    "timeMonth": 1435,
-    "timeYear": 2597,
+    "uptimeYear": "99.36%",
+    "time": 2624,
+    "timeDay": 1917,
+    "timeWeek": 1440,
+    "timeMonth": 1445,
+    "timeYear": 2598,
     "dailyMinutesDown": {
+      "2024-07-05": 1,
       "2024-06-25": 18,
       "2024-06-24": 22,
       "2024-06-22": 23,
@@ -1109,8 +1110,7 @@
       "2023-12-09": 25,
       "2023-12-08": 74,
       "2023-12-07": 36,
-      "2023-12-06": 119,
-      "2023-12-05": 32
+      "2023-12-06": 119
     }
   },
   {
