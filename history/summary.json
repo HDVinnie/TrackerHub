@@ -556,12 +556,12 @@
     "status": "up",
     "uptime": "98.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.52%",
+    "uptimeWeek": "97.87%",
     "uptimeMonth": "97.68%",
     "uptimeYear": "97.00%",
     "time": 657,
     "timeDay": 417,
-    "timeWeek": 429,
+    "timeWeek": 417,
     "timeMonth": 744,
     "timeYear": 634,
     "dailyMinutesDown": {
@@ -601,9 +601,9 @@
     "slug": "great-poster-wall",
     "status": "up",
     "uptime": "98.17%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1049,
     "timeDay": 1816,
@@ -611,7 +611,6 @@
     "timeMonth": 1127,
     "timeYear": 1011,
     "dailyMinutesDown": {
-      "2024-07-28": 9,
       "2023-11-27": 41
     }
   },
@@ -903,7 +902,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.46%",
+    "uptimeYear": "87.47%",
     "time": 668,
     "timeDay": 448,
     "timeWeek": 530,
@@ -1020,18 +1019,19 @@
     "url": "$ST",
     "icon": "$ST_ICON",
     "slug": "scene-time",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.45%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.43%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.34%",
     "time": 2554,
-    "timeDay": 1047,
-    "timeWeek": 1201,
+    "timeDay": 1071,
+    "timeWeek": 1200,
     "timeMonth": 1215,
     "timeYear": 2533,
     "dailyMinutesDown": {
+      "2024-07-28": 2,
       "2024-07-25": 12,
       "2024-07-24": 10,
       "2024-07-21": 33,
@@ -1097,7 +1097,7 @@
       "2023-12-10": 16,
       "2023-12-09": 25,
       "2023-12-08": 74,
-      "2023-12-07": 36
+      "2023-12-07": 17
     }
   },
   {
