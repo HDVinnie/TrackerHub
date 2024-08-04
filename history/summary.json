@@ -34,7 +34,7 @@
     "time": 1472,
     "timeDay": 598,
     "timeWeek": 6159,
-    "timeMonth": 2270,
+    "timeMonth": 2284,
     "timeYear": 1600,
     "dailyMinutesDown": {
       "2024-07-31": 1189,
@@ -234,7 +234,7 @@
     "uptime": "94.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.14%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "87.99%",
     "time": 1731,
     "timeDay": 543,
@@ -456,18 +456,19 @@
     "url": "$EMP",
     "icon": "$EMP_ICON",
     "slug": "empornium",
-    "status": "up",
+    "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.00%",
+    "uptimeYear": "97.01%",
     "time": 1475,
-    "timeDay": 585,
-    "timeWeek": 2755,
-    "timeMonth": 1214,
+    "timeDay": 651,
+    "timeWeek": 2614,
+    "timeMonth": 1207,
     "timeYear": 1515,
     "dailyMinutesDown": {
+      "2024-08-04": 1,
       "2024-07-03": 17,
       "2024-06-15": 74,
       "2024-05-27": 98,
@@ -502,8 +503,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1413,
-      "2023-12-01": 193,
-      "2023-11-04": 18
+      "2023-12-01": 193
     }
   },
   {
@@ -701,7 +701,7 @@
     "slug": "morethan-tv",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "72.11%",
+    "uptimeDay": "75.00%",
     "uptimeWeek": "75.07%",
     "uptimeMonth": "94.08%",
     "uptimeYear": "99.35%",
@@ -907,7 +907,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.24%",
+    "uptimeYear": "89.25%",
     "time": 762,
     "timeDay": 554,
     "timeWeek": 601,
@@ -1019,9 +1019,9 @@
     "slug": "scene-time",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "99.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.34%",
     "time": 2511,
     "timeDay": 1152,
@@ -1029,7 +1029,6 @@
     "timeMonth": 1140,
     "timeYear": 2503,
     "dailyMinutesDown": {
-      "2024-08-04": 9,
       "2024-07-31": 22,
       "2024-07-30": 54,
       "2024-07-25": 12,
@@ -1095,7 +1094,8 @@
       "2023-12-12": 52,
       "2023-12-11": 78,
       "2023-12-10": 16,
-      "2023-12-09": 25
+      "2023-12-09": 25,
+      "2023-12-08": 26
     }
   },
   {
