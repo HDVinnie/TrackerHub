@@ -458,9 +458,9 @@
     "slug": "empornium",
     "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.00%",
     "time": 1470,
     "timeDay": 609,
@@ -468,7 +468,6 @@
     "timeMonth": 1170,
     "timeYear": 1513,
     "dailyMinutesDown": {
-      "2024-08-04": 7,
       "2024-07-03": 17,
       "2024-06-15": 74,
       "2024-05-27": 98,
@@ -503,7 +502,8 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1413,
-      "2023-12-01": 193
+      "2023-12-01": 193,
+      "2023-11-04": 18
     }
   },
   {
@@ -907,7 +907,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.42%",
+    "uptimeYear": "89.44%",
     "time": 762,
     "timeDay": 554,
     "timeWeek": 601,
@@ -1017,18 +1017,19 @@
     "url": "$ST",
     "icon": "$ST_ICON",
     "slug": "scene-time",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.34%",
-    "time": 2509,
-    "timeDay": 1032,
-    "timeWeek": 1072,
-    "timeMonth": 1130,
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.35%",
+    "time": 2507,
+    "timeDay": 1125,
+    "timeWeek": 1078,
+    "timeMonth": 1131,
     "timeYear": 2501,
     "dailyMinutesDown": {
+      "2024-08-04": 1,
       "2024-07-31": 22,
       "2024-07-30": 54,
       "2024-07-25": 12,
@@ -1094,8 +1095,7 @@
       "2023-12-12": 52,
       "2023-12-11": 78,
       "2023-12-10": 16,
-      "2023-12-09": 25,
-      "2023-12-08": 26
+      "2023-12-09": 25
     }
   },
   {
