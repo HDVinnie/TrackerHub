@@ -430,7 +430,7 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.17%",
     "time": 1232,
-    "timeDay": 658,
+    "timeDay": 922,
     "timeWeek": 542,
     "timeMonth": 538,
     "timeYear": 1041,
@@ -458,9 +458,9 @@
     "slug": "empornium",
     "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.00%",
     "time": 1467,
     "timeDay": 711,
@@ -468,7 +468,6 @@
     "timeMonth": 1155,
     "timeYear": 1512,
     "dailyMinutesDown": {
-      "2024-08-05": 9,
       "2024-07-03": 17,
       "2024-06-15": 74,
       "2024-05-27": 98,
@@ -503,7 +502,8 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1413,
-      "2023-12-01": 193
+      "2023-12-01": 193,
+      "2023-11-04": 18
     }
   },
   {
@@ -906,7 +906,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.59%",
+    "uptimeYear": "89.63%",
     "time": 762,
     "timeDay": 518,
     "timeWeek": 587,
@@ -1015,18 +1015,19 @@
     "url": "$ST",
     "icon": "$ST_ICON",
     "slug": "scene-time",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.34%",
-    "time": 2506,
-    "timeDay": 895,
-    "timeWeek": 1061,
-    "timeMonth": 1127,
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.35%",
+    "time": 2507,
+    "timeDay": 956,
+    "timeWeek": 1068,
+    "timeMonth": 1129,
     "timeYear": 2499,
     "dailyMinutesDown": {
+      "2024-08-05": 2,
       "2024-07-31": 22,
       "2024-07-30": 54,
       "2024-07-25": 12,
@@ -1092,8 +1093,7 @@
       "2023-12-12": 52,
       "2023-12-11": 78,
       "2023-12-10": 16,
-      "2023-12-09": 25,
-      "2023-12-08": 26
+      "2023-12-09": 25
     }
   },
   {
