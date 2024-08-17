@@ -192,7 +192,7 @@
     "timeDay": 227,
     "timeWeek": 1018,
     "timeMonth": 600,
-    "timeYear": 2326,
+    "timeYear": 2328,
     "dailyMinutesDown": {
       "2024-08-15": 20,
       "2024-07-31": 17,
@@ -887,9 +887,9 @@
     "slug": "private-hd",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
     "time": 543,
     "timeDay": 4611,
@@ -897,7 +897,7 @@
     "timeMonth": 962,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2024-08-17": 43,
+      "2024-08-17": 35,
       "2024-02-07": 40,
       "2024-01-28": 283,
       "2023-12-19": 25
@@ -1013,18 +1013,19 @@
     "url": "$ST",
     "icon": "$ST_ICON",
     "slug": "scene-time",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.36%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "99.20%",
-    "uptimeYear": "99.34%",
+    "uptimeYear": "99.35%",
     "time": 2474,
-    "timeDay": 1821,
+    "timeDay": 1794,
     "timeWeek": 1324,
-    "timeMonth": 1221,
-    "timeYear": 2457,
+    "timeMonth": 1222,
+    "timeYear": 2456,
     "dailyMinutesDown": {
+      "2024-08-17": 1,
       "2024-08-14": 17,
       "2024-08-11": 47,
       "2024-08-10": 0,
@@ -1092,7 +1093,7 @@
       "2023-12-14": 148,
       "2023-12-13": 79,
       "2023-12-12": 52,
-      "2023-12-11": 56
+      "2023-12-11": 35
     }
   },
   {
