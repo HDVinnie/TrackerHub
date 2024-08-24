@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "93.31%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "92.87%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.96%",
     "time": 843,
     "timeDay": 350,
@@ -16,7 +16,7 @@
     "timeMonth": 607,
     "timeYear": 914,
     "dailyMinutesDown": {
-      "2024-08-24": 96,
+      "2024-08-24": 102,
       "2024-04-02": 68,
       "2023-10-19": 53
     }
@@ -238,7 +238,7 @@
     "timeDay": 527,
     "timeWeek": 799,
     "timeMonth": 679,
-    "timeYear": 1767,
+    "timeYear": 1768,
     "dailyMinutesDown": {
       "2024-07-23": 59,
       "2024-07-18": 50,
@@ -424,9 +424,9 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "88.26%",
-    "uptimeWeek": "94.30%",
-    "uptimeMonth": "98.37%",
+    "uptimeDay": "88.71%",
+    "uptimeWeek": "94.37%",
+    "uptimeMonth": "98.38%",
     "uptimeYear": "99.06%",
     "time": 972,
     "timeDay": 1258,
@@ -434,7 +434,7 @@
     "timeMonth": 869,
     "timeYear": 1050,
     "dailyMinutesDown": {
-      "2024-08-24": 170,
+      "2024-08-24": 163,
       "2024-08-21": 405,
       "2024-07-31": 141,
       "2024-06-27": 71,
@@ -1003,18 +1003,19 @@
     "url": "$ST",
     "icon": "$ST_ICON",
     "slug": "scene-time",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.45%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "97.44%",
     "uptimeMonth": "99.00%",
-    "uptimeYear": "99.31%",
+    "uptimeYear": "99.32%",
     "time": 2459,
-    "timeDay": 1003,
-    "timeWeek": 1797,
-    "timeMonth": 1376,
+    "timeDay": 1082,
+    "timeWeek": 1795,
+    "timeMonth": 1377,
     "timeYear": 2430,
     "dailyMinutesDown": {
+      "2024-08-24": 1,
       "2024-08-22": 37,
       "2024-08-21": 19,
       "2024-08-20": 143,
@@ -1085,7 +1086,7 @@
       "2023-12-25": 30,
       "2023-12-23": 123,
       "2023-12-14": 148,
-      "2023-12-13": 79
+      "2023-12-13": 44
     }
   },
   {
