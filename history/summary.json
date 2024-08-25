@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "91.29%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "91.70%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.95%",
     "time": 839,
     "timeDay": 324,
@@ -16,7 +16,7 @@
     "timeMonth": 569,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2024-08-24": 125,
+      "2024-08-24": 119,
       "2024-04-02": 68,
       "2023-10-19": 53
     }
@@ -174,8 +174,7 @@
       "2023-10-26": 184,
       "2023-08-29": 55,
       "2023-08-28": 208,
-      "2023-08-27": 116,
-      "2023-08-26": 59
+      "2023-08-27": 116
     }
   },
   {
@@ -908,7 +907,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.94%",
+    "uptimeYear": "94.95%",
     "time": 783,
     "timeDay": 526,
     "timeWeek": 646,
@@ -939,8 +938,7 @@
       "2023-10-11": 48,
       "2023-09-23": 97,
       "2023-08-28": 1420,
-      "2023-08-27": 1440,
-      "2023-08-26": 1440
+      "2023-08-27": 1440
     }
   },
   {
@@ -950,7 +948,7 @@
     "slug": "redacted",
     "status": "up",
     "uptime": "98.00%",
-    "uptimeDay": "98.48%",
+    "uptimeDay": "99.52%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "98.14%",
@@ -1003,19 +1001,19 @@
     "url": "$ST",
     "icon": "$ST_ICON",
     "slug": "scene-time",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.59%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "97.39%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.32%",
-    "time": 2459,
-    "timeDay": 1050,
-    "timeWeek": 1782,
-    "timeMonth": 1369,
+    "time": 2460,
+    "timeDay": 1127,
+    "timeWeek": 1784,
+    "timeMonth": 1372,
     "timeYear": 2429,
     "dailyMinutesDown": {
-      "2024-08-24": 6,
+      "2024-08-25": 1,
       "2024-08-22": 37,
       "2024-08-21": 19,
       "2024-08-20": 143,
