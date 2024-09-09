@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "98.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "98.32%",
     "uptimeYear": "99.84%",
     "time": 891,
     "timeDay": 1097,
@@ -16,7 +16,6 @@
     "timeMonth": 943,
     "timeYear": 944,
     "dailyMinutesDown": {
-      "2024-09-09": 9,
       "2024-09-08": 15,
       "2024-09-07": 41,
       "2024-08-25": 560,
@@ -236,7 +235,7 @@
     "timeDay": 230,
     "timeWeek": 946,
     "timeMonth": 777,
-    "timeYear": 1785,
+    "timeYear": 1787,
     "dailyMinutesDown": {
       "2024-07-23": 59,
       "2024-07-18": 50,
@@ -522,7 +521,7 @@
     "time": 904,
     "timeDay": 346,
     "timeWeek": 485,
-    "timeMonth": 1411,
+    "timeMonth": 1322,
     "timeYear": 808,
     "dailyMinutesDown": {
       "2024-08-31": 80,
@@ -617,7 +616,7 @@
     "timeDay": 1041,
     "timeWeek": 989,
     "timeMonth": 924,
-    "timeYear": 1014,
+    "timeYear": 1011,
     "dailyMinutesDown": {
       "2023-11-27": 41
     }
@@ -779,7 +778,7 @@
     "timeDay": 971,
     "timeWeek": 803,
     "timeMonth": 577,
-    "timeYear": 829,
+    "timeYear": 830,
     "dailyMinutesDown": {
       "2024-09-05": 22,
       "2024-08-08": 19,
@@ -1021,18 +1020,19 @@
     "url": "$ST",
     "icon": "$ST_ICON",
     "slug": "scene-time",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.47%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.45%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "99.31%",
     "time": 2436,
-    "timeDay": 1706,
-    "timeWeek": 2437,
-    "timeMonth": 1619,
+    "timeDay": 1684,
+    "timeWeek": 2421,
+    "timeMonth": 1622,
     "timeYear": 2398,
     "dailyMinutesDown": {
+      "2024-09-09": 2,
       "2024-09-04": 53,
       "2024-09-01": 28,
       "2024-08-25": 22,
@@ -1105,7 +1105,7 @@
       "2024-01-02": 49,
       "2023-12-25": 30,
       "2023-12-23": 123,
-      "2023-12-14": 148
+      "2023-12-14": 132
     }
   },
   {
