@@ -459,18 +459,19 @@
     "url": "$EMP",
     "icon": "$EMP_ICON",
     "slug": "empornium",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.00%",
+    "uptimeYear": "97.01%",
     "time": 1482,
-    "timeDay": 239,
-    "timeWeek": 1110,
-    "timeMonth": 1343,
+    "timeDay": 775,
+    "timeWeek": 1121,
+    "timeMonth": 1342,
     "timeYear": 1530,
     "dailyMinutesDown": {
+      "2024-09-14": 1,
       "2024-07-03": 17,
       "2024-06-15": 74,
       "2024-05-27": 98,
@@ -505,8 +506,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1413,
-      "2023-12-01": 193,
-      "2023-11-04": 18
+      "2023-12-01": 193
     }
   },
   {
@@ -710,7 +710,7 @@
     "status": "up",
     "uptime": "99.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.13%",
+    "uptimeWeek": "88.79%",
     "uptimeMonth": "87.58%",
     "uptimeYear": "98.31%",
     "time": 664,
@@ -1021,17 +1021,16 @@
     "slug": "scene-time",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.04%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "99.31%",
     "time": 2432,
     "timeDay": 1518,
     "timeWeek": 1214,
     "timeMonth": 1645,
-    "timeYear": 2382,
+    "timeYear": 2383,
     "dailyMinutesDown": {
-      "2024-09-14": 11,
       "2024-09-11": 32,
       "2024-09-04": 53,
       "2024-09-01": 28,
@@ -1105,7 +1104,7 @@
       "2024-01-02": 49,
       "2023-12-25": 30,
       "2023-12-23": 123,
-      "2023-12-14": 113
+      "2023-12-14": 132
     }
   },
   {
