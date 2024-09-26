@@ -13,7 +13,7 @@
     "time": 1011,
     "timeDay": 923,
     "timeWeek": 712,
-    "timeMonth": 1755,
+    "timeMonth": 1762,
     "timeYear": 1094,
     "dailyMinutesDown": {
       "2024-09-12": 25,
@@ -41,7 +41,7 @@
     "time": 1532,
     "timeDay": 930,
     "timeWeek": 723,
-    "timeMonth": 1075,
+    "timeMonth": 1084,
     "timeYear": 1644,
     "dailyMinutesDown": {
       "2024-09-18": 27,
@@ -120,7 +120,7 @@
     "time": 1161,
     "timeDay": 652,
     "timeWeek": 597,
-    "timeMonth": 1987,
+    "timeMonth": 2006,
     "timeYear": 1182,
     "dailyMinutesDown": {
       "2024-09-16": 16,
@@ -1016,18 +1016,17 @@
     "icon": "$ST_ICON",
     "slug": "scene-time",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.63%",
+    "uptime": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "99.31%",
+    "uptimeYear": "99.30%",
     "time": 2328,
     "timeDay": 1097,
     "timeWeek": 988,
     "timeMonth": 1429,
     "timeYear": 2296,
     "dailyMinutesDown": {
-      "2024-09-25": 4,
       "2024-09-22": 32,
       "2024-09-21": 1,
       "2024-09-11": 32,
@@ -1103,7 +1102,7 @@
       "2024-01-02": 49,
       "2023-12-25": 30,
       "2023-12-23": 123,
-      "2023-12-14": 86
+      "2023-12-14": 113
     }
   },
   {
@@ -1131,8 +1130,7 @@
       "2023-12-28": 16,
       "2023-10-12": 69,
       "2023-10-09": 72,
-      "2023-10-04": 16,
-      "2023-09-27": 24
+      "2023-10-04": 16
     }
   },
   {
@@ -1141,18 +1139,19 @@
     "icon": "$TL_ICON",
     "slug": "torrent-leech",
     "status": "down",
-    "uptime": "96.77%",
+    "uptime": "96.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.72%",
-    "uptimeMonth": "95.44%",
-    "uptimeYear": "98.92%",
+    "uptimeWeek": "79.97%",
+    "uptimeMonth": "95.27%",
+    "uptimeYear": "98.91%",
     "time": 1696,
     "timeDay": 1693,
     "timeWeek": 1678,
     "timeMonth": 1425,
     "timeYear": 1674,
     "dailyMinutesDown": {
-      "2024-09-25": 1386,
+      "2024-09-26": 22,
+      "2024-09-25": 1440,
       "2024-09-24": 557,
       "2024-09-11": 23,
       "2024-08-27": 31,
