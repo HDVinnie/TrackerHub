@@ -308,8 +308,7 @@
       "2023-10-09": 25,
       "2023-10-07": 34,
       "2023-10-05": 54,
-      "2023-10-01": 23,
-      "2023-09-28": 45
+      "2023-10-01": 23
     }
   },
   {
@@ -420,7 +419,7 @@
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -522,8 +521,7 @@
     "timeYear": 833,
     "dailyMinutesDown": {
       "2024-08-31": 80,
-      "2024-06-23": 20,
-      "2023-09-28": 21
+      "2024-06-23": 20
     }
   },
   {
@@ -1017,18 +1015,17 @@
     "icon": "$ST_ICON",
     "slug": "scene-time",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.31%",
+    "uptime": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.30%",
     "time": 2323,
     "timeDay": 914,
     "timeWeek": 985,
     "timeMonth": 1408,
     "timeYear": 2289,
     "dailyMinutesDown": {
-      "2024-09-26": 7,
       "2024-09-22": 32,
       "2024-09-21": 1,
       "2024-09-11": 32,
@@ -1104,7 +1101,7 @@
       "2024-01-02": 49,
       "2023-12-25": 30,
       "2023-12-23": 123,
-      "2023-12-14": 86
+      "2023-12-14": 113
     }
   },
   {
@@ -1117,7 +1114,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeYear": "99.91%",
     "time": 1041,
     "timeDay": 8910,
     "timeWeek": 6488,
@@ -1141,18 +1138,19 @@
     "icon": "$TL_ICON",
     "slug": "torrent-leech",
     "status": "down",
-    "uptime": "96.72%",
+    "uptime": "96.71%",
     "uptimeDay": "64.74%",
-    "uptimeWeek": "75.31%",
-    "uptimeMonth": "94.20%",
-    "uptimeYear": "98.82%",
+    "uptimeWeek": "74.93%",
+    "uptimeMonth": "94.11%",
+    "uptimeYear": "98.81%",
     "time": 1721,
     "timeDay": 3933,
     "timeWeek": 2854,
     "timeMonth": 1876,
     "timeYear": 1708,
     "dailyMinutesDown": {
-      "2024-09-26": 491,
+      "2024-09-27": 22,
+      "2024-09-26": 508,
       "2024-09-25": 1440,
       "2024-09-24": 557,
       "2024-09-11": 23,
