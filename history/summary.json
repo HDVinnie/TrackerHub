@@ -1022,9 +1022,9 @@
     "slug": "scene-time",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "99.34%",
     "time": 2193,
     "timeDay": 969,
@@ -1032,7 +1032,6 @@
     "timeMonth": 1081,
     "timeYear": 2159,
     "dailyMinutesDown": {
-      "2024-10-18": 6,
       "2024-10-07": 16,
       "2024-10-06": 20,
       "2024-10-05": 20,
@@ -1111,7 +1110,7 @@
       "2024-02-05": 54,
       "2024-02-03": 39,
       "2024-02-02": 115,
-      "2024-02-01": 20
+      "2024-02-01": 49
     }
   },
   {
@@ -1147,9 +1146,9 @@
     "slug": "torrent-leech",
     "status": "down",
     "uptime": "94.95%",
-    "uptimeDay": "82.90%",
-    "uptimeWeek": "88.09%",
-    "uptimeMonth": "53.44%",
+    "uptimeDay": "80.97%",
+    "uptimeWeek": "87.81%",
+    "uptimeMonth": "53.38%",
     "uptimeYear": "95.79%",
     "time": 1655,
     "timeDay": 218,
@@ -1157,7 +1156,8 @@
     "timeMonth": 1301,
     "timeYear": 1664,
     "dailyMinutesDown": {
-      "2024-10-18": 246,
+      "2024-10-19": 22,
+      "2024-10-18": 252,
       "2024-10-16": 497,
       "2024-10-15": 347,
       "2024-10-14": 20,
