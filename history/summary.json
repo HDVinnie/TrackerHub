@@ -1021,18 +1021,19 @@
     "url": "$ST",
     "icon": "$ST_ICON",
     "slug": "scene-time",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.55%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.34%",
     "time": 2155,
-    "timeDay": 989,
-    "timeWeek": 1049,
+    "timeDay": 1004,
+    "timeWeek": 1051,
     "timeMonth": 1079,
     "timeYear": 2125,
     "dailyMinutesDown": {
+      "2024-10-21": 2,
       "2024-10-20": 22,
       "2024-10-19": 23,
       "2024-10-07": 16,
@@ -1112,7 +1113,7 @@
       "2024-02-06": 56,
       "2024-02-05": 54,
       "2024-02-03": 39,
-      "2024-02-02": 115
+      "2024-02-02": 96
     }
   },
   {
@@ -1147,7 +1148,7 @@
     "icon": "$TL_ICON",
     "slug": "torrent-leech",
     "status": "up",
-    "uptime": "94.91%",
+    "uptime": "94.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "83.34%",
     "uptimeMonth": "52.10%",
