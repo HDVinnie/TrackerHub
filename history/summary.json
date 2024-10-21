@@ -340,12 +340,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.06%",
+    "uptimeYear": "99.07%",
     "time": 966,
     "timeDay": 342,
     "timeWeek": 423,
     "timeMonth": 686,
-    "timeYear": 1078,
+    "timeYear": 1082,
     "dailyMinutesDown": {
       "2024-10-10": 68,
       "2024-10-07": 36,
@@ -453,18 +453,19 @@
     "url": "$EMP",
     "icon": "$EMP_ICON",
     "slug": "empornium",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.00%",
-    "time": 1506,
-    "timeDay": 222,
-    "timeWeek": 328,
-    "timeMonth": 412,
-    "timeYear": 1433,
+    "uptimeYear": "97.01%",
+    "time": 1509,
+    "timeDay": 2865,
+    "timeWeek": 975,
+    "timeMonth": 571,
+    "timeYear": 1436,
     "dailyMinutesDown": {
+      "2024-10-21": 1,
       "2024-07-03": 17,
       "2024-06-15": 74,
       "2024-05-27": 98,
@@ -499,8 +500,7 @@
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1413,
-      "2023-12-01": 193,
-      "2023-11-04": 18
+      "2023-12-01": 193
     }
   },
   {
@@ -1022,9 +1022,9 @@
     "slug": "scene-time",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "99.34%",
     "time": 2157,
     "timeDay": 1025,
@@ -1032,7 +1032,6 @@
     "timeMonth": 1080,
     "timeYear": 2134,
     "dailyMinutesDown": {
-      "2024-10-21": 7,
       "2024-10-20": 22,
       "2024-10-19": 23,
       "2024-10-07": 16,
@@ -1112,7 +1111,7 @@
       "2024-02-06": 56,
       "2024-02-05": 54,
       "2024-02-03": 39,
-      "2024-02-02": 96
+      "2024-02-02": 115
     }
   },
   {
