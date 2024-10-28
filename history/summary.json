@@ -304,8 +304,7 @@
       "2023-11-08": 1440,
       "2023-11-07": 762,
       "2023-11-01": 28,
-      "2023-10-31": 17,
-      "2023-10-29": 24
+      "2023-10-31": 17
     }
   },
   {
@@ -459,9 +458,9 @@
     "slug": "empornium",
     "status": "degraded",
     "uptime": "98.71%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "97.00%",
     "time": 1481,
     "timeDay": 1129,
@@ -469,6 +468,7 @@
     "timeMonth": 598,
     "timeYear": 1435,
     "dailyMinutesDown": {
+      "2024-10-28": 22,
       "2024-10-27": 7,
       "2024-07-03": 17,
       "2024-06-15": 74,
@@ -1157,7 +1157,7 @@
     "uptime": "94.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.08%",
+    "uptimeMonth": "61.12%",
     "uptimeYear": "95.68%",
     "time": 1636,
     "timeDay": 403,
