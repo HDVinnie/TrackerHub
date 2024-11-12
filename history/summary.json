@@ -334,10 +334,10 @@
     "url": "$BTN",
     "icon": "$BTN_ICON",
     "slug": "broadcas-the-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.39%",
     "uptimeYear": "99.80%",
     "time": 682,
@@ -346,6 +346,7 @@
     "timeMonth": 441,
     "timeYear": 749,
     "dailyMinutesDown": {
+      "2024-11-12": 1,
       "2024-10-26": 211,
       "2024-10-25": 56,
       "2024-09-04": 154,
@@ -985,9 +986,9 @@
     "slug": "scene-time",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "97.37%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "97.07%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "97.09%",
     "uptimeYear": "99.13%",
     "time": 1976,
     "timeDay": 1128,
@@ -995,7 +996,7 @@
     "timeMonth": 1092,
     "timeYear": 1951,
     "dailyMinutesDown": {
-      "2024-11-12": 38,
+      "2024-11-12": 32,
       "2024-11-07": 19,
       "2024-10-31": 1046,
       "2024-10-29": 78,
@@ -1078,7 +1079,7 @@
       "2024-02-08": 102,
       "2024-02-07": 19,
       "2024-02-06": 56,
-      "2024-02-05": 35
+      "2024-02-05": 54
     }
   },
   {
