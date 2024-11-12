@@ -31,12 +31,6 @@ sites:
     url: $BIB
     icon: $BIB_ICON
     maxResponseTime: 1000
-  - name: Blutopia
-    url: $BLU
-    icon: $BLU_ICON
-    maxResponseTime: 1000
-    assignees:
-      - HDVinnie
   - name: BroadcasTheNet
     url: $BTN
     icon: $BTN_ICON
