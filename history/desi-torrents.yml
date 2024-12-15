@@ -1,7 +1,7 @@
 url: $DST
-status: up
-code: 200
-responseTime: 333
-lastUpdated: 2024-12-15T15:46:55.697Z
+status: degraded
+code: 500
+responseTime: 5295
+lastUpdated: 2024-12-15T17:28:46.479Z
 startTime: 2022-07-01T18:42:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
