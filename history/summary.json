@@ -313,7 +313,7 @@
     "icon": "$BLU_ICON",
     "slug": "blutopia",
     "status": "up",
-    "uptime": "70.26%",
+    "uptime": "70.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.69%",
@@ -404,11 +404,11 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "87.44%",
-    "uptimeWeek": "88.10%",
-    "uptimeMonth": "94.00%",
+    "uptimeDay": "87.39%",
+    "uptimeWeek": "88.09%",
+    "uptimeMonth": "94.04%",
     "uptimeYear": "99.50%",
     "time": 1031,
     "timeDay": 1193,
@@ -416,7 +416,7 @@
     "timeMonth": 1008,
     "timeYear": 1040,
     "dailyMinutesDown": {
-      "2024-12-27": 98,
+      "2024-12-27": 99,
       "2024-12-26": 212,
       "2024-12-25": 108,
       "2024-12-24": 245,
@@ -436,8 +436,7 @@
       "2024-12-10": 168,
       "2024-12-09": 181,
       "2024-12-08": 56,
-      "2024-12-07": 37,
-      "2024-12-06": 17
+      "2024-12-07": 37
     }
   },
   {
@@ -550,7 +549,7 @@
     "status": "up",
     "uptime": "98.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.15%",
+    "uptimeWeek": "97.22%",
     "uptimeMonth": "93.30%",
     "uptimeYear": "97.30%",
     "time": 669,
