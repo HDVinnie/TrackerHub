@@ -404,11 +404,11 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "84.16%",
-    "uptimeWeek": "87.32%",
-    "uptimeMonth": "94.08%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "84.08%",
+    "uptimeWeek": "87.31%",
+    "uptimeMonth": "94.16%",
     "uptimeYear": "99.51%",
     "time": 1017,
     "timeDay": 1107,
@@ -416,7 +416,7 @@
     "timeMonth": 1014,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2024-12-28": 155,
+      "2024-12-28": 156,
       "2024-12-27": 117,
       "2024-12-26": 212,
       "2024-12-25": 108,
@@ -435,7 +435,7 @@
       "2024-12-12": 63,
       "2024-12-11": 46,
       "2024-12-10": 168,
-      "2024-12-09": 84
+      "2024-12-09": 48
     }
   },
   {
@@ -516,7 +516,7 @@
     "status": "down",
     "uptime": "99.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "71.98%",
+    "uptimeWeek": "72.08%",
     "uptimeMonth": "92.20%",
     "uptimeYear": "99.05%",
     "time": 565,
@@ -1017,12 +1017,12 @@
     "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "98.16%",
+    "uptimeMonth": "98.18%",
     "uptimeYear": "99.23%",
     "time": 1625,
     "timeDay": 929,
     "timeWeek": 1005,
-    "timeMonth": 1228,
+    "timeMonth": 1229,
     "timeYear": 1568,
     "dailyMinutesDown": {
       "2024-12-24": 18,
