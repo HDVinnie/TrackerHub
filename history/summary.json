@@ -12,7 +12,7 @@
     "uptimeYear": "99.81%",
     "time": 1114,
     "timeDay": 546,
-    "timeWeek": 1982,
+    "timeWeek": 2066,
     "timeMonth": 1923,
     "timeYear": 1159,
     "dailyMinutesDown": {
@@ -314,11 +314,11 @@
     "icon": "$BLU_ICON",
     "slug": "blutopia",
     "status": "up",
-    "uptime": "71.88%",
+    "uptime": "71.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.05%",
-    "uptimeYear": "82.52%",
+    "uptimeYear": "82.53%",
     "time": 1139,
     "timeDay": 319,
     "timeWeek": 389,
@@ -407,9 +407,9 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "77.31%",
-    "uptimeWeek": "85.07%",
-    "uptimeMonth": "93.98%",
+    "uptimeDay": "77.81%",
+    "uptimeWeek": "85.25%",
+    "uptimeMonth": "93.95%",
     "uptimeYear": "99.50%",
     "time": 1000,
     "timeDay": 707,
@@ -417,7 +417,7 @@
     "timeMonth": 995,
     "timeYear": 1031,
     "dailyMinutesDown": {
-      "2024-12-29": 210,
+      "2024-12-29": 203,
       "2024-12-28": 310,
       "2024-12-27": 117,
       "2024-12-26": 212,
@@ -434,7 +434,7 @@
       "2024-12-15": 107,
       "2024-12-14": 78,
       "2024-12-13": 66,
-      "2024-12-12": 41
+      "2024-12-12": 63
     }
   },
   {
@@ -1009,18 +1009,19 @@
     "url": "$ST",
     "icon": "$ST_ICON",
     "slug": "scene-time",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "99.23%",
-    "time": 1623,
-    "timeDay": 907,
-    "timeWeek": 988,
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "99.24%",
+    "time": 1621,
+    "timeDay": 965,
+    "timeWeek": 998,
     "timeMonth": 1227,
-    "timeYear": 1568,
+    "timeYear": 1567,
     "dailyMinutesDown": {
+      "2024-12-29": 1,
       "2024-12-24": 18,
       "2024-12-18": 18,
       "2024-12-17": 22,
@@ -1099,7 +1100,7 @@
       "2024-05-05": 22,
       "2024-05-03": 41,
       "2024-04-27": 264,
-      "2024-04-26": 74
+      "2024-04-26": 56
     }
   },
   {
