@@ -316,7 +316,7 @@
     "icon": "$BLU_ICON",
     "slug": "blutopia",
     "status": "up",
-    "uptime": "76.28%",
+    "uptime": "76.29%",
     "uptimeDay": "98.07%",
     "uptimeWeek": "93.28%",
     "uptimeMonth": "96.51%",
@@ -410,11 +410,11 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "85.30%",
-    "uptimeWeek": "86.09%",
-    "uptimeMonth": "93.98%",
+    "uptimeDay": "86.22%",
+    "uptimeWeek": "86.08%",
+    "uptimeMonth": "94.04%",
     "uptimeYear": "99.50%",
     "time": 989,
     "timeDay": 966,
@@ -422,7 +422,7 @@
     "timeMonth": 976,
     "timeYear": 1015,
     "dailyMinutesDown": {
-      "2025-01-01": 133,
+      "2025-01-01": 134,
       "2024-12-31": 135,
       "2024-12-30": 190,
       "2024-12-29": 308,
@@ -436,7 +436,7 @@
       "2024-12-21": 113,
       "2024-12-20": 111,
       "2024-12-19": 167,
-      "2024-12-18": 66
+      "2024-12-18": 39
     }
   },
   {
@@ -624,9 +624,9 @@
     "slug": "hawke-uno",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "97.47%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.50%",
     "time": 1174,
     "timeDay": 974,
@@ -634,7 +634,7 @@
     "timeMonth": 1094,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2025-01-01": 36,
+      "2025-01-01": 24,
       "2024-12-23": 32,
       "2024-12-19": 37,
       "2024-12-05": 24,
@@ -759,7 +759,7 @@
     "timeDay": 439,
     "timeWeek": 667,
     "timeMonth": 715,
-    "timeYear": 692,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2024-06-01": 17,
       "2024-03-12": 33,
