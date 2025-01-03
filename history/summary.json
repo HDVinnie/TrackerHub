@@ -318,7 +318,7 @@
     "icon": "$BLU_ICON",
     "slug": "blutopia",
     "status": "up",
-    "uptime": "77.37%",
+    "uptime": "77.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.28%",
     "uptimeMonth": "96.58%",
@@ -412,19 +412,19 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "91.93%",
-    "uptimeWeek": "85.43%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "99.51%",
+    "status": "down",
+    "uptime": "99.81%",
+    "uptimeDay": "91.88%",
+    "uptimeWeek": "85.42%",
+    "uptimeMonth": "94.20%",
+    "uptimeYear": "99.52%",
     "time": 992,
     "timeDay": 1090,
     "timeWeek": 887,
     "timeMonth": 975,
     "timeYear": 1013,
     "dailyMinutesDown": {
-      "2025-01-03": 69,
+      "2025-01-03": 70,
       "2025-01-02": 172,
       "2025-01-01": 214,
       "2024-12-31": 135,
@@ -437,7 +437,7 @@
       "2024-12-24": 245,
       "2024-12-23": 218,
       "2024-12-22": 207,
-      "2024-12-21": 85
+      "2024-12-21": 39
     }
   },
   {
@@ -1014,17 +1014,16 @@
     "slug": "scene-time",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.23%",
     "time": 1600,
     "timeDay": 1009,
     "timeWeek": 970,
-    "timeMonth": 1180,
+    "timeMonth": 1181,
     "timeYear": 1555,
     "dailyMinutesDown": {
-      "2025-01-03": 13,
       "2024-12-24": 18,
       "2024-12-18": 18,
       "2024-12-17": 22,
@@ -1103,7 +1102,7 @@
       "2024-05-05": 22,
       "2024-05-03": 41,
       "2024-04-27": 264,
-      "2024-04-26": 56
+      "2024-04-26": 74
     }
   },
   {
