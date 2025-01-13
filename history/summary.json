@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.80%",
     "time": 1211,
     "timeDay": 3914,
@@ -16,7 +16,6 @@
     "timeMonth": 2202,
     "timeYear": 1253,
     "dailyMinutesDown": {
-      "2025-01-12": 8,
       "2024-12-31": 28,
       "2024-12-15": 16,
       "2024-12-02": 31,
@@ -317,11 +316,11 @@
     "icon": "$BLU_ICON",
     "slug": "blutopia",
     "status": "up",
-    "uptime": "81.80%",
+    "uptime": "81.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.61%",
-    "uptimeYear": "86.63%",
+    "uptimeYear": "86.64%",
     "time": 1085,
     "timeDay": 443,
     "timeWeek": 383,
@@ -413,18 +412,19 @@
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
     "status": "down",
-    "uptime": "98.93%",
+    "uptime": "98.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.31%",
-    "uptimeYear": "97.28%",
+    "uptimeMonth": "67.18%",
+    "uptimeYear": "97.26%",
     "time": 993,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 962,
     "timeYear": 1009,
     "dailyMinutesDown": {
-      "2025-01-12": 1406,
+      "2025-01-13": 23,
+      "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -781,8 +781,7 @@
       "2024-06-01": 17,
       "2024-03-12": 33,
       "2024-01-16": 23,
-      "2024-01-15": 27,
-      "2024-01-14": 41
+      "2024-01-15": 27
     }
   },
   {
@@ -1039,7 +1038,7 @@
     "time": 1609,
     "timeDay": 958,
     "timeWeek": 960,
-    "timeMonth": 1048,
+    "timeMonth": 1043,
     "timeYear": 1548,
     "dailyMinutesDown": {
       "2025-01-12": 23,
@@ -1211,8 +1210,7 @@
       "2024-05-13": 25,
       "2024-05-11": 20,
       "2024-04-24": 26,
-      "2024-03-21": 24,
-      "2024-01-14": 435
+      "2024-03-21": 24
     }
   },
   {
