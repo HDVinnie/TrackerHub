@@ -314,11 +314,11 @@
     "icon": "$BLU_ICON",
     "slug": "blutopia",
     "status": "up",
-    "uptime": "82.84%",
+    "uptime": "82.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.17%",
-    "uptimeYear": "86.76%",
+    "uptimeYear": "86.77%",
     "time": 1157,
     "timeDay": 1096,
     "timeWeek": 588,
@@ -408,7 +408,7 @@
     "status": "up",
     "uptime": "98.03%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "77.21%",
+    "uptimeWeek": "77.43%",
     "uptimeMonth": "40.63%",
     "uptimeYear": "94.91%",
     "time": 993,
@@ -491,8 +491,7 @@
       "2024-02-02": 480,
       "2024-02-01": 47,
       "2024-01-31": 528,
-      "2024-01-30": 18,
-      "2024-01-28": 29
+      "2024-01-30": 18
     }
   },
   {
@@ -527,7 +526,7 @@
     "uptime": "95.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.30%",
+    "uptimeMonth": "65.25%",
     "uptimeYear": "95.70%",
     "time": 542,
     "timeDay": 0,
@@ -535,7 +534,8 @@
     "timeMonth": 308,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2025-01-26": 1439,
+      "2025-01-27": 21,
+      "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
@@ -732,8 +732,7 @@
       "2024-02-02": 19,
       "2024-01-31": 222,
       "2024-01-30": 93,
-      "2024-01-29": 283,
-      "2024-01-28": 336
+      "2024-01-29": 283
     }
   },
   {
@@ -801,7 +800,7 @@
     "status": "up",
     "uptime": "98.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "55.49%",
+    "uptimeWeek": "55.71%",
     "uptimeMonth": "76.22%",
     "uptimeYear": "97.03%",
     "time": 937,
@@ -931,8 +930,7 @@
     "timeYear": 595,
     "dailyMinutesDown": {
       "2024-08-17": 35,
-      "2024-02-07": 40,
-      "2024-01-28": 283
+      "2024-02-07": 40
     }
   },
   {
@@ -1053,9 +1051,9 @@
     "slug": "scene-time",
     "status": "degraded",
     "uptime": "99.64%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "99.43%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "99.38%",
     "uptimeYear": "99.25%",
     "time": 1582,
     "timeDay": 1070,
@@ -1063,6 +1061,7 @@
     "timeMonth": 1007,
     "timeYear": 1547,
     "dailyMinutesDown": {
+      "2025-01-27": 22,
       "2025-01-26": 1,
       "2025-01-21": 227,
       "2025-01-12": 23,
