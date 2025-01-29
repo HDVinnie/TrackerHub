@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.80%",
     "time": 1366,
     "timeDay": 2829,
@@ -16,7 +16,6 @@
     "timeMonth": 2506,
     "timeYear": 1456,
     "dailyMinutesDown": {
-      "2025-01-28": 9,
       "2025-01-22": 27,
       "2024-12-31": 28,
       "2024-12-15": 16,
@@ -315,11 +314,11 @@
     "icon": "$BLU_ICON",
     "slug": "blutopia",
     "status": "up",
-    "uptime": "83.37%",
+    "uptime": "83.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.17%",
-    "uptimeYear": "87.17%",
+    "uptimeYear": "87.18%",
     "time": 1157,
     "timeDay": 0,
     "timeWeek": 606,
@@ -408,17 +407,16 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "98.03%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "41.59%",
-    "uptimeYear": "94.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "41.60%",
+    "uptimeYear": "94.91%",
     "time": 994,
     "timeDay": 738,
     "timeWeek": 579,
-    "timeMonth": 856,
+    "timeMonth": 857,
     "timeYear": 1012,
     "dailyMinutesDown": {
-      "2025-01-28": 8,
       "2025-01-21": 856,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
@@ -448,7 +446,7 @@
       "2024-12-26": 212,
       "2024-12-25": 108,
       "2024-12-24": 245,
-      "2024-12-23": 138
+      "2024-12-23": 159
     }
   },
   {
@@ -492,8 +490,7 @@
       "2024-02-03": 143,
       "2024-02-02": 480,
       "2024-02-01": 47,
-      "2024-01-31": 528,
-      "2024-01-30": 18
+      "2024-01-31": 528
     }
   },
   {
@@ -526,8 +523,8 @@
     "slug": "fear-no-peer",
     "status": "down",
     "uptime": "95.10%",
-    "uptimeDay": "2.56%",
-    "uptimeWeek": "0.37%",
+    "uptimeDay": "5.94%",
+    "uptimeWeek": "0.85%",
     "uptimeMonth": "58.91%",
     "uptimeYear": "95.10%",
     "time": 541,
@@ -651,9 +648,9 @@
     "slug": "hawke-uno",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.52%",
     "time": 1211,
     "timeDay": 11205,
@@ -661,7 +658,6 @@
     "timeMonth": 1398,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2025-01-28": 8,
       "2025-01-14": 15,
       "2025-01-09": 17,
       "2025-01-07": 16,
@@ -734,8 +730,7 @@
       "2024-02-04": 193,
       "2024-02-03": 59,
       "2024-02-02": 19,
-      "2024-01-31": 222,
-      "2024-01-30": 93
+      "2024-01-31": 222
     }
   },
   {
@@ -802,17 +797,18 @@
     "slug": "nebulance",
     "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "83.61%",
+    "uptimeDay": "80.22%",
     "uptimeWeek": "81.27%",
-    "uptimeMonth": "75.68%",
+    "uptimeMonth": "75.57%",
     "uptimeYear": "96.98%",
     "time": 937,
     "timeDay": 0,
-    "timeWeek": 930,
+    "timeWeek": 922,
     "timeMonth": 947,
     "timeYear": 926,
     "dailyMinutesDown": {
-      "2025-01-28": 236,
+      "2025-01-29": 3,
+      "2025-01-28": 282,
       "2025-01-23": 166,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
@@ -857,8 +853,7 @@
       "2024-03-02": 294,
       "2024-02-18": 26,
       "2024-02-16": 25,
-      "2024-02-15": 17,
-      "2024-01-30": 717
+      "2024-02-15": 17
     }
   },
   {
@@ -1053,18 +1048,19 @@
     "url": "$ST",
     "icon": "$ST_ICON",
     "slug": "scene-time",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.64%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "99.29%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.49%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.25%",
     "time": 1579,
-    "timeDay": 1006,
-    "timeWeek": 1099,
-    "timeMonth": 1007,
-    "timeYear": 1537,
+    "timeDay": 1051,
+    "timeWeek": 955,
+    "timeMonth": 1009,
+    "timeYear": 1536,
     "dailyMinutesDown": {
+      "2025-01-29": 2,
       "2025-01-28": 18,
       "2025-01-27": 31,
       "2025-01-26": 1,
@@ -1144,8 +1140,7 @@
       "2024-05-16": 19,
       "2024-05-12": 17,
       "2024-05-07": 19,
-      "2024-05-06": 22,
-      "2024-05-05": 22
+      "2024-05-06": 22
     }
   },
   {
