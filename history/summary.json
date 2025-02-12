@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.78%",
     "time": 1556,
     "timeDay": 3755,
@@ -16,7 +16,6 @@
     "timeMonth": 2931,
     "timeYear": 1692,
     "dailyMinutesDown": {
-      "2025-02-11": 6,
       "2025-02-08": 19,
       "2025-02-06": 27,
       "2025-02-03": 26,
@@ -316,11 +315,11 @@
     "icon": "$BLU_ICON",
     "slug": "blutopia",
     "status": "up",
-    "uptime": "86.43%",
+    "uptime": "86.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "92.94%",
-    "uptimeYear": "90.07%",
+    "uptimeYear": "90.11%",
     "time": 1160,
     "timeDay": 315,
     "timeWeek": 540,
@@ -370,8 +369,7 @@
       "2024-02-20": 25,
       "2024-02-19": 115,
       "2024-02-17": 84,
-      "2024-02-16": 11,
-      "2024-02-13": 74
+      "2024-02-16": 11
     }
   },
   {
@@ -410,7 +408,7 @@
     "uptime": "98.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.34%",
+    "uptimeMonth": "68.51%",
     "uptimeYear": "94.91%",
     "time": 994,
     "timeDay": 773,
@@ -516,18 +514,19 @@
     "icon": "$FNP_ICON",
     "slug": "fear-no-peer",
     "status": "down",
-    "uptime": "93.29%",
+    "uptime": "93.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "6.47%",
-    "uptimeMonth": "37.39%",
-    "uptimeYear": "93.29%",
+    "uptimeWeek": "5.76%",
+    "uptimeMonth": "37.23%",
+    "uptimeYear": "93.27%",
     "time": 542,
     "timeDay": 75,
     "timeWeek": 806,
     "timeMonth": 529,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2025-02-11": 1390,
+      "2025-02-12": 21,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -940,7 +939,7 @@
     "uptimeYear": "98.07%",
     "time": 788,
     "timeDay": 331,
-    "timeWeek": 1072,
+    "timeWeek": 1091,
     "timeMonth": 517,
     "timeYear": 805,
     "dailyMinutesDown": {
@@ -1035,8 +1034,7 @@
       "2024-04-06": 15,
       "2024-03-12": 632,
       "2024-02-26": 693,
-      "2024-02-15": 26,
-      "2024-02-13": 973
+      "2024-02-15": 26
     }
   },
   {
