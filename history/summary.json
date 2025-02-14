@@ -44,7 +44,7 @@
     "status": "up",
     "uptime": "94.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "98.25%",
     "uptimeYear": "89.59%",
     "time": 2685,
@@ -315,10 +315,10 @@
     "icon": "$BLU_ICON",
     "slug": "blutopia",
     "status": "up",
-    "uptime": "86.77%",
+    "uptime": "86.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
-    "uptimeMonth": "95.01%",
+    "uptimeMonth": "95.08%",
     "uptimeYear": "91.09%",
     "time": 1171,
     "timeDay": 367,
@@ -408,7 +408,7 @@
     "uptime": "98.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.02%",
+    "uptimeMonth": "75.08%",
     "uptimeYear": "94.91%",
     "time": 994,
     "timeDay": 779,
@@ -517,7 +517,7 @@
     "uptime": "92.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "30.71%",
+    "uptimeMonth": "30.65%",
     "uptimeYear": "92.70%",
     "time": 540,
     "timeDay": 195,
@@ -525,7 +525,8 @@
     "timeMonth": 528,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2025-02-13": 1434,
+      "2025-02-14": 21,
+      "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -852,8 +853,7 @@
       "2024-03-03": 755,
       "2024-03-02": 294,
       "2024-02-18": 26,
-      "2024-02-16": 25,
-      "2024-02-15": 17
+      "2024-02-16": 25
     }
   },
   {
@@ -935,9 +935,9 @@
     "slug": "pass-the-popcorn",
     "status": "up",
     "uptime": "92.26%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "96.92%",
-    "uptimeMonth": "97.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "97.39%",
     "uptimeYear": "98.07%",
     "time": 787,
     "timeDay": 252,
@@ -945,7 +945,6 @@
     "timeMonth": 514,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2025-02-13": 6,
       "2025-02-12": 23,
       "2025-02-11": 34,
       "2025-02-09": 25,
@@ -1037,8 +1036,7 @@
       "2024-04-12": 670,
       "2024-04-06": 15,
       "2024-03-12": 632,
-      "2024-02-26": 693,
-      "2024-02-15": 26
+      "2024-02-26": 693
     }
   },
   {
