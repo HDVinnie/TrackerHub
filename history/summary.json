@@ -49,7 +49,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.33%",
-    "uptimeYear": "90.05%",
+    "uptimeYear": "90.06%",
     "time": 2685,
     "timeDay": 511,
     "timeWeek": 757,
@@ -122,8 +122,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   },
   {
@@ -156,8 +155,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 375
+      "2024-02-20": 1440
     }
   },
   {
@@ -368,8 +366,7 @@
       "2024-03-21": 94,
       "2024-03-04": 25,
       "2024-02-21": 87,
-      "2024-02-20": 25,
-      "2024-02-19": 115
+      "2024-02-20": 25
     }
   },
   {
@@ -408,7 +405,7 @@
     "uptime": "98.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.12%",
+    "uptimeMonth": "88.23%",
     "uptimeYear": "94.91%",
     "time": 994,
     "timeDay": 420,
@@ -514,18 +511,19 @@
     "icon": "$FNP_ICON",
     "slug": "fear-no-peer",
     "status": "down",
-    "uptime": "91.58%",
+    "uptime": "91.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "22.67%",
-    "uptimeYear": "91.58%",
+    "uptimeYear": "91.57%",
     "time": 535,
     "timeDay": 101,
     "timeWeek": 100,
     "timeMonth": 376,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2025-02-17": 1412,
+      "2025-02-18": 21,
+      "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
@@ -801,12 +799,12 @@
     "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "82.02%",
+    "uptimeMonth": "82.13%",
     "uptimeYear": "97.25%",
     "time": 939,
     "timeDay": 908,
     "timeWeek": 724,
-    "timeMonth": 1001,
+    "timeMonth": 1002,
     "timeYear": 875,
     "dailyMinutesDown": {
       "2025-02-14": 23,
@@ -935,9 +933,9 @@
     "slug": "pass-the-popcorn",
     "status": "up",
     "uptime": "92.28%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "97.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "97.32%",
     "uptimeYear": "98.06%",
     "time": 778,
     "timeDay": 185,
@@ -945,7 +943,6 @@
     "timeMonth": 527,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2025-02-17": 6,
       "2025-02-16": 30,
       "2025-02-15": 18,
       "2025-02-12": 23,
