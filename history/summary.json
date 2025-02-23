@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.64%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.82%",
+    "uptimeWeek": "98.88%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.75%",
     "time": 1749,
     "timeDay": 338,
-    "timeWeek": 3469,
+    "timeWeek": 3494,
     "timeMonth": 3217,
     "timeYear": 1875,
     "dailyMinutesDown": {
@@ -118,8 +118,7 @@
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
-      "2024-02-25": 1440,
-      "2024-02-24": 1440
+      "2024-02-25": 1440
     }
   },
   {
@@ -132,7 +131,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.86%",
     "time": 1042,
     "timeDay": 737,
     "timeWeek": 589,
@@ -147,8 +146,7 @@
       "2024-09-04": 19,
       "2024-04-14": 179,
       "2024-02-26": 1193,
-      "2024-02-25": 1440,
-      "2024-02-24": 1440
+      "2024-02-25": 1440
     }
   },
   {
@@ -227,8 +225,7 @@
       "2024-05-12": 101,
       "2024-04-15": 115,
       "2024-03-19": 655,
-      "2024-03-18": 251,
-      "2024-02-24": 23
+      "2024-03-18": 251
     }
   },
   {
@@ -441,19 +438,20 @@
     "url": "$EMP",
     "icon": "$EMP_ICON",
     "slug": "empornium",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "89.83%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "88.95%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.05%",
     "time": 975,
-    "timeDay": 966,
-    "timeWeek": 891,
-    "timeMonth": 649,
+    "timeDay": 952,
+    "timeWeek": 885,
+    "timeMonth": 651,
     "timeYear": 942,
     "dailyMinutesDown": {
-      "2025-02-22": 146,
+      "2025-02-23": 9,
+      "2025-02-22": 150,
       "2024-11-28": 19,
       "2024-10-28": 650,
       "2024-10-27": 7,
@@ -514,7 +512,8 @@
     "timeMonth": 378,
     "timeYear": 531,
     "dailyMinutesDown": {
-      "2025-02-22": 1437,
+      "2025-02-23": 10,
+      "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -643,12 +642,12 @@
     "slug": "hawke-uno",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "97.95%",
+    "uptimeDay": "98.63%",
     "uptimeWeek": "98.91%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.51%",
     "time": 1181,
-    "timeDay": 1116,
+    "timeDay": 828,
     "timeWeek": 1120,
     "timeMonth": 1160,
     "timeYear": 1181,
@@ -762,8 +761,7 @@
       "2024-07-27": 82,
       "2024-05-28": 48,
       "2024-04-17": 470,
-      "2024-03-15": 100,
-      "2024-02-24": 132
+      "2024-03-15": 100
     }
   },
   {
@@ -796,7 +794,7 @@
     "uptime": "98.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.51%",
+    "uptimeMonth": "98.54%",
     "uptimeYear": "97.25%",
     "time": 938,
     "timeDay": 239,
@@ -929,18 +927,19 @@
     "icon": "$PTP_ICON",
     "slug": "pass-the-popcorn",
     "status": "down",
-    "uptime": "92.12%",
+    "uptime": "92.11%",
     "uptimeDay": "5.33%",
-    "uptimeWeek": "70.88%",
-    "uptimeMonth": "90.80%",
-    "uptimeYear": "97.51%",
+    "uptimeWeek": "70.81%",
+    "uptimeMonth": "90.77%",
+    "uptimeYear": "97.50%",
     "time": 740,
     "timeDay": 290,
     "timeWeek": 249,
     "timeMonth": 468,
     "timeYear": 742,
     "dailyMinutesDown": {
-      "2025-02-22": 1361,
+      "2025-02-23": 11,
+      "2025-02-22": 1363,
       "2025-02-21": 1303,
       "2025-02-20": 220,
       "2025-02-18": 20,
