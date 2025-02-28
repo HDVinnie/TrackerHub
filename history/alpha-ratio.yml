@@ -1,7 +1,7 @@
 url: $AR
-status: down
-code: 500
-responseTime: 645
-lastUpdated: 2025-02-28T08:39:44.563Z
+status: degraded
+code: 504
+responseTime: 25634
+lastUpdated: 2025-02-28T08:47:48.846Z
 startTime: 2022-07-01T14:20:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
