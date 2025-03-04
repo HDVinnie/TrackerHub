@@ -302,7 +302,7 @@
     "icon": "$BLU_ICON",
     "slug": "blutopia",
     "status": "up",
-    "uptime": "89.08%",
+    "uptime": "89.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.19%",
     "uptimeMonth": "99.47%",
@@ -352,8 +352,7 @@
       "2024-05-14": 378,
       "2024-04-25": 47,
       "2024-04-16": 617,
-      "2024-03-21": 94,
-      "2024-03-04": 25
+      "2024-03-21": 94
     }
   },
   {
@@ -500,18 +499,19 @@
     "icon": "$FNP_ICON",
     "slug": "fear-no-peer",
     "status": "down",
-    "uptime": "87.84%",
+    "uptime": "87.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "12.69%",
-    "uptimeYear": "87.84%",
+    "uptimeMonth": "12.57%",
+    "uptimeYear": "87.83%",
     "time": 521,
     "timeDay": 136,
     "timeWeek": 125,
     "timeMonth": 387,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2025-03-03": 1407,
+      "2025-03-04": 22,
+      "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -857,8 +857,7 @@
       "2024-05-04": 23,
       "2024-04-28": 29,
       "2024-04-22": 20,
-      "2024-04-14": 23,
-      "2024-03-04": 127
+      "2024-04-14": 23
     }
   },
   {
@@ -942,17 +941,17 @@
     "slug": "pass-the-popcorn",
     "status": "up",
     "uptime": "92.16%",
-    "uptimeDay": "96.38%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "90.23%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "90.25%",
     "uptimeYear": "97.44%",
     "time": 702,
-    "timeDay": 580,
+    "timeDay": 595,
     "timeWeek": 343,
     "timeMonth": 457,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2025-03-03": 52,
+      "2025-03-03": 44,
       "2025-02-28": 21,
       "2025-02-25": 18,
       "2025-02-24": 22,
