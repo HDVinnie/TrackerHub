@@ -1,7 +1,7 @@
 url: $UNO
-status: down
-code: 503
-responseTime: 211
-lastUpdated: 2025-03-15T03:34:52.301Z
+status: degraded
+code: 403
+responseTime: 6033
+lastUpdated: 2025-03-15T03:44:38.361Z
 startTime: 2024-03-26T02:19:42.703Z
 generator: Upptime <https://github.com/upptime/upptime>
