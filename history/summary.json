@@ -107,8 +107,7 @@
       "2024-04-24": 544,
       "2024-04-22": 375,
       "2024-04-21": 233,
-      "2024-04-11": 49,
-      "2024-04-07": 73
+      "2024-04-11": 49
     }
   },
   {
@@ -147,12 +146,12 @@
     "status": "up",
     "uptime": "98.26%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.97%",
+    "uptimeWeek": "93.76%",
     "uptimeMonth": "96.11%",
     "uptimeYear": "95.88%",
     "time": 721,
     "timeDay": 864,
-    "timeWeek": 1385,
+    "timeWeek": 1221,
     "timeMonth": 1626,
     "timeYear": 766,
     "dailyMinutesDown": {
@@ -302,7 +301,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "94.65%",
+    "uptimeYear": "94.66%",
     "time": 1114,
     "timeDay": 323,
     "timeWeek": 437,
@@ -498,18 +497,19 @@
     "icon": "$FNP_ICON",
     "slug": "fear-no-peer",
     "status": "down",
-    "uptime": "79.92%",
+    "uptime": "79.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.27%",
+    "uptimeYear": "79.26%",
     "time": 527,
     "timeDay": 136,
     "timeWeek": 143,
     "timeMonth": 358,
     "timeYear": 526,
     "dailyMinutesDown": {
-      "2025-04-06": 1384,
+      "2025-04-07": 24,
+      "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
@@ -687,13 +687,13 @@
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "99.47%",
-    "time": 1149,
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "99.48%",
+    "time": 1145,
     "timeDay": 587,
     "timeWeek": 468,
-    "timeMonth": 971,
-    "timeYear": 1083,
+    "timeMonth": 963,
+    "timeYear": 1081,
     "dailyMinutesDown": {
       "2025-03-17": 19,
       "2025-03-15": 60,
@@ -748,8 +748,7 @@
       "2024-04-29": 26,
       "2024-04-20": 72,
       "2024-04-15": 281,
-      "2024-04-09": 22,
-      "2024-04-07": 624
+      "2024-04-09": 22
     }
   },
   {
@@ -843,7 +842,7 @@
     "status": "up",
     "uptime": "98.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.10%",
+    "uptimeWeek": "92.68%",
     "uptimeMonth": "95.78%",
     "uptimeYear": "97.13%",
     "time": 877,
@@ -981,17 +980,16 @@
     "slug": "pass-the-popcorn",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "96.44%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "97.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.71%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "97.33%",
     "time": 583,
     "timeDay": 156,
-    "timeWeek": 191,
-    "timeMonth": 231,
+    "timeWeek": 193,
+    "timeMonth": 229,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2025-04-06": 6,
       "2025-04-05": 20,
       "2025-03-31": 333,
       "2025-03-28": 29,
@@ -1044,7 +1042,8 @@
       "2024-11-01": 3,
       "2024-10-31": 730,
       "2024-10-30": 36,
-      "2024-09-28": 28
+      "2024-09-28": 28,
+      "2024-09-04": 106
     }
   },
   {
