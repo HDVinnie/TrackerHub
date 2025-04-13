@@ -471,9 +471,9 @@
     "slug": "exoticaz",
     "status": "down",
     "uptime": "97.06%",
-    "uptimeDay": "82.80%",
-    "uptimeWeek": "97.54%",
-    "uptimeMonth": "99.39%",
+    "uptimeDay": "81.49%",
+    "uptimeWeek": "97.36%",
+    "uptimeMonth": "99.35%",
     "uptimeYear": "99.92%",
     "time": 885,
     "timeDay": 1456,
@@ -481,7 +481,7 @@
     "timeMonth": 1015,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2025-04-13": 248,
+      "2025-04-13": 267,
       "2025-03-18": 20,
       "2025-01-03": 33,
       "2024-10-30": 16,
@@ -506,7 +506,7 @@
     "timeMonth": 340,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2025-04-13": 1022,
+      "2025-04-13": 1041,
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
@@ -798,7 +798,7 @@
     "timeDay": 302,
     "timeWeek": 322,
     "timeMonth": 666,
-    "timeYear": 721,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2025-04-01": 25,
       "2025-01-07": 85,
@@ -982,18 +982,19 @@
     "url": "$PTP",
     "icon": "$PTP_ICON",
     "slug": "pass-the-popcorn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.91%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "97.90%",
     "uptimeMonth": "98.38%",
-    "uptimeYear": "97.34%",
+    "uptimeYear": "97.35%",
     "time": 585,
     "timeDay": 286,
     "timeWeek": 617,
     "timeMonth": 349,
     "timeYear": 574,
     "dailyMinutesDown": {
+      "2025-04-13": 1,
       "2025-04-11": 24,
       "2025-04-10": 84,
       "2025-04-09": 64,
@@ -1048,7 +1049,7 @@
       "2024-11-06": 1440,
       "2024-11-05": 574,
       "2024-11-01": 3,
-      "2024-10-31": 641
+      "2024-10-31": 599
     }
   },
   {
