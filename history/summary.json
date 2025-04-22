@@ -497,7 +497,7 @@
     "icon": "$FNP_ICON",
     "slug": "fear-no-peer",
     "status": "down",
-    "uptime": "76.70%",
+    "uptime": "76.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -508,7 +508,7 @@
     "timeMonth": 232,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2025-04-22": 1147,
+      "2025-04-22": 1172,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
       "2025-04-19": 1440,
@@ -707,7 +707,7 @@
     "uptimeYear": "99.66%",
     "time": 1133,
     "timeDay": 636,
-    "timeWeek": 603,
+    "timeWeek": 480,
     "timeMonth": 483,
     "timeYear": 982,
     "dailyMinutesDown": {
@@ -947,9 +947,9 @@
     "slug": "orpheus",
     "status": "up",
     "uptime": "98.62%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.77%",
     "time": 722,
     "timeDay": 2980,
@@ -957,7 +957,6 @@
     "timeMonth": 1343,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2025-04-22": 8,
       "2025-04-10": 24,
       "2025-02-27": 491,
       "2025-02-25": 17,
@@ -992,11 +991,11 @@
     "url": "$PTP",
     "icon": "$PTP_ICON",
     "slug": "pass-the-popcorn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.04%",
-    "uptimeMonth": "97.87%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "97.86%",
     "uptimeYear": "97.41%",
     "time": 577,
     "timeDay": 265,
@@ -1004,6 +1003,7 @@
     "timeMonth": 333,
     "timeYear": 551,
     "dailyMinutesDown": {
+      "2025-04-22": 1,
       "2025-04-20": 37,
       "2025-04-19": 73,
       "2025-04-17": 62,
@@ -1062,7 +1062,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 574
+      "2024-11-05": 539
     }
   },
   {
@@ -1134,7 +1134,7 @@
     "time": 1224,
     "timeDay": 607,
     "timeWeek": 770,
-    "timeMonth": 1429,
+    "timeMonth": 1441,
     "timeYear": 1225,
     "dailyMinutesDown": {
       "2025-04-04": 33,
