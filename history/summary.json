@@ -508,7 +508,7 @@
     "timeMonth": 233,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2025-04-24": 1371,
+      "2025-04-24": 1377,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
@@ -621,9 +621,9 @@
     "slug": "gazelle-games",
     "status": "up",
     "uptime": "98.17%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "95.52%",
-    "uptimeMonth": "98.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "97.12%",
     "time": 792,
     "timeDay": 931,
@@ -631,7 +631,6 @@
     "timeMonth": 604,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2025-04-24": 6,
       "2025-04-22": 446,
       "2025-03-17": 79,
       "2025-03-13": 84,
@@ -995,18 +994,19 @@
     "url": "$PTP",
     "icon": "$PTP_ICON",
     "slug": "pass-the-popcorn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "97.88%",
-    "uptimeYear": "97.41%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "97.87%",
+    "uptimeYear": "97.42%",
     "time": 573,
     "timeDay": 209,
     "timeWeek": 213,
-    "timeMonth": 334,
+    "timeMonth": 309,
     "timeYear": 549,
     "dailyMinutesDown": {
+      "2025-04-24": 1,
       "2025-04-23": 16,
       "2025-04-20": 37,
       "2025-04-19": 73,
@@ -1066,7 +1066,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 539
+      "2024-11-05": 519
     }
   },
   {
@@ -1138,7 +1138,7 @@
     "time": 1224,
     "timeDay": 710,
     "timeWeek": 746,
-    "timeMonth": 1442,
+    "timeMonth": 1448,
     "timeYear": 1227,
     "dailyMinutesDown": {
       "2025-04-04": 33,
