@@ -50,7 +50,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "93.65%",
+    "uptimeYear": "93.66%",
     "time": 3287,
     "timeDay": 618,
     "timeWeek": 580,
@@ -102,8 +102,7 @@
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 556,
-      "2024-04-27": 917,
-      "2024-04-26": 1440
+      "2024-04-27": 917
     }
   },
   {
@@ -118,7 +117,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
     "time": 1124,
-    "timeDay": 592,
+    "timeDay": 485,
     "timeWeek": 597,
     "timeMonth": 1687,
     "timeYear": 1087,
@@ -495,18 +494,19 @@
     "icon": "$FNP_ICON",
     "slug": "fear-no-peer",
     "status": "down",
-    "uptime": "76.08%",
+    "uptime": "76.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.06%",
+    "uptimeYear": "74.05%",
     "time": 520,
     "timeDay": 1766,
     "timeWeek": 687,
     "timeMonth": 366,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2025-04-25": 1426,
+      "2025-04-26": 23,
+      "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
       "2025-04-22": 1440,
@@ -791,8 +791,7 @@
       "2024-08-07": 427,
       "2024-08-06": 75,
       "2024-07-12": 34,
-      "2024-06-06": 779,
-      "2024-04-26": 25
+      "2024-06-06": 779
     }
   },
   {
@@ -996,7 +995,7 @@
     "status": "up",
     "uptime": "99.08%",
     "uptimeDay": "97.56%",
-    "uptimeWeek": "98.39%",
+    "uptimeWeek": "98.58%",
     "uptimeMonth": "97.84%",
     "uptimeYear": "97.41%",
     "time": 566,
