@@ -292,7 +292,7 @@
     "icon": "$BLU_ICON",
     "slug": "blutopia",
     "status": "up",
-    "uptime": "92.99%",
+    "uptime": "93.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
@@ -456,8 +456,7 @@
       "2024-05-03": 60,
       "2024-05-02": 0,
       "2024-05-01": 758,
-      "2024-04-30": 96,
-      "2024-04-28": 168
+      "2024-04-30": 96
     }
   },
   {
@@ -493,18 +492,19 @@
     "icon": "$FNP_ICON",
     "slug": "fear-no-peer",
     "status": "down",
-    "uptime": "75.70%",
+    "uptime": "75.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.51%",
+    "uptimeYear": "73.50%",
     "time": 518,
     "timeDay": 108,
     "timeWeek": 680,
     "timeMonth": 314,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2025-04-27": 1417,
+      "2025-04-28": 24,
+      "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
@@ -863,7 +863,7 @@
     "timeDay": 265,
     "timeWeek": 1857,
     "timeMonth": 1662,
-    "timeYear": 949,
+    "timeYear": 950,
     "dailyMinutesDown": {
       "2025-04-22": 35,
       "2025-04-17": 23,
@@ -910,8 +910,7 @@
       "2024-05-22": 18,
       "2024-05-10": 18,
       "2024-05-05": 26,
-      "2024-05-04": 23,
-      "2024-04-28": 29
+      "2024-05-04": 23
     }
   },
   {
@@ -994,18 +993,17 @@
     "icon": "$PTP_ICON",
     "slug": "pass-the-popcorn",
     "status": "up",
-    "uptime": "99.09%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "97.82%",
+    "uptime": "99.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "97.84%",
     "uptimeYear": "97.41%",
     "time": 561,
     "timeDay": 305,
-    "timeWeek": 311,
+    "timeWeek": 314,
     "timeMonth": 329,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2025-04-27": 7,
       "2025-04-25": 36,
       "2025-04-23": 16,
       "2025-04-20": 37,
@@ -1066,7 +1064,7 @@
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
-      "2024-11-05": 480
+      "2024-11-05": 500
     }
   },
   {
@@ -1232,7 +1230,7 @@
     "slug": "secret-cinema",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "95.25%",
+    "uptimeDay": "98.54%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
