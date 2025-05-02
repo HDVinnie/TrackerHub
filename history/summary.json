@@ -101,8 +101,7 @@
       "2024-05-06": 1098,
       "2024-05-05": 1440,
       "2024-05-04": 1440,
-      "2024-05-03": 1440,
-      "2024-05-02": 556
+      "2024-05-03": 1440
     }
   },
   {
@@ -118,7 +117,7 @@
     "uptimeYear": "99.93%",
     "time": 1132,
     "timeDay": 539,
-    "timeWeek": 2070,
+    "timeWeek": 2185,
     "timeMonth": 1953,
     "timeYear": 1126,
     "dailyMinutesDown": {
@@ -457,8 +456,7 @@
       "2024-05-26": 739,
       "2024-05-06": 53,
       "2024-05-05": 29,
-      "2024-05-03": 60,
-      "2024-05-02": 0
+      "2024-05-03": 60
     }
   },
   {
@@ -494,18 +492,19 @@
     "icon": "$FNP_ICON",
     "slug": "fear-no-peer",
     "status": "down",
-    "uptime": "74.95%",
+    "uptime": "74.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "72.42%",
+    "uptimeYear": "72.41%",
     "time": 521,
     "timeDay": 98,
     "timeWeek": 912,
     "timeMonth": 414,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2025-05-01": 1409,
+      "2025-05-02": 24,
+      "2025-05-01": 1440,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
@@ -624,9 +623,9 @@
     "slug": "gazelle-games",
     "status": "up",
     "uptime": "98.18%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "98.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "98.92%",
     "uptimeYear": "97.11%",
     "time": 794,
     "timeDay": 808,
@@ -634,7 +633,6 @@
     "timeMonth": 594,
     "timeYear": 836,
     "dailyMinutesDown": {
-      "2025-05-01": 9,
       "2025-04-27": 29,
       "2025-04-22": 446,
       "2025-03-17": 79,
@@ -1140,7 +1138,7 @@
     "time": 1223,
     "timeDay": 784,
     "timeWeek": 787,
-    "timeMonth": 852,
+    "timeMonth": 844,
     "timeYear": 1224,
     "dailyMinutesDown": {
       "2025-04-04": 33,
