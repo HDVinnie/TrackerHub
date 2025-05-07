@@ -292,7 +292,7 @@
     "icon": "$BLU_ICON",
     "slug": "blutopia",
     "status": "up",
-    "uptime": "93.52%",
+    "uptime": "93.53%",
     "uptimeDay": "98.18%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
@@ -499,7 +499,7 @@
     "timeMonth": 403,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2025-05-07": 1038,
+      "2025-05-07": 1059,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -992,18 +992,19 @@
     "url": "$PTP",
     "icon": "$PTP_ICON",
     "slug": "pass-the-popcorn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.56%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "98.59%",
-    "uptimeYear": "98.81%",
+    "uptimeYear": "98.82%",
     "time": 545,
     "timeDay": 204,
     "timeWeek": 209,
     "timeMonth": 345,
     "timeYear": 529,
     "dailyMinutesDown": {
+      "2025-05-07": 2,
       "2025-05-05": 26,
       "2025-05-03": 18,
       "2025-04-28": 46,
@@ -1060,8 +1061,7 @@
       "2025-01-10": 34,
       "2025-01-08": 62,
       "2025-01-01": 16,
-      "2024-12-23": 21,
-      "2024-12-20": 20
+      "2024-12-23": 21
     }
   },
   {
