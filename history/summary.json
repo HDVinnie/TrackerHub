@@ -500,7 +500,7 @@
     "timeMonth": 399,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-05-13": 1253,
+      "2025-05-13": 1260,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
@@ -779,7 +779,7 @@
     "slug": "hd-bits",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "18.03%",
+    "uptimeDay": "18.51%",
     "uptimeWeek": "70.36%",
     "uptimeMonth": "93.06%",
     "uptimeYear": "99.03%",
@@ -1002,11 +1002,11 @@
     "url": "$PTP",
     "icon": "$PTP_ICON",
     "slug": "pass-the-popcorn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "45.23%",
-    "uptimeWeek": "74.68%",
-    "uptimeMonth": "93.16%",
+    "uptimeDay": "45.10%",
+    "uptimeWeek": "74.66%",
+    "uptimeMonth": "93.15%",
     "uptimeYear": "99.39%",
     "time": 508,
     "timeDay": 213,
@@ -1014,7 +1014,7 @@
     "timeMonth": 233,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2025-05-13": 722,
+      "2025-05-13": 724,
       "2025-05-12": 684,
       "2025-05-11": 517,
       "2025-05-10": 575,
@@ -1033,8 +1033,7 @@
       "2025-04-11": 24,
       "2025-04-10": 84,
       "2025-04-09": 64,
-      "2025-04-07": 38,
-      "2025-04-05": 20
+      "2025-04-07": 38
     }
   },
   {
@@ -1290,7 +1289,7 @@
     "slug": "uhd-bits",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "5.71%",
+    "uptimeDay": "6.21%",
     "uptimeWeek": "52.92%",
     "uptimeMonth": "88.67%",
     "uptimeYear": "98.97%",
