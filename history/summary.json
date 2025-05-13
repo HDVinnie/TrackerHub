@@ -500,7 +500,7 @@
     "timeMonth": 400,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-05-13": 1394,
+      "2025-05-13": 1405,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
@@ -689,10 +689,10 @@
     "url": "$GPW",
     "icon": "$GPW_ICON",
     "slug": "great-poster-wall",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1002,
@@ -701,6 +701,7 @@
     "timeMonth": 630,
     "timeYear": 1009,
     "dailyMinutesDown": {
+      "2025-05-13": 2,
       "2025-04-04": 33,
       "2024-11-08": 22
     }
@@ -779,7 +780,7 @@
     "slug": "hd-bits",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "27.83%",
+    "uptimeDay": "28.62%",
     "uptimeWeek": "70.36%",
     "uptimeMonth": "93.06%",
     "uptimeYear": "99.03%",
@@ -1002,19 +1003,19 @@
     "url": "$PTP",
     "icon": "$PTP_ICON",
     "slug": "pass-the-popcorn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "44.56%",
-    "uptimeWeek": "74.09%",
+    "uptimeDay": "44.73%",
+    "uptimeWeek": "74.07%",
     "uptimeMonth": "93.02%",
     "uptimeYear": "99.39%",
     "time": 507,
-    "timeDay": 214,
+    "timeDay": 216,
     "timeWeek": 214,
     "timeMonth": 233,
     "timeYear": 489,
     "dailyMinutesDown": {
-      "2025-05-13": 782,
+      "2025-05-13": 784,
       "2025-05-12": 684,
       "2025-05-11": 517,
       "2025-05-10": 575,
@@ -1032,7 +1033,7 @@
       "2025-04-14": 19,
       "2025-04-11": 24,
       "2025-04-10": 84,
-      "2025-04-09": 64
+      "2025-04-09": 36
     }
   },
   {
@@ -1289,8 +1290,8 @@
     "status": "down",
     "uptime": "99.48%",
     "uptimeDay": "6.65%",
-    "uptimeWeek": "51.66%",
-    "uptimeMonth": "88.38%",
+    "uptimeWeek": "51.55%",
+    "uptimeMonth": "88.36%",
     "uptimeYear": "98.94%",
     "time": 1459,
     "timeDay": 403,
@@ -1298,7 +1299,7 @@
     "timeMonth": 1268,
     "timeYear": 1716,
     "dailyMinutesDown": {
-      "2025-05-13": 1300,
+      "2025-05-13": 1311,
       "2025-05-12": 1368,
       "2025-05-11": 1306,
       "2025-05-10": 902,
