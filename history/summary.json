@@ -292,7 +292,7 @@
     "icon": "$BLU_ICON",
     "slug": "blutopia",
     "status": "up",
-    "uptime": "93.92%",
+    "uptime": "93.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.89%",
@@ -500,7 +500,7 @@
     "timeMonth": 397,
     "timeYear": 505,
     "dailyMinutesDown": {
-      "2025-05-18": 717,
+      "2025-05-18": 726,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -1009,11 +1009,11 @@
     "url": "$PTP",
     "icon": "$PTP_ICON",
     "slug": "pass-the-popcorn",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "49.94%",
-    "uptimeWeek": "64.64%",
-    "uptimeMonth": "91.86%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "49.82%",
+    "uptimeWeek": "64.78%",
+    "uptimeMonth": "91.89%",
     "uptimeYear": "99.32%",
     "time": 477,
     "timeDay": 168,
@@ -1021,12 +1021,12 @@
     "timeMonth": 216,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2025-05-18": 382,
+      "2025-05-18": 384,
       "2025-05-17": 734,
       "2025-05-16": 695,
       "2025-05-15": 719,
       "2025-05-14": 729,
-      "2025-05-13": 305
+      "2025-05-13": 290
     }
   },
   {
@@ -1283,7 +1283,7 @@
     "uptime": "98.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "2.68%",
-    "uptimeMonth": "73.72%",
+    "uptimeMonth": "73.70%",
     "uptimeYear": "97.72%",
     "time": 1465,
     "timeDay": 0,
@@ -1291,7 +1291,7 @@
     "timeMonth": 1310,
     "timeYear": 1723,
     "dailyMinutesDown": {
-      "2025-05-18": 718,
+      "2025-05-18": 727,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1339,
