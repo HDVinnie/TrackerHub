@@ -419,11 +419,11 @@
     "url": "$EMP",
     "icon": "$EMP_ICON",
     "slug": "empornium",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "71.68%",
-    "uptimeWeek": "70.60%",
-    "uptimeMonth": "92.90%",
+    "uptimeDay": "72.53%",
+    "uptimeWeek": "70.59%",
+    "uptimeMonth": "92.96%",
     "uptimeYear": "99.41%",
     "time": 836,
     "timeDay": 551,
@@ -431,14 +431,14 @@
     "timeMonth": 723,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2025-07-13": 239,
+      "2025-07-13": 240,
       "2025-07-12": 387,
       "2025-07-11": 444,
       "2025-07-10": 460,
       "2025-07-09": 435,
       "2025-07-08": 375,
       "2025-07-07": 521,
-      "2025-07-06": 248
+      "2025-07-06": 221
     }
   },
   {
@@ -488,7 +488,7 @@
     "timeMonth": 297,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2025-07-13": 774,
+      "2025-07-13": 789,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -825,7 +825,7 @@
     "uptime": "97.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.51%",
+    "uptimeMonth": "36.48%",
     "uptimeYear": "93.75%",
     "time": 1199,
     "timeDay": 1047,
@@ -833,7 +833,7 @@
     "timeMonth": 1097,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2025-07-13": 774,
+      "2025-07-13": 789,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -893,7 +893,7 @@
     "uptime": "95.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "40.72%",
+    "uptimeMonth": "40.75%",
     "uptimeYear": "87.10%",
     "time": 686,
     "timeDay": 312,
