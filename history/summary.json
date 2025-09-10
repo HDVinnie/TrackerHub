@@ -35,8 +35,7 @@
       "2024-11-08": 20,
       "2024-10-20": 72,
       "2024-09-12": 25,
-      "2024-09-11": 18,
-      "2024-09-10": 22
+      "2024-09-11": 18
     }
   },
   {
@@ -118,8 +117,7 @@
       "2024-11-30": 49,
       "2024-11-18": 72,
       "2024-09-16": 16,
-      "2024-09-12": 147,
-      "2024-09-10": 19
+      "2024-09-12": 147
     }
   },
   {
@@ -381,7 +379,7 @@
     "status": "up",
     "uptime": "98.14%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.93%",
+    "uptimeWeek": "92.16%",
     "uptimeMonth": "96.62%",
     "uptimeYear": "94.06%",
     "time": 1156,
@@ -525,14 +523,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "36.55%",
+    "uptimeYear": "36.54%",
     "time": 504,
     "timeDay": 101,
     "timeWeek": 360,
     "timeMonth": 513,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2025-09-09": 1439,
+      "2025-09-10": 22,
+      "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
@@ -929,14 +928,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.83%",
+    "uptimeYear": "77.82%",
     "time": 1296,
     "timeDay": 735,
     "timeWeek": 854,
     "timeMonth": 1873,
     "timeYear": 1411,
     "dailyMinutesDown": {
-      "2025-09-09": 1439,
+      "2025-09-10": 22,
+      "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
       "2025-09-06": 1440,
@@ -1051,12 +1051,12 @@
     "status": "up",
     "uptime": "95.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.94%",
+    "uptimeWeek": "94.12%",
     "uptimeMonth": "92.97%",
     "uptimeYear": "87.76%",
     "time": 626,
     "timeDay": 268,
-    "timeWeek": 469,
+    "timeWeek": 493,
     "timeMonth": 793,
     "timeYear": 592,
     "dailyMinutesDown": {
@@ -1230,10 +1230,10 @@
     "icon": "$OPS_ICON",
     "slug": "orpheus",
     "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "93.43%",
-    "uptimeMonth": "98.33%",
+    "uptime": "98.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.78%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "99.46%",
     "time": 808,
     "timeDay": 386,
@@ -1241,7 +1241,6 @@
     "timeMonth": 686,
     "timeYear": 819,
     "dailyMinutesDown": {
-      "2025-09-09": 12,
       "2025-09-08": 36,
       "2025-09-07": 37,
       "2025-09-06": 0,
