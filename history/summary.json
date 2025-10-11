@@ -45,7 +45,7 @@
     "status": "up",
     "uptime": "94.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "72.90%",
+    "uptimeWeek": "73.17%",
     "uptimeMonth": "86.39%",
     "uptimeYear": "96.01%",
     "time": 4048,
@@ -255,8 +255,7 @@
       "2024-11-14": 19,
       "2024-11-06": 23,
       "2024-10-26": 33,
-      "2024-10-25": 26,
-      "2024-10-11": 23
+      "2024-10-25": 26
     }
   },
   {
@@ -532,7 +531,8 @@
     "timeMonth": 452,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2025-10-10": 1434,
+      "2025-10-11": 22,
+      "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
@@ -808,7 +808,7 @@
     "slug": "gazelle-games",
     "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "40.67%",
+    "uptimeDay": "42.59%",
     "uptimeWeek": "81.66%",
     "uptimeMonth": "95.22%",
     "uptimeYear": "97.55%",
@@ -954,18 +954,19 @@
     "icon": "$HDB_ICON",
     "slug": "hd-bits",
     "status": "down",
-    "uptime": "90.52%",
+    "uptime": "90.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "69.34%",
+    "uptimeYear": "69.33%",
     "time": 1405,
     "timeDay": 455,
     "timeWeek": 1882,
     "timeMonth": 2148,
     "timeYear": 1516,
     "dailyMinutesDown": {
-      "2025-10-10": 1434,
+      "2025-10-11": 22,
+      "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
@@ -1110,7 +1111,7 @@
     "slug": "morethan-tv",
     "status": "up",
     "uptime": "95.46%",
-    "uptimeDay": "12.05%",
+    "uptimeDay": "13.97%",
     "uptimeWeek": "64.06%",
     "uptimeMonth": "89.09%",
     "uptimeYear": "86.85%",
@@ -1304,7 +1305,7 @@
     "time": 802,
     "timeDay": 885,
     "timeWeek": 1379,
-    "timeMonth": 836,
+    "timeMonth": 842,
     "timeYear": 825,
     "dailyMinutesDown": {
       "2025-10-10": 33,
@@ -1573,8 +1574,7 @@
       "2024-10-16": 497,
       "2024-10-15": 347,
       "2024-10-14": 20,
-      "2024-10-13": 90,
-      "2024-10-11": 125
+      "2024-10-13": 90
     }
   },
   {
