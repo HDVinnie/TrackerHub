@@ -372,7 +372,7 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "97.91%",
-    "uptimeDay": "48.28%",
+    "uptimeDay": "48.77%",
     "uptimeWeek": "70.84%",
     "uptimeMonth": "89.54%",
     "uptimeYear": "93.05%",
@@ -533,7 +533,7 @@
     "timeMonth": 441,
     "timeYear": 478,
     "dailyMinutesDown": {
-      "2025-10-28": 1407,
+      "2025-10-28": 1414,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
@@ -827,7 +827,7 @@
     "status": "up",
     "uptime": "98.73%",
     "uptimeDay": "97.47%",
-    "uptimeWeek": "97.17%",
+    "uptimeWeek": "97.24%",
     "uptimeMonth": "70.99%",
     "uptimeYear": "95.76%",
     "time": 2458,
@@ -990,7 +990,7 @@
     "timeMonth": 1480,
     "timeYear": 1518,
     "dailyMinutesDown": {
-      "2025-10-28": 1407,
+      "2025-10-28": 1414,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
@@ -1397,10 +1397,10 @@
     "url": "$PTP",
     "icon": "$PTP_ICON",
     "slug": "pass-the-popcorn",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "93.06%",
-    "uptimeWeek": "99.01%",
+    "status": "down",
+    "uptime": "99.78%",
+    "uptimeDay": "92.95%",
+    "uptimeWeek": "98.99%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.25%",
     "time": 480,
@@ -1409,13 +1409,13 @@
     "timeMonth": 486,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2025-10-28": 100,
+      "2025-10-28": 102,
       "2025-09-19": 19,
       "2025-05-19": 1057,
       "2025-05-18": 702,
       "2025-05-17": 734,
       "2025-05-16": 695,
-      "2025-05-15": 654
+      "2025-05-15": 631
     }
   },
   {
@@ -1479,7 +1479,7 @@
     "time": 1081,
     "timeDay": 596,
     "timeWeek": 662,
-    "timeMonth": 1046,
+    "timeMonth": 1060,
     "timeYear": 1086,
     "dailyMinutesDown": {
       "2025-10-28": 1010,
