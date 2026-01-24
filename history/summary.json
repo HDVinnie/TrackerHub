@@ -500,11 +500,11 @@
     "icon": "$FNP_ICON",
     "slug": "fear-no-peer",
     "status": "down",
-    "uptime": "48.45%",
+    "uptime": "48.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "73.40%",
-    "uptimeYear": "8.32%",
+    "uptimeMonth": "73.54%",
+    "uptimeYear": "8.34%",
     "time": 459,
     "timeDay": 88,
     "timeWeek": 127,
@@ -845,8 +845,7 @@
       "2025-01-28": 1357,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
-      "2025-01-25": 1440,
-      "2025-01-24": 1440
+      "2025-01-25": 1440
     }
   },
   {
@@ -1010,14 +1009,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "5.60%",
-    "uptimeYear": "41.34%",
+    "uptimeYear": "41.32%",
     "time": 1468,
     "timeDay": 1532,
     "timeWeek": 1811,
     "timeMonth": 1557,
     "timeYear": 1521,
     "dailyMinutesDown": {
-      "2026-01-23": 1406,
+      "2026-01-24": 27,
+      "2026-01-23": 1440,
       "2026-01-22": 1440,
       "2026-01-21": 1440,
       "2026-01-20": 1440,
@@ -1504,9 +1504,9 @@
     "slug": "private-hd",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.89%",
     "time": 562,
     "timeDay": 619,
@@ -1514,7 +1514,6 @@
     "timeMonth": 768,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2026-01-23": 12,
       "2026-01-22": 18,
       "2026-01-15": 37,
       "2026-01-11": 76,
@@ -1728,7 +1727,7 @@
     "uptimeYear": "99.94%",
     "time": 767,
     "timeDay": 330,
-    "timeWeek": 1040,
+    "timeWeek": 968,
     "timeMonth": 993,
     "timeYear": 593,
     "dailyMinutesDown": {
@@ -1791,8 +1790,7 @@
       "2025-02-21": 31,
       "2025-01-29": 17,
       "2025-01-27": 67,
-      "2025-01-26": 78,
-      "2025-01-24": 25
+      "2025-01-26": 78
     }
   }
 ]
