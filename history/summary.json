@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
     "time": 1782,
     "timeDay": 800,
@@ -16,7 +16,6 @@
     "timeMonth": 662,
     "timeYear": 1431,
     "dailyMinutesDown": {
-      "2026-02-05": 6,
       "2026-02-04": 19,
       "2025-12-22": 19,
       "2025-11-26": 19,
@@ -29,8 +28,7 @@
       "2025-02-17": 37,
       "2025-02-16": 31,
       "2025-02-15": 26,
-      "2025-02-08": 19,
-      "2025-02-06": 27
+      "2025-02-08": 19
     }
   },
   {
@@ -81,8 +79,7 @@
       "2025-02-28": 778,
       "2025-02-27": 1369,
       "2025-02-26": 51,
-      "2025-02-07": 33,
-      "2025-02-06": 29
+      "2025-02-07": 33
     }
   },
   {
@@ -508,10 +505,10 @@
     "icon": "$FNP_ICON",
     "slug": "fear-no-peer",
     "status": "down",
-    "uptime": "47.95%",
+    "uptime": "47.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "66.62%",
+    "uptimeMonth": "66.45%",
     "uptimeYear": "7.05%",
     "time": 466,
     "timeDay": 150,
@@ -519,7 +516,8 @@
     "timeMonth": 474,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2026-02-05": 1395,
+      "2026-02-06": 31,
+      "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
@@ -858,8 +856,7 @@
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
-      "2025-02-07": 1440,
-      "2025-02-06": 1440
+      "2025-02-07": 1440
     }
   },
   {
@@ -969,12 +966,12 @@
     "uptime": "99.63%",
     "uptimeDay": "98.77%",
     "uptimeWeek": "99.42%",
-    "uptimeMonth": "96.32%",
+    "uptimeMonth": "96.37%",
     "uptimeYear": "99.32%",
     "time": 1257,
     "timeDay": 1041,
     "timeWeek": 886,
-    "timeMonth": 1642,
+    "timeMonth": 1641,
     "timeYear": 1258,
     "dailyMinutesDown": {
       "2026-02-05": 18,
@@ -1024,18 +1021,19 @@
     "icon": "$HDB_ICON",
     "slug": "hd-bits",
     "status": "down",
-    "uptime": "82.58%",
+    "uptime": "82.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.78%",
+    "uptimeYear": "37.76%",
     "time": 1480,
     "timeDay": 2668,
     "timeWeek": 2147,
     "timeMonth": 1596,
     "timeYear": 1553,
     "dailyMinutesDown": {
-      "2026-02-05": 1395,
+      "2026-02-06": 31,
+      "2026-02-05": 1440,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1440,
@@ -1545,7 +1543,7 @@
     "time": 572,
     "timeDay": 181,
     "timeWeek": 546,
-    "timeMonth": 754,
+    "timeMonth": 757,
     "timeYear": 616,
     "dailyMinutesDown": {
       "2026-02-04": 19,
@@ -1629,17 +1627,18 @@
     "slug": "scene-time",
     "status": "down",
     "uptime": "97.11%",
-    "uptimeDay": "96.30%",
-    "uptimeWeek": "97.19%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "91.55%",
+    "uptimeDay": "91.19%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "98.21%",
+    "uptimeYear": "91.53%",
     "time": 970,
-    "timeDay": 578,
+    "timeDay": 473,
     "timeWeek": 841,
     "timeMonth": 948,
     "timeYear": 966,
     "dailyMinutesDown": {
-      "2026-02-05": 51,
+      "2026-02-06": 32,
+      "2026-02-05": 95,
       "2026-02-04": 233,
       "2026-01-28": 189,
       "2026-01-25": 17,
