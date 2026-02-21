@@ -173,17 +173,18 @@
     "slug": "asian-cinema",
     "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "98.19%",
+    "uptimeDay": "95.61%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "98.18%",
     "time": 2090,
     "timeDay": 592,
     "timeWeek": 666,
     "timeMonth": 956,
     "timeYear": 2064,
     "dailyMinutesDown": {
-      "2026-02-20": 15,
+      "2026-02-21": 31,
+      "2026-02-20": 32,
       "2026-02-18": 22,
       "2026-02-15": 20,
       "2026-02-12": 21,
@@ -513,7 +514,7 @@
     "uptime": "46.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.24%",
+    "uptimeMonth": "17.13%",
     "uptimeYear": "7.05%",
     "time": 461,
     "timeDay": 442,
@@ -521,7 +522,8 @@
     "timeMonth": 562,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2026-02-20": 1424,
+      "2026-02-21": 32,
+      "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -860,8 +862,7 @@
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
-      "2025-02-22": 1440,
-      "2025-02-21": 1440
+      "2025-02-22": 1440
     }
   },
   {
@@ -877,7 +878,7 @@
     "uptimeYear": "96.29%",
     "time": 2513,
     "timeDay": 588,
-    "timeWeek": 864,
+    "timeWeek": 833,
     "timeMonth": 1024,
     "timeYear": 2672,
     "dailyMinutesDown": {
@@ -1030,18 +1031,19 @@
     "icon": "$HDB_ICON",
     "slug": "hd-bits",
     "status": "down",
-    "uptime": "81.65%",
+    "uptime": "81.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.67%",
+    "uptimeYear": "33.66%",
     "time": 1507,
     "timeDay": 1635,
     "timeWeek": 3075,
     "timeMonth": 1858,
     "timeYear": 1589,
     "dailyMinutesDown": {
-      "2026-02-20": 1424,
+      "2026-02-21": 32,
+      "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -1824,12 +1826,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.01%",
+    "uptimeYear": "97.02%",
     "time": 1307,
     "timeDay": 689,
     "timeWeek": 556,
     "timeMonth": 607,
-    "timeYear": 860,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2026-01-17": 19,
       "2026-01-09": 19,
@@ -1861,8 +1863,7 @@
       "2025-05-10": 902,
       "2025-05-01": 175,
       "2025-04-25": 22,
-      "2025-04-20": 19,
-      "2025-02-21": 31
+      "2025-04-20": 19
     }
   }
 ]
