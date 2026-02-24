@@ -517,7 +517,7 @@
     "uptime": "46.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.34%",
+    "uptimeMonth": "7.27%",
     "uptimeYear": "7.05%",
     "time": 459,
     "timeDay": 76,
@@ -525,6 +525,7 @@
     "timeMonth": 560,
     "timeYear": 439,
     "dailyMinutesDown": {
+      "2026-02-24": 31,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
@@ -864,8 +865,7 @@
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
-      "2025-02-25": 1440,
-      "2025-02-24": 1440
+      "2025-02-25": 1440
     }
   },
   {
@@ -976,12 +976,12 @@
     "slug": "hawke-uno",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "93.00%",
+    "uptimeDay": "95.14%",
     "uptimeWeek": "98.45%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.31%",
     "time": 1243,
-    "timeDay": 1332,
+    "timeDay": 1225,
     "timeWeek": 984,
     "timeMonth": 1202,
     "timeYear": 1269,
@@ -1037,14 +1037,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.84%",
+    "uptimeYear": "32.83%",
     "time": 1508,
     "timeDay": 1554,
     "timeWeek": 2647,
     "timeMonth": 1928,
     "timeYear": 1592,
     "dailyMinutesDown": {
-      "2026-02-24": 0,
+      "2026-02-24": 32,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
