@@ -172,18 +172,17 @@
     "icon": "$ACM_ICON",
     "slug": "asian-cinema",
     "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "96.63%",
-    "uptimeMonth": "98.88%",
-    "uptimeYear": "98.13%",
+    "uptime": "98.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.74%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.14%",
     "time": 2096,
     "timeDay": 8464,
     "timeWeek": 2867,
     "timeMonth": 1660,
     "timeYear": 2119,
     "dailyMinutesDown": {
-      "2026-02-24": 11,
       "2026-02-23": 21,
       "2026-02-21": 254,
       "2026-02-20": 32,
@@ -260,8 +259,7 @@
       "2025-05-11": 425,
       "2025-04-30": 23,
       "2025-04-01": 26,
-      "2025-03-22": 41,
-      "2025-02-25": 77
+      "2025-03-22": 41
     }
   },
   {
@@ -461,12 +459,12 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "98.39%",
-    "uptimeWeek": "99.31%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.13%",
     "time": 1247,
     "timeDay": 367,
-    "timeWeek": 478,
+    "timeWeek": 372,
     "timeMonth": 1130,
     "timeYear": 1324,
     "dailyMinutesDown": {
@@ -516,10 +514,10 @@
     "icon": "$FNP_ICON",
     "slug": "fear-no-peer",
     "status": "down",
-    "uptime": "46.65%",
+    "uptime": "46.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.06%",
+    "uptimeMonth": "3.98%",
     "uptimeYear": "7.05%",
     "time": 458,
     "timeDay": 72,
@@ -527,7 +525,8 @@
     "timeMonth": 558,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2026-02-24": 1439,
+      "2026-02-25": 35,
+      "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
@@ -866,8 +865,7 @@
       "2025-03-01": 1440,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
-      "2025-02-26": 1440,
-      "2025-02-25": 1440
+      "2025-02-26": 1440
     }
   },
   {
@@ -1037,13 +1035,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.57%",
+    "uptimeYear": "32.56%",
     "time": 1497,
     "timeDay": 688,
     "timeWeek": 1260,
     "timeMonth": 1872,
     "timeYear": 1588,
     "dailyMinutesDown": {
+      "2026-02-25": 35,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
@@ -1564,8 +1563,7 @@
       "2025-06-24": 27,
       "2025-05-15": 111,
       "2025-04-10": 24,
-      "2025-02-27": 491,
-      "2025-02-25": 17
+      "2025-02-27": 491
     }
   },
   {
