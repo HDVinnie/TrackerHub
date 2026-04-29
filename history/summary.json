@@ -181,19 +181,19 @@
     "url": "$ACM",
     "icon": "$ACM_ICON",
     "slug": "asian-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "96.94%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "95.35%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.48%",
-    "time": 1982,
-    "timeDay": 2991,
-    "timeWeek": 1426,
-    "timeMonth": 968,
-    "timeYear": 1918,
+    "time": 1983,
+    "timeDay": 2521,
+    "timeWeek": 1373,
+    "timeMonth": 961,
+    "timeYear": 1922,
     "dailyMinutesDown": {
-      "2026-04-28": 44,
+      "2026-04-28": 67,
       "2026-04-26": 41,
       "2026-04-24": 17,
       "2026-04-13": 25,
@@ -560,7 +560,8 @@
     "timeMonth": 110,
     "timeYear": 412,
     "dailyMinutesDown": {
-      "2026-04-28": 1417,
+      "2026-04-29": 0,
+      "2026-04-28": 1440,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
@@ -899,8 +900,7 @@
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 1440,
-      "2025-04-30": 1440,
-      "2025-04-29": 1440
+      "2025-04-30": 1440
     }
   },
   {
@@ -1017,7 +1017,7 @@
     "timeDay": 262,
     "timeWeek": 283,
     "timeMonth": 273,
-    "timeYear": 1331,
+    "timeYear": 1333,
     "dailyMinutesDown": {
       "2026-04-20": 219,
       "2026-03-25": 31,
@@ -1072,7 +1072,8 @@
     "timeMonth": 1164,
     "timeYear": 1606,
     "dailyMinutesDown": {
-      "2026-04-28": 1417,
+      "2026-04-29": 1,
+      "2026-04-28": 1440,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
@@ -1534,7 +1535,7 @@
     "time": 1184,
     "timeDay": 437,
     "timeWeek": 591,
-    "timeMonth": 761,
+    "timeMonth": 764,
     "timeYear": 1212,
     "dailyMinutesDown": {
       "2026-04-16": 74,
@@ -1636,7 +1637,7 @@
     "time": 786,
     "timeDay": 577,
     "timeWeek": 672,
-    "timeMonth": 644,
+    "timeMonth": 655,
     "timeYear": 770,
     "dailyMinutesDown": {
       "2026-04-06": 15,
@@ -1962,7 +1963,8 @@
     "timeMonth": 0,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2026-04-28": 1418,
+      "2026-04-29": 2,
+      "2026-04-28": 1440,
       "2026-04-27": 1440,
       "2026-04-26": 1440,
       "2026-04-25": 1440,
