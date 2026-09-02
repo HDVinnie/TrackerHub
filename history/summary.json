@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "59.61%",
-    "uptimeWeek": "57.60%",
-    "uptimeMonth": "89.02%",
+    "uptimeDay": "59.81%",
+    "uptimeWeek": "57.63%",
+    "uptimeMonth": "89.00%",
     "uptimeYear": "99.08%",
     "time": 1025,
-    "timeDay": 1053,
+    "timeDay": 1052,
     "timeWeek": 1042,
     "timeMonth": 1060,
     "timeYear": 1039,
@@ -23,7 +23,7 @@
       "2026-08-30": 602,
       "2026-08-31": 646,
       "2026-09-01": 696,
-      "2026-09-02": 478
+      "2026-09-02": 485
     }
   },
   {
@@ -158,10 +158,10 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "98.96%",
     "uptimeYear": "98.07%",
     "time": 840,
@@ -214,7 +214,8 @@
       "2026-08-25": 20,
       "2026-08-26": 51,
       "2026-08-29": 16,
-      "2026-08-31": 16
+      "2026-08-31": 16,
+      "2026-09-02": 2
     }
   },
   {
@@ -431,15 +432,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "70.27%",
-    "uptimeWeek": "70.28%",
-    "uptimeMonth": "91.17%",
+    "uptimeDay": "70.42%",
+    "uptimeWeek": "70.30%",
+    "uptimeMonth": "91.16%",
     "uptimeYear": "99.26%",
     "time": 1058,
-    "timeDay": 1093,
-    "timeWeek": 1082,
+    "timeDay": 1090,
+    "timeWeek": 1081,
     "timeMonth": 1049,
     "timeYear": 1061,
     "dailyMinutesDown": {
@@ -451,7 +452,7 @@
       "2026-08-30": 442,
       "2026-08-31": 453,
       "2026-09-01": 392,
-      "2026-09-02": 346
+      "2026-09-02": 353
     }
   },
   {
@@ -889,7 +890,7 @@
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1294,
-      "2026-09-02": 1226,
+      "2026-09-02": 1236,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -1134,7 +1135,7 @@
     "status": "up",
     "uptime": "99.84%",
     "uptimeDay": "97.36%",
-    "uptimeWeek": "97.93%",
+    "uptimeWeek": "98.03%",
     "uptimeMonth": "96.16%",
     "uptimeYear": "99.35%",
     "time": 847,
@@ -1191,13 +1192,13 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.35%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "99.70%",
-    "time": 1006,
+    "time": 1007,
     "timeDay": 790,
     "timeWeek": 2907,
     "timeMonth": 1514,
@@ -1238,7 +1239,8 @@
       "2026-08-20": 67,
       "2026-08-25": 19,
       "2026-08-26": 15,
-      "2026-09-01": 30
+      "2026-09-01": 30,
+      "2026-09-02": 2
     }
   },
   {
@@ -1543,7 +1545,7 @@
     "uptime": "96.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "49.78%",
+    "uptimeMonth": "49.75%",
     "uptimeYear": "91.61%",
     "time": 977,
     "timeDay": 865,
@@ -1622,7 +1624,7 @@
       "2026-08-10": 29,
       "2026-08-11": 48,
       "2026-08-18": 513,
-      "2026-09-02": 1227,
+      "2026-09-02": 1236,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -1644,15 +1646,15 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "93.41%",
-    "uptimeWeek": "93.36%",
-    "uptimeMonth": "96.11%",
+    "uptimeDay": "92.86%",
+    "uptimeWeek": "93.28%",
+    "uptimeMonth": "96.09%",
     "uptimeYear": "99.31%",
     "time": 877,
-    "timeDay": 939,
-    "timeWeek": 962,
+    "timeDay": 945,
+    "timeWeek": 961,
     "timeMonth": 975,
     "timeYear": 868,
     "dailyMinutesDown": {
@@ -1701,7 +1703,7 @@
       "2026-08-30": 45,
       "2026-08-31": 98,
       "2026-09-01": 96,
-      "2026-09-02": 94
+      "2026-09-02": 102
     }
   },
   {
