@@ -75,10 +75,6 @@ sites:
     url: $HDB
     icon: $HDB_ICON
     maxResponseTime: 1000
-  - name: MorethanTV
-    url: $MTV
-    icon: $MTV_ICON
-    maxResponseTime: 1000
   - name: MyAnonaMouse
     url: $MAM
     icon: $MAM_ICON
@@ -118,10 +114,6 @@ sites:
   - name: TorrentLeech
     url: $TL
     icon: $TL_ICON
-    maxResponseTime: 1000
-  - name: UHDBits
-    url: $UHD
-    icon: $UHD_ICON
     maxResponseTime: 1000
 
 status-website:
