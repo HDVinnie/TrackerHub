@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.83%",
-    "uptimeDay": "60.93%",
-    "uptimeWeek": "63.37%",
-    "uptimeMonth": "91.57%",
+    "uptimeDay": "60.64%",
+    "uptimeWeek": "63.33%",
+    "uptimeMonth": "91.56%",
     "uptimeYear": "99.30%",
     "time": 1023,
     "timeDay": 1064,
@@ -22,7 +22,7 @@
       "2026-09-02": 504,
       "2026-09-03": 798,
       "2026-09-04": 556,
-      "2026-09-05": 207
+      "2026-09-05": 211
     }
   },
   {
@@ -30,17 +30,17 @@
     "url": "$AR",
     "icon": "$AR_ICON",
     "slug": "alpha-ratio",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.87%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "99.05%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "96.73%",
     "time": 3881,
-    "timeDay": 6810,
-    "timeWeek": 4103,
-    "timeMonth": 3808,
-    "timeYear": 3769,
+    "timeDay": 5616,
+    "timeWeek": 3973,
+    "timeMonth": 3765,
+    "timeYear": 3764,
     "dailyMinutesDown": {
       "2025-09-09": 16,
       "2025-10-05": 1285,
@@ -116,7 +116,7 @@
       "2026-08-29": 16,
       "2026-08-31": 27,
       "2026-09-03": 115,
-      "2026-09-05": 4
+      "2026-09-05": 7
     }
   },
   {
@@ -124,17 +124,17 @@
     "url": "$AB",
     "icon": "$AB_ICON",
     "slug": "anime-bytes",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "96.72%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.79%",
     "time": 1977,
-    "timeDay": 11032,
-    "timeWeek": 7757,
-    "timeMonth": 4839,
-    "timeYear": 2008,
+    "timeDay": 10231,
+    "timeWeek": 7471,
+    "timeMonth": 4736,
+    "timeYear": 2005,
     "dailyMinutesDown": {
       "2025-09-11": 265,
       "2025-09-15": 74,
@@ -152,7 +152,7 @@
       "2026-07-29": 38,
       "2026-07-31": 197,
       "2026-08-29": 21,
-      "2026-09-05": 47
+      "2026-09-05": 50
     }
   },
   {
@@ -160,16 +160,16 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "96.68%",
-    "uptimeWeek": "97.06%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "97.03%",
     "uptimeMonth": "98.32%",
-    "uptimeYear": "98.02%",
+    "uptimeYear": "98.01%",
     "time": 858,
-    "timeDay": 1013,
-    "timeWeek": 1238,
-    "timeMonth": 1161,
+    "timeDay": 979,
+    "timeWeek": 1222,
+    "timeMonth": 1156,
     "timeYear": 809,
     "dailyMinutesDown": {
       "2025-10-13": 211,
@@ -220,7 +220,7 @@
       "2026-09-02": 105,
       "2026-09-03": 127,
       "2026-09-04": 44,
-      "2026-09-05": 4
+      "2026-09-05": 6
     }
   },
   {
@@ -350,16 +350,16 @@
     "url": "$BLU",
     "icon": "$BLU_ICON",
     "slug": "blutopia",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.63%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.68%",
     "time": 877,
-    "timeDay": 733,
-    "timeWeek": 653,
-    "timeMonth": 908,
+    "timeDay": 699,
+    "timeWeek": 650,
+    "timeMonth": 901,
     "timeYear": 724,
     "dailyMinutesDown": {
       "2025-09-08": 23,
@@ -389,7 +389,7 @@
       "2026-08-21": 20,
       "2026-08-25": 20,
       "2026-09-03": 21,
-      "2026-09-05": 3
+      "2026-09-05": 6
     }
   },
   {
@@ -439,15 +439,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "69.47%",
-    "uptimeWeek": "70.62%",
-    "uptimeMonth": "93.24%",
+    "uptimeDay": "69.30%",
+    "uptimeWeek": "70.59%",
+    "uptimeMonth": "93.23%",
     "uptimeYear": "99.44%",
     "time": 1061,
-    "timeDay": 1106,
-    "timeWeek": 1091,
+    "timeDay": 1103,
+    "timeWeek": 1090,
     "timeMonth": 1054,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -458,7 +458,7 @@
       "2026-09-02": 397,
       "2026-09-03": 505,
       "2026-09-04": 470,
-      "2026-09-05": 166
+      "2026-09-05": 169
     }
   },
   {
@@ -466,17 +466,17 @@
     "url": "$EMP",
     "icon": "$EMP_ICON",
     "slug": "empornium",
-    "status": "degraded",
+    "status": "up",
     "uptime": "97.27%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "89.06%",
-    "time": 901,
-    "timeDay": 896,
-    "timeWeek": 467,
-    "timeMonth": 581,
-    "timeYear": 713,
+    "time": 900,
+    "timeDay": 706,
+    "timeWeek": 449,
+    "timeMonth": 572,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2026-01-01": 97,
       "2025-12-31": 1440,
@@ -548,7 +548,7 @@
       "2026-07-30": 31,
       "2026-08-10": 20,
       "2026-08-29": 15,
-      "2026-09-05": 3
+      "2026-09-05": 5
     }
   },
   {
@@ -759,17 +759,17 @@
     "url": "$HDB",
     "icon": "$HDB_ICON",
     "slug": "hd-bits",
-    "status": "degraded",
+    "status": "down",
     "uptime": "71.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.63%",
     "time": 1640,
-    "timeDay": 887,
-    "timeWeek": 987,
-    "timeMonth": 1348,
-    "timeYear": 1643,
+    "timeDay": 807,
+    "timeWeek": 978,
+    "timeMonth": 1342,
+    "timeYear": 1642,
     "dailyMinutesDown": {
       "2026-01-01": 97,
       "2025-12-31": 1440,
@@ -897,7 +897,7 @@
       "2026-01-05": 1440,
       "2026-01-04": 1440,
       "2026-01-03": 1294,
-      "2026-09-05": 599,
+      "2026-09-05": 602,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
@@ -1142,15 +1142,15 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "96.12%",
-    "uptimeWeek": "96.58%",
+    "uptimeDay": "95.97%",
+    "uptimeWeek": "96.56%",
     "uptimeMonth": "96.27%",
     "uptimeYear": "99.37%",
     "time": 868,
-    "timeDay": 1021,
-    "timeWeek": 1005,
+    "timeDay": 1020,
+    "timeWeek": 1004,
     "timeMonth": 987,
     "timeYear": 894,
     "dailyMinutesDown": {
@@ -1193,7 +1193,7 @@
       "2026-09-02": 39,
       "2026-09-03": 118,
       "2026-09-04": 47,
-      "2026-09-05": 9
+      "2026-09-05": 11
     }
   },
   {
@@ -1311,16 +1311,16 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "96.76%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "96.75%",
     "uptimeYear": "98.91%",
     "time": 887,
-    "timeDay": 1013,
-    "timeWeek": 1130,
-    "timeMonth": 1024,
+    "timeDay": 979,
+    "timeWeek": 1123,
+    "timeMonth": 1023,
     "timeYear": 838,
     "dailyMinutesDown": {
       "2026-06-28": 86,
@@ -1374,7 +1374,7 @@
       "2026-09-02": 42,
       "2026-09-03": 41,
       "2026-09-04": 18,
-      "2026-09-05": 2
+      "2026-09-05": 4
     }
   },
   {
@@ -1557,7 +1557,7 @@
     "uptime": "95.86%",
     "uptimeDay": "1.05%",
     "uptimeWeek": "0.15%",
-    "uptimeMonth": "41.44%",
+    "uptimeMonth": "41.43%",
     "uptimeYear": "90.91%",
     "time": 977,
     "timeDay": 527,
@@ -1636,7 +1636,7 @@
       "2026-08-10": 29,
       "2026-08-11": 48,
       "2026-08-18": 513,
-      "2026-09-05": 584,
+      "2026-09-05": 588,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
