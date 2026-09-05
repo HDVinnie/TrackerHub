@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.83%",
     "uptimeDay": "62.96%",
-    "uptimeWeek": "63.67%",
-    "uptimeMonth": "91.64%",
+    "uptimeWeek": "63.59%",
+    "uptimeMonth": "91.62%",
     "uptimeYear": "99.30%",
     "time": 1025,
     "timeDay": 1061,
@@ -22,7 +22,7 @@
       "2026-09-02": 504,
       "2026-09-03": 798,
       "2026-09-04": 556,
-      "2026-09-05": 306
+      "2026-09-05": 314
     }
   },
   {
@@ -436,14 +436,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "75.70%",
-    "uptimeWeek": "70.84%",
-    "uptimeMonth": "93.25%",
+    "uptimeDay": "76.58%",
+    "uptimeWeek": "70.89%",
+    "uptimeMonth": "93.26%",
     "uptimeYear": "99.44%",
     "time": 1056,
-    "timeDay": 1084,
+    "timeDay": 1094,
     "timeWeek": 1088,
     "timeMonth": 1053,
     "timeYear": 1063,
@@ -455,7 +455,7 @@
       "2026-09-02": 397,
       "2026-09-03": 505,
       "2026-09-04": 470,
-      "2026-09-05": 161
+      "2026-09-05": 156
     }
   },
   {
@@ -762,7 +762,7 @@
     "uptimeMonth": "96.40%",
     "uptimeYear": "99.36%",
     "time": 870,
-    "timeDay": 1014,
+    "timeDay": 1010,
     "timeWeek": 1002,
     "timeMonth": 986,
     "timeYear": 894,
@@ -925,15 +925,15 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.74%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "96.87%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "96.88%",
     "uptimeYear": "98.91%",
     "time": 888,
-    "timeDay": 936,
-    "timeWeek": 1123,
+    "timeDay": 947,
+    "timeWeek": 1121,
     "timeMonth": 1019,
     "timeYear": 838,
     "dailyMinutesDown": {
@@ -988,7 +988,7 @@
       "2026-09-02": 42,
       "2026-09-03": 41,
       "2026-09-04": 18,
-      "2026-09-05": 6
+      "2026-09-05": 1
     }
   },
   {
@@ -1174,7 +1174,7 @@
     "uptimeMonth": "96.42%",
     "uptimeYear": "99.34%",
     "time": 873,
-    "timeDay": 901,
+    "timeDay": 896,
     "timeWeek": 939,
     "timeMonth": 968,
     "timeYear": 873,
