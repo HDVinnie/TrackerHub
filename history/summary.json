@@ -7,12 +7,12 @@
     "status": "degraded",
     "uptime": "99.84%",
     "uptimeDay": "68.71%",
-    "uptimeWeek": "64.88%",
-    "uptimeMonth": "91.92%",
+    "uptimeWeek": "64.83%",
+    "uptimeMonth": "91.91%",
     "uptimeYear": "99.33%",
     "time": 1019,
     "timeDay": 1074,
-    "timeWeek": 1050,
+    "timeWeek": 1049,
     "timeMonth": 1049,
     "timeYear": 1041,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2026-09-02": 504,
       "2026-09-03": 798,
       "2026-09-04": 556,
-      "2026-09-05": 429
+      "2026-09-05": 434
     }
   },
   {
@@ -435,15 +435,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "81.72%",
-    "uptimeWeek": "71.04%",
-    "uptimeMonth": "93.24%",
+    "uptimeDay": "81.77%",
+    "uptimeWeek": "71.02%",
+    "uptimeMonth": "93.23%",
     "uptimeYear": "99.44%",
     "time": 1060,
-    "timeDay": 1080,
-    "timeWeek": 1093,
+    "timeDay": 1076,
+    "timeWeek": 1092,
     "timeMonth": 1055,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -454,7 +454,7 @@
       "2026-09-02": 397,
       "2026-09-03": 505,
       "2026-09-04": 470,
-      "2026-09-05": 243
+      "2026-09-05": 247
     }
   },
   {
@@ -1166,16 +1166,16 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "94.56%",
-    "uptimeMonth": "96.49%",
+    "uptimeDay": "96.60%",
+    "uptimeWeek": "94.52%",
+    "uptimeMonth": "96.48%",
     "uptimeYear": "99.34%",
-    "time": 873,
-    "timeDay": 936,
-    "timeWeek": 938,
-    "timeMonth": 969,
+    "time": 872,
+    "timeDay": 925,
+    "timeWeek": 936,
+    "timeMonth": 968,
     "timeYear": 874,
     "dailyMinutesDown": {
       "2026-07-07": 65,
@@ -1221,7 +1221,7 @@
       "2026-09-02": 94,
       "2026-09-03": 127,
       "2026-09-04": 44,
-      "2026-09-05": 42
+      "2026-09-05": 46
     }
   },
   {
