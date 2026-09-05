@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.83%",
     "uptimeDay": "63.81%",
-    "uptimeWeek": "63.95%",
-    "uptimeMonth": "91.70%",
+    "uptimeWeek": "63.89%",
+    "uptimeMonth": "91.69%",
     "uptimeYear": "99.31%",
     "time": 1025,
     "timeDay": 1056,
@@ -22,7 +22,7 @@
       "2026-09-02": 504,
       "2026-09-03": 798,
       "2026-09-04": 556,
-      "2026-09-05": 326
+      "2026-09-05": 332
     }
   },
   {
@@ -163,7 +163,7 @@
     "uptime": "99.45%",
     "uptimeDay": "98.93%",
     "uptimeWeek": "97.09%",
-    "uptimeMonth": "98.33%",
+    "uptimeMonth": "98.34%",
     "uptimeYear": "98.02%",
     "time": 859,
     "timeDay": 861,
@@ -394,17 +394,17 @@
     "url": "$BTN",
     "icon": "$BTN_ICON",
     "slug": "broadcas-the-net",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.61%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "99.28%",
-    "time": 835,
-    "timeDay": 2010,
-    "timeWeek": 1131,
-    "timeMonth": 1140,
-    "timeYear": 948,
+    "time": 834,
+    "timeDay": 1646,
+    "timeWeek": 1073,
+    "timeMonth": 1119,
+    "timeYear": 947,
     "dailyMinutesDown": {
       "2025-10-11": 24,
       "2025-11-18": 115,
@@ -429,7 +429,7 @@
       "2026-06-09": 69,
       "2026-08-22": 19,
       "2026-08-25": 590,
-      "2026-09-05": 1
+      "2026-09-05": 6
     }
   },
   {
@@ -439,12 +439,12 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "77.19%",
-    "uptimeWeek": "70.89%",
-    "uptimeMonth": "93.26%",
+    "uptimeDay": "76.79%",
+    "uptimeWeek": "70.84%",
+    "uptimeMonth": "93.25%",
     "uptimeYear": "99.44%",
     "time": 1057,
-    "timeDay": 1087,
+    "timeDay": 1090,
     "timeWeek": 1089,
     "timeMonth": 1054,
     "timeYear": 1063,
@@ -456,7 +456,7 @@
       "2026-09-02": 397,
       "2026-09-03": 505,
       "2026-09-04": 470,
-      "2026-09-05": 156
+      "2026-09-05": 162
     }
   },
   {
@@ -1113,9 +1113,9 @@
     "slug": "redacted",
     "status": "up",
     "uptime": "98.27%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "98.44%",
     "time": 1229,
     "timeDay": 718,
@@ -1160,8 +1160,7 @@
       "2026-08-24": 25,
       "2026-09-02": 42,
       "2026-09-01": 1,
-      "2026-09-03": 59,
-      "2026-09-05": 9
+      "2026-09-03": 59
     }
   },
   {
