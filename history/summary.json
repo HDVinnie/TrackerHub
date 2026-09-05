@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "61.19%",
-    "uptimeWeek": "63.76%",
-    "uptimeMonth": "91.66%",
+    "uptimeDay": "60.41%",
+    "uptimeWeek": "63.65%",
+    "uptimeMonth": "91.63%",
     "uptimeYear": "99.30%",
     "time": 1026,
-    "timeDay": 1075,
+    "timeDay": 1074,
     "timeWeek": 1046,
     "timeMonth": 1048,
     "timeYear": 1041,
@@ -22,7 +22,7 @@
       "2026-09-02": 504,
       "2026-09-03": 798,
       "2026-09-04": 556,
-      "2026-09-05": 377
+      "2026-09-05": 388
     }
   },
   {
@@ -163,12 +163,12 @@
     "uptime": "99.45%",
     "uptimeDay": "98.93%",
     "uptimeWeek": "97.09%",
-    "uptimeMonth": "98.45%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "98.02%",
     "time": 859,
     "timeDay": 861,
     "timeWeek": 1184,
-    "timeMonth": 1061,
+    "timeMonth": 1068,
     "timeYear": 808,
     "dailyMinutesDown": {
       "2025-10-13": 211,
@@ -436,15 +436,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "73.67%",
-    "uptimeWeek": "70.39%",
-    "uptimeMonth": "93.19%",
+    "uptimeDay": "72.92%",
+    "uptimeWeek": "70.28%",
+    "uptimeMonth": "93.16%",
     "uptimeYear": "99.43%",
     "time": 1057,
-    "timeDay": 1088,
-    "timeWeek": 1088,
+    "timeDay": 1087,
+    "timeWeek": 1089,
     "timeMonth": 1054,
     "timeYear": 1063,
     "dailyMinutesDown": {
@@ -455,7 +455,7 @@
       "2026-09-02": 397,
       "2026-09-03": 505,
       "2026-09-04": 470,
-      "2026-09-05": 206
+      "2026-09-05": 217
     }
   },
   {
@@ -1171,11 +1171,11 @@
     "uptime": "99.82%",
     "uptimeDay": "95.23%",
     "uptimeWeek": "94.38%",
-    "uptimeMonth": "96.46%",
+    "uptimeMonth": "96.49%",
     "uptimeYear": "99.34%",
     "time": 872,
     "timeDay": 897,
-    "timeWeek": 939,
+    "timeWeek": 937,
     "timeMonth": 967,
     "timeYear": 873,
     "dailyMinutesDown": {
