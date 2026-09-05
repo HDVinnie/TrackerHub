@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.83%",
     "uptimeDay": "62.96%",
-    "uptimeWeek": "63.59%",
-    "uptimeMonth": "91.62%",
+    "uptimeWeek": "63.53%",
+    "uptimeMonth": "91.61%",
     "uptimeYear": "99.30%",
     "time": 1025,
     "timeDay": 1061,
@@ -22,7 +22,7 @@
       "2026-09-02": 504,
       "2026-09-03": 798,
       "2026-09-04": 556,
-      "2026-09-05": 314
+      "2026-09-05": 320
     }
   },
   {
@@ -439,8 +439,8 @@
     "status": "degraded",
     "uptime": "99.87%",
     "uptimeDay": "76.58%",
-    "uptimeWeek": "70.89%",
-    "uptimeMonth": "93.26%",
+    "uptimeWeek": "70.83%",
+    "uptimeMonth": "93.25%",
     "uptimeYear": "99.44%",
     "time": 1056,
     "timeDay": 1094,
@@ -455,7 +455,7 @@
       "2026-09-02": 397,
       "2026-09-03": 505,
       "2026-09-04": 470,
-      "2026-09-05": 156
+      "2026-09-05": 162
     }
   },
   {
@@ -925,16 +925,16 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "96.88%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "98.91%",
     "time": 888,
-    "timeDay": 947,
-    "timeWeek": 1121,
-    "timeMonth": 1019,
+    "timeDay": 920,
+    "timeWeek": 1113,
+    "timeMonth": 1017,
     "timeYear": 838,
     "dailyMinutesDown": {
       "2026-06-28": 86,
@@ -988,7 +988,7 @@
       "2026-09-02": 42,
       "2026-09-03": 41,
       "2026-09-04": 18,
-      "2026-09-05": 1
+      "2026-09-05": 6
     }
   },
   {
@@ -1174,7 +1174,7 @@
     "uptimeMonth": "96.42%",
     "uptimeYear": "99.34%",
     "time": 873,
-    "timeDay": 896,
+    "timeDay": 906,
     "timeWeek": 939,
     "timeMonth": 968,
     "timeYear": 873,
