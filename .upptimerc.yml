@@ -67,10 +67,6 @@ sites:
       - 200
       - 201
       - 403
-  - name: HDBits
-    url: $HDB
-    icon: $HDB_ICON
-    maxResponseTime: 1000
   - name: MyAnonaMouse
     url: $MAM
     icon: $MAM_ICON
@@ -98,10 +94,6 @@ sites:
   - name: Redacted
     url: $RED
     icon: $RED_ICON
-    maxResponseTime: 1000
-  - name: SceneTime
-    url: $ST
-    icon: $ST_ICON
     maxResponseTime: 1000
   - name: Secret-Cinema
     url: $SC
