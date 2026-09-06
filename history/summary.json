@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "72.05%",
-    "uptimeWeek": "66.59%",
-    "uptimeMonth": "92.31%",
+    "uptimeDay": "70.84%",
+    "uptimeWeek": "66.42%",
+    "uptimeMonth": "92.27%",
     "uptimeYear": "99.36%",
     "time": 1020,
     "timeDay": 1069,
@@ -22,7 +22,7 @@
       "2026-09-03": 798,
       "2026-09-04": 556,
       "2026-09-05": 440,
-      "2026-09-06": 140
+      "2026-09-06": 158
     }
   },
   {
@@ -30,17 +30,17 @@
     "url": "$AR",
     "icon": "$AR_ICON",
     "slug": "alpha-ratio",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.59%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.58%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "96.73%",
-    "time": 3881,
-    "timeDay": 824,
-    "timeWeek": 3723,
-    "timeMonth": 3722,
-    "timeYear": 3760,
+    "time": 3818,
+    "timeDay": 873,
+    "timeWeek": 3629,
+    "timeMonth": 3685,
+    "timeYear": 3756,
     "dailyMinutesDown": {
       "2025-09-09": 16,
       "2025-10-05": 1285,
@@ -115,7 +115,8 @@
       "2026-08-26": 20,
       "2026-08-29": 16,
       "2026-08-31": 27,
-      "2026-09-03": 115
+      "2026-09-03": 115,
+      "2026-09-06": 1
     }
   },
   {
@@ -436,26 +437,26 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "87.08%",
-    "uptimeWeek": "72.18%",
-    "uptimeMonth": "93.21%",
-    "uptimeYear": "99.43%",
+    "status": "degraded",
+    "uptime": "99.87%",
+    "uptimeDay": "86.99%",
+    "uptimeWeek": "72.17%",
+    "uptimeMonth": "93.30%",
+    "uptimeYear": "99.44%",
     "time": 1062,
-    "timeDay": 1091,
-    "timeWeek": 1098,
+    "timeDay": 1090,
+    "timeWeek": 1097,
     "timeMonth": 1056,
     "timeYear": 1064,
     "dailyMinutesDown": {
-      "2026-08-30": 413,
+      "2026-08-30": 375,
       "2026-08-31": 453,
       "2026-09-01": 392,
       "2026-09-02": 397,
       "2026-09-03": 505,
       "2026-09-04": 470,
       "2026-09-05": 247,
-      "2026-09-06": 93
+      "2026-09-06": 94
     }
   },
   {
