@@ -580,17 +580,17 @@
     "url": "$GGN",
     "icon": "$GGN_ICON",
     "slug": "gazelle-games",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "94.42%",
-    "uptimeMonth": "98.51%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "94.36%",
+    "uptimeMonth": "98.50%",
     "uptimeYear": "97.03%",
     "time": 2439,
-    "timeDay": 1140,
-    "timeWeek": 2602,
-    "timeMonth": 2122,
-    "timeYear": 2783,
+    "timeDay": 1019,
+    "timeWeek": 2551,
+    "timeMonth": 2096,
+    "timeYear": 2780,
     "dailyMinutesDown": {
       "2025-10-09": 170,
       "2025-10-10": 847,
@@ -648,7 +648,7 @@
       "2026-09-01": 57,
       "2026-09-02": 32,
       "2026-09-03": 472,
-      "2026-09-06": 1
+      "2026-09-06": 7
     }
   },
   {
@@ -1177,7 +1177,7 @@
     "uptimeYear": "99.34%",
     "time": 872,
     "timeDay": 929,
-    "timeWeek": 935,
+    "timeWeek": 936,
     "timeMonth": 968,
     "timeYear": 874,
     "dailyMinutesDown": {
