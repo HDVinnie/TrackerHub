@@ -6,7 +6,7 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "66.72%",
+    "uptimeDay": "67.09%",
     "uptimeWeek": "66.74%",
     "uptimeMonth": "92.35%",
     "uptimeYear": "99.36%",
@@ -436,15 +436,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "81.20%",
-    "uptimeWeek": "72.19%",
-    "uptimeMonth": "93.46%",
+    "uptimeDay": "81.24%",
+    "uptimeWeek": "72.15%",
+    "uptimeMonth": "93.45%",
     "uptimeYear": "99.45%",
     "time": 1061,
-    "timeDay": 1119,
-    "timeWeek": 1096,
+    "timeDay": 1121,
+    "timeWeek": 1094,
     "timeMonth": 1058,
     "timeYear": 1065,
     "dailyMinutesDown": {
@@ -455,7 +455,7 @@
       "2026-09-03": 505,
       "2026-09-04": 470,
       "2026-09-05": 247,
-      "2026-09-06": 203
+      "2026-09-06": 208
     }
   },
   {
@@ -1176,7 +1176,7 @@
     "uptimeYear": "99.34%",
     "time": 871,
     "timeDay": 981,
-    "timeWeek": 940,
+    "timeWeek": 941,
     "timeMonth": 969,
     "timeYear": 875,
     "dailyMinutesDown": {
