@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "58.54%",
-    "uptimeWeek": "69.69%",
-    "uptimeMonth": "93.03%",
+    "uptimeDay": "59.53%",
+    "uptimeWeek": "69.74%",
+    "uptimeMonth": "93.04%",
     "uptimeYear": "99.42%",
     "time": 1022,
-    "timeDay": 1073,
+    "timeDay": 1077,
     "timeWeek": 1056,
     "timeMonth": 1050,
     "timeYear": 1042,
@@ -21,7 +21,7 @@
       "2026-09-04": 556,
       "2026-09-05": 440,
       "2026-09-06": 561,
-      "2026-09-07": 471
+      "2026-09-07": 466
     }
   },
   {
@@ -437,14 +437,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "67.52%",
-    "uptimeWeek": "72.90%",
-    "uptimeMonth": "93.58%",
+    "uptimeDay": "67.81%",
+    "uptimeWeek": "72.94%",
+    "uptimeMonth": "93.59%",
     "uptimeYear": "99.47%",
     "time": 1063,
-    "timeDay": 1093,
+    "timeDay": 1097,
     "timeWeek": 1102,
     "timeMonth": 1061,
     "timeYear": 1066,
@@ -456,7 +456,7 @@
       "2026-09-04": 470,
       "2026-09-05": 247,
       "2026-09-06": 260,
-      "2026-09-07": 434
+      "2026-09-07": 429
     }
   },
   {
@@ -927,17 +927,17 @@
     "slug": "orpheus",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "97.14%",
-    "uptimeYear": "98.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "97.16%",
+    "uptimeYear": "98.90%",
     "time": 935,
     "timeDay": 5880,
     "timeWeek": 1921,
     "timeMonth": 1309,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2026-06-28": 52,
+      "2026-06-28": 86,
       "2026-06-29": 183,
       "2026-06-30": 51,
       "2026-07-01": 164,
@@ -988,8 +988,7 @@
       "2026-09-02": 42,
       "2026-09-03": 41,
       "2026-09-04": 18,
-      "2026-09-05": 18,
-      "2026-09-07": 5
+      "2026-09-05": 18
     }
   },
   {
@@ -1177,7 +1176,7 @@
     "uptimeMonth": "96.60%",
     "uptimeYear": "99.34%",
     "time": 883,
-    "timeDay": 938,
+    "timeDay": 935,
     "timeWeek": 945,
     "timeMonth": 968,
     "timeYear": 878,
