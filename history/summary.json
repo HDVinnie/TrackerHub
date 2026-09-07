@@ -4,24 +4,24 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "59.59%",
-    "uptimeWeek": "69.35%",
-    "uptimeMonth": "92.95%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "59.57%",
+    "uptimeWeek": "69.50%",
+    "uptimeMonth": "92.98%",
+    "uptimeYear": "99.42%",
     "time": 1020,
-    "timeDay": 1063,
-    "timeWeek": 1051,
+    "timeDay": 1070,
+    "timeWeek": 1052,
     "timeMonth": 1049,
     "timeYear": 1042,
     "dailyMinutesDown": {
-      "2026-09-02": 377,
+      "2026-09-02": 361,
       "2026-09-03": 798,
       "2026-09-04": 556,
       "2026-09-05": 440,
       "2026-09-06": 561,
-      "2026-09-07": 355
+      "2026-09-07": 356
     }
   },
   {
@@ -439,10 +439,10 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "73.65%",
-    "uptimeWeek": "73.24%",
-    "uptimeMonth": "93.47%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "73.20%",
+    "uptimeWeek": "73.17%",
+    "uptimeMonth": "93.46%",
+    "uptimeYear": "99.45%",
     "time": 1061,
     "timeDay": 1124,
     "timeWeek": 1099,
@@ -456,7 +456,7 @@
       "2026-09-04": 470,
       "2026-09-05": 247,
       "2026-09-06": 260,
-      "2026-09-07": 319
+      "2026-09-07": 325
     }
   },
   {
@@ -758,17 +758,17 @@
     "slug": "my-anona-mouse",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "93.42%",
-    "uptimeWeek": "96.78%",
-    "uptimeMonth": "96.72%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "93.83%",
+    "uptimeWeek": "96.84%",
+    "uptimeMonth": "96.74%",
+    "uptimeYear": "99.37%",
     "time": 862,
     "timeDay": 983,
     "timeWeek": 998,
     "timeMonth": 989,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2026-07-23": 26,
+      "2026-07-23": 78,
       "2026-07-24": 175,
       "2026-07-25": 188,
       "2026-07-26": 119,
@@ -807,7 +807,7 @@
       "2026-09-03": 118,
       "2026-09-04": 47,
       "2026-09-05": 6,
-      "2026-09-07": 95
+      "2026-09-07": 89
     }
   },
   {
