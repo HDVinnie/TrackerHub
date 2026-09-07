@@ -925,17 +925,17 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "97.15%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "97.14%",
     "uptimeYear": "98.91%",
-    "time": 955,
-    "timeDay": 3194,
-    "timeWeek": 2155,
-    "timeMonth": 1396,
-    "timeYear": 932,
+    "time": 954,
+    "timeDay": 2899,
+    "timeWeek": 2132,
+    "timeMonth": 1392,
+    "timeYear": 931,
     "dailyMinutesDown": {
       "2026-06-28": 52,
       "2026-06-29": 183,
@@ -989,7 +989,7 @@
       "2026-09-03": 41,
       "2026-09-04": 18,
       "2026-09-05": 18,
-      "2026-09-07": 1
+      "2026-09-07": 6
     }
   },
   {
@@ -1006,7 +1006,7 @@
     "time": 588,
     "timeDay": 370,
     "timeWeek": 465,
-    "timeMonth": 780,
+    "timeMonth": 794,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2025-11-02": 133,
