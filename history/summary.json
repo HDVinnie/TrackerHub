@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "58.12%",
-    "uptimeWeek": "68.33%",
-    "uptimeMonth": "92.71%",
+    "uptimeDay": "57.64%",
+    "uptimeWeek": "68.26%",
+    "uptimeMonth": "92.70%",
     "uptimeYear": "99.39%",
     "time": 1028,
     "timeDay": 1063,
@@ -22,7 +22,7 @@
       "2026-09-04": 556,
       "2026-09-05": 440,
       "2026-09-06": 561,
-      "2026-09-07": 213
+      "2026-09-07": 220
     }
   },
   {
@@ -437,14 +437,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "76.92%",
-    "uptimeWeek": "73.04%",
-    "uptimeMonth": "93.35%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "76.84%",
+    "uptimeWeek": "72.98%",
+    "uptimeMonth": "93.33%",
+    "uptimeYear": "99.44%",
     "time": 1059,
-    "timeDay": 1131,
+    "timeDay": 1108,
     "timeWeek": 1100,
     "timeMonth": 1060,
     "timeYear": 1065,
@@ -457,7 +457,7 @@
       "2026-09-04": 470,
       "2026-09-05": 247,
       "2026-09-06": 260,
-      "2026-09-07": 178
+      "2026-09-07": 184
     }
   },
   {
@@ -1170,17 +1170,17 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "95.82%",
-    "uptimeMonth": "96.49%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "95.77%",
+    "uptimeMonth": "96.48%",
     "uptimeYear": "99.34%",
     "time": 879,
     "timeDay": 969,
-    "timeWeek": 942,
+    "timeWeek": 946,
     "timeMonth": 969,
-    "timeYear": 877,
+    "timeYear": 878,
     "dailyMinutesDown": {
       "2026-07-07": 65,
       "2026-07-08": 77,
@@ -1226,7 +1226,7 @@
       "2026-09-03": 127,
       "2026-09-04": 44,
       "2026-09-05": 40,
-      "2026-09-07": 2
+      "2026-09-07": 7
     }
   },
   {
