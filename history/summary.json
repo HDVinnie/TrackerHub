@@ -6,13 +6,13 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "61.62%",
-    "uptimeWeek": "69.48%",
-    "uptimeMonth": "92.98%",
+    "uptimeDay": "60.86%",
+    "uptimeWeek": "69.38%",
+    "uptimeMonth": "92.95%",
     "uptimeYear": "99.41%",
     "time": 1019,
-    "timeDay": 1068,
-    "timeWeek": 1052,
+    "timeDay": 1069,
+    "timeWeek": 1053,
     "timeMonth": 1049,
     "timeYear": 1042,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2026-09-04": 556,
       "2026-09-05": 440,
       "2026-09-06": 561,
-      "2026-09-07": 307
+      "2026-09-07": 318
     }
   },
   {
@@ -437,26 +437,26 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "75.66%",
-    "uptimeWeek": "73.22%",
-    "uptimeMonth": "93.44%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "75.56%",
+    "uptimeWeek": "73.20%",
+    "uptimeMonth": "93.48%",
+    "uptimeYear": "99.46%",
     "time": 1060,
     "timeDay": 1125,
-    "timeWeek": 1097,
+    "timeWeek": 1098,
     "timeMonth": 1059,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2026-08-31": 306,
+      "2026-08-31": 287,
       "2026-09-01": 392,
       "2026-09-02": 397,
       "2026-09-03": 505,
       "2026-09-04": 470,
       "2026-09-05": 247,
       "2026-09-06": 260,
-      "2026-09-07": 290
+      "2026-09-07": 291
     }
   },
   {
