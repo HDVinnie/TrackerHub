@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "52.84%",
-    "uptimeWeek": "70.76%",
-    "uptimeMonth": "93.27%",
+    "uptimeDay": "52.51%",
+    "uptimeWeek": "70.72%",
+    "uptimeMonth": "93.26%",
     "uptimeYear": "99.44%",
     "time": 1027,
-    "timeDay": 1091,
-    "timeWeek": 1060,
+    "timeDay": 1087,
+    "timeWeek": 1059,
     "timeMonth": 1051,
     "timeYear": 1043,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2026-09-05": 440,
       "2026-09-06": 561,
       "2026-09-07": 535,
-      "2026-09-08": 430
+      "2026-09-08": 435
     }
   },
   {
@@ -436,15 +436,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "57.68%",
-    "uptimeWeek": "72.46%",
-    "uptimeMonth": "93.66%",
+    "uptimeDay": "57.39%",
+    "uptimeWeek": "72.41%",
+    "uptimeMonth": "93.65%",
     "uptimeYear": "99.47%",
     "time": 1062,
-    "timeDay": 1077,
-    "timeWeek": 1090,
+    "timeDay": 1070,
+    "timeWeek": 1089,
     "timeMonth": 1061,
     "timeYear": 1066,
     "dailyMinutesDown": {
@@ -455,7 +455,7 @@
       "2026-09-05": 247,
       "2026-09-06": 260,
       "2026-09-07": 492,
-      "2026-09-08": 349
+      "2026-09-08": 353
     }
   },
   {
@@ -1170,17 +1170,17 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "96.14%",
-    "uptimeMonth": "96.67%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "96.66%",
     "uptimeYear": "99.34%",
     "time": 884,
-    "timeDay": 916,
-    "timeWeek": 944,
+    "timeDay": 911,
+    "timeWeek": 943,
     "timeMonth": 967,
-    "timeYear": 879,
+    "timeYear": 878,
     "dailyMinutesDown": {
       "2026-07-07": 65,
       "2026-07-08": 77,
@@ -1226,7 +1226,7 @@
       "2026-09-03": 127,
       "2026-09-04": 44,
       "2026-09-05": 40,
-      "2026-09-08": 2
+      "2026-09-08": 5
     }
   },
   {
