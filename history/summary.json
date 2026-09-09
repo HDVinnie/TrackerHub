@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "57.53%",
-    "uptimeWeek": "70.48%",
-    "uptimeMonth": "93.21%",
+    "uptimeDay": "57.55%",
+    "uptimeWeek": "70.18%",
+    "uptimeMonth": "93.14%",
     "uptimeYear": "99.43%",
     "time": 1030,
-    "timeDay": 1057,
-    "timeWeek": 1060,
+    "timeDay": 1056,
+    "timeWeek": 1059,
     "timeMonth": 1050,
     "timeYear": 1043,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-09-06": 561,
       "2026-09-07": 535,
       "2026-09-08": 651,
-      "2026-09-09": 1
+      "2026-09-09": 32
     }
   },
   {
@@ -437,16 +437,16 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "62.67%",
-    "uptimeWeek": "72.05%",
-    "uptimeMonth": "93.57%",
+    "uptimeDay": "60.56%",
+    "uptimeWeek": "71.74%",
+    "uptimeMonth": "93.50%",
     "uptimeYear": "99.46%",
     "time": 1059,
-    "timeDay": 1009,
-    "timeWeek": 1085,
-    "timeMonth": 1060,
+    "timeDay": 1002,
+    "timeWeek": 1084,
+    "timeMonth": 1059,
     "timeYear": 1065,
     "dailyMinutesDown": {
       "2026-09-02": 267,
@@ -456,7 +456,7 @@
       "2026-09-06": 260,
       "2026-09-07": 492,
       "2026-09-08": 533,
-      "2026-09-09": 39
+      "2026-09-09": 70
     }
   },
   {
@@ -929,12 +929,12 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "97.68%",
-    "uptimeWeek": "98.88%",
+    "uptimeWeek": "98.90%",
     "uptimeMonth": "97.16%",
     "uptimeYear": "98.91%",
     "time": 974,
     "timeDay": 3367,
-    "timeWeek": 2364,
+    "timeWeek": 2386,
     "timeMonth": 1478,
     "timeYear": 954,
     "dailyMinutesDown": {
@@ -1115,12 +1115,12 @@
     "status": "up",
     "uptime": "98.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.91%",
+    "uptimeWeek": "98.93%",
     "uptimeMonth": "98.61%",
     "uptimeYear": "98.43%",
     "time": 1232,
     "timeDay": 840,
-    "timeWeek": 1730,
+    "timeWeek": 1786,
     "timeMonth": 1269,
     "timeYear": 1420,
     "dailyMinutesDown": {
