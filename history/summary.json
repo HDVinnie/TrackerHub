@@ -4,11 +4,11 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "61.04%",
-    "uptimeWeek": "70.41%",
-    "uptimeMonth": "93.19%",
+    "uptimeDay": "60.64%",
+    "uptimeWeek": "70.35%",
+    "uptimeMonth": "93.18%",
     "uptimeYear": "99.43%",
     "time": 1031,
     "timeDay": 1052,
@@ -22,7 +22,7 @@
       "2026-09-06": 561,
       "2026-09-07": 535,
       "2026-09-08": 651,
-      "2026-09-09": 32
+      "2026-09-09": 38
     }
   },
   {
@@ -439,7 +439,7 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "64.07%",
+    "uptimeDay": "64.49%",
     "uptimeWeek": "71.74%",
     "uptimeMonth": "93.50%",
     "uptimeYear": "99.46%",
