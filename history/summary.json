@@ -4,24 +4,24 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "57.80%",
-    "uptimeWeek": "69.65%",
-    "uptimeMonth": "93.02%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "58.16%",
+    "uptimeWeek": "70.03%",
+    "uptimeMonth": "93.10%",
+    "uptimeYear": "99.43%",
     "time": 1024,
-    "timeDay": 1039,
-    "timeWeek": 1058,
+    "timeDay": 1043,
+    "timeWeek": 1059,
     "timeMonth": 1050,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2026-09-04": 417,
+      "2026-09-04": 377,
       "2026-09-05": 440,
       "2026-09-06": 561,
       "2026-09-07": 535,
       "2026-09-08": 651,
-      "2026-09-09": 454
+      "2026-09-09": 455
     }
   },
   {
@@ -440,8 +440,8 @@
     "status": "degraded",
     "uptime": "99.87%",
     "uptimeDay": "71.29%",
-    "uptimeWeek": "72.40%",
-    "uptimeMonth": "93.65%",
+    "uptimeWeek": "72.33%",
+    "uptimeMonth": "93.63%",
     "uptimeYear": "99.47%",
     "time": 1063,
     "timeDay": 1021,
@@ -455,7 +455,7 @@
       "2026-09-06": 260,
       "2026-09-07": 492,
       "2026-09-08": 533,
-      "2026-09-09": 291
+      "2026-09-09": 297
     }
   },
   {
@@ -755,14 +755,14 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "94.19%",
-    "uptimeWeek": "95.76%",
-    "uptimeMonth": "96.41%",
+    "uptimeDay": "93.85%",
+    "uptimeWeek": "95.72%",
+    "uptimeMonth": "96.40%",
     "uptimeYear": "99.41%",
     "time": 882,
-    "timeDay": 1009,
+    "timeDay": 1008,
     "timeWeek": 1001,
     "timeMonth": 991,
     "timeYear": 906,
@@ -806,7 +806,7 @@
       "2026-09-05": 6,
       "2026-09-07": 106,
       "2026-09-08": 83,
-      "2026-09-09": 67
+      "2026-09-09": 71
     }
   },
   {
@@ -1178,7 +1178,7 @@
     "uptimeMonth": "96.22%",
     "uptimeYear": "99.31%",
     "time": 887,
-    "timeDay": 1202,
+    "timeDay": 1227,
     "timeWeek": 967,
     "timeMonth": 974,
     "timeYear": 883,
