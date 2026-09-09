@@ -6,10 +6,10 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "60.29%",
-    "uptimeWeek": "70.06%",
-    "uptimeMonth": "93.11%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "58.78%",
+    "uptimeWeek": "69.85%",
+    "uptimeMonth": "93.06%",
+    "uptimeYear": "99.42%",
     "time": 1024,
     "timeDay": 1042,
     "timeWeek": 1059,
@@ -21,7 +21,7 @@
       "2026-09-06": 561,
       "2026-09-07": 535,
       "2026-09-08": 651,
-      "2026-09-09": 412
+      "2026-09-09": 434
     }
   },
   {
@@ -445,7 +445,7 @@
     "uptimeYear": "99.47%",
     "time": 1064,
     "timeDay": 1021,
-    "timeWeek": 1081,
+    "timeWeek": 1082,
     "timeMonth": 1059,
     "timeYear": 1065,
     "dailyMinutesDown": {
@@ -1171,17 +1171,17 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
-    "uptime": "99.82%",
-    "uptimeDay": "85.17%",
-    "uptimeWeek": "95.76%",
-    "uptimeMonth": "96.27%",
-    "uptimeYear": "99.32%",
-    "time": 888,
-    "timeDay": 1251,
-    "timeWeek": 970,
-    "timeMonth": 976,
-    "timeYear": 884,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "83.79%",
+    "uptimeWeek": "95.57%",
+    "uptimeMonth": "96.22%",
+    "uptimeYear": "99.31%",
+    "time": 887,
+    "timeDay": 1194,
+    "timeWeek": 967,
+    "timeMonth": 974,
+    "timeYear": 883,
     "dailyMinutesDown": {
       "2026-07-08": 77,
       "2026-07-10": 96,
@@ -1227,7 +1227,7 @@
       "2026-09-04": 44,
       "2026-09-05": 40,
       "2026-09-08": 26,
-      "2026-09-09": 188
+      "2026-09-09": 208
     }
   },
   {
