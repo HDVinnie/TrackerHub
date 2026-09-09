@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "62.82%",
-    "uptimeWeek": "70.00%",
-    "uptimeMonth": "93.10%",
+    "uptimeDay": "62.17%",
+    "uptimeWeek": "69.85%",
+    "uptimeMonth": "93.06%",
     "uptimeYear": "99.42%",
     "time": 1021,
-    "timeDay": 1050,
+    "timeDay": 1048,
     "timeWeek": 1061,
     "timeMonth": 1050,
     "timeYear": 1043,
@@ -22,7 +22,7 @@
       "2026-09-06": 561,
       "2026-09-07": 535,
       "2026-09-08": 651,
-      "2026-09-09": 113
+      "2026-09-09": 129
     }
   },
   {
@@ -438,12 +438,12 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "68.84%",
-    "uptimeWeek": "72.17%",
-    "uptimeMonth": "93.60%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "68.20%",
+    "uptimeWeek": "72.02%",
+    "uptimeMonth": "93.56%",
+    "uptimeYear": "99.46%",
     "time": 1060,
     "timeDay": 1013,
     "timeWeek": 1083,
@@ -457,7 +457,7 @@
       "2026-09-06": 260,
       "2026-09-07": 492,
       "2026-09-08": 533,
-      "2026-09-09": 100
+      "2026-09-09": 115
     }
   },
   {
@@ -759,9 +759,9 @@
     "slug": "my-anona-mouse",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "96.58%",
-    "uptimeWeek": "96.16%",
-    "uptimeMonth": "96.48%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "96.27%",
+    "uptimeMonth": "96.51%",
     "uptimeYear": "99.40%",
     "time": 878,
     "timeDay": 994,
@@ -769,7 +769,7 @@
     "timeMonth": 990,
     "timeYear": 904,
     "dailyMinutesDown": {
-      "2026-07-25": 154,
+      "2026-07-25": 188,
       "2026-07-26": 119,
       "2026-07-27": 166,
       "2026-07-28": 131,
@@ -807,8 +807,7 @@
       "2026-09-04": 47,
       "2026-09-05": 6,
       "2026-09-07": 106,
-      "2026-09-08": 83,
-      "2026-09-09": 11
+      "2026-09-08": 83
     }
   },
   {
@@ -930,9 +929,9 @@
     "slug": "orpheus",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "97.14%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "97.16%",
     "uptimeYear": "98.91%",
     "time": 975,
     "timeDay": 3406,
@@ -940,6 +939,7 @@
     "timeMonth": 1475,
     "timeYear": 956,
     "dailyMinutesDown": {
+      "2026-06-28": 26,
       "2026-06-29": 183,
       "2026-06-30": 51,
       "2026-07-01": 164,
@@ -991,8 +991,7 @@
       "2026-09-03": 41,
       "2026-09-04": 18,
       "2026-09-05": 18,
-      "2026-09-08": 33,
-      "2026-09-09": 11
+      "2026-09-08": 33
     }
   },
   {
@@ -1177,7 +1176,7 @@
     "uptime": "99.82%",
     "uptimeDay": "98.22%",
     "uptimeWeek": "97.20%",
-    "uptimeMonth": "96.64%",
+    "uptimeMonth": "96.66%",
     "uptimeYear": "99.34%",
     "time": 886,
     "timeDay": 1030,
