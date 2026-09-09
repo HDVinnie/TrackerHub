@@ -6,13 +6,13 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "64.73%",
-    "uptimeWeek": "70.41%",
-    "uptimeMonth": "93.19%",
+    "uptimeDay": "62.65%",
+    "uptimeWeek": "70.11%",
+    "uptimeMonth": "93.12%",
     "uptimeYear": "99.43%",
     "time": 1022,
-    "timeDay": 1042,
-    "timeWeek": 1061,
+    "timeDay": 1045,
+    "timeWeek": 1060,
     "timeMonth": 1050,
     "timeYear": 1043,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-09-06": 561,
       "2026-09-07": 535,
       "2026-09-08": 651,
-      "2026-09-09": 197
+      "2026-09-09": 227
     }
   },
   {
@@ -440,12 +440,12 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "70.50%",
-    "uptimeWeek": "72.51%",
-    "uptimeMonth": "93.68%",
+    "uptimeDay": "69.57%",
+    "uptimeWeek": "72.22%",
+    "uptimeMonth": "93.61%",
     "uptimeYear": "99.47%",
     "time": 1061,
-    "timeDay": 1015,
+    "timeDay": 1018,
     "timeWeek": 1083,
     "timeMonth": 1059,
     "timeYear": 1065,
@@ -457,7 +457,7 @@
       "2026-09-06": 260,
       "2026-09-07": 492,
       "2026-09-08": 533,
-      "2026-09-09": 173
+      "2026-09-09": 202
     }
   },
   {
@@ -757,15 +757,15 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "96.25%",
-    "uptimeMonth": "96.56%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "95.97%",
+    "uptimeMonth": "96.49%",
     "uptimeYear": "99.40%",
     "time": 879,
-    "timeDay": 998,
-    "timeWeek": 999,
+    "timeDay": 996,
+    "timeWeek": 998,
     "timeMonth": 990,
     "timeYear": 904,
     "dailyMinutesDown": {
@@ -808,7 +808,7 @@
       "2026-09-05": 6,
       "2026-09-07": 106,
       "2026-09-08": 83,
-      "2026-09-09": 2
+      "2026-09-09": 30
     }
   },
   {
@@ -826,7 +826,7 @@
     "timeDay": 527,
     "timeWeek": 1165,
     "timeMonth": 1526,
-    "timeYear": 939,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2025-10-13": 212,
       "2025-10-27": 20,
