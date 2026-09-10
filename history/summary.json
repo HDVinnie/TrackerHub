@@ -6,7 +6,7 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "63.29%",
+    "uptimeDay": "63.70%",
     "uptimeWeek": "67.87%",
     "uptimeMonth": "92.61%",
     "uptimeYear": "99.38%",
@@ -445,7 +445,7 @@
     "uptimeMonth": "93.86%",
     "uptimeYear": "99.49%",
     "time": 1060,
-    "timeDay": 1082,
+    "timeDay": 1087,
     "timeWeek": 1077,
     "timeMonth": 1059,
     "timeYear": 1065,
@@ -582,9 +582,9 @@
     "slug": "gazelle-games",
     "status": "degraded",
     "uptime": "99.29%",
-    "uptimeDay": "99.43%",
+    "uptimeDay": "99.02%",
     "uptimeWeek": "98.25%",
-    "uptimeMonth": "98.61%",
+    "uptimeMonth": "98.59%",
     "uptimeYear": "97.03%",
     "time": 2444,
     "timeDay": 2916,
@@ -648,7 +648,7 @@
       "2026-09-01": 57,
       "2026-09-02": 32,
       "2026-09-03": 472,
-      "2026-09-10": 8
+      "2026-09-10": 14
     }
   },
   {
@@ -757,16 +757,16 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "96.73%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "96.48%",
+    "uptimeDay": "96.41%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "96.47%",
     "uptimeYear": "99.42%",
-    "time": 869,
-    "timeDay": 1014,
-    "timeWeek": 1001,
-    "timeMonth": 992,
+    "time": 870,
+    "timeDay": 1006,
+    "timeWeek": 1000,
+    "timeMonth": 991,
     "timeYear": 908,
     "dailyMinutesDown": {
       "2026-07-26": 54,
@@ -808,7 +808,7 @@
       "2026-09-07": 106,
       "2026-09-08": 83,
       "2026-09-09": 65,
-      "2026-09-10": 47
+      "2026-09-10": 52
     }
   },
   {
