@@ -4,24 +4,24 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "63.39%",
-    "uptimeWeek": "68.25%",
-    "uptimeMonth": "92.69%",
+    "uptimeDay": "63.29%",
+    "uptimeWeek": "68.43%",
+    "uptimeMonth": "92.73%",
     "uptimeYear": "99.39%",
     "time": 1030,
-    "timeDay": 1026,
-    "timeWeek": 1057,
+    "timeDay": 1029,
+    "timeWeek": 1056,
     "timeMonth": 1050,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2026-09-06": 389,
+      "2026-09-06": 370,
       "2026-09-07": 535,
       "2026-09-08": 651,
       "2026-09-09": 671,
       "2026-09-10": 476,
-      "2026-09-11": 482
+      "2026-09-11": 483
     }
   },
   {
@@ -31,9 +31,9 @@
     "slug": "alpha-ratio",
     "status": "up",
     "uptime": "98.88%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "96.72%",
     "time": 3913,
     "timeDay": 11337,
@@ -115,8 +115,7 @@
       "2026-08-31": 27,
       "2026-09-03": 115,
       "2026-09-06": 16,
-      "2026-09-08": 16,
-      "2026-09-11": 12
+      "2026-09-08": 16
     }
   },
   {
@@ -440,24 +439,24 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "78.15%",
-    "uptimeWeek": "73.18%",
-    "uptimeMonth": "93.83%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "78.95%",
+    "uptimeWeek": "73.14%",
+    "uptimeMonth": "93.82%",
+    "uptimeYear": "99.48%",
     "time": 1062,
-    "timeDay": 1034,
+    "timeDay": 1038,
     "timeWeek": 1069,
     "timeMonth": 1058,
     "timeYear": 1064,
     "dailyMinutesDown": {
+      "2026-09-04": 38,
       "2026-09-05": 247,
-      "2026-09-04": 23,
       "2026-09-06": 260,
       "2026-09-07": 492,
       "2026-09-08": 533,
       "2026-09-09": 480,
       "2026-09-10": 349,
-      "2026-09-11": 315
+      "2026-09-11": 303
     }
   },
   {
