@@ -6,13 +6,13 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "63.29%",
-    "uptimeWeek": "68.43%",
-    "uptimeMonth": "92.73%",
+    "uptimeDay": "62.63%",
+    "uptimeWeek": "68.33%",
+    "uptimeMonth": "92.71%",
     "uptimeYear": "99.39%",
     "time": 1030,
-    "timeDay": 1029,
-    "timeWeek": 1056,
+    "timeDay": 1026,
+    "timeWeek": 1057,
     "timeMonth": 1050,
     "timeYear": 1043,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2026-09-08": 651,
       "2026-09-09": 671,
       "2026-09-10": 476,
-      "2026-09-11": 483
+      "2026-09-11": 493
     }
   },
   {
@@ -29,17 +29,17 @@
     "url": "$AR",
     "icon": "$AR_ICON",
     "slug": "alpha-ratio",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "96.72%",
-    "time": 3913,
-    "timeDay": 11337,
-    "timeWeek": 4010,
-    "timeMonth": 3505,
-    "timeYear": 3745,
+    "time": 3917,
+    "timeDay": 9649,
+    "timeWeek": 4027,
+    "timeMonth": 3518,
+    "timeYear": 3746,
     "dailyMinutesDown": {
       "2025-10-05": 1285,
       "2025-10-04": 1440,
@@ -115,7 +115,8 @@
       "2026-08-31": 27,
       "2026-09-03": 115,
       "2026-09-06": 16,
-      "2026-09-08": 16
+      "2026-09-08": 16,
+      "2026-09-11": 2
     }
   },
   {
@@ -228,17 +229,17 @@
     "url": "$ACM",
     "icon": "$ACM_ICON",
     "slug": "asian-cinema",
-    "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "degraded",
+    "uptime": "99.11%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.59%",
-    "time": 1608,
-    "timeDay": 653,
-    "timeWeek": 825,
-    "timeMonth": 1847,
-    "timeYear": 1353,
+    "time": 1609,
+    "timeDay": 1203,
+    "timeWeek": 910,
+    "timeMonth": 1844,
+    "timeYear": 1354,
     "dailyMinutesDown": {
       "2025-09-18": 74,
       "2025-09-30": 28,
@@ -276,7 +277,8 @@
       "2026-05-31": 28,
       "2026-06-19": 125,
       "2026-08-13": 138,
-      "2026-08-23": 15
+      "2026-08-23": 15,
+      "2026-09-11": 1
     }
   },
   {
@@ -444,7 +446,7 @@
     "uptimeMonth": "93.82%",
     "uptimeYear": "99.48%",
     "time": 1062,
-    "timeDay": 1038,
+    "timeDay": 1032,
     "timeWeek": 1069,
     "timeMonth": 1058,
     "timeYear": 1064,
