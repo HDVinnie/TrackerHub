@@ -4,24 +4,24 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "64.38%",
-    "uptimeWeek": "67.97%",
-    "uptimeMonth": "92.63%",
+    "uptimeDay": "64.83%",
+    "uptimeWeek": "68.17%",
+    "uptimeMonth": "92.67%",
     "uptimeYear": "99.39%",
     "time": 1028,
-    "timeDay": 1025,
+    "timeDay": 1026,
     "timeWeek": 1058,
     "timeMonth": 1050,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2026-09-06": 490,
+      "2026-09-06": 469,
       "2026-09-07": 535,
       "2026-09-08": 651,
       "2026-09-09": 671,
       "2026-09-10": 476,
-      "2026-09-11": 409
+      "2026-09-11": 410
     }
   },
   {
@@ -439,7 +439,7 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "76.73%",
+    "uptimeDay": "77.22%",
     "uptimeWeek": "73.24%",
     "uptimeMonth": "93.84%",
     "uptimeYear": "99.49%",
@@ -759,17 +759,17 @@
     "slug": "my-anona-mouse",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "96.42%",
-    "uptimeMonth": "96.50%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "96.52%",
+    "uptimeYear": "99.41%",
     "time": 873,
-    "timeDay": 976,
+    "timeDay": 964,
     "timeWeek": 998,
     "timeMonth": 991,
     "timeYear": 909,
     "dailyMinutesDown": {
-      "2026-07-26": 54,
+      "2026-07-26": 119,
       "2026-07-27": 166,
       "2026-07-28": 131,
       "2026-07-29": 127,
@@ -808,8 +808,7 @@
       "2026-09-07": 106,
       "2026-09-08": 83,
       "2026-09-09": 65,
-      "2026-09-10": 46,
-      "2026-09-11": 7
+      "2026-09-10": 46
     }
   },
   {
@@ -1182,7 +1181,7 @@
     "uptimeYear": "99.31%",
     "time": 887,
     "timeDay": 1098,
-    "timeWeek": 969,
+    "timeWeek": 968,
     "timeMonth": 975,
     "timeYear": 886,
     "dailyMinutesDown": {
