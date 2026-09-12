@@ -6,13 +6,13 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "64.73%",
+    "uptimeDay": "66.41%",
     "uptimeWeek": "67.79%",
     "uptimeMonth": "92.59%",
     "uptimeYear": "99.38%",
     "time": 1027,
-    "timeDay": 1052,
-    "timeWeek": 1054,
+    "timeDay": 1055,
+    "timeWeek": 1050,
     "timeMonth": 1049,
     "timeYear": 1043,
     "dailyMinutesDown": {
@@ -161,13 +161,13 @@
     "slug": "anthelion",
     "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "98.55%",
+    "uptimeDay": "95.78%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "98.00%",
     "time": 867,
     "timeDay": 848,
-    "timeWeek": 838,
+    "timeWeek": 751,
     "timeMonth": 1060,
     "timeYear": 802,
     "dailyMinutesDown": {
@@ -221,7 +221,7 @@
       "2026-09-04": 44,
       "2026-09-07": 24,
       "2026-09-09": 17,
-      "2026-09-12": 24
+      "2026-09-12": 61
     }
   },
   {
@@ -237,7 +237,7 @@
     "uptimeYear": "99.59%",
     "time": 1609,
     "timeDay": 975,
-    "timeWeek": 868,
+    "timeWeek": 748,
     "timeMonth": 1808,
     "timeYear": 1353,
     "dailyMinutesDown": {
@@ -359,7 +359,7 @@
     "uptimeYear": "99.69%",
     "time": 859,
     "timeDay": 639,
-    "timeWeek": 600,
+    "timeWeek": 568,
     "timeMonth": 944,
     "timeYear": 726,
     "dailyMinutesDown": {
@@ -445,8 +445,8 @@
     "uptimeMonth": "93.85%",
     "uptimeYear": "99.49%",
     "time": 1062,
-    "timeDay": 1059,
-    "timeWeek": 1067,
+    "timeDay": 1057,
+    "timeWeek": 1064,
     "timeMonth": 1060,
     "timeYear": 1065,
     "dailyMinutesDown": {
@@ -588,7 +588,7 @@
     "uptimeYear": "97.03%",
     "time": 2446,
     "timeDay": 533,
-    "timeWeek": 1280,
+    "timeWeek": 1277,
     "timeMonth": 2046,
     "timeYear": 2774,
     "dailyMinutesDown": {
@@ -664,7 +664,7 @@
     "uptimeYear": "98.58%",
     "time": 992,
     "timeDay": 811,
-    "timeWeek": 828,
+    "timeWeek": 776,
     "timeMonth": 1535,
     "timeYear": 1005,
     "dailyMinutesDown": {
@@ -765,7 +765,7 @@
     "uptimeYear": "99.41%",
     "time": 875,
     "timeDay": 962,
-    "timeWeek": 991,
+    "timeWeek": 989,
     "timeMonth": 991,
     "timeYear": 909,
     "dailyMinutesDown": {
@@ -816,17 +816,17 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "down",
+    "status": "degraded",
     "uptime": "99.70%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.65%",
-    "time": 1027,
-    "timeDay": 755,
-    "timeWeek": 775,
-    "timeMonth": 1459,
-    "timeYear": 941,
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "99.64%",
+    "time": 1111,
+    "timeDay": 23627,
+    "timeWeek": 4012,
+    "timeMonth": 2235,
+    "timeYear": 1040,
     "dailyMinutesDown": {
       "2025-10-13": 212,
       "2025-10-27": 20,
@@ -867,7 +867,7 @@
       "2026-09-02": 105,
       "2026-09-03": 115,
       "2026-09-08": 17,
-      "2026-09-12": 24
+      "2026-09-12": 61
     }
   },
   {
@@ -937,9 +937,9 @@
     "uptimeYear": "98.91%",
     "time": 950,
     "timeDay": 860,
-    "timeWeek": 2323,
+    "timeWeek": 2366,
     "timeMonth": 1481,
-    "timeYear": 967,
+    "timeYear": 968,
     "dailyMinutesDown": {
       "2026-06-29": 183,
       "2026-06-30": 51,
@@ -1182,7 +1182,7 @@
     "uptimeYear": "99.31%",
     "time": 882,
     "timeDay": 899,
-    "timeWeek": 982,
+    "timeWeek": 979,
     "timeMonth": 974,
     "timeYear": 886,
     "dailyMinutesDown": {
