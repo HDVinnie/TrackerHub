@@ -5,13 +5,13 @@
     "icon": "$AIH_ICON",
     "slug": "aither",
     "status": "degraded",
-    "uptime": "99.86%",
-    "uptimeDay": "65.61%",
-    "uptimeWeek": "68.25%",
-    "uptimeMonth": "92.70%",
+    "uptime": "99.85%",
+    "uptimeDay": "65.59%",
+    "uptimeWeek": "68.16%",
+    "uptimeMonth": "92.67%",
     "uptimeYear": "99.39%",
     "time": 1023,
-    "timeDay": 1042,
+    "timeDay": 1045,
     "timeWeek": 1056,
     "timeMonth": 1050,
     "timeYear": 1043,
@@ -22,7 +22,7 @@
       "2026-09-09": 671,
       "2026-09-10": 476,
       "2026-09-11": 548,
-      "2026-09-12": 131
+      "2026-09-12": 141
     }
   },
   {
@@ -132,7 +132,7 @@
     "uptimeYear": "99.84%",
     "time": 1975,
     "timeDay": 620,
-    "timeWeek": 6750,
+    "timeWeek": 6204,
     "timeMonth": 4799,
     "timeYear": 2010,
     "dailyMinutesDown": {
@@ -293,7 +293,7 @@
     "uptimeYear": "99.77%",
     "time": 1014,
     "timeDay": 504,
-    "timeWeek": 1676,
+    "timeWeek": 1604,
     "timeMonth": 1155,
     "timeYear": 1138,
     "dailyMinutesDown": {
@@ -438,17 +438,17 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "81.22%",
-    "uptimeWeek": "73.84%",
-    "uptimeMonth": "93.93%",
-    "uptimeYear": "99.49%",
-    "time": 1057,
-    "timeDay": 1003,
-    "timeWeek": 1063,
+    "uptimeDay": "82.42%",
+    "uptimeWeek": "73.92%",
+    "uptimeMonth": "93.95%",
+    "uptimeYear": "99.50%",
+    "time": 1058,
+    "timeDay": 1029,
+    "timeWeek": 1066,
     "timeMonth": 1058,
-    "timeYear": 1064,
+    "timeYear": 1065,
     "dailyMinutesDown": {
       "2026-09-05": 132,
       "2026-09-06": 260,
@@ -457,7 +457,7 @@
       "2026-09-09": 480,
       "2026-09-10": 349,
       "2026-09-11": 359,
-      "2026-09-12": 47
+      "2026-09-12": 39
     }
   },
   {
@@ -936,7 +936,7 @@
     "uptimeMonth": "97.46%",
     "uptimeYear": "98.91%",
     "time": 934,
-    "timeDay": 979,
+    "timeDay": 1064,
     "timeWeek": 2478,
     "timeMonth": 1472,
     "timeYear": 962,
