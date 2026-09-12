@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.85%",
     "uptimeDay": "65.30%",
-    "uptimeWeek": "67.91%",
-    "uptimeMonth": "92.62%",
+    "uptimeWeek": "67.88%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "99.38%",
     "time": 1027,
     "timeDay": 1046,
@@ -21,7 +21,7 @@
       "2026-09-09": 671,
       "2026-09-10": 476,
       "2026-09-11": 548,
-      "2026-09-12": 428
+      "2026-09-12": 431
     }
   },
   {
@@ -159,16 +159,16 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "down",
+    "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "94.71%",
-    "uptimeWeek": "98.84%",
+    "uptimeDay": "94.57%",
+    "uptimeWeek": "98.82%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "97.99%",
-    "time": 879,
-    "timeDay": 2198,
-    "timeWeek": 1159,
-    "timeMonth": 1138,
+    "time": 880,
+    "timeDay": 1981,
+    "timeWeek": 1144,
+    "timeMonth": 1135,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2025-10-13": 211,
@@ -221,7 +221,7 @@
       "2026-09-04": 44,
       "2026-09-07": 24,
       "2026-09-09": 17,
-      "2026-09-12": 76
+      "2026-09-12": 78
     }
   },
   {
@@ -440,8 +440,8 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "80.04%",
-    "uptimeWeek": "73.28%",
+    "uptimeDay": "80.99%",
+    "uptimeWeek": "73.26%",
     "uptimeMonth": "93.85%",
     "uptimeYear": "99.49%",
     "time": 1063,
@@ -450,13 +450,13 @@
     "timeMonth": 1059,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2026-09-06": 244,
+      "2026-09-06": 260,
       "2026-09-07": 492,
       "2026-09-08": 533,
       "2026-09-09": 480,
       "2026-09-10": 349,
       "2026-09-11": 359,
-      "2026-09-12": 232
+      "2026-09-12": 218
     }
   },
   {
@@ -580,17 +580,17 @@
     "url": "$GGN",
     "icon": "$GGN_ICON",
     "slug": "gazelle-games",
-    "status": "down",
+    "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "98.52%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "98.51%",
     "uptimeYear": "97.08%",
     "time": 2449,
-    "timeDay": 843,
-    "timeWeek": 1244,
-    "timeMonth": 2017,
-    "timeYear": 2770,
+    "timeDay": 764,
+    "timeWeek": 1204,
+    "timeMonth": 1996,
+    "timeYear": 2767,
     "dailyMinutesDown": {
       "2025-10-10": 716,
       "2025-10-11": 643,
@@ -648,7 +648,7 @@
       "2026-09-02": 32,
       "2026-09-03": 472,
       "2026-09-10": 25,
-      "2026-09-12": 22
+      "2026-09-12": 24
     }
   },
   {
@@ -816,17 +816,17 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "95.10%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "98.91%",
+    "uptimeDay": "95.00%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "98.90%",
     "uptimeYear": "99.64%",
-    "time": 1153,
-    "timeDay": 17839,
-    "timeWeek": 5620,
-    "timeMonth": 2562,
-    "timeYear": 1088,
+    "time": 1151,
+    "timeDay": 14374,
+    "timeWeek": 5280,
+    "timeMonth": 2529,
+    "timeYear": 1087,
     "dailyMinutesDown": {
       "2025-10-13": 212,
       "2025-10-27": 20,
@@ -867,7 +867,7 @@
       "2026-09-02": 105,
       "2026-09-03": 115,
       "2026-09-08": 17,
-      "2026-09-12": 70
+      "2026-09-12": 72
     }
   },
   {
@@ -1174,19 +1174,19 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.69%",
+    "status": "degraded",
+    "uptime": "99.82%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "96.67%",
     "uptimeMonth": "95.99%",
-    "uptimeYear": "99.31%",
-    "time": 882,
-    "timeDay": 929,
-    "timeWeek": 979,
+    "uptimeYear": "99.32%",
+    "time": 883,
+    "timeDay": 945,
+    "timeWeek": 980,
     "timeMonth": 974,
-    "timeYear": 886,
+    "timeYear": 887,
     "dailyMinutesDown": {
-      "2026-07-10": 96,
+      "2026-07-10": 41,
       "2026-07-11": 100,
       "2026-07-13": 147,
       "2026-07-14": 85,
@@ -1231,7 +1231,8 @@
       "2026-09-08": 26,
       "2026-09-09": 208,
       "2026-09-10": 71,
-      "2026-09-11": 29
+      "2026-09-11": 29,
+      "2026-09-12": 2
     }
   },
   {
