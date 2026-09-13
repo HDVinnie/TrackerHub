@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "63.54%",
-    "uptimeWeek": "68.10%",
-    "uptimeMonth": "92.66%",
+    "uptimeDay": "63.14%",
+    "uptimeWeek": "68.05%",
+    "uptimeMonth": "92.65%",
     "uptimeYear": "99.39%",
     "time": 1032,
     "timeDay": 1063,
@@ -22,7 +22,7 @@
       "2026-09-10": 476,
       "2026-09-11": 548,
       "2026-09-12": 492,
-      "2026-09-13": 358
+      "2026-09-13": 363
     }
   },
   {
@@ -439,15 +439,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "79.46%",
-    "uptimeWeek": "72.86%",
-    "uptimeMonth": "93.72%",
+    "uptimeDay": "79.43%",
+    "uptimeWeek": "72.81%",
+    "uptimeMonth": "93.71%",
     "uptimeYear": "99.48%",
     "time": 1062,
-    "timeDay": 1000,
-    "timeWeek": 1054,
+    "timeDay": 1007,
+    "timeWeek": 1055,
     "timeMonth": 1057,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -458,7 +458,7 @@
       "2026-09-10": 349,
       "2026-09-11": 359,
       "2026-09-12": 235,
-      "2026-09-13": 227
+      "2026-09-13": 232
     }
   },
   {
@@ -762,16 +762,17 @@
     "slug": "my-anona-mouse",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "96.80%",
-    "uptimeWeek": "96.56%",
-    "uptimeMonth": "96.93%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "96.63%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "99.42%",
     "time": 878,
     "timeDay": 965,
     "timeWeek": 989,
     "timeMonth": 990,
     "timeYear": 910,
     "dailyMinutesDown": {
+      "2026-07-26": 25,
       "2026-07-27": 166,
       "2026-07-28": 131,
       "2026-07-29": 127,
@@ -811,7 +812,7 @@
       "2026-09-08": 83,
       "2026-09-09": 65,
       "2026-09-10": 46,
-      "2026-09-13": 46
+      "2026-09-13": 40
     }
   },
   {
@@ -1186,7 +1187,7 @@
     "uptimeYear": "99.31%",
     "time": 881,
     "timeDay": 941,
-    "timeWeek": 980,
+    "timeWeek": 982,
     "timeMonth": 974,
     "timeYear": 887,
     "dailyMinutesDown": {
