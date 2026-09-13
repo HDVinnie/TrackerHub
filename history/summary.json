@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "69.55%",
-    "uptimeWeek": "68.70%",
-    "uptimeMonth": "92.80%",
+    "uptimeDay": "68.61%",
+    "uptimeWeek": "68.55%",
+    "uptimeMonth": "92.76%",
     "uptimeYear": "99.40%",
     "time": 1028,
-    "timeDay": 1059,
+    "timeDay": 1058,
     "timeWeek": 1053,
     "timeMonth": 1049,
     "timeYear": 1043,
@@ -22,7 +22,7 @@
       "2026-09-10": 476,
       "2026-09-11": 548,
       "2026-09-12": 492,
-      "2026-09-13": 1
+      "2026-09-13": 16
     }
   },
   {
@@ -234,12 +234,12 @@
     "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.59%",
     "time": 1610,
     "timeDay": 840,
     "timeWeek": 746,
-    "timeMonth": 1812,
+    "timeMonth": 1816,
     "timeYear": 1352,
     "dailyMinutesDown": {
       "2025-09-18": 74,
@@ -818,17 +818,17 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "95.10%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "98.91%",
+    "uptimeDay": "94.12%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.87%",
     "uptimeYear": "99.64%",
     "time": 1153,
-    "timeDay": 12297,
-    "timeWeek": 5079,
-    "timeMonth": 2518,
-    "timeYear": 1088,
+    "timeDay": 10606,
+    "timeWeek": 4807,
+    "timeMonth": 2486,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2025-10-13": 212,
       "2025-10-27": 20,
@@ -870,7 +870,7 @@
       "2026-09-03": 115,
       "2026-09-08": 17,
       "2026-09-12": 69,
-      "2026-09-13": 1
+      "2026-09-13": 16
     }
   },
   {
