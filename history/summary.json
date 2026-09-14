@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.86%",
     "uptimeDay": "67.90%",
-    "uptimeWeek": "68.74%",
-    "uptimeMonth": "92.81%",
+    "uptimeWeek": "68.68%",
+    "uptimeMonth": "92.79%",
     "uptimeYear": "99.40%",
     "time": 1029,
     "timeDay": 1039,
@@ -22,7 +22,7 @@
       "2026-09-11": 548,
       "2026-09-12": 492,
       "2026-09-13": 524,
-      "2026-09-14": 396
+      "2026-09-14": 402
     }
   },
   {
@@ -163,12 +163,12 @@
     "slug": "anthelion",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "99.03%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "98.41%",
     "uptimeYear": "97.99%",
     "time": 884,
-    "timeDay": 782,
+    "timeDay": 577,
     "timeWeek": 1188,
     "timeMonth": 1126,
     "timeYear": 817,
@@ -441,14 +441,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "79.26%",
-    "uptimeWeek": "74.48%",
-    "uptimeMonth": "94.09%",
+    "uptimeDay": "79.09%",
+    "uptimeWeek": "74.44%",
+    "uptimeMonth": "94.08%",
     "uptimeYear": "99.51%",
-    "time": 1063,
-    "timeDay": 1082,
+    "time": 1058,
+    "timeDay": 1077,
     "timeWeek": 1045,
     "timeMonth": 1060,
     "timeYear": 1063,
@@ -460,7 +460,7 @@
       "2026-09-11": 359,
       "2026-09-12": 235,
       "2026-09-13": 306,
-      "2026-09-14": 246
+      "2026-09-14": 250
     }
   },
   {
@@ -1181,15 +1181,15 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "96.49%",
-    "uptimeMonth": "96.13%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "96.46%",
+    "uptimeMonth": "96.12%",
     "uptimeYear": "99.32%",
-    "time": 881,
+    "time": 880,
     "timeDay": 951,
-    "timeWeek": 988,
+    "timeWeek": 987,
     "timeMonth": 965,
     "timeYear": 888,
     "dailyMinutesDown": {
@@ -1238,7 +1238,7 @@
       "2026-09-09": 208,
       "2026-09-10": 71,
       "2026-09-11": 29,
-      "2026-09-14": 20
+      "2026-09-14": 23
     }
   },
   {
