@@ -4,16 +4,16 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "58.76%",
-    "uptimeWeek": "67.94%",
-    "uptimeMonth": "92.62%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "58.80%",
+    "uptimeWeek": "67.67%",
+    "uptimeMonth": "92.56%",
+    "uptimeYear": "99.38%",
     "time": 1033,
-    "timeDay": 1055,
+    "timeDay": 1054,
     "timeWeek": 1045,
-    "timeMonth": 1049,
+    "timeMonth": 1048,
     "timeYear": 1044,
     "dailyMinutesDown": {
       "2026-09-09": 438,
@@ -22,7 +22,7 @@
       "2026-09-12": 492,
       "2026-09-13": 524,
       "2026-09-14": 503,
-      "2026-09-15": 254
+      "2026-09-15": 281
     }
   },
   {
@@ -335,17 +335,21 @@
     "icon": "$BIB_ICON",
     "slug": "bibliotik",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.95%",
     "time": 271,
     "timeDay": 208,
     "timeWeek": 277,
     "timeMonth": 222,
     "timeYear": 268,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 118,
+      "2025-12-29": 155,
+      "2026-03-03": 15
+    }
   },
   {
     "name": "Blutopia",
@@ -439,15 +443,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
-    "uptime": "99.88%",
-    "uptimeDay": "66.45%",
-    "uptimeWeek": "74.87%",
-    "uptimeMonth": "93.72%",
-    "uptimeYear": "99.48%",
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "65.97%",
+    "uptimeWeek": "74.76%",
+    "uptimeMonth": "93.66%",
+    "uptimeYear": "99.47%",
     "time": 1061,
-    "timeDay": 1070,
-    "timeWeek": 1049,
+    "timeDay": 1049,
+    "timeWeek": 1048,
     "timeMonth": 1062,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -458,7 +462,7 @@
       "2026-09-12": 235,
       "2026-09-13": 306,
       "2026-09-14": 251,
-      "2026-09-15": 296
+      "2026-09-15": 323
     }
   },
   {
