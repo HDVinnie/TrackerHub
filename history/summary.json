@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "57.36%",
-    "uptimeWeek": "68.31%",
-    "uptimeMonth": "92.71%",
+    "uptimeDay": "56.58%",
+    "uptimeWeek": "68.19%",
+    "uptimeMonth": "92.68%",
     "uptimeYear": "99.39%",
     "time": 1026,
-    "timeDay": 1062,
+    "timeDay": 1057,
     "timeWeek": 1044,
     "timeMonth": 1048,
     "timeYear": 1044,
@@ -22,7 +22,7 @@
       "2026-09-12": 492,
       "2026-09-13": 524,
       "2026-09-14": 503,
-      "2026-09-15": 460
+      "2026-09-15": 473
     }
   },
   {
@@ -32,9 +32,9 @@
     "slug": "alpha-ratio",
     "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "93.70%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "96.70%",
     "time": 3837,
     "timeDay": 6138,
@@ -118,7 +118,7 @@
       "2026-09-06": 16,
       "2026-09-08": 16,
       "2026-09-14": 22,
-      "2026-09-15": 78
+      "2026-09-15": 91
     }
   },
   {
@@ -443,16 +443,16 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "63.83%",
-    "uptimeWeek": "74.94%",
-    "uptimeMonth": "93.81%",
+    "uptimeDay": "63.13%",
+    "uptimeWeek": "74.83%",
+    "uptimeMonth": "93.78%",
     "uptimeYear": "99.48%",
     "time": 1062,
-    "timeDay": 1070,
-    "timeWeek": 1052,
-    "timeMonth": 1064,
+    "timeDay": 1066,
+    "timeWeek": 1051,
+    "timeMonth": 1063,
     "timeYear": 1064,
     "dailyMinutesDown": {
       "2026-09-08": 275,
@@ -462,7 +462,7 @@
       "2026-09-12": 235,
       "2026-09-13": 306,
       "2026-09-14": 251,
-      "2026-09-15": 457
+      "2026-09-15": 469
     }
   },
   {
@@ -766,12 +766,12 @@
     "slug": "my-anona-mouse",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "92.68%",
+    "uptimeDay": "92.79%",
     "uptimeWeek": "97.08%",
     "uptimeMonth": "96.84%",
     "uptimeYear": "99.45%",
     "time": 887,
-    "timeDay": 993,
+    "timeDay": 988,
     "timeWeek": 988,
     "timeMonth": 992,
     "timeYear": 913,
