@@ -4,25 +4,25 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "57.99%",
-    "uptimeWeek": "67.49%",
-    "uptimeMonth": "92.52%",
+    "uptimeDay": "57.82%",
+    "uptimeWeek": "67.79%",
+    "uptimeMonth": "92.59%",
     "uptimeYear": "99.38%",
     "time": 1032,
-    "timeDay": 1056,
+    "timeDay": 1058,
     "timeWeek": 1045,
     "timeMonth": 1049,
     "timeYear": 1044,
     "dailyMinutesDown": {
-      "2026-09-09": 508,
+      "2026-09-09": 475,
       "2026-09-10": 476,
       "2026-09-11": 548,
       "2026-09-12": 492,
       "2026-09-13": 524,
       "2026-09-14": 503,
-      "2026-09-15": 230
+      "2026-09-15": 232
     }
   },
   {
@@ -30,17 +30,17 @@
     "url": "$AR",
     "icon": "$AR_ICON",
     "slug": "alpha-ratio",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.28%",
     "uptimeYear": "96.72%",
-    "time": 3868,
-    "timeDay": 545,
-    "timeWeek": 4974,
-    "timeMonth": 3759,
-    "timeYear": 3762,
+    "time": 3865,
+    "timeDay": 11931,
+    "timeWeek": 5629,
+    "timeMonth": 3992,
+    "timeYear": 3790,
     "dailyMinutesDown": {
       "2025-10-05": 1285,
       "2025-10-04": 1440,
@@ -117,7 +117,8 @@
       "2026-09-03": 115,
       "2026-09-06": 16,
       "2026-09-08": 16,
-      "2026-09-14": 22
+      "2026-09-14": 22,
+      "2026-09-15": 1
     }
   },
   {
@@ -443,14 +444,14 @@
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
     "status": "degraded",
-    "uptime": "99.88%",
-    "uptimeDay": "68.11%",
-    "uptimeWeek": "75.04%",
-    "uptimeMonth": "93.69%",
+    "uptime": "99.87%",
+    "uptimeDay": "66.99%",
+    "uptimeWeek": "74.91%",
+    "uptimeMonth": "93.66%",
     "uptimeYear": "99.47%",
     "time": 1061,
     "timeDay": 1082,
-    "timeWeek": 1050,
+    "timeWeek": 1048,
     "timeMonth": 1062,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -462,7 +463,7 @@
       "2026-09-12": 235,
       "2026-09-13": 306,
       "2026-09-14": 251,
-      "2026-09-15": 242
+      "2026-09-15": 258
     }
   },
   {
@@ -764,19 +765,19 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "94.28%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "96.90%",
-    "uptimeYear": "99.44%",
+    "uptimeDay": "94.15%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "96.92%",
+    "uptimeYear": "99.45%",
     "time": 885,
-    "timeDay": 995,
+    "timeDay": 1001,
     "timeWeek": 991,
     "timeMonth": 991,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2026-07-28": 131,
+      "2026-07-28": 99,
       "2026-07-29": 127,
       "2026-07-30": 96,
       "2026-07-31": 78,
@@ -816,7 +817,7 @@
       "2026-09-10": 46,
       "2026-09-13": 40,
       "2026-09-14": 42,
-      "2026-09-15": 40
+      "2026-09-15": 42
     }
   },
   {
@@ -1184,19 +1185,19 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.82%",
-    "uptimeDay": "96.89%",
-    "uptimeWeek": "96.24%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "96.22%",
     "uptimeMonth": "96.07%",
     "uptimeYear": "99.32%",
     "time": 881,
-    "timeDay": 1019,
-    "timeWeek": 1008,
-    "timeMonth": 968,
+    "timeDay": 1048,
+    "timeWeek": 1014,
+    "timeMonth": 969,
     "timeYear": 891,
     "dailyMinutesDown": {
-      "2026-07-11": 100,
+      "2026-07-11": 55,
       "2026-07-13": 147,
       "2026-07-14": 85,
       "2026-07-16": 44,
@@ -1242,7 +1243,7 @@
       "2026-09-10": 71,
       "2026-09-11": 29,
       "2026-09-14": 18,
-      "2026-09-15": 27
+      "2026-09-15": 29
     }
   },
   {
@@ -1254,7 +1255,7 @@
     "uptime": "97.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.92%",
     "time": 530,
     "timeDay": 410,
