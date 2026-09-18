@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "61.19%",
-    "uptimeWeek": "66.38%",
-    "uptimeMonth": "92.26%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "60.42%",
+    "uptimeWeek": "66.27%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "99.35%",
     "time": 1031,
-    "timeDay": 1040,
+    "timeDay": 1038,
     "timeWeek": 1039,
     "timeMonth": 1047,
     "timeYear": 1043,
@@ -22,7 +22,7 @@
       "2026-09-15": 582,
       "2026-09-16": 566,
       "2026-09-17": 443,
-      "2026-09-18": 479
+      "2026-09-18": 490
     }
   },
   {
@@ -444,14 +444,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "83.36%",
-    "uptimeWeek": "78.93%",
-    "uptimeMonth": "93.49%",
+    "uptimeDay": "82.62%",
+    "uptimeWeek": "78.82%",
+    "uptimeMonth": "93.46%",
     "uptimeYear": "99.46%",
     "time": 1061,
-    "timeDay": 1008,
+    "timeDay": 1004,
     "timeWeek": 1064,
     "timeMonth": 1071,
     "timeYear": 1061,
@@ -465,7 +465,7 @@
       "2026-09-15": 483,
       "2026-09-16": 240,
       "2026-09-17": 291,
-      "2026-09-18": 238
+      "2026-09-18": 249
     }
   },
   {
@@ -767,15 +767,15 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "97.88%",
-    "uptimeMonth": "96.91%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "96.88%",
     "uptimeYear": "99.47%",
     "time": 896,
-    "timeDay": 985,
-    "timeWeek": 976,
+    "timeDay": 974,
+    "timeWeek": 974,
     "timeMonth": 993,
     "timeYear": 915,
     "dailyMinutesDown": {
@@ -820,7 +820,7 @@
       "2026-09-14": 42,
       "2026-09-15": 83,
       "2026-09-16": 26,
-      "2026-09-18": 21
+      "2026-09-18": 32
     }
   },
   {
