@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "71.83%",
-    "uptimeWeek": "67.41%",
-    "uptimeMonth": "92.50%",
-    "uptimeYear": "99.37%",
-    "time": 1027,
-    "timeDay": 1026,
+    "uptimeDay": "73.87%",
+    "uptimeWeek": "67.52%",
+    "uptimeMonth": "92.53%",
+    "uptimeYear": "99.38%",
+    "time": 1028,
+    "timeDay": 1029,
     "timeWeek": 1036,
     "timeMonth": 1047,
     "timeYear": 1043,
@@ -23,7 +23,7 @@
       "2026-09-15": 582,
       "2026-09-16": 566,
       "2026-09-17": 443,
-      "2026-09-18": 63
+      "2026-09-18": 52
     }
   },
   {
@@ -33,10 +33,10 @@
     "slug": "alpha-ratio",
     "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "96.69%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "96.68%",
     "time": 3760,
     "timeDay": 8057,
     "timeWeek": 6178,
@@ -121,7 +121,7 @@
       "2026-09-14": 22,
       "2026-09-15": 144,
       "2026-09-16": 16,
-      "2026-09-18": 1
+      "2026-09-18": 25
     }
   },
   {
@@ -447,17 +447,17 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "82.50%",
-    "uptimeWeek": "78.95%",
-    "uptimeMonth": "93.55%",
+    "uptimeDay": "83.31%",
+    "uptimeWeek": "79.06%",
+    "uptimeMonth": "93.56%",
     "uptimeYear": "99.46%",
     "time": 1063,
-    "timeDay": 1179,
-    "timeWeek": 1066,
+    "timeDay": 1187,
+    "timeWeek": 1065,
     "timeMonth": 1071,
     "timeYear": 1061,
     "dailyMinutesDown": {
-      "2026-09-09": 248,
+      "2026-09-09": 254,
       "2026-09-10": 349,
       "2026-09-11": 359,
       "2026-09-12": 235,
@@ -466,7 +466,7 @@
       "2026-09-15": 483,
       "2026-09-16": 240,
       "2026-09-17": 291,
-      "2026-09-18": 63
+      "2026-09-18": 51
     }
   },
   {
@@ -475,7 +475,7 @@
     "icon": "$EMP_ICON",
     "slug": "empornium",
     "status": "up",
-    "uptime": "97.29%",
+    "uptime": "97.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
@@ -772,7 +772,7 @@
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.09%",
-    "uptimeMonth": "96.87%",
+    "uptimeMonth": "96.90%",
     "uptimeYear": "99.45%",
     "time": 891,
     "timeDay": 960,
@@ -944,17 +944,18 @@
     "slug": "orpheus",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "97.54%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "98.93%",
     "time": 959,
     "timeDay": 1323,
     "timeWeek": 996,
-    "timeMonth": 1467,
+    "timeMonth": 1469,
     "timeYear": 999,
     "dailyMinutesDown": {
-      "2026-07-01": 77,
+      "2026-07-01": 164,
+      "2026-06-30": 11,
       "2026-07-03": 36,
       "2026-07-06": 339,
       "2026-07-07": 68,
@@ -1007,8 +1008,7 @@
       "2026-09-11": 18,
       "2026-09-15": 71,
       "2026-09-16": 19,
-      "2026-09-17": 21,
-      "2026-09-18": 12
+      "2026-09-17": 21
     }
   },
   {
