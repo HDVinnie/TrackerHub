@@ -6,10 +6,10 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "60.71%",
-    "uptimeWeek": "66.41%",
-    "uptimeMonth": "92.27%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "60.68%",
+    "uptimeWeek": "66.23%",
+    "uptimeMonth": "92.23%",
+    "uptimeYear": "99.35%",
     "time": 1032,
     "timeDay": 1039,
     "timeWeek": 1037,
@@ -22,7 +22,7 @@
       "2026-09-15": 582,
       "2026-09-16": 566,
       "2026-09-17": 443,
-      "2026-09-18": 523
+      "2026-09-18": 541
     }
   },
   {
@@ -444,15 +444,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "81.48%",
-    "uptimeWeek": "78.98%",
-    "uptimeMonth": "93.49%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "80.30%",
+    "uptimeWeek": "78.99%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "99.45%",
     "time": 1062,
-    "timeDay": 1003,
-    "timeWeek": 1066,
+    "timeDay": 1000,
+    "timeWeek": 1065,
     "timeMonth": 1070,
     "timeYear": 1061,
     "dailyMinutesDown": {
@@ -465,7 +465,7 @@
       "2026-09-15": 483,
       "2026-09-16": 240,
       "2026-09-17": 291,
-      "2026-09-18": 265
+      "2026-09-18": 282
     }
   },
   {
@@ -944,17 +944,18 @@
     "slug": "orpheus",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "97.59%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "98.93%",
     "time": 961,
     "timeDay": 945,
     "timeWeek": 978,
     "timeMonth": 1467,
     "timeYear": 999,
     "dailyMinutesDown": {
-      "2026-07-01": 77,
+      "2026-07-01": 164,
+      "2026-06-30": 11,
       "2026-07-03": 36,
       "2026-07-06": 339,
       "2026-07-07": 68,
@@ -1007,8 +1008,7 @@
       "2026-09-11": 18,
       "2026-09-15": 71,
       "2026-09-16": 19,
-      "2026-09-17": 21,
-      "2026-09-18": 6
+      "2026-09-17": 21
     }
   },
   {
