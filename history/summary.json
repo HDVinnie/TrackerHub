@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "65.61%",
-    "uptimeWeek": "66.39%",
-    "uptimeMonth": "92.27%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "65.25%",
+    "uptimeWeek": "66.34%",
+    "uptimeMonth": "92.25%",
+    "uptimeYear": "99.35%",
     "time": 1026,
-    "timeDay": 1041,
+    "timeDay": 1043,
     "timeWeek": 1035,
     "timeMonth": 1046,
     "timeYear": 1043,
@@ -23,7 +23,7 @@
       "2026-09-16": 566,
       "2026-09-17": 443,
       "2026-09-18": 606,
-      "2026-09-19": 106
+      "2026-09-19": 111
     }
   },
   {
@@ -445,14 +445,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "83.65%",
-    "uptimeWeek": "79.24%",
-    "uptimeMonth": "93.58%",
+    "uptimeDay": "83.32%",
+    "uptimeWeek": "79.19%",
+    "uptimeMonth": "93.57%",
     "uptimeYear": "99.46%",
     "time": 1065,
-    "timeDay": 1195,
+    "timeDay": 1194,
     "timeWeek": 1089,
     "timeMonth": 1077,
     "timeYear": 1064,
@@ -466,7 +466,7 @@
       "2026-09-16": 240,
       "2026-09-17": 291,
       "2026-09-18": 282,
-      "2026-09-19": 68
+      "2026-09-19": 73
     }
   },
   {
@@ -1189,15 +1189,15 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "96.07%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "96.06%",
     "uptimeYear": "99.33%",
     "time": 895,
-    "timeDay": 956,
-    "timeWeek": 980,
+    "timeDay": 946,
+    "timeWeek": 978,
     "timeMonth": 969,
     "timeYear": 896,
     "dailyMinutesDown": {
@@ -1248,7 +1248,7 @@
       "2026-09-14": 18,
       "2026-09-15": 48,
       "2026-09-18": 20,
-      "2026-09-19": 2
+      "2026-09-19": 6
     }
   },
   {
