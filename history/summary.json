@@ -7,12 +7,12 @@
     "status": "degraded",
     "uptime": "99.85%",
     "uptimeDay": "73.71%",
-    "uptimeWeek": "66.18%",
-    "uptimeMonth": "92.22%",
+    "uptimeWeek": "66.09%",
+    "uptimeMonth": "92.20%",
     "uptimeYear": "99.35%",
     "time": 1028,
     "timeDay": 1054,
-    "timeWeek": 1038,
+    "timeWeek": 1037,
     "timeMonth": 1047,
     "timeYear": 1043,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-09-16": 566,
       "2026-09-17": 443,
       "2026-09-18": 606,
-      "2026-09-19": 250
+      "2026-09-19": 259
     }
   },
   {
@@ -447,8 +447,8 @@
     "status": "degraded",
     "uptime": "99.87%",
     "uptimeDay": "87.68%",
-    "uptimeWeek": "80.13%",
-    "uptimeMonth": "93.65%",
+    "uptimeWeek": "80.04%",
+    "uptimeMonth": "93.63%",
     "uptimeYear": "99.47%",
     "time": 1061,
     "timeDay": 1250,
@@ -465,7 +465,7 @@
       "2026-09-16": 240,
       "2026-09-17": 291,
       "2026-09-18": 282,
-      "2026-09-19": 134
+      "2026-09-19": 143
     }
   },
   {
@@ -774,7 +774,7 @@
     "uptimeMonth": "96.96%",
     "uptimeYear": "99.46%",
     "time": 880,
-    "timeDay": 956,
+    "timeDay": 941,
     "timeWeek": 973,
     "timeMonth": 991,
     "timeYear": 916,
@@ -951,7 +951,7 @@
     "time": 961,
     "timeDay": 949,
     "timeWeek": 989,
-    "timeMonth": 1473,
+    "timeMonth": 1475,
     "timeYear": 1000,
     "dailyMinutesDown": {
       "2026-07-01": 164,
@@ -1188,19 +1188,18 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "96.08%",
-    "uptimeYear": "99.32%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "96.07%",
+    "uptimeYear": "99.33%",
     "time": 895,
-    "timeDay": 1027,
+    "timeDay": 1025,
     "timeWeek": 985,
     "timeMonth": 970,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2026-07-11": 27,
       "2026-07-13": 147,
       "2026-07-14": 85,
       "2026-07-16": 44,
@@ -1247,7 +1246,8 @@
       "2026-09-11": 29,
       "2026-09-14": 18,
       "2026-09-15": 48,
-      "2026-09-18": 20
+      "2026-09-18": 20,
+      "2026-09-19": 2
     }
   },
   {
