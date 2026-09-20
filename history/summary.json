@@ -6,23 +6,23 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "66.54%",
-    "uptimeWeek": "66.53%",
-    "uptimeMonth": "92.30%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "69.23%",
+    "uptimeWeek": "66.35%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "99.35%",
     "time": 1025,
     "timeDay": 1035,
     "timeWeek": 1035,
     "timeMonth": 1047,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2026-09-14": 479,
+      "2026-09-14": 503,
       "2026-09-15": 582,
       "2026-09-16": 566,
       "2026-09-17": 443,
       "2026-09-18": 606,
       "2026-09-19": 390,
-      "2026-09-20": 306
+      "2026-09-20": 300
     }
   },
   {
@@ -446,7 +446,7 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "75.22%",
+    "uptimeDay": "76.65%",
     "uptimeWeek": "79.68%",
     "uptimeMonth": "93.58%",
     "uptimeYear": "99.46%",
@@ -775,7 +775,7 @@
     "uptimeYear": "99.47%",
     "time": 885,
     "timeDay": 1099,
-    "timeWeek": 996,
+    "timeWeek": 995,
     "timeMonth": 995,
     "timeYear": 918,
     "dailyMinutesDown": {
@@ -942,16 +942,16 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "97.60%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "97.53%",
+    "uptimeYear": "98.94%",
     "time": 965,
-    "timeDay": 1189,
-    "timeWeek": 1034,
-    "timeMonth": 1476,
+    "timeDay": 1096,
+    "timeWeek": 1021,
+    "timeMonth": 1471,
     "timeYear": 1001,
     "dailyMinutesDown": {
       "2026-07-01": 77,
@@ -1008,7 +1008,7 @@
       "2026-09-15": 71,
       "2026-09-16": 19,
       "2026-09-17": 21,
-      "2026-09-20": 1
+      "2026-09-20": 32
     }
   },
   {
