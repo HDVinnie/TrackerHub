@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.85%",
     "uptimeDay": "69.37%",
-    "uptimeWeek": "66.49%",
-    "uptimeMonth": "92.29%",
+    "uptimeWeek": "66.43%",
+    "uptimeMonth": "92.28%",
     "uptimeYear": "99.36%",
     "time": 1026,
     "timeDay": 1038,
@@ -22,7 +22,7 @@
       "2026-09-17": 443,
       "2026-09-18": 606,
       "2026-09-19": 390,
-      "2026-09-20": 342
+      "2026-09-20": 348
     }
   },
   {
@@ -444,16 +444,16 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "77.96%",
-    "uptimeWeek": "79.62%",
-    "uptimeMonth": "93.67%",
+    "uptimeDay": "77.71%",
+    "uptimeWeek": "79.58%",
+    "uptimeMonth": "93.66%",
     "uptimeYear": "99.47%",
     "time": 1065,
-    "timeDay": 1048,
+    "timeDay": 1049,
     "timeWeek": 1095,
-    "timeMonth": 1078,
+    "timeMonth": 1077,
     "timeYear": 1064,
     "dailyMinutesDown": {
       "2026-09-11": 214,
@@ -465,7 +465,7 @@
       "2026-09-17": 291,
       "2026-09-18": 282,
       "2026-09-19": 179,
-      "2026-09-20": 294
+      "2026-09-20": 297
     }
   },
   {
@@ -942,19 +942,18 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.75%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "97.53%",
-    "uptimeYear": "98.94%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "97.52%",
+    "uptimeYear": "98.96%",
     "time": 965,
-    "timeDay": 1096,
-    "timeWeek": 1021,
-    "timeMonth": 1471,
+    "timeDay": 1124,
+    "timeWeek": 1029,
+    "timeMonth": 1470,
     "timeYear": 1001,
     "dailyMinutesDown": {
-      "2026-07-01": 77,
       "2026-07-03": 36,
       "2026-07-06": 339,
       "2026-07-07": 68,
@@ -1008,7 +1007,7 @@
       "2026-09-15": 71,
       "2026-09-16": 19,
       "2026-09-17": 21,
-      "2026-09-20": 32
+      "2026-09-20": 34
     }
   },
   {
