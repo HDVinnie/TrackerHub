@@ -4,26 +4,25 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "66.14%",
-    "uptimeWeek": "66.17%",
-    "uptimeMonth": "92.21%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "66.09%",
+    "uptimeWeek": "66.51%",
+    "uptimeMonth": "92.29%",
+    "uptimeYear": "99.36%",
     "time": 1033,
-    "timeDay": 1045,
+    "timeDay": 1047,
     "timeWeek": 1037,
     "timeMonth": 1047,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2026-09-13": 35,
       "2026-09-14": 503,
       "2026-09-15": 582,
       "2026-09-16": 566,
       "2026-09-17": 443,
       "2026-09-18": 606,
       "2026-09-19": 390,
-      "2026-09-20": 284
+      "2026-09-20": 285
     }
   },
   {
@@ -447,9 +446,9 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "74.96%",
-    "uptimeWeek": "79.43%",
-    "uptimeMonth": "93.61%",
+    "uptimeDay": "74.50%",
+    "uptimeWeek": "79.37%",
+    "uptimeMonth": "93.60%",
     "uptimeYear": "99.47%",
     "time": 1064,
     "timeDay": 1053,
@@ -466,7 +465,7 @@
       "2026-09-17": 291,
       "2026-09-18": 282,
       "2026-09-19": 179,
-      "2026-09-20": 256
+      "2026-09-20": 263
     }
   },
   {
