@@ -445,16 +445,16 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "71.87%",
-    "uptimeWeek": "78.05%",
-    "uptimeMonth": "93.43%",
+    "uptimeDay": "72.25%",
+    "uptimeWeek": "78.11%",
+    "uptimeMonth": "93.44%",
     "uptimeYear": "99.45%",
     "time": 1061,
-    "timeDay": 1040,
-    "timeWeek": 1090,
-    "timeMonth": 1075,
+    "timeDay": 1044,
+    "timeWeek": 1091,
+    "timeMonth": 1076,
     "timeYear": 1064,
     "dailyMinutesDown": {
       "2026-09-12": 173,
@@ -466,7 +466,7 @@
       "2026-09-18": 282,
       "2026-09-19": 179,
       "2026-09-20": 313,
-      "2026-09-21": 364
+      "2026-09-21": 359
     }
   },
   {
@@ -947,16 +947,17 @@
     "slug": "orpheus",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "97.63%",
-    "uptimeYear": "98.96%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "98.94%",
     "time": 966,
     "timeDay": 1084,
     "timeWeek": 1025,
     "timeMonth": 1470,
     "timeYear": 1001,
     "dailyMinutesDown": {
+      "2026-07-01": 77,
       "2026-07-03": 36,
       "2026-07-06": 339,
       "2026-07-07": 68,
@@ -1010,8 +1011,7 @@
       "2026-09-15": 71,
       "2026-09-16": 19,
       "2026-09-17": 21,
-      "2026-09-20": 32,
-      "2026-09-21": 6
+      "2026-09-20": 32
     }
   },
   {
