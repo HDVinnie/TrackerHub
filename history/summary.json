@@ -4,11 +4,11 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "50.63%",
-    "uptimeWeek": "65.34%",
-    "uptimeMonth": "92.02%",
+    "uptimeDay": "51.42%",
+    "uptimeWeek": "65.45%",
+    "uptimeMonth": "92.05%",
     "uptimeYear": "99.34%",
     "time": 1029,
     "timeDay": 1056,
@@ -22,7 +22,7 @@
       "2026-09-18": 606,
       "2026-09-19": 390,
       "2026-09-20": 419,
-      "2026-09-21": 593
+      "2026-09-21": 582
     }
   },
   {
@@ -447,9 +447,9 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "71.41%",
-    "uptimeWeek": "77.99%",
-    "uptimeMonth": "93.41%",
+    "uptimeDay": "72.32%",
+    "uptimeWeek": "78.12%",
+    "uptimeMonth": "93.39%",
     "uptimeYear": "99.45%",
     "time": 1061,
     "timeDay": 1036,
@@ -457,7 +457,7 @@
     "timeMonth": 1075,
     "timeYear": 1064,
     "dailyMinutesDown": {
-      "2026-09-12": 173,
+      "2026-09-12": 197,
       "2026-09-13": 306,
       "2026-09-14": 251,
       "2026-09-15": 483,
@@ -466,7 +466,7 @@
       "2026-09-18": 282,
       "2026-09-19": 179,
       "2026-09-20": 313,
-      "2026-09-21": 371
+      "2026-09-21": 358
     }
   },
   {
@@ -1191,19 +1191,18 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "96.23%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "99.33%",
     "time": 893,
-    "timeDay": 859,
-    "timeWeek": 972,
-    "timeMonth": 971,
+    "timeDay": 879,
+    "timeWeek": 974,
+    "timeMonth": 968,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2026-07-11": 27,
       "2026-07-13": 147,
       "2026-07-14": 85,
       "2026-07-16": 44,
@@ -1250,7 +1249,8 @@
       "2026-09-11": 29,
       "2026-09-14": 18,
       "2026-09-15": 48,
-      "2026-09-18": 20
+      "2026-09-18": 20,
+      "2026-09-21": 2
     }
   },
   {
