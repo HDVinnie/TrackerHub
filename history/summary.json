@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "50.15%",
-    "uptimeWeek": "66.10%",
-    "uptimeMonth": "92.20%",
+    "uptimeDay": "49.70%",
+    "uptimeWeek": "66.03%",
+    "uptimeMonth": "92.18%",
     "uptimeYear": "99.35%",
     "time": 1030,
-    "timeDay": 1057,
+    "timeDay": 1061,
     "timeWeek": 1038,
     "timeMonth": 1046,
     "timeYear": 1043,
@@ -22,7 +22,7 @@
       "2026-09-18": 606,
       "2026-09-19": 390,
       "2026-09-20": 419,
-      "2026-09-21": 641
+      "2026-09-21": 647
     }
   },
   {
@@ -163,16 +163,16 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.45%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.31%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "98.65%",
     "uptimeYear": "97.98%",
-    "time": 902,
-    "timeDay": 907,
-    "timeWeek": 1207,
-    "timeMonth": 1139,
+    "time": 903,
+    "timeDay": 935,
+    "timeWeek": 1198,
+    "timeMonth": 1138,
     "timeYear": 836,
     "dailyMinutesDown": {
       "2025-10-13": 211,
@@ -229,7 +229,7 @@
       "2026-09-13": 16,
       "2026-09-15": 54,
       "2026-09-14": 1,
-      "2026-09-21": 15
+      "2026-09-21": 16
     }
   },
   {
@@ -447,13 +447,13 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "71.84%",
-    "uptimeWeek": "78.41%",
-    "uptimeMonth": "93.49%",
+    "uptimeDay": "71.40%",
+    "uptimeWeek": "78.34%",
+    "uptimeMonth": "93.48%",
     "uptimeYear": "99.46%",
     "time": 1062,
     "timeDay": 1054,
-    "timeWeek": 1093,
+    "timeWeek": 1094,
     "timeMonth": 1075,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -466,7 +466,7 @@
       "2026-09-18": 282,
       "2026-09-19": 179,
       "2026-09-20": 313,
-      "2026-09-21": 384
+      "2026-09-21": 390
     }
   },
   {
@@ -952,7 +952,7 @@
     "uptimeMonth": "97.65%",
     "uptimeYear": "98.94%",
     "time": 966,
-    "timeDay": 796,
+    "timeDay": 863,
     "timeWeek": 1025,
     "timeMonth": 1470,
     "timeYear": 1001,
