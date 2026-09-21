@@ -7,12 +7,12 @@
     "status": "degraded",
     "uptime": "99.84%",
     "uptimeDay": "56.22%",
-    "uptimeWeek": "65.38%",
-    "uptimeMonth": "92.03%",
-    "uptimeYear": "99.34%",
+    "uptimeWeek": "65.21%",
+    "uptimeMonth": "91.99%",
+    "uptimeYear": "99.33%",
     "time": 1028,
     "timeDay": 1050,
-    "timeWeek": 1039,
+    "timeWeek": 1040,
     "timeMonth": 1046,
     "timeYear": 1043,
     "dailyMinutesDown": {
@@ -23,7 +23,7 @@
       "2026-09-18": 606,
       "2026-09-19": 390,
       "2026-09-20": 419,
-      "2026-09-21": 433
+      "2026-09-21": 450
     }
   },
   {
@@ -446,15 +446,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "74.59%",
-    "uptimeWeek": "78.36%",
-    "uptimeMonth": "93.49%",
+    "uptimeDay": "75.57%",
+    "uptimeWeek": "78.41%",
+    "uptimeMonth": "93.50%",
     "uptimeYear": "99.46%",
-    "time": 1063,
-    "timeDay": 1037,
-    "timeWeek": 1090,
+    "time": 1061,
+    "timeDay": 1049,
+    "timeWeek": 1093,
     "timeMonth": 1077,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -468,7 +468,7 @@
       "2026-09-18": 282,
       "2026-09-19": 179,
       "2026-09-20": 313,
-      "2026-09-21": 253
+      "2026-09-21": 248
     }
   },
   {
@@ -771,19 +771,19 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "97.88%",
-    "uptimeMonth": "97.09%",
+    "status": "degraded",
+    "uptime": "99.88%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "97.08%",
     "uptimeYear": "99.47%",
-    "time": 886,
-    "timeDay": 1077,
-    "timeWeek": 993,
+    "time": 887,
+    "timeDay": 950,
+    "timeWeek": 995,
     "timeMonth": 994,
     "timeYear": 918,
     "dailyMinutesDown": {
-      "2026-07-30": 96,
+      "2026-07-30": 56,
       "2026-07-31": 78,
       "2026-08-01": 135,
       "2026-08-02": 110,
@@ -824,7 +824,8 @@
       "2026-09-15": 83,
       "2026-09-16": 26,
       "2026-09-18": 20,
-      "2026-09-20": 41
+      "2026-09-20": 41,
+      "2026-09-21": 1
     }
   },
   {
