@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.84%",
     "uptimeDay": "51.52%",
-    "uptimeWeek": "65.78%",
-    "uptimeMonth": "92.13%",
+    "uptimeWeek": "65.69%",
+    "uptimeMonth": "92.10%",
     "uptimeYear": "99.34%",
     "time": 1031,
     "timeDay": 1060,
@@ -22,7 +22,7 @@
       "2026-09-18": 606,
       "2026-09-19": 390,
       "2026-09-20": 419,
-      "2026-09-21": 673
+      "2026-09-21": 682
     }
   },
   {
@@ -163,16 +163,16 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "98.65%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "98.63%",
     "uptimeYear": "97.98%",
     "time": 904,
-    "timeDay": 935,
-    "timeWeek": 1176,
-    "timeMonth": 1134,
+    "timeDay": 919,
+    "timeWeek": 1162,
+    "timeMonth": 1131,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2025-10-13": 211,
@@ -229,7 +229,7 @@
       "2026-09-13": 16,
       "2026-09-15": 54,
       "2026-09-14": 1,
-      "2026-09-21": 16
+      "2026-09-21": 25
     }
   },
   {
@@ -447,12 +447,12 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "70.66%",
+    "uptimeDay": "70.97%",
     "uptimeWeek": "78.24%",
     "uptimeMonth": "93.45%",
     "uptimeYear": "99.45%",
     "time": 1062,
-    "timeDay": 1060,
+    "timeDay": 1059,
     "timeWeek": 1093,
     "timeMonth": 1075,
     "timeYear": 1064,
@@ -954,7 +954,7 @@
     "time": 966,
     "timeDay": 863,
     "timeWeek": 1025,
-    "timeMonth": 1472,
+    "timeMonth": 1475,
     "timeYear": 1001,
     "dailyMinutesDown": {
       "2026-07-01": 77,
