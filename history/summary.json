@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "68.34%",
-    "uptimeWeek": "64.77%",
-    "uptimeMonth": "91.89%",
+    "uptimeDay": "67.34%",
+    "uptimeWeek": "64.63%",
+    "uptimeMonth": "91.86%",
     "uptimeYear": "99.32%",
     "time": 1027,
-    "timeDay": 1161,
-    "timeWeek": 1055,
+    "timeDay": 1155,
+    "timeWeek": 1054,
     "timeMonth": 1050,
     "timeYear": 1045,
     "dailyMinutesDown": {
@@ -23,7 +23,7 @@
       "2026-09-19": 390,
       "2026-09-20": 419,
       "2026-09-21": 716,
-      "2026-09-22": 231
+      "2026-09-22": 245
     }
   },
   {
@@ -168,12 +168,12 @@
     "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "98.65%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "97.98%",
     "time": 905,
     "timeDay": 877,
     "timeWeek": 1167,
-    "timeMonth": 1126,
+    "timeMonth": 1127,
     "timeYear": 837,
     "dailyMinutesDown": {
       "2025-10-13": 211,
@@ -446,16 +446,16 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "81.65%",
-    "uptimeWeek": "80.88%",
-    "uptimeMonth": "93.39%",
+    "uptimeDay": "81.06%",
+    "uptimeWeek": "80.75%",
+    "uptimeMonth": "93.36%",
     "uptimeYear": "99.45%",
     "time": 1064,
-    "timeDay": 1082,
-    "timeWeek": 1097,
-    "timeMonth": 1073,
+    "timeDay": 1073,
+    "timeWeek": 1095,
+    "timeMonth": 1072,
     "timeYear": 1064,
     "dailyMinutesDown": {
       "2026-09-13": 306,
@@ -467,7 +467,7 @@
       "2026-09-19": 179,
       "2026-09-20": 313,
       "2026-09-21": 425,
-      "2026-09-22": 128
+      "2026-09-22": 142
     }
   },
   {
@@ -777,7 +777,7 @@
     "uptimeMonth": "97.21%",
     "uptimeYear": "99.47%",
     "time": 891,
-    "timeDay": 976,
+    "timeDay": 966,
     "timeWeek": 987,
     "timeMonth": 991,
     "timeYear": 919,
