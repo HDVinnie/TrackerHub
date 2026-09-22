@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "63.18%",
-    "uptimeWeek": "64.68%",
-    "uptimeMonth": "91.87%",
+    "uptimeDay": "64.22%",
+    "uptimeWeek": "64.77%",
+    "uptimeMonth": "91.89%",
     "uptimeYear": "99.32%",
     "time": 1036,
-    "timeDay": 1163,
+    "timeDay": 1164,
     "timeWeek": 1054,
     "timeMonth": 1050,
     "timeYear": 1045,
@@ -23,7 +23,7 @@
       "2026-09-19": 390,
       "2026-09-20": 419,
       "2026-09-21": 716,
-      "2026-09-22": 240
+      "2026-09-22": 231
     }
   },
   {
@@ -247,7 +247,7 @@
     "time": 1514,
     "timeDay": 661,
     "timeWeek": 748,
-    "timeMonth": 1286,
+    "timeMonth": 1300,
     "timeYear": 1312,
     "dailyMinutesDown": {
       "2025-09-30": 28,
@@ -360,7 +360,7 @@
     "icon": "$BLU_ICON",
     "slug": "blutopia",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
@@ -448,16 +448,17 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "78.15%",
-    "uptimeWeek": "80.62%",
-    "uptimeMonth": "93.37%",
+    "uptimeDay": "78.83%",
+    "uptimeWeek": "80.71%",
+    "uptimeMonth": "93.36%",
     "uptimeYear": "99.45%",
     "time": 1064,
-    "timeDay": 1081,
+    "timeDay": 1085,
     "timeWeek": 1093,
     "timeMonth": 1073,
     "timeYear": 1064,
     "dailyMinutesDown": {
+      "2026-09-12": 17,
       "2026-09-13": 306,
       "2026-09-14": 251,
       "2026-09-15": 483,
@@ -467,7 +468,7 @@
       "2026-09-19": 179,
       "2026-09-20": 313,
       "2026-09-21": 425,
-      "2026-09-22": 137
+      "2026-09-22": 127
     }
   },
   {
