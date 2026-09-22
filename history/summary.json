@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "67.20%",
-    "uptimeWeek": "64.88%",
-    "uptimeMonth": "91.92%",
+    "uptimeDay": "66.89%",
+    "uptimeWeek": "64.83%",
+    "uptimeMonth": "91.91%",
     "uptimeYear": "99.33%",
     "time": 1028,
-    "timeDay": 1160,
+    "timeDay": 1156,
     "timeWeek": 1054,
     "timeMonth": 1050,
     "timeYear": 1045,
@@ -23,7 +23,7 @@
       "2026-09-19": 390,
       "2026-09-20": 419,
       "2026-09-21": 716,
-      "2026-09-22": 247
+      "2026-09-22": 251
     }
   },
   {
@@ -564,17 +564,17 @@
     "url": "$EZ",
     "icon": "$EZ_ICON",
     "slug": "exoticaz",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 829,
-    "timeDay": 230,
-    "timeWeek": 347,
-    "timeMonth": 369,
-    "timeYear": 784,
+    "time": 930,
+    "timeDay": 25254,
+    "timeWeek": 6589,
+    "timeMonth": 2218,
+    "timeYear": 912,
     "dailyMinutesDown": {
       "2025-11-18": 115,
       "2025-12-25": 17,
@@ -583,7 +583,8 @@
       "2026-02-18": 47,
       "2026-02-24": 23,
       "2026-03-03": 33,
-      "2026-04-09": 38
+      "2026-04-09": 38,
+      "2026-09-22": 1
     }
   },
   {
