@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "50.60%",
-    "uptimeWeek": "65.62%",
-    "uptimeMonth": "92.09%",
+    "uptimeDay": "50.38%",
+    "uptimeWeek": "65.46%",
+    "uptimeMonth": "92.05%",
     "uptimeYear": "99.34%",
     "time": 1033,
-    "timeDay": 1209,
+    "timeDay": 1206,
     "timeWeek": 1056,
     "timeMonth": 1051,
     "timeYear": 1045,
@@ -22,7 +22,8 @@
       "2026-09-18": 606,
       "2026-09-19": 390,
       "2026-09-20": 419,
-      "2026-09-21": 712
+      "2026-09-21": 716,
+      "2026-09-22": 12
     }
   },
   {
@@ -166,12 +167,12 @@
     "status": "up",
     "uptime": "99.45%",
     "uptimeDay": "98.95%",
-    "uptimeWeek": "99.31%",
+    "uptimeWeek": "99.44%",
     "uptimeMonth": "98.65%",
     "uptimeYear": "97.98%",
     "time": 905,
     "timeDay": 896,
-    "timeWeek": 1158,
+    "timeWeek": 1142,
     "timeMonth": 1126,
     "timeYear": 837,
     "dailyMinutesDown": {
@@ -447,12 +448,12 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "70.69%",
+    "uptimeDay": "70.50%",
     "uptimeWeek": "78.07%",
-    "uptimeMonth": "93.44%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.45%",
     "time": 1062,
-    "timeDay": 1063,
+    "timeDay": 1064,
     "timeWeek": 1090,
     "timeMonth": 1074,
     "timeYear": 1064,
@@ -466,7 +467,8 @@
       "2026-09-18": 282,
       "2026-09-19": 179,
       "2026-09-20": 313,
-      "2026-09-21": 422
+      "2026-09-21": 425,
+      "2026-09-22": 13
     }
   },
   {
@@ -948,12 +950,12 @@
     "status": "up",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.59%",
+    "uptimeWeek": "98.72%",
     "uptimeMonth": "97.65%",
     "uptimeYear": "98.94%",
     "time": 967,
     "timeDay": 875,
-    "timeWeek": 1024,
+    "timeWeek": 1023,
     "timeMonth": 1472,
     "timeYear": 1001,
     "dailyMinutesDown": {
@@ -1191,16 +1193,16 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.31%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.17%",
     "uptimeMonth": "96.27%",
     "uptimeYear": "99.33%",
     "time": 893,
-    "timeDay": 905,
-    "timeWeek": 953,
-    "timeMonth": 964,
+    "timeDay": 883,
+    "timeWeek": 948,
+    "timeMonth": 962,
     "timeYear": 898,
     "dailyMinutesDown": {
       "2026-07-13": 147,
@@ -1250,7 +1252,8 @@
       "2026-09-14": 18,
       "2026-09-15": 48,
       "2026-09-18": 20,
-      "2026-09-21": 2
+      "2026-09-22": 12,
+      "2026-09-21": 4
     }
   },
   {
