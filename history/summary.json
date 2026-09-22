@@ -6,13 +6,13 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "65.29%",
-    "uptimeWeek": "64.67%",
-    "uptimeMonth": "91.87%",
+    "uptimeDay": "64.86%",
+    "uptimeWeek": "64.61%",
+    "uptimeMonth": "91.86%",
     "uptimeYear": "99.32%",
     "time": 1028,
     "timeDay": 1158,
-    "timeWeek": 1055,
+    "timeWeek": 1054,
     "timeMonth": 1050,
     "timeYear": 1045,
     "dailyMinutesDown": {
@@ -23,7 +23,7 @@
       "2026-09-19": 390,
       "2026-09-20": 419,
       "2026-09-21": 716,
-      "2026-09-22": 332
+      "2026-09-22": 338
     }
   },
   {
@@ -448,12 +448,12 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "83.20%",
-    "uptimeWeek": "81.17%",
-    "uptimeMonth": "93.41%",
+    "uptimeDay": "82.78%",
+    "uptimeWeek": "81.11%",
+    "uptimeMonth": "93.40%",
     "uptimeYear": "99.45%",
     "time": 1064,
-    "timeDay": 1085,
+    "timeDay": 1079,
     "timeWeek": 1095,
     "timeMonth": 1072,
     "timeYear": 1064,
@@ -467,7 +467,7 @@
       "2026-09-19": 179,
       "2026-09-20": 313,
       "2026-09-21": 425,
-      "2026-09-22": 145
+      "2026-09-22": 151
     }
   },
   {
@@ -564,17 +564,17 @@
     "url": "$EZ",
     "icon": "$EZ_ICON",
     "slug": "exoticaz",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.91%",
-    "time": 945,
-    "timeDay": 14868,
-    "timeWeek": 6168,
-    "timeMonth": 2374,
-    "timeYear": 931,
+    "time": 944,
+    "timeDay": 11939,
+    "timeWeek": 5627,
+    "timeMonth": 2302,
+    "timeYear": 929,
     "dailyMinutesDown": {
       "2025-11-18": 115,
       "2025-12-25": 17,
@@ -584,7 +584,7 @@
       "2026-02-24": 23,
       "2026-03-03": 33,
       "2026-04-09": 38,
-      "2026-09-22": 28
+      "2026-09-22": 33
     }
   },
   {
@@ -779,7 +779,7 @@
     "uptimeYear": "99.47%",
     "time": 891,
     "timeDay": 983,
-    "timeWeek": 988,
+    "timeWeek": 986,
     "timeMonth": 991,
     "timeYear": 919,
     "dailyMinutesDown": {
