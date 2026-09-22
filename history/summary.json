@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "66.92%",
+    "uptimeDay": "66.39%",
     "uptimeWeek": "64.58%",
-    "uptimeMonth": "91.80%",
+    "uptimeMonth": "91.79%",
     "uptimeYear": "99.32%",
     "time": 1029,
-    "timeDay": 1140,
+    "timeDay": 1137,
     "timeWeek": 1054,
     "timeMonth": 1050,
     "timeYear": 1045,
@@ -23,7 +23,7 @@
       "2026-09-19": 390,
       "2026-09-20": 419,
       "2026-09-21": 716,
-      "2026-09-22": 379
+      "2026-09-22": 386
     }
   },
   {
@@ -172,7 +172,7 @@
     "uptimeYear": "97.98%",
     "time": 905,
     "timeDay": 877,
-    "timeWeek": 1172,
+    "timeWeek": 1179,
     "timeMonth": 1131,
     "timeYear": 837,
     "dailyMinutesDown": {
@@ -446,15 +446,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "81.72%",
-    "uptimeWeek": "80.63%",
-    "uptimeMonth": "93.44%",
+    "uptimeDay": "81.32%",
+    "uptimeWeek": "80.64%",
+    "uptimeMonth": "93.43%",
     "uptimeYear": "99.45%",
     "time": 1065,
-    "timeDay": 1055,
-    "timeWeek": 1091,
+    "timeDay": 1053,
+    "timeWeek": 1090,
     "timeMonth": 1071,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -467,7 +467,7 @@
       "2026-09-19": 179,
       "2026-09-20": 313,
       "2026-09-21": 425,
-      "2026-09-22": 203
+      "2026-09-22": 209
     }
   },
   {
@@ -718,10 +718,10 @@
     "slug": "hawke-uno",
     "status": "degraded",
     "uptime": "99.58%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "98.94%",
     "time": 1252,
     "timeDay": 943,
     "timeWeek": 477,
@@ -763,7 +763,7 @@
       "2026-07-27": 59,
       "2026-08-26": 19,
       "2026-09-03": 20,
-      "2026-09-22": 2
+      "2026-09-22": 9
     }
   },
   {
@@ -1201,7 +1201,7 @@
     "uptimeYear": "99.34%",
     "time": 888,
     "timeDay": 876,
-    "timeWeek": 920,
+    "timeWeek": 917,
     "timeMonth": 959,
     "timeYear": 897,
     "dailyMinutesDown": {
