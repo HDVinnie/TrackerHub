@@ -6,13 +6,13 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "67.24%",
-    "uptimeWeek": "64.88%",
-    "uptimeMonth": "91.92%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "65.93%",
+    "uptimeWeek": "64.62%",
+    "uptimeMonth": "91.86%",
+    "uptimeYear": "99.32%",
     "time": 1028,
-    "timeDay": 1154,
-    "timeWeek": 1053,
+    "timeDay": 1155,
+    "timeWeek": 1054,
     "timeMonth": 1050,
     "timeYear": 1045,
     "dailyMinutesDown": {
@@ -23,7 +23,7 @@
       "2026-09-19": 390,
       "2026-09-20": 419,
       "2026-09-21": 716,
-      "2026-09-22": 246
+      "2026-09-22": 273
     }
   },
   {
@@ -359,17 +359,17 @@
     "url": "$BLU",
     "icon": "$BLU_ICON",
     "slug": "blutopia",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.69%",
-    "time": 828,
-    "timeDay": 592,
-    "timeWeek": 514,
-    "timeMonth": 556,
-    "timeYear": 725,
+    "time": 830,
+    "timeDay": 945,
+    "timeWeek": 612,
+    "timeMonth": 575,
+    "timeYear": 727,
     "dailyMinutesDown": {
       "2025-10-02": 26,
       "2025-11-18": 115,
@@ -396,7 +396,8 @@
       "2026-08-10": 90,
       "2026-08-21": 20,
       "2026-08-25": 20,
-      "2026-09-03": 21
+      "2026-09-03": 21,
+      "2026-09-22": 1
     }
   },
   {
@@ -449,12 +450,12 @@
     "status": "up",
     "uptime": "99.87%",
     "uptimeDay": "82.01%",
-    "uptimeWeek": "80.75%",
+    "uptimeWeek": "80.95%",
     "uptimeMonth": "93.36%",
     "uptimeYear": "99.45%",
     "time": 1064,
     "timeDay": 1079,
-    "timeWeek": 1095,
+    "timeWeek": 1096,
     "timeMonth": 1073,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -566,9 +567,9 @@
     "slug": "exoticaz",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 929,
     "timeDay": 17020,
@@ -583,8 +584,7 @@
       "2026-02-18": 47,
       "2026-02-24": 23,
       "2026-03-03": 33,
-      "2026-04-09": 38,
-      "2026-09-22": 5
+      "2026-04-09": 38
     }
   },
   {
