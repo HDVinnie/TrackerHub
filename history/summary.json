@@ -30,17 +30,17 @@
     "url": "$AR",
     "icon": "$AR_ICON",
     "slug": "alpha-ratio",
-    "status": "down",
+    "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "96.68%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "96.67%",
     "time": 3843,
-    "timeDay": 9744,
-    "timeWeek": 5364,
-    "timeMonth": 4171,
-    "timeYear": 3844,
+    "timeDay": 8747,
+    "timeWeek": 5164,
+    "timeMonth": 4137,
+    "timeYear": 3840,
     "dailyMinutesDown": {
       "2025-10-05": 1285,
       "2025-10-04": 1440,
@@ -121,7 +121,7 @@
       "2026-09-15": 144,
       "2026-09-16": 16,
       "2026-09-18": 70,
-      "2026-09-22": 1
+      "2026-09-22": 8
     }
   },
   {
