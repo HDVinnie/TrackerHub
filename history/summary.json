@@ -5,13 +5,13 @@
     "icon": "$AIH_ICON",
     "slug": "aither",
     "status": "degraded",
-    "uptime": "99.85%",
-    "uptimeDay": "60.20%",
-    "uptimeWeek": "65.79%",
-    "uptimeMonth": "92.13%",
+    "uptime": "99.84%",
+    "uptimeDay": "59.77%",
+    "uptimeWeek": "65.73%",
+    "uptimeMonth": "92.11%",
     "uptimeYear": "99.34%",
     "time": 1035,
-    "timeDay": 1051,
+    "timeDay": 1050,
     "timeWeek": 1060,
     "timeMonth": 1050,
     "timeYear": 1045,
@@ -22,7 +22,7 @@
       "2026-09-20": 419,
       "2026-09-21": 716,
       "2026-09-22": 492,
-      "2026-09-23": 537
+      "2026-09-23": 543
     }
   },
   {
@@ -446,14 +446,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "72.31%",
-    "uptimeWeek": "78.93%",
-    "uptimeMonth": "93.44%",
+    "uptimeDay": "71.97%",
+    "uptimeWeek": "78.88%",
+    "uptimeMonth": "93.43%",
     "uptimeYear": "99.45%",
     "time": 1062,
-    "timeDay": 1084,
+    "timeDay": 1069,
     "timeWeek": 1099,
     "timeMonth": 1073,
     "timeYear": 1064,
@@ -467,7 +467,7 @@
       "2026-09-20": 313,
       "2026-09-21": 425,
       "2026-09-22": 279,
-      "2026-09-23": 360
+      "2026-09-23": 365
     }
   },
   {
@@ -771,17 +771,17 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "97.10%",
+    "uptimeDay": "94.23%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "97.09%",
     "uptimeYear": "99.49%",
     "time": 899,
-    "timeDay": 977,
+    "timeDay": 975,
     "timeWeek": 982,
     "timeMonth": 990,
-    "timeYear": 920,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2026-08-01": 69,
       "2026-08-02": 110,
@@ -824,7 +824,7 @@
       "2026-09-18": 20,
       "2026-09-20": 41,
       "2026-09-21": 61,
-      "2026-09-23": 80
+      "2026-09-23": 84
     }
   },
   {
