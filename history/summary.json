@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "59.16%",
-    "uptimeWeek": "65.91%",
-    "uptimeMonth": "92.16%",
+    "uptimeDay": "58.75%",
+    "uptimeWeek": "65.86%",
+    "uptimeMonth": "92.14%",
     "uptimeYear": "99.35%",
     "time": 1032,
-    "timeDay": 1036,
+    "timeDay": 1038,
     "timeWeek": 1059,
     "timeMonth": 1050,
     "timeYear": 1045,
@@ -23,7 +23,7 @@
       "2026-09-20": 419,
       "2026-09-21": 716,
       "2026-09-22": 492,
-      "2026-09-23": 326
+      "2026-09-23": 332
     }
   },
   {
@@ -447,14 +447,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "77.67%",
-    "uptimeWeek": "79.68%",
-    "uptimeMonth": "93.60%",
+    "uptimeDay": "77.34%",
+    "uptimeWeek": "79.63%",
+    "uptimeMonth": "93.59%",
     "uptimeYear": "99.47%",
     "time": 1061,
-    "timeDay": 1041,
+    "timeDay": 1040,
     "timeWeek": 1097,
     "timeMonth": 1072,
     "timeYear": 1064,
@@ -468,7 +468,7 @@
       "2026-09-20": 313,
       "2026-09-21": 425,
       "2026-09-22": 279,
-      "2026-09-23": 170
+      "2026-09-23": 175
     }
   },
   {
@@ -595,9 +595,9 @@
     "slug": "gazelle-games",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "98.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.53%",
     "uptimeYear": "97.08%",
     "time": 2455,
     "timeDay": 1782,
@@ -605,7 +605,7 @@
     "timeMonth": 1813,
     "timeYear": 2747,
     "dailyMinutesDown": {
-      "2025-10-10": 699,
+      "2025-10-10": 716,
       "2025-10-11": 643,
       "2025-10-12": 1345,
       "2025-10-13": 668,
@@ -662,8 +662,7 @@
       "2026-09-03": 472,
       "2026-09-10": 25,
       "2026-09-12": 18,
-      "2026-09-16": 20,
-      "2026-09-23": 6
+      "2026-09-16": 20
     }
   },
   {
