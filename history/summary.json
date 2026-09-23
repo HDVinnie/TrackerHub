@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.84%",
     "uptimeDay": "62.12%",
-    "uptimeWeek": "65.75%",
-    "uptimeMonth": "92.12%",
+    "uptimeWeek": "65.55%",
+    "uptimeMonth": "92.07%",
     "uptimeYear": "99.34%",
     "time": 1033,
     "timeDay": 1048,
@@ -22,7 +22,7 @@
       "2026-09-20": 419,
       "2026-09-21": 716,
       "2026-09-22": 492,
-      "2026-09-23": 405
+      "2026-09-23": 425
     }
   },
   {
@@ -448,12 +448,12 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "76.48%",
-    "uptimeWeek": "79.35%",
-    "uptimeMonth": "93.55%",
+    "uptimeDay": "75.98%",
+    "uptimeWeek": "79.15%",
+    "uptimeMonth": "93.50%",
     "uptimeYear": "99.46%",
     "time": 1062,
-    "timeDay": 1046,
+    "timeDay": 1049,
     "timeWeek": 1100,
     "timeMonth": 1072,
     "timeYear": 1064,
@@ -467,7 +467,7 @@
       "2026-09-20": 313,
       "2026-09-21": 425,
       "2026-09-22": 279,
-      "2026-09-23": 224
+      "2026-09-23": 244
     }
   },
   {
@@ -771,19 +771,18 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "97.19%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "97.06%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "97.18%",
+    "uptimeYear": "99.48%",
     "time": 896,
-    "timeDay": 947,
-    "timeWeek": 980,
+    "timeDay": 952,
+    "timeWeek": 981,
     "timeMonth": 990,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2026-07-31": 43,
       "2026-08-01": 135,
       "2026-08-02": 110,
       "2026-08-03": 79,
@@ -825,7 +824,7 @@
       "2026-09-18": 20,
       "2026-09-20": 41,
       "2026-09-21": 61,
-      "2026-09-23": 41
+      "2026-09-23": 43
     }
   },
   {
@@ -1262,7 +1261,7 @@
     "icon": "$TL_ICON",
     "slug": "torrent-leech",
     "status": "up",
-    "uptime": "97.48%",
+    "uptime": "97.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
