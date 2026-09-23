@@ -5,10 +5,10 @@
     "icon": "$AIH_ICON",
     "slug": "aither",
     "status": "degraded",
-    "uptime": "99.85%",
+    "uptime": "99.84%",
     "uptimeDay": "59.78%",
-    "uptimeWeek": "65.84%",
-    "uptimeMonth": "92.14%",
+    "uptimeWeek": "65.77%",
+    "uptimeMonth": "92.12%",
     "uptimeYear": "99.34%",
     "time": 1034,
     "timeDay": 1047,
@@ -22,7 +22,7 @@
       "2026-09-20": 419,
       "2026-09-21": 716,
       "2026-09-22": 492,
-      "2026-09-23": 514
+      "2026-09-23": 521
     }
   },
   {
@@ -448,13 +448,13 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "73.75%",
-    "uptimeWeek": "78.96%",
-    "uptimeMonth": "93.50%",
+    "uptimeDay": "73.28%",
+    "uptimeWeek": "78.95%",
+    "uptimeMonth": "93.48%",
     "uptimeYear": "99.46%",
     "time": 1062,
-    "timeDay": 1072,
-    "timeWeek": 1101,
+    "timeDay": 1079,
+    "timeWeek": 1099,
     "timeMonth": 1073,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -467,7 +467,7 @@
       "2026-09-20": 313,
       "2026-09-21": 425,
       "2026-09-22": 279,
-      "2026-09-23": 317
+      "2026-09-23": 324
     }
   },
   {
@@ -476,7 +476,7 @@
     "icon": "$EMP_ICON",
     "slug": "empornium",
     "status": "up",
-    "uptime": "97.30%",
+    "uptime": "97.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
@@ -771,19 +771,19 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "95.77%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "97.14%",
+    "uptimeDay": "95.64%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "97.13%",
     "uptimeYear": "99.48%",
     "time": 897,
-    "timeDay": 973,
-    "timeWeek": 982,
+    "timeDay": 978,
+    "timeWeek": 983,
     "timeMonth": 990,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2026-08-01": 135,
+      "2026-08-01": 92,
       "2026-08-02": 110,
       "2026-08-03": 79,
       "2026-08-04": 62,
@@ -824,7 +824,7 @@
       "2026-09-18": 20,
       "2026-09-20": 41,
       "2026-09-21": 61,
-      "2026-09-23": 62
+      "2026-09-23": 64
     }
   },
   {
