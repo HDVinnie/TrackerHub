@@ -4,26 +4,26 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "54.77%",
-    "uptimeWeek": "65.85%",
-    "uptimeMonth": "92.14%",
+    "uptimeDay": "54.84%",
+    "uptimeWeek": "66.00%",
+    "uptimeMonth": "92.18%",
     "uptimeYear": "99.35%",
     "time": 1036,
-    "timeDay": 1039,
+    "timeDay": 1037,
     "timeWeek": 1060,
     "timeMonth": 1050,
     "timeYear": 1045,
     "dailyMinutesDown": {
-      "2026-09-17": 102,
+      "2026-09-17": 86,
       "2026-09-18": 606,
       "2026-09-19": 390,
       "2026-09-20": 419,
       "2026-09-21": 716,
       "2026-09-22": 492,
       "2026-09-23": 609,
-      "2026-09-24": 106
+      "2026-09-24": 107
     }
   },
   {
@@ -33,9 +33,9 @@
     "slug": "alpha-ratio",
     "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "98.89%",
+    "uptimeDay": "98.47%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "98.84%",
     "uptimeYear": "96.67%",
     "time": 3848,
     "timeDay": 1097,
@@ -123,7 +123,7 @@
       "2026-09-16": 16,
       "2026-09-18": 70,
       "2026-09-23": 23,
-      "2026-09-24": 1
+      "2026-09-24": 22
     }
   },
   {
@@ -448,19 +448,19 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "76.28%",
+    "uptimeDay": "76.37%",
     "uptimeWeek": "79.93%",
-    "uptimeMonth": "93.40%",
+    "uptimeMonth": "93.44%",
     "uptimeYear": "99.45%",
     "time": 1063,
-    "timeDay": 1102,
+    "timeDay": 1088,
     "timeWeek": 1102,
     "timeMonth": 1073,
     "timeYear": 1064,
     "dailyMinutesDown": {
-      "2026-09-14": 42,
+      "2026-09-14": 24,
       "2026-09-15": 483,
       "2026-09-16": 240,
       "2026-09-17": 291,
@@ -469,7 +469,8 @@
       "2026-09-20": 313,
       "2026-09-21": 425,
       "2026-09-22": 279,
-      "2026-09-23": 359
+      "2026-09-23": 359,
+      "2026-09-24": 1
     }
   },
   {
