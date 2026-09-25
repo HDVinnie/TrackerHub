@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "61.89%",
-    "uptimeWeek": "66.83%",
-    "uptimeMonth": "92.37%",
+    "uptimeDay": "61.16%",
+    "uptimeWeek": "66.72%",
+    "uptimeMonth": "92.34%",
     "uptimeYear": "99.36%",
     "time": 1034,
     "timeDay": 1013,
@@ -22,7 +22,7 @@
       "2026-09-22": 492,
       "2026-09-23": 609,
       "2026-09-24": 535,
-      "2026-09-25": 351
+      "2026-09-25": 362
     }
   },
   {
@@ -30,17 +30,17 @@
     "url": "$AR",
     "icon": "$AR_ICON",
     "slug": "alpha-ratio",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.73%",
+    "status": "degraded",
+    "uptime": "99.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "97.72%",
     "uptimeMonth": "98.42%",
     "uptimeYear": "96.63%",
-    "time": 3846,
-    "timeDay": 425,
-    "timeWeek": 3333,
-    "timeMonth": 3762,
-    "timeYear": 3788,
+    "time": 3850,
+    "timeDay": 1044,
+    "timeWeek": 3362,
+    "timeMonth": 3765,
+    "timeYear": 3789,
     "dailyMinutesDown": {
       "2025-10-05": 1285,
       "2025-10-04": 1440,
@@ -122,7 +122,8 @@
       "2026-09-16": 16,
       "2026-09-18": 70,
       "2026-09-23": 23,
-      "2026-09-24": 206
+      "2026-09-24": 206,
+      "2026-09-25": 1
     }
   },
   {
@@ -410,7 +411,7 @@
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.98%",
+    "uptimeMonth": "99.00%",
     "uptimeYear": "99.28%",
     "time": 859,
     "timeDay": 510,
@@ -1201,7 +1202,7 @@
     "uptime": "99.83%",
     "uptimeDay": "98.66%",
     "uptimeWeek": "99.09%",
-    "uptimeMonth": "96.54%",
+    "uptimeMonth": "96.56%",
     "uptimeYear": "99.35%",
     "time": 897,
     "timeDay": 1054,
