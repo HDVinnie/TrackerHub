@@ -4,25 +4,25 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "58.54%",
-    "uptimeWeek": "66.29%",
-    "uptimeMonth": "92.24%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "58.47%",
+    "uptimeWeek": "66.48%",
+    "uptimeMonth": "92.29%",
+    "uptimeYear": "99.36%",
     "time": 1028,
     "timeDay": 1029,
     "timeWeek": 1056,
     "timeMonth": 1049,
     "timeYear": 1045,
     "dailyMinutesDown": {
-      "2026-09-20": 360,
+      "2026-09-20": 340,
       "2026-09-21": 716,
       "2026-09-22": 492,
       "2026-09-23": 609,
       "2026-09-24": 535,
       "2026-09-25": 570,
-      "2026-09-26": 120
+      "2026-09-26": 121
     }
   },
   {
@@ -408,9 +408,9 @@
     "slug": "broadcas-the-net",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "95.34%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.27%",
     "time": 859,
     "timeDay": 407,
@@ -441,7 +441,7 @@
       "2026-06-09": 69,
       "2026-08-22": 19,
       "2026-08-25": 590,
-      "2026-09-26": 60
+      "2026-09-26": 67
     }
   },
   {
@@ -449,15 +449,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "76.41%",
-    "uptimeWeek": "78.74%",
-    "uptimeMonth": "93.67%",
+    "uptimeDay": "77.03%",
+    "uptimeWeek": "78.83%",
+    "uptimeMonth": "93.69%",
     "uptimeYear": "99.47%",
     "time": 1063,
-    "timeDay": 1029,
-    "timeWeek": 1084,
+    "timeDay": 1028,
+    "timeWeek": 1055,
     "timeMonth": 1074,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -471,7 +471,7 @@
       "2026-09-23": 359,
       "2026-09-24": 205,
       "2026-09-25": 345,
-      "2026-09-26": 58
+      "2026-09-26": 49
     }
   },
   {
@@ -1147,7 +1147,7 @@
     "uptimeYear": "98.43%",
     "time": 1249,
     "timeDay": 560,
-    "timeWeek": 984,
+    "timeWeek": 749,
     "timeMonth": 1293,
     "timeYear": 1424,
     "dailyMinutesDown": {
