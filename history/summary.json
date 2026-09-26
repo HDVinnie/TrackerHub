@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "58.39%",
-    "uptimeWeek": "66.87%",
-    "uptimeMonth": "92.38%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "59.91%",
+    "uptimeWeek": "66.92%",
+    "uptimeMonth": "92.39%",
+    "uptimeYear": "99.37%",
     "time": 1031,
-    "timeDay": 1026,
-    "timeWeek": 1054,
+    "timeDay": 1031,
+    "timeWeek": 1055,
     "timeMonth": 1048,
     "timeYear": 1045,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-09-23": 609,
       "2026-09-24": 535,
       "2026-09-25": 570,
-      "2026-09-26": 420
+      "2026-09-26": 415
     }
   },
   {
@@ -449,17 +449,17 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "81.61%",
-    "uptimeWeek": "78.17%",
-    "uptimeMonth": "93.74%",
+    "uptimeDay": "83.07%",
+    "uptimeWeek": "78.21%",
+    "uptimeMonth": "93.75%",
     "uptimeYear": "99.48%",
     "time": 1063,
-    "timeDay": 1004,
-    "timeWeek": 1048,
+    "timeDay": 1017,
+    "timeWeek": 1050,
     "timeMonth": 1073,
-    "timeYear": 1063,
+    "timeYear": 1064,
     "dailyMinutesDown": {
       "2026-09-17": 170,
       "2026-09-18": 282,
@@ -470,7 +470,7 @@
       "2026-09-23": 359,
       "2026-09-24": 205,
       "2026-09-25": 345,
-      "2026-09-26": 191
+      "2026-09-26": 186
     }
   },
   {
@@ -774,19 +774,18 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "97.73%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "97.71%",
     "uptimeMonth": "97.40%",
     "uptimeYear": "99.49%",
     "time": 887,
-    "timeDay": 907,
-    "timeWeek": 974,
+    "timeDay": 919,
+    "timeWeek": 975,
     "timeMonth": 987,
     "timeYear": 921,
     "dailyMinutesDown": {
-      "2026-08-01": 22,
       "2026-08-02": 110,
       "2026-08-03": 79,
       "2026-08-04": 62,
@@ -829,7 +828,8 @@
       "2026-09-21": 61,
       "2026-09-23": 78,
       "2026-09-24": 16,
-      "2026-09-25": 34
+      "2026-09-25": 34,
+      "2026-09-26": 2
     }
   },
   {
