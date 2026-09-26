@@ -408,9 +408,9 @@
     "slug": "broadcas-the-net",
     "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "96.50%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.27%",
     "time": 859,
     "timeDay": 407,
@@ -441,7 +441,7 @@
       "2026-06-09": 69,
       "2026-08-22": 19,
       "2026-08-25": 590,
-      "2026-09-26": 36
+      "2026-09-26": 50
     }
   },
   {
@@ -449,19 +449,19 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "77.09%",
-    "uptimeWeek": "78.75%",
-    "uptimeMonth": "93.65%",
+    "uptimeDay": "77.04%",
+    "uptimeWeek": "78.83%",
+    "uptimeMonth": "93.69%",
     "uptimeYear": "99.47%",
     "time": 1063,
     "timeDay": 1031,
-    "timeWeek": 1084,
+    "timeWeek": 1085,
     "timeMonth": 1074,
     "timeYear": 1064,
     "dailyMinutesDown": {
-      "2026-09-16": 60,
+      "2026-09-16": 39,
       "2026-09-17": 291,
       "2026-09-18": 282,
       "2026-09-19": 179,
@@ -471,7 +471,7 @@
       "2026-09-23": 359,
       "2026-09-24": 205,
       "2026-09-25": 345,
-      "2026-09-26": 48
+      "2026-09-26": 49
     }
   },
   {
