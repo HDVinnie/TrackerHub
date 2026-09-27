@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "62.69%",
-    "uptimeWeek": "68.45%",
-    "uptimeMonth": "92.74%",
+    "uptimeDay": "62.72%",
+    "uptimeWeek": "68.26%",
+    "uptimeMonth": "92.70%",
     "uptimeYear": "99.39%",
     "time": 1033,
-    "timeDay": 1021,
+    "timeDay": 1019,
     "timeWeek": 1051,
     "timeMonth": 1047,
     "timeYear": 1044,
@@ -22,7 +22,7 @@
       "2026-09-24": 535,
       "2026-09-25": 570,
       "2026-09-26": 538,
-      "2026-09-27": 41
+      "2026-09-27": 60
     }
   },
   {
@@ -453,12 +453,12 @@
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "83.64%",
-    "uptimeWeek": "78.98%",
+    "uptimeWeek": "79.16%",
     "uptimeMonth": "93.77%",
     "uptimeYear": "99.48%",
     "time": 1061,
     "timeDay": 1063,
-    "timeWeek": 1056,
+    "timeWeek": 1057,
     "timeMonth": 1074,
     "timeYear": 1064,
     "dailyMinutesDown": {
