@@ -4,11 +4,11 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "71.01%",
-    "uptimeWeek": "70.50%",
-    "uptimeMonth": "93.21%",
+    "uptimeDay": "69.98%",
+    "uptimeWeek": "70.35%",
+    "uptimeMonth": "93.18%",
     "uptimeYear": "99.43%",
     "time": 1029,
     "timeDay": 1016,
@@ -21,7 +21,7 @@
       "2026-09-24": 535,
       "2026-09-25": 570,
       "2026-09-26": 538,
-      "2026-09-27": 348
+      "2026-09-27": 363
     }
   },
   {
@@ -36,7 +36,7 @@
     "uptimeMonth": "98.25%",
     "uptimeYear": "96.61%",
     "time": 3967,
-    "timeDay": 9593,
+    "timeDay": 8135,
     "timeWeek": 5246,
     "timeMonth": 4423,
     "timeYear": 3888,
@@ -451,9 +451,9 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "86.51%",
-    "uptimeWeek": "79.65%",
-    "uptimeMonth": "94.02%",
+    "uptimeDay": "85.40%",
+    "uptimeWeek": "79.50%",
+    "uptimeMonth": "93.99%",
     "uptimeYear": "99.50%",
     "time": 1062,
     "timeDay": 1085,
@@ -470,7 +470,7 @@
       "2026-09-24": 205,
       "2026-09-25": 345,
       "2026-09-26": 236,
-      "2026-09-27": 161
+      "2026-09-27": 177
     }
   },
   {
@@ -595,17 +595,17 @@
     "url": "$GGN",
     "icon": "$GGN_ICON",
     "slug": "gazelle-games",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "98.57%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "98.54%",
     "uptimeYear": "97.08%",
     "time": 2460,
-    "timeDay": 1337,
-    "timeWeek": 1201,
-    "timeMonth": 1762,
-    "timeYear": 2739,
+    "timeDay": 1227,
+    "timeWeek": 1163,
+    "timeMonth": 1749,
+    "timeYear": 2737,
     "dailyMinutesDown": {
       "2025-10-10": 699,
       "2025-10-11": 643,
@@ -665,7 +665,7 @@
       "2026-09-10": 25,
       "2026-09-12": 18,
       "2026-09-16": 20,
-      "2026-09-27": 2
+      "2026-09-27": 16
     }
   },
   {
