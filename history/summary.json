@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "65.48%",
-    "uptimeWeek": "68.44%",
-    "uptimeMonth": "92.74%",
+    "uptimeDay": "65.56%",
+    "uptimeWeek": "68.27%",
+    "uptimeMonth": "92.70%",
     "uptimeYear": "99.39%",
     "time": 1033,
-    "timeDay": 1015,
-    "timeWeek": 1050,
+    "timeDay": 1017,
+    "timeWeek": 1049,
     "timeMonth": 1047,
     "timeYear": 1044,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-09-24": 535,
       "2026-09-25": 570,
       "2026-09-26": 538,
-      "2026-09-27": 81
+      "2026-09-27": 98
     }
   },
   {
@@ -409,7 +409,7 @@
     "slug": "broadcas-the-net",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "96.71%",
+    "uptimeDay": "98.08%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.26%",
@@ -450,19 +450,19 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "86.97%",
-    "uptimeWeek": "79.36%",
-    "uptimeMonth": "93.77%",
+    "uptimeDay": "88.12%",
+    "uptimeWeek": "79.34%",
+    "uptimeMonth": "93.81%",
     "uptimeYear": "99.48%",
     "time": 1061,
-    "timeDay": 1061,
+    "timeDay": 1068,
     "timeWeek": 1058,
     "timeMonth": 1074,
     "timeYear": 1064,
     "dailyMinutesDown": {
-      "2026-09-17": 110,
+      "2026-09-17": 88,
       "2026-09-18": 282,
       "2026-09-19": 179,
       "2026-09-20": 313,
@@ -471,7 +471,8 @@
       "2026-09-23": 359,
       "2026-09-24": 205,
       "2026-09-25": 345,
-      "2026-09-26": 236
+      "2026-09-26": 236,
+      "2026-09-27": 2
     }
   },
   {
