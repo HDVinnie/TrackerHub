@@ -4,11 +4,11 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "65.52%",
-    "uptimeWeek": "68.27%",
-    "uptimeMonth": "92.70%",
+    "uptimeDay": "65.48%",
+    "uptimeWeek": "68.44%",
+    "uptimeMonth": "92.74%",
     "uptimeYear": "99.39%",
     "time": 1033,
     "timeDay": 1015,
@@ -16,13 +16,13 @@
     "timeMonth": 1047,
     "timeYear": 1044,
     "dailyMinutesDown": {
-      "2026-09-21": 378,
+      "2026-09-21": 360,
       "2026-09-22": 492,
       "2026-09-23": 609,
       "2026-09-24": 535,
       "2026-09-25": 570,
       "2026-09-26": 538,
-      "2026-09-27": 80
+      "2026-09-27": 81
     }
   },
   {
@@ -409,7 +409,7 @@
     "slug": "broadcas-the-net",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "95.78%",
+    "uptimeDay": "96.71%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.26%",
@@ -457,7 +457,7 @@
     "uptimeMonth": "93.77%",
     "uptimeYear": "99.48%",
     "time": 1061,
-    "timeDay": 1058,
+    "timeDay": 1061,
     "timeWeek": 1058,
     "timeMonth": 1074,
     "timeYear": 1064,
@@ -1207,7 +1207,7 @@
     "uptimeYear": "99.36%",
     "time": 896,
     "timeDay": 898,
-    "timeWeek": 1112,
+    "timeWeek": 1118,
     "timeMonth": 988,
     "timeYear": 912,
     "dailyMinutesDown": {
