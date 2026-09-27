@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "66.28%",
-    "uptimeWeek": "70.37%",
-    "uptimeMonth": "93.18%",
+    "uptimeDay": "68.54%",
+    "uptimeWeek": "70.51%",
+    "uptimeMonth": "93.21%",
     "uptimeYear": "99.43%",
-    "time": 1028,
-    "timeDay": 1008,
-    "timeWeek": 1048,
+    "time": 1029,
+    "timeDay": 1013,
+    "timeWeek": 1049,
     "timeMonth": 1047,
     "timeYear": 1044,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2026-09-24": 535,
       "2026-09-25": 570,
       "2026-09-26": 538,
-      "2026-09-27": 362
+      "2026-09-27": 347
     }
   },
   {
@@ -241,7 +241,7 @@
     "icon": "$ACM_ICON",
     "slug": "asian-cinema",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -451,17 +451,17 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "84.78%",
-    "uptimeWeek": "79.59%",
-    "uptimeMonth": "94.01%",
+    "uptimeDay": "87.07%",
+    "uptimeWeek": "79.73%",
+    "uptimeMonth": "93.98%",
     "uptimeYear": "99.50%",
     "time": 1062,
-    "timeDay": 1083,
+    "timeDay": 1079,
     "timeWeek": 1054,
     "timeMonth": 1074,
     "timeYear": 1064,
     "dailyMinutesDown": {
-      "2026-09-18": 119,
+      "2026-09-18": 148,
       "2026-09-19": 179,
       "2026-09-20": 313,
       "2026-09-21": 425,
@@ -470,7 +470,7 @@
       "2026-09-24": 205,
       "2026-09-25": 345,
       "2026-09-26": 236,
-      "2026-09-27": 167
+      "2026-09-27": 153
     }
   },
   {
@@ -781,7 +781,7 @@
     "uptimeMonth": "97.49%",
     "uptimeYear": "99.49%",
     "time": 890,
-    "timeDay": 1003,
+    "timeDay": 1006,
     "timeWeek": 957,
     "timeMonth": 988,
     "timeYear": 922,
@@ -907,7 +907,7 @@
     "timeDay": 360,
     "timeWeek": 558,
     "timeMonth": 1020,
-    "timeYear": 2040,
+    "timeYear": 2036,
     "dailyMinutesDown": {
       "2026-03-12": 116,
       "2026-03-16": 16,
