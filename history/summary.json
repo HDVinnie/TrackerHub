@@ -6,10 +6,10 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "68.16%",
-    "uptimeWeek": "69.20%",
-    "uptimeMonth": "92.91%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "67.99%",
+    "uptimeWeek": "68.95%",
+    "uptimeMonth": "92.86%",
+    "uptimeYear": "99.40%",
     "time": 1028,
     "timeDay": 1041,
     "timeWeek": 1026,
@@ -22,7 +22,7 @@
       "2026-09-26": 538,
       "2026-09-27": 425,
       "2026-09-28": 552,
-      "2026-09-29": 318
+      "2026-09-29": 343
     }
   },
   {
@@ -32,12 +32,12 @@
     "slug": "alpha-ratio",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "97.30%",
+    "uptimeDay": "98.87%",
     "uptimeWeek": "96.19%",
     "uptimeMonth": "98.15%",
     "uptimeYear": "96.60%",
     "time": 3986,
-    "timeDay": 4476,
+    "timeDay": 5327,
     "timeWeek": 3879,
     "timeMonth": 4449,
     "timeYear": 3888,
@@ -457,9 +457,9 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "88.74%",
-    "uptimeWeek": "81.45%",
-    "uptimeMonth": "93.92%",
+    "uptimeDay": "86.98%",
+    "uptimeWeek": "81.39%",
+    "uptimeMonth": "93.86%",
     "uptimeYear": "99.49%",
     "time": 1061,
     "timeDay": 1062,
@@ -476,7 +476,7 @@
       "2026-09-26": 236,
       "2026-09-27": 192,
       "2026-09-28": 292,
-      "2026-09-29": 121
+      "2026-09-29": 147
     }
   },
   {
@@ -906,19 +906,19 @@
     "url": "$OE",
     "icon": "$OE_ICON",
     "slug": "only-encodes",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.40%",
-    "time": 1906,
-    "timeDay": 575,
-    "timeWeek": 519,
-    "timeMonth": 1013,
-    "timeYear": 2033,
+    "time": 1907,
+    "timeDay": 951,
+    "timeWeek": 600,
+    "timeMonth": 1018,
+    "timeYear": 2032,
     "dailyMinutesDown": {
-      "2026-03-12": 99,
+      "2026-03-12": 78,
       "2026-03-16": 16,
       "2026-03-17": 71,
       "2026-03-18": 83,
@@ -953,7 +953,8 @@
       "2026-08-31": 16,
       "2026-09-03": 38,
       "2026-09-08": 15,
-      "2026-09-28": 21
+      "2026-09-28": 21,
+      "2026-09-29": 2
     }
   },
   {
