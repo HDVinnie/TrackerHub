@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "66.57%",
-    "uptimeWeek": "69.12%",
-    "uptimeMonth": "92.89%",
+    "uptimeDay": "65.64%",
+    "uptimeWeek": "68.99%",
+    "uptimeMonth": "92.86%",
     "uptimeYear": "99.41%",
     "time": 1028,
     "timeDay": 1042,
@@ -22,7 +22,7 @@
       "2026-09-26": 538,
       "2026-09-27": 425,
       "2026-09-28": 552,
-      "2026-09-29": 379
+      "2026-09-29": 393
     }
   },
   {
@@ -457,9 +457,9 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "83.19%",
-    "uptimeWeek": "81.08%",
-    "uptimeMonth": "93.78%",
+    "uptimeDay": "82.26%",
+    "uptimeWeek": "80.94%",
+    "uptimeMonth": "93.75%",
     "uptimeYear": "99.48%",
     "time": 1061,
     "timeDay": 1058,
@@ -476,7 +476,7 @@
       "2026-09-26": 236,
       "2026-09-27": 192,
       "2026-09-28": 292,
-      "2026-09-29": 202
+      "2026-09-29": 215
     }
   },
   {
@@ -906,19 +906,19 @@
     "url": "$OE",
     "icon": "$OE_ICON",
     "slug": "only-encodes",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.40%",
-    "time": 1907,
-    "timeDay": 775,
-    "timeWeek": 584,
-    "timeMonth": 1008,
-    "timeYear": 2030,
+    "time": 1914,
+    "timeDay": 2458,
+    "timeWeek": 1160,
+    "timeMonth": 1122,
+    "timeYear": 2037,
     "dailyMinutesDown": {
-      "2026-03-12": 99,
+      "2026-03-12": 78,
       "2026-03-16": 16,
       "2026-03-17": 71,
       "2026-03-18": 83,
@@ -953,7 +953,8 @@
       "2026-08-31": 16,
       "2026-09-03": 38,
       "2026-09-08": 15,
-      "2026-09-28": 21
+      "2026-09-28": 21,
+      "2026-09-29": 2
     }
   },
   {
