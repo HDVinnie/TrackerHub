@@ -4,16 +4,16 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "69.02%",
-    "uptimeWeek": "68.70%",
-    "uptimeMonth": "92.80%",
+    "uptimeDay": "67.84%",
+    "uptimeWeek": "68.53%",
+    "uptimeMonth": "92.76%",
     "uptimeYear": "99.40%",
     "time": 1031,
-    "timeDay": 1043,
+    "timeDay": 1042,
     "timeWeek": 1024,
-    "timeMonth": 1045,
+    "timeMonth": 1046,
     "timeYear": 1044,
     "dailyMinutesDown": {
       "2026-09-24": 314,
@@ -22,7 +22,7 @@
       "2026-09-27": 425,
       "2026-09-28": 552,
       "2026-09-29": 458,
-      "2026-09-30": 305
+      "2026-09-30": 322
     }
   },
   {
@@ -458,7 +458,7 @@
     "status": "up",
     "uptime": "99.87%",
     "uptimeDay": "74.49%",
-    "uptimeWeek": "80.76%",
+    "uptimeWeek": "80.98%",
     "uptimeMonth": "93.56%",
     "uptimeYear": "99.46%",
     "time": 1062,
@@ -1155,9 +1155,9 @@
     "slug": "redacted",
     "status": "down",
     "uptime": "98.35%",
-    "uptimeDay": "76.40%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "98.83%",
+    "uptimeDay": "74.84%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "98.78%",
     "uptimeYear": "98.43%",
     "time": 1260,
     "timeDay": 581,
@@ -1205,7 +1205,7 @@
       "2026-09-06": 31,
       "2026-09-07": 19,
       "2026-09-24": 20,
-      "2026-09-30": 340
+      "2026-09-30": 362
     }
   },
   {
@@ -1222,7 +1222,7 @@
     "time": 906,
     "timeDay": 920,
     "timeWeek": 1221,
-    "timeMonth": 983,
+    "timeMonth": 984,
     "timeYear": 914,
     "dailyMinutesDown": {
       "2026-07-17": 23,
