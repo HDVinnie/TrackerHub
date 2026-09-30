@@ -12,7 +12,7 @@
     "uptimeYear": "99.39%",
     "time": 1030,
     "timeDay": 1044,
-    "timeWeek": 1025,
+    "timeWeek": 1024,
     "timeMonth": 1045,
     "timeYear": 1044,
     "dailyMinutesDown": {
@@ -455,15 +455,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "76.27%",
-    "uptimeWeek": "81.28%",
-    "uptimeMonth": "93.67%",
+    "uptimeDay": "76.47%",
+    "uptimeWeek": "81.31%",
+    "uptimeMonth": "93.68%",
     "uptimeYear": "99.47%",
     "time": 1062,
-    "timeDay": 1026,
-    "timeWeek": 1051,
+    "timeDay": 1032,
+    "timeWeek": 1052,
     "timeMonth": 1074,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -477,7 +477,7 @@
       "2026-09-27": 192,
       "2026-09-28": 292,
       "2026-09-29": 288,
-      "2026-09-30": 113
+      "2026-09-30": 110
     }
   },
   {
@@ -786,9 +786,9 @@
     "slug": "my-anona-mouse",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "95.19%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "97.33%",
+    "uptimeDay": "95.80%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "97.35%",
     "uptimeYear": "99.49%",
     "time": 893,
     "timeDay": 967,
@@ -796,6 +796,7 @@
     "timeMonth": 986,
     "timeYear": 923,
     "dailyMinutesDown": {
+      "2026-08-02": 23,
       "2026-08-03": 79,
       "2026-08-04": 62,
       "2026-08-05": 109,
@@ -840,7 +841,7 @@
       "2026-09-25": 34,
       "2026-09-26": 16,
       "2026-09-29": 17,
-      "2026-09-30": 53
+      "2026-09-30": 44
     }
   },
   {
@@ -1152,13 +1153,13 @@
     "url": "$RED",
     "icon": "$RED_ICON",
     "slug": "redacted",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "98.43%",
-    "time": 1259,
+    "time": 1260,
     "timeDay": 581,
     "timeWeek": 1155,
     "timeMonth": 1347,
@@ -1203,7 +1204,8 @@
       "2026-09-03": 59,
       "2026-09-06": 31,
       "2026-09-07": 19,
-      "2026-09-24": 20
+      "2026-09-24": 20,
+      "2026-09-30": 2
     }
   },
   {
