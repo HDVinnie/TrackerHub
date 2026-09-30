@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "68.35%",
+    "uptimeDay": "71.05%",
     "uptimeWeek": "68.82%",
     "uptimeMonth": "92.83%",
     "uptimeYear": "99.40%",
     "time": 1029,
-    "timeDay": 1030,
+    "timeDay": 1031,
     "timeWeek": 1024,
     "timeMonth": 1046,
     "timeYear": 1044,
@@ -257,7 +257,6 @@
     "timeMonth": 755,
     "timeYear": 1310,
     "dailyMinutesDown": {
-      "2025-09-30": 28,
       "2025-10-16": 120,
       "2025-11-18": 137,
       "2025-12-05": 250,
@@ -681,10 +680,10 @@
     "slug": "great-poster-wall",
     "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "98.58%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "98.57%",
     "time": 1011,
     "timeDay": 385,
     "timeWeek": 657,
@@ -719,7 +718,8 @@
       "2026-08-26": 19,
       "2026-09-03": 19,
       "2026-09-21": 18,
-      "2026-09-29": 1
+      "2026-09-30": 40,
+      "2026-09-29": 2
     }
   },
   {
@@ -1218,7 +1218,7 @@
     "time": 906,
     "timeDay": 919,
     "timeWeek": 1213,
-    "timeMonth": 981,
+    "timeMonth": 982,
     "timeYear": 914,
     "dailyMinutesDown": {
       "2026-07-17": 72,
