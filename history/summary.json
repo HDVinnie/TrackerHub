@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "74.09%",
-    "uptimeWeek": "69.34%",
-    "uptimeMonth": "92.95%",
+    "uptimeDay": "73.15%",
+    "uptimeWeek": "69.21%",
+    "uptimeMonth": "92.91%",
     "uptimeYear": "99.41%",
     "time": 1028,
-    "timeDay": 1033,
+    "timeDay": 1029,
     "timeWeek": 1027,
     "timeMonth": 1046,
     "timeYear": 1044,
@@ -22,7 +22,7 @@
       "2026-09-28": 552,
       "2026-09-29": 458,
       "2026-09-30": 436,
-      "2026-10-01": 358
+      "2026-10-01": 371
     }
   },
   {
@@ -40,7 +40,7 @@
     "timeDay": 6801,
     "timeWeek": 4468,
     "timeMonth": 4368,
-    "timeYear": 3870,
+    "timeYear": 3873,
     "dailyMinutesDown": {
       "2025-10-05": 1285,
       "2025-10-04": 1440,
@@ -377,7 +377,7 @@
     "timeDay": 398,
     "timeWeek": 548,
     "timeMonth": 581,
-    "timeYear": 728,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2025-10-02": 26,
       "2025-11-18": 115,
@@ -455,15 +455,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "78.75%",
-    "uptimeWeek": "80.86%",
-    "uptimeMonth": "93.86%",
+    "uptimeDay": "78.24%",
+    "uptimeWeek": "80.78%",
+    "uptimeMonth": "93.84%",
     "uptimeYear": "99.49%",
     "time": 1060,
-    "timeDay": 1057,
-    "timeWeek": 1051,
+    "timeDay": 1052,
+    "timeWeek": 1050,
     "timeMonth": 1070,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -476,7 +476,7 @@
       "2026-09-28": 292,
       "2026-09-29": 288,
       "2026-09-30": 269,
-      "2026-10-01": 288
+      "2026-10-01": 295
     }
   },
   {
@@ -1154,8 +1154,8 @@
     "status": "down",
     "uptime": "98.28%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.14%",
-    "uptimeMonth": "94.81%",
+    "uptimeWeek": "79.01%",
+    "uptimeMonth": "94.78%",
     "uptimeYear": "98.11%",
     "time": 1261,
     "timeDay": 0,
@@ -1203,7 +1203,7 @@
       "2026-09-06": 31,
       "2026-09-07": 19,
       "2026-09-24": 20,
-      "2026-10-01": 1230,
+      "2026-10-01": 1244,
       "2026-09-30": 872
     }
   },
@@ -1221,7 +1221,7 @@
     "time": 906,
     "timeDay": 909,
     "timeWeek": 928,
-    "timeMonth": 987,
+    "timeMonth": 988,
     "timeYear": 916,
     "dailyMinutesDown": {
       "2026-07-18": 76,
