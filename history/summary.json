@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.86%",
     "uptimeDay": "74.35%",
-    "uptimeWeek": "69.37%",
-    "uptimeMonth": "92.95%",
+    "uptimeWeek": "69.29%",
+    "uptimeMonth": "92.93%",
     "uptimeYear": "99.41%",
     "time": 1035,
     "timeDay": 1039,
@@ -22,7 +22,7 @@
       "2026-09-28": 552,
       "2026-09-29": 458,
       "2026-09-30": 436,
-      "2026-10-01": 310
+      "2026-10-01": 318
     }
   },
   {
@@ -37,7 +37,7 @@
     "uptimeMonth": "98.09%",
     "uptimeYear": "96.59%",
     "time": 3952,
-    "timeDay": 3916,
+    "timeDay": 4274,
     "timeWeek": 4468,
     "timeMonth": 4368,
     "timeYear": 3865,
@@ -455,14 +455,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "82.42%",
-    "uptimeWeek": "81.38%",
-    "uptimeMonth": "93.70%",
+    "uptimeDay": "82.57%",
+    "uptimeWeek": "81.40%",
+    "uptimeMonth": "93.71%",
     "uptimeYear": "99.48%",
     "time": 1060,
-    "timeDay": 1050,
+    "timeDay": 1054,
     "timeWeek": 1048,
     "timeMonth": 1070,
     "timeYear": 1064,
@@ -477,7 +477,7 @@
       "2026-09-28": 292,
       "2026-09-29": 288,
       "2026-09-30": 269,
-      "2026-10-01": 234
+      "2026-10-01": 232
     }
   },
   {
@@ -916,7 +916,7 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.40%",
     "time": 1816,
-    "timeDay": 818,
+    "timeDay": 916,
     "timeWeek": 1894,
     "timeMonth": 1343,
     "timeYear": 2045,
@@ -1153,10 +1153,10 @@
     "icon": "$RED_ICON",
     "slug": "redacted",
     "status": "down",
-    "uptime": "98.29%",
+    "uptime": "98.28%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.22%",
-    "uptimeMonth": "95.29%",
+    "uptimeWeek": "81.13%",
+    "uptimeMonth": "95.27%",
     "uptimeYear": "98.15%",
     "time": 1261,
     "timeDay": 0,
@@ -1204,7 +1204,7 @@
       "2026-09-06": 31,
       "2026-09-07": 19,
       "2026-09-24": 20,
-      "2026-10-01": 1021,
+      "2026-10-01": 1029,
       "2026-09-30": 872
     }
   },
