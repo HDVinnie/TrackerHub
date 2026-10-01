@@ -4,11 +4,11 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "73.10%",
-    "uptimeWeek": "69.16%",
-    "uptimeMonth": "92.90%",
+    "uptimeDay": "72.72%",
+    "uptimeWeek": "69.34%",
+    "uptimeMonth": "92.95%",
     "uptimeYear": "99.41%",
     "time": 1028,
     "timeDay": 1032,
@@ -16,13 +16,13 @@
     "timeMonth": 1046,
     "timeYear": 1044,
     "dailyMinutesDown": {
-      "2026-09-25": 351,
+      "2026-09-25": 328,
       "2026-09-26": 538,
       "2026-09-27": 425,
       "2026-09-28": 552,
       "2026-09-29": 458,
       "2026-09-30": 436,
-      "2026-10-01": 352
+      "2026-10-01": 357
     }
   },
   {
@@ -462,7 +462,7 @@
     "uptimeMonth": "93.68%",
     "uptimeYear": "99.47%",
     "time": 1060,
-    "timeDay": 1048,
+    "timeDay": 1046,
     "timeWeek": 1050,
     "timeMonth": 1070,
     "timeYear": 1064,
@@ -1155,8 +1155,8 @@
     "status": "down",
     "uptime": "98.28%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.57%",
-    "uptimeMonth": "94.91%",
+    "uptimeWeek": "79.49%",
+    "uptimeMonth": "94.89%",
     "uptimeYear": "98.12%",
     "time": 1261,
     "timeDay": 0,
@@ -1204,7 +1204,7 @@
       "2026-09-06": 31,
       "2026-09-07": 19,
       "2026-09-24": 20,
-      "2026-10-01": 1187,
+      "2026-10-01": 1195,
       "2026-09-30": 872
     }
   },
@@ -1213,19 +1213,19 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.83%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "98.87%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "98.85%",
     "uptimeMonth": "97.96%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.37%",
     "time": 907,
-    "timeDay": 951,
-    "timeWeek": 936,
+    "timeDay": 960,
+    "timeWeek": 938,
     "timeMonth": 989,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2026-07-18": 76,
+      "2026-07-18": 53,
       "2026-07-19": 21,
       "2026-07-20": 102,
       "2026-07-21": 92,
@@ -1274,7 +1274,7 @@
       "2026-09-25": 36,
       "2026-09-27": 27,
       "2026-09-30": 24,
-      "2026-10-01": 27
+      "2026-10-01": 29
     }
   },
   {
