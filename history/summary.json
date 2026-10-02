@@ -4,10 +4,10 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "66.36%",
-    "uptimeWeek": "69.32%",
+    "uptimeDay": "66.20%",
+    "uptimeWeek": "69.30%",
     "uptimeMonth": "92.94%",
     "uptimeYear": "99.41%",
     "time": 1029,
@@ -22,7 +22,7 @@
       "2026-09-28": 552,
       "2026-09-29": 458,
       "2026-09-30": 436,
-      "2026-10-01": 485
+      "2026-10-01": 487
     }
   },
   {
@@ -379,7 +379,6 @@
     "timeMonth": 585,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2025-10-02": 26,
       "2025-11-18": 115,
       "2025-12-14": 24,
       "2025-12-18": 78,
@@ -455,15 +454,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "75.00%",
-    "uptimeWeek": "80.31%",
-    "uptimeMonth": "93.80%",
+    "uptimeDay": "74.87%",
+    "uptimeWeek": "80.34%",
+    "uptimeMonth": "93.79%",
     "uptimeYear": "99.48%",
     "time": 1061,
-    "timeDay": 1087,
-    "timeWeek": 1049,
+    "timeDay": 1079,
+    "timeWeek": 1047,
     "timeMonth": 1070,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -476,7 +475,7 @@
       "2026-09-28": 292,
       "2026-09-29": 288,
       "2026-09-30": 269,
-      "2026-10-01": 361
+      "2026-10-01": 363
     }
   },
   {
@@ -973,7 +972,7 @@
     "time": 972,
     "timeDay": 712,
     "timeWeek": 917,
-    "timeMonth": 1557,
+    "timeMonth": 1559,
     "timeYear": 992,
     "dailyMinutesDown": {
       "2026-07-06": 339,
@@ -1154,13 +1153,13 @@
     "status": "down",
     "uptime": "98.27%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.12%",
-    "uptimeMonth": "94.35%",
+    "uptimeWeek": "77.05%",
+    "uptimeMonth": "94.33%",
     "uptimeYear": "98.07%",
     "time": 1262,
     "timeDay": 0,
     "timeWeek": 1353,
-    "timeMonth": 1374,
+    "timeMonth": 1378,
     "timeYear": 1437,
     "dailyMinutesDown": {
       "2025-10-10": 142,
@@ -1203,7 +1202,8 @@
       "2026-09-06": 31,
       "2026-09-07": 19,
       "2026-09-24": 20,
-      "2026-10-01": 1434,
+      "2026-10-02": 1,
+      "2026-10-01": 1440,
       "2026-09-30": 872
     }
   },
