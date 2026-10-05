@@ -6,24 +6,24 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "65.79%",
-    "uptimeWeek": "63.78%",
-    "uptimeMonth": "90.77%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "66.51%",
+    "uptimeWeek": "63.88%",
+    "uptimeMonth": "90.70%",
+    "uptimeYear": "99.22%",
     "time": 1032,
     "timeDay": 1050,
     "timeWeek": 1047,
     "timeMonth": 1045,
     "timeYear": 1045,
     "dailyMinutesDown": {
-      "2026-09-28": 417,
+      "2026-09-28": 459,
       "2026-09-29": 458,
       "2026-09-30": 436,
       "2026-10-01": 479,
       "2026-10-02": 417,
       "2026-10-03": 856,
       "2026-10-04": 515,
-      "2026-10-05": 468
+      "2026-10-05": 458
     }
   },
   {
@@ -967,17 +967,17 @@
     "slug": "orpheus",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "95.58%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "98.99%",
+    "uptimeDay": "96.32%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "98.96%",
     "time": 964,
     "timeDay": 1242,
     "timeWeek": 990,
     "timeMonth": 1449,
     "timeYear": 994,
     "dailyMinutesDown": {
-      "2026-07-06": 95,
+      "2026-07-06": 278,
       "2026-07-07": 68,
       "2026-07-08": 56,
       "2026-07-09": 72,
@@ -1032,7 +1032,7 @@
       "2026-09-20": 32,
       "2026-09-25": 20,
       "2026-09-28": 21,
-      "2026-10-05": 64
+      "2026-10-05": 53
     }
   },
   {
@@ -1156,7 +1156,7 @@
     "slug": "redacted",
     "status": "up",
     "uptime": "98.07%",
-    "uptimeDay": "79.55%",
+    "uptimeDay": "80.04%",
     "uptimeWeek": "32.58%",
     "uptimeMonth": "84.33%",
     "uptimeYear": "97.22%",
@@ -1219,16 +1219,16 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "97.88%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.54%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.53%",
     "uptimeYear": "99.37%",
     "time": 912,
-    "timeDay": 833,
-    "timeWeek": 1199,
-    "timeMonth": 1033,
+    "timeDay": 838,
+    "timeWeek": 1189,
+    "timeMonth": 1032,
     "timeYear": 924,
     "dailyMinutesDown": {
       "2026-07-19": 21,
@@ -1281,7 +1281,7 @@
       "2026-09-30": 24,
       "2026-10-01": 27,
       "2026-10-03": 23,
-      "2026-10-05": 30
+      "2026-10-05": 35
     }
   },
   {
