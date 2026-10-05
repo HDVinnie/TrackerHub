@@ -138,7 +138,7 @@
     "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.85%",
     "time": 1992,
     "timeDay": 216,
@@ -169,17 +169,17 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "down",
+    "status": "degraded",
     "uptime": "99.46%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "99.26%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "97.95%",
-    "time": 959,
-    "timeDay": 522,
-    "timeWeek": 2891,
-    "timeMonth": 1317,
-    "timeYear": 895,
+    "time": 995,
+    "timeDay": 13418,
+    "timeWeek": 4453,
+    "timeMonth": 1589,
+    "timeYear": 941,
     "dailyMinutesDown": {
       "2025-10-13": 211,
       "2025-10-27": 21,
@@ -238,7 +238,7 @@
       "2026-09-21": 15,
       "2026-09-25": 20,
       "2026-09-29": 105,
-      "2026-10-05": 6
+      "2026-10-05": 26
     }
   },
   {
@@ -464,7 +464,7 @@
     "time": 1060,
     "timeDay": 1019,
     "timeWeek": 1053,
-    "timeMonth": 1067,
+    "timeMonth": 1066,
     "timeYear": 1064,
     "dailyMinutesDown": {
       "2026-09-24": 22,
@@ -849,11 +849,11 @@
     "icon": "$NBL_ICON",
     "slug": "nebulance",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.63%",
+    "uptime": "99.71%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.62%",
     "time": 1218,
     "timeDay": 342,
     "timeWeek": 4051,
@@ -902,7 +902,7 @@
       "2026-09-12": 69,
       "2026-09-13": 16,
       "2026-09-29": 67,
-      "2026-10-05": 2
+      "2026-10-05": 21
     }
   },
   {
@@ -1157,7 +1157,7 @@
     "slug": "redacted",
     "status": "up",
     "uptime": "98.07%",
-    "uptimeDay": "14.00%",
+    "uptimeDay": "15.36%",
     "uptimeWeek": "32.58%",
     "uptimeMonth": "84.33%",
     "uptimeYear": "97.22%",
