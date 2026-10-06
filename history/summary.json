@@ -6,13 +6,13 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.82%",
-    "uptimeDay": "57.88%",
-    "uptimeWeek": "62.36%",
-    "uptimeMonth": "90.80%",
+    "uptimeDay": "56.62%",
+    "uptimeWeek": "62.18%",
+    "uptimeMonth": "90.76%",
     "uptimeYear": "99.23%",
     "time": 1037,
     "timeDay": 1160,
-    "timeWeek": 1069,
+    "timeWeek": 1067,
     "timeMonth": 1049,
     "timeYear": 1046,
     "dailyMinutesDown": {
@@ -23,7 +23,7 @@
       "2026-10-03": 856,
       "2026-10-04": 515,
       "2026-10-05": 475,
-      "2026-10-06": 513
+      "2026-10-06": 531
     }
   },
   {
@@ -457,13 +457,13 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "70.61%",
-    "uptimeWeek": "73.93%",
-    "uptimeMonth": "92.42%",
-    "uptimeYear": "99.37%",
+    "uptimeDay": "69.36%",
+    "uptimeWeek": "73.75%",
+    "uptimeMonth": "92.38%",
+    "uptimeYear": "99.36%",
     "time": 1064,
     "timeDay": 1076,
-    "timeWeek": 1056,
+    "timeWeek": 1055,
     "timeMonth": 1065,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -477,7 +477,7 @@
       "2026-10-03": 594,
       "2026-10-04": 333,
       "2026-10-05": 298,
-      "2026-10-06": 363
+      "2026-10-06": 381
     }
   },
   {
@@ -784,19 +784,18 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "93.76%",
-    "uptimeWeek": "95.46%",
-    "uptimeMonth": "97.19%",
+    "uptimeDay": "93.66%",
+    "uptimeWeek": "95.45%",
+    "uptimeMonth": "97.18%",
     "uptimeYear": "99.53%",
     "time": 910,
     "timeDay": 997,
-    "timeWeek": 976,
-    "timeMonth": 980,
+    "timeWeek": 975,
+    "timeMonth": 981,
     "timeYear": 928,
     "dailyMinutesDown": {
-      "2026-08-10": 18,
       "2026-08-11": 18,
       "2026-08-12": 170,
       "2026-08-13": 48,
@@ -839,7 +838,7 @@
       "2026-10-02": 64,
       "2026-10-03": 92,
       "2026-10-04": 118,
-      "2026-10-06": 90
+      "2026-10-06": 92
     }
   },
   {
