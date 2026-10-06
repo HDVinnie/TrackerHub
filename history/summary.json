@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.82%",
-    "uptimeDay": "56.83%",
-    "uptimeWeek": "61.88%",
-    "uptimeMonth": "90.67%",
+    "uptimeDay": "55.32%",
+    "uptimeWeek": "61.67%",
+    "uptimeMonth": "90.62%",
     "uptimeYear": "99.22%",
     "time": 1038,
-    "timeDay": 1154,
+    "timeDay": 1160,
     "timeWeek": 1069,
     "timeMonth": 1049,
     "timeYear": 1046,
@@ -23,7 +23,7 @@
       "2026-10-03": 856,
       "2026-10-04": 515,
       "2026-10-05": 475,
-      "2026-10-06": 605
+      "2026-10-06": 626
     }
   },
   {
@@ -31,17 +31,17 @@
     "url": "$AR",
     "icon": "$AR_ICON",
     "slug": "alpha-ratio",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.30%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "98.29%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "97.70%",
-    "time": 3939,
-    "timeDay": 431,
-    "timeWeek": 5093,
-    "timeMonth": 4733,
-    "timeYear": 3970,
+    "time": 3943,
+    "timeDay": 2081,
+    "timeWeek": 5042,
+    "timeMonth": 4726,
+    "timeYear": 3969,
     "dailyMinutesDown": {
       "2025-10-19": 283,
       "2025-10-18": 1440,
@@ -125,7 +125,8 @@
       "2026-09-29": 15,
       "2026-09-30": 29,
       "2026-10-01": 23,
-      "2026-10-03": 119
+      "2026-10-03": 119,
+      "2026-10-06": 1
     }
   },
   {
@@ -458,12 +459,12 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "69.13%",
-    "uptimeWeek": "74.17%",
-    "uptimeMonth": "92.35%",
+    "uptimeDay": "67.63%",
+    "uptimeWeek": "73.95%",
+    "uptimeMonth": "92.30%",
     "uptimeYear": "99.36%",
     "time": 1062,
-    "timeDay": 1074,
+    "timeDay": 1082,
     "timeWeek": 1059,
     "timeMonth": 1064,
     "timeYear": 1064,
@@ -478,7 +479,7 @@
       "2026-10-03": 594,
       "2026-10-04": 333,
       "2026-10-05": 298,
-      "2026-10-06": 429
+      "2026-10-06": 450
     }
   },
   {
@@ -969,12 +970,12 @@
     "slug": "orpheus",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.44%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.47%",
     "uptimeMonth": "99.34%",
     "uptimeYear": "98.96%",
     "time": 967,
-    "timeDay": 952,
+    "timeDay": 980,
     "timeWeek": 975,
     "timeMonth": 1435,
     "timeYear": 984,
