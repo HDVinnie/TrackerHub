@@ -6,14 +6,14 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.82%",
-    "uptimeDay": "67.12%",
-    "uptimeWeek": "63.96%",
-    "uptimeMonth": "90.81%",
+    "uptimeDay": "64.42%",
+    "uptimeWeek": "63.95%",
+    "uptimeMonth": "90.72%",
     "uptimeYear": "99.23%",
     "time": 1033,
     "timeDay": 1055,
     "timeWeek": 1048,
-    "timeMonth": 1046,
+    "timeMonth": 1045,
     "timeYear": 1045,
     "dailyMinutesDown": {
       "2026-09-28": 392,
@@ -23,7 +23,8 @@
       "2026-10-02": 417,
       "2026-10-03": 856,
       "2026-10-04": 515,
-      "2026-10-05": 475
+      "2026-10-05": 475,
+      "2026-10-06": 38
     }
   },
   {
@@ -1156,7 +1157,7 @@
     "slug": "redacted",
     "status": "up",
     "uptime": "98.07%",
-    "uptimeDay": "88.76%",
+    "uptimeDay": "91.47%",
     "uptimeWeek": "32.58%",
     "uptimeMonth": "84.33%",
     "uptimeYear": "97.22%",
