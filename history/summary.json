@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "53.29%",
-    "uptimeWeek": "61.63%",
-    "uptimeMonth": "90.60%",
-    "uptimeYear": "99.22%",
+    "uptimeDay": "52.72%",
+    "uptimeWeek": "61.60%",
+    "uptimeMonth": "90.58%",
+    "uptimeYear": "99.21%",
     "time": 1031,
-    "timeDay": 1160,
+    "timeDay": 1154,
     "timeWeek": 1071,
     "timeMonth": 1049,
     "timeYear": 1046,
@@ -23,7 +23,7 @@
       "2026-10-03": 856,
       "2026-10-04": 515,
       "2026-10-05": 475,
-      "2026-10-06": 656
+      "2026-10-06": 664
     }
   },
   {
@@ -463,9 +463,9 @@
     "uptimeMonth": "92.28%",
     "uptimeYear": "99.36%",
     "time": 1060,
-    "timeDay": 1070,
+    "timeDay": 1068,
     "timeWeek": 1058,
-    "timeMonth": 1062,
+    "timeMonth": 1063,
     "timeYear": 1064,
     "dailyMinutesDown": {
       "2026-09-27": 192,
@@ -731,10 +731,10 @@
     "slug": "hawke-uno",
     "status": "degraded",
     "uptime": "99.58%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "98.94%",
     "time": 1286,
     "timeDay": 25989,
     "timeWeek": 5664,
@@ -776,7 +776,7 @@
       "2026-07-27": 59,
       "2026-08-26": 19,
       "2026-09-03": 20,
-      "2026-10-06": 2
+      "2026-10-06": 11
     }
   },
   {
