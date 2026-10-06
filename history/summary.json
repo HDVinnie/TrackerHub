@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "55.32%",
-    "uptimeWeek": "61.67%",
-    "uptimeMonth": "90.62%",
+    "uptimeDay": "54.82%",
+    "uptimeWeek": "61.60%",
+    "uptimeMonth": "90.60%",
     "uptimeYear": "99.22%",
     "time": 1038,
-    "timeDay": 1160,
+    "timeDay": 1156,
     "timeWeek": 1069,
     "timeMonth": 1049,
     "timeYear": 1046,
@@ -23,7 +23,7 @@
       "2026-10-03": 856,
       "2026-10-04": 515,
       "2026-10-05": 475,
-      "2026-10-06": 626
+      "2026-10-06": 634
     }
   },
   {
@@ -31,17 +31,17 @@
     "url": "$AR",
     "icon": "$AR_ICON",
     "slug": "alpha-ratio",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "98.12%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "98.10%",
     "uptimeYear": "97.70%",
     "time": 3943,
-    "timeDay": 2081,
-    "timeWeek": 5042,
-    "timeMonth": 4726,
-    "timeYear": 3969,
+    "timeDay": 1629,
+    "timeWeek": 4888,
+    "timeMonth": 4695,
+    "timeYear": 3965,
     "dailyMinutesDown": {
       "2025-10-19": 283,
       "2025-10-18": 1440,
@@ -126,7 +126,7 @@
       "2026-09-30": 29,
       "2026-10-01": 23,
       "2026-10-03": 119,
-      "2026-10-06": 1
+      "2026-10-06": 8
     }
   },
   {
@@ -457,14 +457,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "67.63%",
-    "uptimeWeek": "73.95%",
-    "uptimeMonth": "92.30%",
+    "uptimeDay": "67.15%",
+    "uptimeWeek": "73.89%",
+    "uptimeMonth": "92.29%",
     "uptimeYear": "99.36%",
     "time": 1062,
-    "timeDay": 1082,
+    "timeDay": 1078,
     "timeWeek": 1059,
     "timeMonth": 1064,
     "timeYear": 1064,
@@ -479,7 +479,7 @@
       "2026-10-03": 594,
       "2026-10-04": 333,
       "2026-10-05": 298,
-      "2026-10-06": 450
+      "2026-10-06": 457
     }
   },
   {
