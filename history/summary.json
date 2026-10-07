@@ -5,14 +5,14 @@
     "icon": "$AIH_ICON",
     "slug": "aither",
     "status": "degraded",
-    "uptime": "99.82%",
-    "uptimeDay": "52.69%",
-    "uptimeWeek": "61.32%",
-    "uptimeMonth": "90.64%",
-    "uptimeYear": "99.22%",
+    "uptime": "99.81%",
+    "uptimeDay": "51.14%",
+    "uptimeWeek": "61.14%",
+    "uptimeMonth": "90.48%",
+    "uptimeYear": "99.21%",
     "time": 1031,
-    "timeDay": 1161,
-    "timeWeek": 1073,
+    "timeDay": 1166,
+    "timeWeek": 1072,
     "timeMonth": 1049,
     "timeYear": 1046,
     "dailyMinutesDown": {
@@ -24,7 +24,7 @@
       "2026-10-04": 515,
       "2026-10-05": 475,
       "2026-10-06": 706,
-      "2026-10-07": 15
+      "2026-10-07": 83
     }
   },
   {
@@ -457,15 +457,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "63.50%",
-    "uptimeWeek": "73.61%",
-    "uptimeMonth": "92.27%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "60.84%",
+    "uptimeWeek": "72.94%",
+    "uptimeMonth": "92.12%",
+    "uptimeYear": "99.34%",
     "time": 1060,
     "timeDay": 1042,
-    "timeWeek": 1055,
+    "timeWeek": 1054,
     "timeMonth": 1062,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -479,7 +479,7 @@
       "2026-10-04": 333,
       "2026-10-05": 298,
       "2026-10-06": 510,
-      "2026-10-07": 15
+      "2026-10-07": 83
     }
   },
   {
@@ -685,12 +685,12 @@
     "status": "up",
     "uptime": "98.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "98.57%",
     "time": 1016,
     "timeDay": 903,
-    "timeWeek": 879,
+    "timeWeek": 891,
     "timeMonth": 1094,
     "timeYear": 1042,
     "dailyMinutesDown": {
@@ -1226,12 +1226,12 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "83.89%",
-    "uptimeWeek": "96.68%",
+    "uptimeWeek": "96.79%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.36%",
     "time": 911,
     "timeDay": 1098,
-    "timeWeek": 1188,
+    "timeWeek": 1190,
     "timeMonth": 1044,
     "timeYear": 929,
     "dailyMinutesDown": {
