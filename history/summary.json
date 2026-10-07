@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.81%",
-    "uptimeDay": "43.31%",
-    "uptimeWeek": "58.97%",
-    "uptimeMonth": "90.20%",
+    "uptimeDay": "42.24%",
+    "uptimeWeek": "58.82%",
+    "uptimeMonth": "90.16%",
     "uptimeYear": "99.18%",
     "time": 1034,
-    "timeDay": 1098,
+    "timeDay": 1092,
     "timeWeek": 1077,
     "timeMonth": 1049,
     "timeYear": 1047,
@@ -23,7 +23,7 @@
       "2026-10-04": 515,
       "2026-10-05": 475,
       "2026-10-06": 706,
-      "2026-10-07": 652
+      "2026-10-07": 667
     }
   },
   {
@@ -253,7 +253,7 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.60%",
     "time": 1423,
-    "timeDay": 1909,
+    "timeDay": 648,
     "timeWeek": 1042,
     "timeMonth": 818,
     "timeYear": 1276,
@@ -456,17 +456,17 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "67.60%",
-    "uptimeWeek": "72.79%",
-    "uptimeMonth": "92.10%",
+    "uptimeDay": "66.64%",
+    "uptimeWeek": "72.65%",
+    "uptimeMonth": "92.07%",
     "uptimeYear": "99.34%",
     "time": 1062,
-    "timeDay": 1086,
+    "timeDay": 1084,
     "timeWeek": 1061,
     "timeMonth": 1064,
-    "timeYear": 1065,
+    "timeYear": 1064,
     "dailyMinutesDown": {
       "2026-09-28": 180,
       "2026-09-29": 288,
@@ -477,7 +477,7 @@
       "2026-10-04": 333,
       "2026-10-05": 298,
       "2026-10-06": 510,
-      "2026-10-07": 348
+      "2026-10-07": 362
     }
   },
   {
@@ -784,15 +784,15 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "96.07%",
-    "uptimeWeek": "95.34%",
-    "uptimeMonth": "97.30%",
+    "uptimeDay": "95.12%",
+    "uptimeWeek": "95.20%",
+    "uptimeMonth": "97.27%",
     "uptimeYear": "99.53%",
     "time": 899,
-    "timeDay": 1026,
-    "timeWeek": 992,
+    "timeDay": 1024,
+    "timeWeek": 991,
     "timeMonth": 982,
     "timeYear": 930,
     "dailyMinutesDown": {
@@ -838,7 +838,7 @@
       "2026-10-03": 92,
       "2026-10-04": 118,
       "2026-10-06": 90,
-      "2026-10-07": 56
+      "2026-10-07": 70
     }
   },
   {
@@ -1157,7 +1157,7 @@
     "status": "up",
     "uptime": "98.07%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "36.14%",
+    "uptimeWeek": "36.29%",
     "uptimeMonth": "83.99%",
     "uptimeYear": "97.18%",
     "time": 1313,
