@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.81%",
     "uptimeDay": "47.01%",
-    "uptimeWeek": "60.59%",
-    "uptimeMonth": "90.31%",
+    "uptimeWeek": "60.46%",
+    "uptimeMonth": "90.28%",
     "uptimeYear": "99.19%",
     "time": 1032,
     "timeDay": 1162,
@@ -24,7 +24,7 @@
       "2026-10-04": 515,
       "2026-10-05": 475,
       "2026-10-06": 706,
-      "2026-10-07": 221
+      "2026-10-07": 234
     }
   },
   {
@@ -457,15 +457,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "59.45%",
-    "uptimeWeek": "73.49%",
-    "uptimeMonth": "92.17%",
+    "uptimeDay": "58.63%",
+    "uptimeWeek": "73.37%",
+    "uptimeMonth": "92.14%",
     "uptimeYear": "99.35%",
     "time": 1060,
-    "timeDay": 1036,
-    "timeWeek": 1055,
+    "timeDay": 1039,
+    "timeWeek": 1054,
     "timeMonth": 1062,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -479,7 +479,7 @@
       "2026-10-04": 333,
       "2026-10-05": 298,
       "2026-10-06": 510,
-      "2026-10-07": 104
+      "2026-10-07": 115
     }
   },
   {
@@ -786,14 +786,14 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "93.63%",
-    "uptimeWeek": "95.88%",
-    "uptimeMonth": "97.27%",
+    "uptimeDay": "92.85%",
+    "uptimeWeek": "95.77%",
+    "uptimeMonth": "97.25%",
     "uptimeYear": "99.53%",
-    "time": 896,
-    "timeDay": 1031,
+    "time": 897,
+    "timeDay": 1029,
     "timeWeek": 991,
     "timeMonth": 981,
     "timeYear": 929,
@@ -841,7 +841,7 @@
       "2026-10-03": 92,
       "2026-10-04": 118,
       "2026-10-06": 90,
-      "2026-10-07": 2
+      "2026-10-07": 13
     }
   },
   {
@@ -975,7 +975,7 @@
     "uptimeMonth": "99.34%",
     "uptimeYear": "98.96%",
     "time": 966,
-    "timeDay": 875,
+    "timeDay": 909,
     "timeWeek": 974,
     "timeMonth": 1216,
     "timeYear": 984,
