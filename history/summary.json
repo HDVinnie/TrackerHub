@@ -6,10 +6,10 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.81%",
-    "uptimeDay": "44.86%",
-    "uptimeWeek": "59.19%",
-    "uptimeMonth": "90.25%",
-    "uptimeYear": "99.19%",
+    "uptimeDay": "43.31%",
+    "uptimeWeek": "58.97%",
+    "uptimeMonth": "90.20%",
+    "uptimeYear": "99.18%",
     "time": 1034,
     "timeDay": 1098,
     "timeWeek": 1077,
@@ -23,7 +23,7 @@
       "2026-10-04": 515,
       "2026-10-05": 475,
       "2026-10-06": 706,
-      "2026-10-07": 630
+      "2026-10-07": 652
     }
   },
   {
@@ -458,10 +458,10 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "69.14%",
-    "uptimeWeek": "73.01%",
-    "uptimeMonth": "92.15%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "67.60%",
+    "uptimeWeek": "72.79%",
+    "uptimeMonth": "92.10%",
+    "uptimeYear": "99.34%",
     "time": 1062,
     "timeDay": 1086,
     "timeWeek": 1061,
@@ -477,7 +477,7 @@
       "2026-10-04": 333,
       "2026-10-05": 298,
       "2026-10-06": 510,
-      "2026-10-07": 326
+      "2026-10-07": 348
     }
   },
   {
@@ -784,19 +784,19 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "95.36%",
-    "uptimeMonth": "97.31%",
+    "uptimeDay": "96.07%",
+    "uptimeWeek": "95.34%",
+    "uptimeMonth": "97.30%",
     "uptimeYear": "99.53%",
     "time": 899,
-    "timeDay": 1024,
-    "timeWeek": 991,
+    "timeDay": 1026,
+    "timeWeek": 992,
     "timeMonth": 982,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2026-08-12": 170,
+      "2026-08-12": 144,
       "2026-08-13": 48,
       "2026-08-14": 24,
       "2026-08-15": 63,
@@ -838,7 +838,7 @@
       "2026-10-03": 92,
       "2026-10-04": 118,
       "2026-10-06": 90,
-      "2026-10-07": 54
+      "2026-10-07": 56
     }
   },
   {
@@ -1157,7 +1157,7 @@
     "status": "up",
     "uptime": "98.07%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "35.92%",
+    "uptimeWeek": "36.14%",
     "uptimeMonth": "83.99%",
     "uptimeYear": "97.18%",
     "time": 1313,
