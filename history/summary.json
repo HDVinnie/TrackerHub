@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "53.95%",
+    "uptimeDay": "53.19%",
     "uptimeWeek": "55.86%",
-    "uptimeMonth": "89.48%",
+    "uptimeMonth": "89.45%",
     "uptimeYear": "99.12%",
     "time": 1039,
-    "timeDay": 1047,
-    "timeWeek": 1080,
+    "timeDay": 1045,
+    "timeWeek": 1079,
     "timeMonth": 1049,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -23,7 +23,7 @@
       "2026-10-05": 475,
       "2026-10-06": 706,
       "2026-10-07": 745,
-      "2026-10-08": 656
+      "2026-10-08": 669
     }
   },
   {
@@ -254,7 +254,7 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.60%",
     "time": 1394,
-    "timeDay": 1299,
+    "timeDay": 1102,
     "timeWeek": 1141,
     "timeMonth": 871,
     "timeYear": 1277,
@@ -457,15 +457,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "73.72%",
-    "uptimeWeek": "71.67%",
-    "uptimeMonth": "92.03%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "72.99%",
+    "uptimeWeek": "71.68%",
+    "uptimeMonth": "92.00%",
+    "uptimeYear": "99.33%",
     "time": 1065,
     "timeDay": 1126,
-    "timeWeek": 1079,
+    "timeWeek": 1077,
     "timeMonth": 1068,
     "timeYear": 1065,
     "dailyMinutesDown": {
@@ -478,7 +478,7 @@
       "2026-10-05": 298,
       "2026-10-06": 510,
       "2026-10-07": 407,
-      "2026-10-08": 371
+      "2026-10-08": 383
     }
   },
   {
@@ -794,7 +794,7 @@
     "uptimeYear": "99.53%",
     "time": 903,
     "timeDay": 1029,
-    "timeWeek": 1000,
+    "timeWeek": 999,
     "timeMonth": 982,
     "timeYear": 931,
     "dailyMinutesDown": {
@@ -1161,7 +1161,7 @@
     "status": "up",
     "uptime": "98.15%",
     "uptimeDay": "97.23%",
-    "uptimeWeek": "51.59%",
+    "uptimeWeek": "51.72%",
     "uptimeMonth": "83.90%",
     "uptimeYear": "97.17%",
     "time": 1323,
