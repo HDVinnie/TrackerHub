@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "52.27%",
-    "uptimeWeek": "53.71%",
+    "uptimeWeek": "53.78%",
     "uptimeMonth": "88.79%",
     "uptimeYear": "99.07%",
     "time": 1033,
@@ -40,7 +40,7 @@
     "time": 3988,
     "timeDay": 395,
     "timeWeek": 6360,
-    "timeMonth": 4681,
+    "timeMonth": 4742,
     "timeYear": 3999,
     "dailyMinutesDown": {
       "2025-10-19": 283,
@@ -458,15 +458,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "60.57%",
-    "uptimeWeek": "69.32%",
-    "uptimeMonth": "91.62%",
+    "uptimeDay": "59.88%",
+    "uptimeWeek": "69.22%",
+    "uptimeMonth": "91.60%",
     "uptimeYear": "99.30%",
     "time": 1062,
-    "timeDay": 1066,
-    "timeWeek": 1083,
+    "timeDay": 1061,
+    "timeWeek": 1080,
     "timeMonth": 1069,
     "timeYear": 1067,
     "dailyMinutesDown": {
@@ -478,7 +478,7 @@
       "2026-10-06": 510,
       "2026-10-07": 407,
       "2026-10-08": 433,
-      "2026-10-09": 453
+      "2026-10-09": 463
     }
   },
   {
@@ -968,16 +968,16 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "97.10%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.00%",
-    "time": 974,
-    "timeDay": 827,
-    "timeWeek": 1132,
-    "timeMonth": 992,
+    "time": 975,
+    "timeDay": 828,
+    "timeWeek": 1123,
+    "timeMonth": 995,
     "timeYear": 990,
     "dailyMinutesDown": {
       "2026-07-07": 68,
@@ -1036,7 +1036,7 @@
       "2026-09-25": 20,
       "2026-09-28": 21,
       "2026-10-05": 53,
-      "2026-10-09": 32
+      "2026-10-09": 41
     }
   },
   {
@@ -1161,7 +1161,7 @@
     "status": "up",
     "uptime": "98.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "63.51%",
+    "uptimeWeek": "63.62%",
     "uptimeMonth": "83.90%",
     "uptimeYear": "97.17%",
     "time": 1323,
@@ -1234,7 +1234,7 @@
     "time": 910,
     "timeDay": 968,
     "timeWeek": 1203,
-    "timeMonth": 1047,
+    "timeMonth": 1048,
     "timeYear": 930,
     "dailyMinutesDown": {
       "2026-07-25": 77,
