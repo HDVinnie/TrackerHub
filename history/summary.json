@@ -8,7 +8,7 @@
     "uptime": "99.78%",
     "uptimeDay": "57.60%",
     "uptimeWeek": "53.60%",
-    "uptimeMonth": "88.85%",
+    "uptimeMonth": "88.84%",
     "uptimeYear": "99.07%",
     "time": 1037,
     "timeDay": 1066,
@@ -23,7 +23,7 @@
       "2026-10-07": 745,
       "2026-10-08": 692,
       "2026-10-09": 758,
-      "2026-10-10": 426
+      "2026-10-10": 429
     }
   },
   {
@@ -460,19 +460,19 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.83%",
-    "uptimeDay": "68.44%",
-    "uptimeWeek": "68.80%",
-    "uptimeMonth": "91.26%",
-    "uptimeYear": "99.27%",
+    "uptimeDay": "68.36%",
+    "uptimeWeek": "68.82%",
+    "uptimeMonth": "91.30%",
+    "uptimeYear": "99.28%",
     "time": 1065,
-    "timeDay": 1048,
+    "timeDay": 1047,
     "timeWeek": 1079,
     "timeMonth": 1068,
     "timeYear": 1067,
     "dailyMinutesDown": {
-      "2026-10-01": 95,
+      "2026-10-01": 73,
       "2026-10-02": 289,
       "2026-10-03": 594,
       "2026-10-04": 333,
@@ -481,7 +481,7 @@
       "2026-10-07": 407,
       "2026-10-08": 433,
       "2026-10-09": 612,
-      "2026-10-10": 260
+      "2026-10-10": 261
     }
   },
   {
@@ -489,17 +489,17 @@
     "url": "$EMP",
     "icon": "$EMP_ICON",
     "slug": "empornium",
-    "status": "down",
+    "status": "up",
     "uptime": "97.34%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "89.06%",
-    "time": 881,
-    "timeDay": 194,
-    "timeWeek": 378,
-    "timeMonth": 375,
-    "timeYear": 703,
+    "time": 879,
+    "timeDay": 316,
+    "timeWeek": 385,
+    "timeMonth": 377,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2026-01-01": 97,
       "2025-12-31": 1440,
@@ -571,7 +571,7 @@
       "2026-07-30": 31,
       "2026-08-10": 20,
       "2026-08-29": 15,
-      "2026-10-10": 1
+      "2026-10-10": 3
     }
   },
   {
@@ -1168,7 +1168,7 @@
     "status": "up",
     "uptime": "98.15%",
     "uptimeDay": "98.06%",
-    "uptimeWeek": "76.60%",
+    "uptimeWeek": "76.63%",
     "uptimeMonth": "83.84%",
     "uptimeYear": "97.17%",
     "time": 1327,
