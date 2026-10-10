@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "57.65%",
-    "uptimeWeek": "53.63%",
-    "uptimeMonth": "88.50%",
+    "uptimeDay": "56.90%",
+    "uptimeWeek": "53.52%",
+    "uptimeMonth": "88.47%",
     "uptimeYear": "99.04%",
     "time": 1035,
-    "timeDay": 1064,
+    "timeDay": 1061,
     "timeWeek": 1076,
     "timeMonth": 1048,
     "timeYear": 1047,
@@ -24,7 +24,7 @@
       "2026-10-07": 745,
       "2026-10-08": 692,
       "2026-10-09": 758,
-      "2026-10-10": 233
+      "2026-10-10": 243
     }
   },
   {
@@ -789,16 +789,16 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "96.51%",
-    "uptimeWeek": "94.07%",
-    "uptimeMonth": "97.10%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "93.97%",
+    "uptimeMonth": "97.08%",
     "uptimeYear": "99.53%",
     "time": 909,
-    "timeDay": 997,
-    "timeWeek": 1008,
-    "timeMonth": 985,
+    "timeDay": 985,
+    "timeWeek": 1006,
+    "timeMonth": 984,
     "timeYear": 933,
     "dailyMinutesDown": {
       "2026-08-17": 18,
@@ -842,7 +842,7 @@
       "2026-10-07": 86,
       "2026-10-08": 128,
       "2026-10-09": 79,
-      "2026-10-10": 29
+      "2026-10-10": 38
     }
   },
   {
@@ -1166,7 +1166,7 @@
     "status": "up",
     "uptime": "98.15%",
     "uptimeDay": "98.06%",
-    "uptimeWeek": "72.90%",
+    "uptimeWeek": "73.01%",
     "uptimeMonth": "83.84%",
     "uptimeYear": "97.17%",
     "time": 1327,
