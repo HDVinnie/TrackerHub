@@ -4,26 +4,26 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "54.85%",
-    "uptimeWeek": "53.23%",
-    "uptimeMonth": "88.39%",
-    "uptimeYear": "99.03%",
+    "status": "degraded",
+    "uptime": "99.78%",
+    "uptimeDay": "55.27%",
+    "uptimeWeek": "53.22%",
+    "uptimeMonth": "88.83%",
+    "uptimeYear": "99.07%",
     "time": 1036,
-    "timeDay": 1069,
+    "timeDay": 1068,
     "timeWeek": 1078,
     "timeMonth": 1048,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2026-10-03": 815,
+      "2026-10-03": 619,
       "2026-10-04": 515,
       "2026-10-05": 475,
       "2026-10-06": 706,
       "2026-10-07": 745,
       "2026-10-08": 692,
       "2026-10-09": 758,
-      "2026-10-10": 382
+      "2026-10-10": 383
     }
   },
   {
@@ -308,9 +308,9 @@
     "slug": "beyond-hd",
     "status": "up",
     "uptime": "96.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 1027,
     "timeDay": 1987,
@@ -342,8 +342,7 @@
       "2026-07-17": 41,
       "2026-07-22": 41,
       "2026-08-18": 20,
-      "2026-08-26": 20,
-      "2026-10-10": 7
+      "2026-08-26": 20
     }
   },
   {
@@ -463,7 +462,7 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "65.00%",
+    "uptimeDay": "65.45%",
     "uptimeWeek": "67.99%",
     "uptimeMonth": "91.26%",
     "uptimeYear": "99.27%",
@@ -853,9 +852,9 @@
     "slug": "nebulance",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "93.42%",
-    "uptimeMonth": "98.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.48%",
+    "uptimeMonth": "98.15%",
     "uptimeYear": "99.50%",
     "time": 1275,
     "timeDay": 1908,
@@ -906,8 +905,7 @@
       "2026-09-13": 16,
       "2026-09-29": 67,
       "2026-10-05": 632,
-      "2026-10-08": 25,
-      "2026-10-10": 7
+      "2026-10-08": 25
     }
   },
   {
@@ -1117,9 +1115,9 @@
     "slug": "pass-the-popcorn",
     "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "93.80%",
     "time": 793,
     "timeDay": 1784,
@@ -1158,8 +1156,7 @@
       "2026-07-18": 1440,
       "2026-07-17": 786,
       "2026-08-25": 20,
-      "2026-09-03": 29,
-      "2026-10-10": 6
+      "2026-09-03": 29
     }
   },
   {
@@ -1170,7 +1167,7 @@
     "status": "up",
     "uptime": "98.15%",
     "uptimeDay": "98.06%",
-    "uptimeWeek": "75.44%",
+    "uptimeWeek": "75.50%",
     "uptimeMonth": "83.84%",
     "uptimeYear": "97.17%",
     "time": 1327,
