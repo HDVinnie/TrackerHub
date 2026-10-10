@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.78%",
     "uptimeDay": "57.84%",
-    "uptimeWeek": "54.40%",
-    "uptimeMonth": "88.70%",
+    "uptimeWeek": "54.39%",
+    "uptimeMonth": "88.67%",
     "uptimeYear": "99.06%",
     "time": 1035,
     "timeDay": 1050,
@@ -24,7 +24,7 @@
       "2026-10-07": 745,
       "2026-10-08": 692,
       "2026-10-09": 758,
-      "2026-10-10": 78
+      "2026-10-10": 88
     }
   },
   {
@@ -463,12 +463,12 @@
     "status": "degraded",
     "uptime": "99.83%",
     "uptimeDay": "60.07%",
-    "uptimeWeek": "68.65%",
-    "uptimeMonth": "91.41%",
+    "uptimeWeek": "68.63%",
+    "uptimeMonth": "91.38%",
     "uptimeYear": "99.28%",
     "time": 1063,
     "timeDay": 1054,
-    "timeWeek": 1077,
+    "timeWeek": 1078,
     "timeMonth": 1068,
     "timeYear": 1067,
     "dailyMinutesDown": {
@@ -481,7 +481,7 @@
       "2026-10-07": 407,
       "2026-10-08": 433,
       "2026-10-09": 612,
-      "2026-10-10": 126
+      "2026-10-10": 136
     }
   },
   {
@@ -611,7 +611,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "97.08%",
+    "uptimeYear": "97.09%",
     "time": 2603,
     "timeDay": 518,
     "timeWeek": 696,
@@ -788,15 +788,15 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "94.31%",
-    "uptimeWeek": "94.06%",
-    "uptimeMonth": "97.03%",
+    "uptimeDay": "93.81%",
+    "uptimeWeek": "93.99%",
+    "uptimeMonth": "97.02%",
     "uptimeYear": "99.53%",
     "time": 908,
-    "timeDay": 998,
-    "timeWeek": 1010,
+    "timeDay": 995,
+    "timeWeek": 1008,
     "timeMonth": 984,
     "timeYear": 933,
     "dailyMinutesDown": {
@@ -841,7 +841,7 @@
       "2026-10-07": 86,
       "2026-10-08": 128,
       "2026-10-09": 79,
-      "2026-10-10": 30
+      "2026-10-10": 37
     }
   },
   {
@@ -971,17 +971,17 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "95.75%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "99.00%",
     "time": 981,
-    "timeDay": 1585,
-    "timeWeek": 1286,
-    "timeMonth": 1040,
-    "timeYear": 997,
+    "timeDay": 1498,
+    "timeWeek": 1272,
+    "timeMonth": 1038,
+    "timeYear": 996,
     "dailyMinutesDown": {
       "2026-07-07": 63,
       "2026-07-08": 56,
@@ -1039,7 +1039,7 @@
       "2026-09-28": 21,
       "2026-10-05": 53,
       "2026-10-09": 30,
-      "2026-10-10": 30
+      "2026-10-10": 38
     }
   },
   {
@@ -1164,7 +1164,7 @@
     "status": "up",
     "uptime": "98.15%",
     "uptimeDay": "98.06%",
-    "uptimeWeek": "70.75%",
+    "uptimeWeek": "70.84%",
     "uptimeMonth": "83.84%",
     "uptimeYear": "97.17%",
     "time": 1327,
