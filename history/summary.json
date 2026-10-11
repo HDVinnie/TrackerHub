@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.82%",
     "uptimeDay": "54.59%",
-    "uptimeWeek": "58.89%",
-    "uptimeMonth": "90.54%",
+    "uptimeWeek": "58.84%",
+    "uptimeMonth": "90.53%",
     "uptimeYear": "99.21%",
     "time": 1034,
     "timeDay": 1043,
@@ -22,7 +22,7 @@
       "2026-10-08": 692,
       "2026-10-09": 758,
       "2026-10-10": 695,
-      "2026-10-11": 530
+      "2026-10-11": 536
     }
   },
   {
@@ -465,7 +465,7 @@
     "uptime": "99.83%",
     "uptimeDay": "62.20%",
     "uptimeWeek": "68.09%",
-    "uptimeMonth": "91.20%",
+    "uptimeMonth": "91.19%",
     "uptimeYear": "99.27%",
     "time": 1063,
     "timeDay": 1154,
@@ -481,7 +481,7 @@
       "2026-10-08": 433,
       "2026-10-09": 612,
       "2026-10-10": 431,
-      "2026-10-11": 456
+      "2026-10-11": 461
     }
   },
   {
@@ -794,7 +794,7 @@
     "uptimeMonth": "97.01%",
     "uptimeYear": "99.53%",
     "time": 914,
-    "timeDay": 980,
+    "timeDay": 987,
     "timeWeek": 1004,
     "timeMonth": 982,
     "timeYear": 934,
@@ -976,7 +976,7 @@
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.00%",
     "time": 984,
-    "timeDay": 1035,
+    "timeDay": 1091,
     "timeWeek": 1246,
     "timeMonth": 1047,
     "timeYear": 998,
@@ -1165,7 +1165,7 @@
     "status": "up",
     "uptime": "98.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.35%",
+    "uptimeWeek": "93.40%",
     "uptimeMonth": "83.84%",
     "uptimeYear": "97.31%",
     "time": 1326,
@@ -1228,15 +1228,15 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "96.52%",
-    "uptimeMonth": "98.57%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "96.48%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "99.38%",
     "time": 910,
-    "timeDay": 950,
-    "timeWeek": 1026,
+    "timeDay": 954,
+    "timeWeek": 1025,
     "timeMonth": 1057,
     "timeYear": 933,
     "dailyMinutesDown": {
@@ -1289,7 +1289,7 @@
       "2026-10-07": 28,
       "2026-10-09": 16,
       "2026-10-10": 45,
-      "2026-10-11": 2
+      "2026-10-11": 6
     }
   },
   {
@@ -1299,12 +1299,12 @@
     "slug": "torrent-leech",
     "status": "up",
     "uptime": "97.52%",
-    "uptimeDay": "98.73%",
+    "uptimeDay": "99.11%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
     "time": 585,
-    "timeDay": 11668,
+    "timeDay": 277,
     "timeWeek": 3182,
     "timeMonth": 1348,
     "timeYear": 602,
