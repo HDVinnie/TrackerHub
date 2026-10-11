@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
-    "uptime": "99.82%",
-    "uptimeDay": "54.27%",
-    "uptimeWeek": "58.74%",
-    "uptimeMonth": "90.50%",
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "53.75%",
+    "uptimeWeek": "58.66%",
+    "uptimeMonth": "90.49%",
     "uptimeYear": "99.21%",
     "time": 1033,
-    "timeDay": 1057,
-    "timeWeek": 1074,
+    "timeDay": 1056,
+    "timeWeek": 1073,
     "timeMonth": 1049,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-10-08": 692,
       "2026-10-09": 758,
       "2026-10-10": 695,
-      "2026-10-11": 383
+      "2026-10-11": 390
     }
   },
   {
@@ -257,7 +257,7 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.59%",
     "time": 1654,
-    "timeDay": 1097,
+    "timeDay": 1243,
     "timeWeek": 1667,
     "timeMonth": 1126,
     "timeYear": 1298,
@@ -469,7 +469,7 @@
     "time": 1061,
     "timeDay": 1076,
     "timeWeek": 1078,
-    "timeMonth": 1068,
+    "timeMonth": 1069,
     "timeYear": 1067,
     "dailyMinutesDown": {
       "2026-10-03": 486,
@@ -1163,14 +1163,14 @@
     "status": "up",
     "uptime": "98.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.27%",
+    "uptimeWeek": "90.36%",
     "uptimeMonth": "83.84%",
     "uptimeYear": "97.27%",
     "time": 1326,
     "timeDay": 415,
     "timeWeek": 3205,
     "timeMonth": 1847,
-    "timeYear": 1360,
+    "timeYear": 1317,
     "dailyMinutesDown": {
       "2025-10-12": 299,
       "2025-10-15": 138,
@@ -1227,10 +1227,10 @@
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "98.48%",
+    "uptime": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.54%",
+    "uptimeMonth": "98.51%",
     "uptimeYear": "99.37%",
     "time": 910,
     "timeDay": 916,
@@ -1238,6 +1238,7 @@
     "timeMonth": 1052,
     "timeYear": 933,
     "dailyMinutesDown": {
+      "2026-07-26": 23,
       "2026-07-27": 99,
       "2026-07-29": 45,
       "2026-07-30": 50,
@@ -1286,8 +1287,7 @@
       "2026-10-06": 233,
       "2026-10-07": 28,
       "2026-10-09": 16,
-      "2026-10-10": 45,
-      "2026-10-11": 11
+      "2026-10-10": 45
     }
   },
   {
