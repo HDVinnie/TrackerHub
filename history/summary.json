@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.82%",
-    "uptimeDay": "55.10%",
-    "uptimeWeek": "58.97%",
-    "uptimeMonth": "90.56%",
+    "uptimeDay": "56.09%",
+    "uptimeWeek": "59.04%",
+    "uptimeMonth": "90.57%",
     "uptimeYear": "99.21%",
     "time": 1034,
-    "timeDay": 1038,
-    "timeWeek": 1070,
+    "timeDay": 1040,
+    "timeWeek": 1071,
     "timeMonth": 1049,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2026-10-08": 692,
       "2026-10-09": 758,
       "2026-10-10": 695,
-      "2026-10-11": 625
+      "2026-10-11": 618
     }
   },
   {
@@ -467,8 +467,8 @@
     "uptimeMonth": "91.43%",
     "uptimeYear": "99.29%",
     "time": 1063,
-    "timeDay": 1148,
-    "timeWeek": 1088,
+    "timeDay": 1150,
+    "timeWeek": 1089,
     "timeMonth": 1073,
     "timeYear": 1068,
     "dailyMinutesDown": {
@@ -1164,7 +1164,7 @@
     "status": "up",
     "uptime": "98.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.09%",
+    "uptimeWeek": "95.17%",
     "uptimeMonth": "83.84%",
     "uptimeYear": "97.33%",
     "time": 1326,
@@ -1227,19 +1227,18 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.54%",
+    "status": "degraded",
+    "uptime": "99.84%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "96.52%",
     "uptimeMonth": "98.57%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 910,
-    "timeDay": 1011,
+    "timeDay": 1010,
     "timeWeek": 1025,
     "timeMonth": 1057,
     "timeYear": 933,
     "dailyMinutesDown": {
-      "2026-07-26": 23,
       "2026-07-27": 99,
       "2026-07-29": 45,
       "2026-07-30": 50,
@@ -1288,7 +1287,8 @@
       "2026-10-06": 233,
       "2026-10-07": 28,
       "2026-10-09": 16,
-      "2026-10-10": 45
+      "2026-10-10": 45,
+      "2026-10-11": 2
     }
   },
   {
