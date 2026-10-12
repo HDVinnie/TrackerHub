@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "50.05%",
-    "uptimeWeek": "60.27%",
-    "uptimeMonth": "90.86%",
+    "uptimeDay": "49.23%",
+    "uptimeWeek": "60.14%",
+    "uptimeMonth": "90.83%",
     "uptimeYear": "99.24%",
     "time": 1038,
     "timeDay": 1037,
-    "timeWeek": 1070,
+    "timeWeek": 1069,
     "timeMonth": 1049,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2026-10-09": 758,
       "2026-10-10": 695,
       "2026-10-11": 664,
-      "2026-10-12": 671
+      "2026-10-12": 685
     }
   },
   {
@@ -468,8 +468,8 @@
     "uptimeMonth": "92.11%",
     "uptimeYear": "99.34%",
     "time": 1068,
-    "timeDay": 1349,
-    "timeWeek": 1126,
+    "timeDay": 1361,
+    "timeWeek": 1127,
     "timeMonth": 1080,
     "timeYear": 1070,
     "dailyMinutesDown": {
@@ -605,17 +605,17 @@
     "url": "$GGN",
     "icon": "$GGN_ICON",
     "slug": "gazelle-games",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "97.56%",
-    "time": 2722,
-    "timeDay": 1304,
-    "timeWeek": 1223,
-    "timeMonth": 983,
-    "timeYear": 2544,
+    "time": 2719,
+    "timeDay": 1026,
+    "timeWeek": 1165,
+    "timeMonth": 973,
+    "timeYear": 2541,
     "dailyMinutesDown": {
       "2025-10-13": 668,
       "2025-10-14": 1184,
@@ -674,7 +674,7 @@
       "2026-09-16": 20,
       "2026-09-27": 16,
       "2026-10-08": 33,
-      "2026-10-12": 2
+      "2026-10-12": 14
     }
   },
   {
