@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "49.68%",
-    "uptimeWeek": "57.42%",
-    "uptimeMonth": "90.20%",
+    "uptimeDay": "48.42%",
+    "uptimeWeek": "57.13%",
+    "uptimeMonth": "90.13%",
     "uptimeYear": "99.18%",
     "time": 1036,
-    "timeDay": 1028,
+    "timeDay": 1026,
     "timeWeek": 1070,
     "timeMonth": 1049,
     "timeYear": 1047,
@@ -22,7 +22,7 @@
       "2026-10-09": 758,
       "2026-10-10": 695,
       "2026-10-11": 664,
-      "2026-10-12": 484
+      "2026-10-12": 513
     }
   },
   {
@@ -31,10 +31,10 @@
     "icon": "$AR_ICON",
     "slug": "alpha-ratio",
     "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "98.09%",
+    "uptime": "99.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "98.12%",
     "uptimeYear": "97.70%",
     "time": 4011,
     "timeDay": 7578,
@@ -125,8 +125,7 @@
       "2026-09-30": 29,
       "2026-10-01": 23,
       "2026-10-03": 119,
-      "2026-10-11": 17,
-      "2026-10-12": 12
+      "2026-10-11": 17
     }
   },
   {
@@ -172,12 +171,12 @@
     "status": "up",
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.76%",
+    "uptimeWeek": "98.05%",
     "uptimeMonth": "97.48%",
     "uptimeYear": "97.80%",
     "time": 1085,
     "timeDay": 867,
-    "timeWeek": 1041,
+    "timeWeek": 1008,
     "timeMonth": 2315,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -463,17 +462,18 @@
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "70.75%",
-    "uptimeWeek": "67.51%",
-    "uptimeMonth": "92.04%",
-    "uptimeYear": "99.34%",
+    "uptime": "99.84%",
+    "uptimeDay": "72.32%",
+    "uptimeWeek": "67.62%",
+    "uptimeMonth": "92.02%",
+    "uptimeYear": "99.33%",
     "time": 1067,
-    "timeDay": 1353,
+    "timeDay": 1381,
     "timeWeek": 1123,
     "timeMonth": 1079,
     "timeYear": 1070,
     "dailyMinutesDown": {
+      "2026-10-04": 20,
       "2026-10-05": 298,
       "2026-10-06": 510,
       "2026-10-07": 407,
@@ -481,7 +481,7 @@
       "2026-10-09": 612,
       "2026-10-10": 431,
       "2026-10-11": 510,
-      "2026-10-12": 287
+      "2026-10-12": 276
     }
   },
   {
@@ -734,16 +734,17 @@
     "slug": "hawke-uno",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "98.94%",
     "time": 1285,
     "timeDay": 630,
     "timeWeek": 5083,
     "timeMonth": 1700,
     "timeYear": 1365,
     "dailyMinutesDown": {
+      "2026-02-26": 41,
       "2026-02-27": 69,
       "2026-02-28": 43,
       "2026-03-01": 28,
@@ -778,8 +779,7 @@
       "2026-07-27": 59,
       "2026-08-26": 19,
       "2026-09-03": 20,
-      "2026-10-06": 19,
-      "2026-10-12": 11
+      "2026-10-06": 19
     }
   },
   {
@@ -850,7 +850,7 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.37%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "98.15%",
     "uptimeYear": "99.50%",
     "time": 1273,
@@ -912,9 +912,9 @@
     "slug": "only-encodes",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.38%",
     "time": 1812,
     "timeDay": 758,
@@ -922,6 +922,7 @@
     "timeMonth": 1354,
     "timeYear": 2033,
     "dailyMinutesDown": {
+      "2026-03-12": 20,
       "2026-03-16": 16,
       "2026-03-17": 71,
       "2026-03-18": 83,
@@ -960,8 +961,7 @@
       "2026-09-29": 19,
       "2026-10-04": 86,
       "2026-10-07": 22,
-      "2026-10-10": 73,
-      "2026-10-12": 11
+      "2026-10-10": 73
     }
   },
   {
