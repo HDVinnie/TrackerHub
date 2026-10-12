@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.81%",
-    "uptimeDay": "49.11%",
-    "uptimeWeek": "58.53%",
-    "uptimeMonth": "90.46%",
+    "uptimeDay": "48.91%",
+    "uptimeWeek": "58.38%",
+    "uptimeMonth": "90.42%",
     "uptimeYear": "99.20%",
     "time": 1037,
-    "timeDay": 1040,
+    "timeDay": 1044,
     "timeWeek": 1070,
     "timeMonth": 1049,
     "timeYear": 1047,
@@ -21,7 +21,7 @@
       "2026-10-09": 758,
       "2026-10-10": 695,
       "2026-10-11": 664,
-      "2026-10-12": 625
+      "2026-10-12": 641
     }
   },
   {
@@ -167,16 +167,16 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "97.98%",
+    "status": "degraded",
+    "uptime": "99.44%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "97.97%",
     "uptimeMonth": "97.60%",
-    "uptimeYear": "97.80%",
-    "time": 1101,
-    "timeDay": 4637,
-    "timeWeek": 1377,
-    "timeMonth": 2358,
+    "uptimeYear": "97.79%",
+    "time": 1102,
+    "timeDay": 3796,
+    "timeWeek": 1374,
+    "timeMonth": 2348,
     "timeYear": 1083,
     "dailyMinutesDown": {
       "2025-10-13": 211,
@@ -242,7 +242,7 @@
       "2026-10-09": 42,
       "2026-10-10": 18,
       "2026-10-11": 33,
-      "2026-10-12": 16
+      "2026-10-12": 17
     }
   },
   {
@@ -359,7 +359,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 287,
-    "timeDay": 249,
+    "timeDay": 379,
     "timeWeek": 949,
     "timeMonth": 479,
     "timeYear": 287,
@@ -972,7 +972,7 @@
     "status": "up",
     "uptime": "99.77%",
     "uptimeDay": "95.87%",
-    "uptimeWeek": "98.35%",
+    "uptimeWeek": "98.50%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.00%",
     "time": 996,
@@ -1172,7 +1172,7 @@
     "timeDay": 549,
     "timeWeek": 3207,
     "timeMonth": 1847,
-    "timeYear": 1198,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2025-10-15": 138,
       "2025-10-14": 15,
