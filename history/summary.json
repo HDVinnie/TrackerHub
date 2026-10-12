@@ -4,25 +4,25 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.81%",
-    "uptimeDay": "47.55%",
-    "uptimeWeek": "57.35%",
-    "uptimeMonth": "90.19%",
-    "uptimeYear": "99.18%",
+    "uptimeDay": "47.05%",
+    "uptimeWeek": "57.77%",
+    "uptimeMonth": "90.28%",
+    "uptimeYear": "99.19%",
     "time": 1036,
-    "timeDay": 1041,
+    "timeDay": 1046,
     "timeWeek": 1071,
     "timeMonth": 1049,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2026-10-06": 213,
+      "2026-10-06": 164,
       "2026-10-07": 745,
       "2026-10-08": 692,
       "2026-10-09": 758,
       "2026-10-10": 695,
       "2026-10-11": 664,
-      "2026-10-12": 532
+      "2026-10-12": 539
     }
   },
   {
@@ -168,15 +168,15 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.14%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "98.12%",
     "uptimeMonth": "97.48%",
     "uptimeYear": "97.80%",
-    "time": 1085,
+    "time": 1086,
     "timeDay": 867,
-    "timeWeek": 1012,
+    "timeWeek": 1022,
     "timeMonth": 2315,
     "timeYear": 1064,
     "dailyMinutesDown": {
@@ -242,7 +242,8 @@
       "2026-10-08": 75,
       "2026-10-09": 42,
       "2026-10-10": 18,
-      "2026-10-11": 33
+      "2026-10-11": 33,
+      "2026-10-12": 2
     }
   },
   {
@@ -469,7 +470,7 @@
     "uptimeYear": "99.33%",
     "time": 1067,
     "timeDay": 1369,
-    "timeWeek": 1122,
+    "timeWeek": 1124,
     "timeMonth": 1079,
     "timeYear": 1070,
     "dailyMinutesDown": {
@@ -610,7 +611,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "97.52%",
+    "uptimeYear": "97.53%",
     "time": 2720,
     "timeDay": 469,
     "timeWeek": 1140,
@@ -846,13 +847,13 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "98.15%",
     "uptimeYear": "99.50%",
-    "time": 1273,
+    "time": 1274,
     "timeDay": 606,
     "timeWeek": 1026,
     "timeMonth": 3475,
@@ -901,7 +902,8 @@
       "2026-09-13": 16,
       "2026-09-29": 67,
       "2026-10-05": 632,
-      "2026-10-08": 25
+      "2026-10-08": 25,
+      "2026-10-12": 2
     }
   },
   {
