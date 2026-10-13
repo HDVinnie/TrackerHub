@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.82%",
-    "uptimeDay": "70.10%",
-    "uptimeWeek": "59.99%",
-    "uptimeMonth": "90.79%",
+    "uptimeDay": "69.86%",
+    "uptimeWeek": "59.84%",
+    "uptimeMonth": "90.76%",
     "uptimeYear": "99.23%",
     "time": 1033,
-    "timeDay": 1063,
+    "timeDay": 1059,
     "timeWeek": 1054,
     "timeMonth": 1049,
     "timeYear": 1047,
@@ -22,7 +22,7 @@
       "2026-10-10": 695,
       "2026-10-11": 664,
       "2026-10-12": 710,
-      "2026-10-13": 347
+      "2026-10-13": 361
     }
   },
   {
@@ -134,17 +134,17 @@
     "url": "$AB",
     "icon": "$AB_ICON",
     "slug": "anime-bytes",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.85%",
     "time": 1972,
-    "timeDay": 865,
-    "timeWeek": 637,
-    "timeMonth": 1134,
-    "timeYear": 1918,
+    "timeDay": 812,
+    "timeWeek": 634,
+    "timeMonth": 1120,
+    "timeYear": 1915,
     "dailyMinutesDown": {
       "2025-11-18": 115,
       "2026-01-30": 81,
@@ -162,7 +162,7 @@
       "2026-08-29": 21,
       "2026-09-05": 43,
       "2026-09-10": 34,
-      "2026-10-13": 2
+      "2026-10-13": 16
     }
   },
   {
@@ -432,7 +432,7 @@
     "time": 886,
     "timeDay": 754,
     "timeWeek": 590,
-    "timeMonth": 940,
+    "timeMonth": 955,
     "timeYear": 935,
     "dailyMinutesDown": {
       "2025-11-18": 115,
@@ -468,7 +468,7 @@
     "status": "up",
     "uptime": "99.84%",
     "uptimeDay": "74.39%",
-    "uptimeWeek": "68.50%",
+    "uptimeWeek": "68.64%",
     "uptimeMonth": "91.81%",
     "uptimeYear": "99.32%",
     "time": 1067,
@@ -853,7 +853,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "98.31%",
-    "uptimeYear": "99.50%",
+    "uptimeYear": "99.51%",
     "time": 1288,
     "timeDay": 818,
     "timeWeek": 1490,
