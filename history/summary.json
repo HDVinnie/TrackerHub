@@ -465,15 +465,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "70.18%",
-    "uptimeWeek": "68.70%",
-    "uptimeMonth": "92.07%",
+    "uptimeDay": "70.24%",
+    "uptimeWeek": "68.67%",
+    "uptimeMonth": "92.06%",
     "uptimeYear": "99.34%",
     "time": 1066,
-    "timeDay": 1107,
-    "timeWeek": 1138,
+    "timeDay": 1093,
+    "timeWeek": 1137,
     "timeMonth": 1083,
     "timeYear": 1070,
     "dailyMinutesDown": {
@@ -484,7 +484,7 @@
       "2026-10-10": 431,
       "2026-10-11": 510,
       "2026-10-12": 340,
-      "2026-10-13": 419
+      "2026-10-13": 424
     }
   },
   {
@@ -1235,8 +1235,8 @@
     "uptimeMonth": "98.42%",
     "uptimeYear": "99.38%",
     "time": 910,
-    "timeDay": 910,
-    "timeWeek": 995,
+    "timeDay": 929,
+    "timeWeek": 1001,
     "timeMonth": 1058,
     "timeYear": 934,
     "dailyMinutesDown": {
