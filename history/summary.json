@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "53.50%",
-    "uptimeWeek": "64.40%",
-    "uptimeMonth": "91.81%",
+    "uptimeDay": "53.52%",
+    "uptimeWeek": "64.35%",
+    "uptimeMonth": "91.80%",
     "uptimeYear": "99.32%",
     "time": 1039,
-    "timeDay": 1039,
-    "timeWeek": 1049,
+    "timeDay": 1036,
+    "timeWeek": 1048,
     "timeMonth": 1049,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2026-10-11": 664,
       "2026-10-12": 710,
       "2026-10-13": 454,
-      "2026-10-14": 665
+      "2026-10-14": 670
     }
   },
   {
@@ -467,15 +467,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "57.42%",
-    "uptimeWeek": "66.66%",
-    "uptimeMonth": "91.83%",
+    "uptimeDay": "57.48%",
+    "uptimeWeek": "66.62%",
+    "uptimeMonth": "91.82%",
     "uptimeYear": "99.32%",
     "time": 1067,
-    "timeDay": 1041,
-    "timeWeek": 1122,
+    "timeDay": 1033,
+    "timeWeek": 1120,
     "timeMonth": 1082,
     "timeYear": 1070,
     "dailyMinutesDown": {
@@ -486,7 +486,7 @@
       "2026-10-11": 510,
       "2026-10-12": 340,
       "2026-10-13": 424,
-      "2026-10-14": 603
+      "2026-10-14": 607
     }
   },
   {
@@ -790,16 +790,16 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "93.34%",
-    "uptimeWeek": "94.93%",
-    "uptimeMonth": "96.70%",
+    "uptimeDay": "93.08%",
+    "uptimeWeek": "94.90%",
+    "uptimeMonth": "96.69%",
     "uptimeYear": "99.54%",
     "time": 907,
-    "timeDay": 1058,
-    "timeWeek": 1029,
-    "timeMonth": 991,
+    "timeDay": 1043,
+    "timeWeek": 1027,
+    "timeMonth": 990,
     "timeYear": 938,
     "dailyMinutesDown": {
       "2026-08-23": 31,
@@ -840,7 +840,7 @@
       "2026-10-09": 79,
       "2026-10-10": 84,
       "2026-10-13": 124,
-      "2026-10-14": 96
+      "2026-10-14": 100
     }
   },
   {
