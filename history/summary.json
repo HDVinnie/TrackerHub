@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "52.89%",
-    "uptimeWeek": "64.30%",
-    "uptimeMonth": "91.79%",
-    "uptimeYear": "99.32%",
+    "uptimeDay": "51.86%",
+    "uptimeWeek": "64.15%",
+    "uptimeMonth": "91.75%",
+    "uptimeYear": "99.31%",
     "time": 1039,
-    "timeDay": 1051,
+    "timeDay": 1044,
     "timeWeek": 1049,
     "timeMonth": 1050,
     "timeYear": 1047,
@@ -21,7 +21,7 @@
       "2026-10-11": 664,
       "2026-10-12": 710,
       "2026-10-13": 454,
-      "2026-10-14": 614
+      "2026-10-14": 630
     }
   },
   {
@@ -469,12 +469,12 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "59.63%",
-    "uptimeWeek": "67.34%",
-    "uptimeMonth": "91.94%",
+    "uptimeDay": "58.62%",
+    "uptimeWeek": "67.19%",
+    "uptimeMonth": "91.91%",
     "uptimeYear": "99.33%",
     "time": 1067,
-    "timeDay": 1067,
+    "timeDay": 1049,
     "timeWeek": 1123,
     "timeMonth": 1082,
     "timeYear": 1070,
@@ -486,7 +486,7 @@
       "2026-10-11": 510,
       "2026-10-12": 340,
       "2026-10-13": 424,
-      "2026-10-14": 535
+      "2026-10-14": 550
     }
   },
   {
@@ -797,7 +797,7 @@
     "uptimeMonth": "96.70%",
     "uptimeYear": "99.53%",
     "time": 907,
-    "timeDay": 1053,
+    "timeDay": 1049,
     "timeWeek": 1029,
     "timeMonth": 991,
     "timeYear": 937,
@@ -971,16 +971,16 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "99.14%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "98.48%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.00%",
     "time": 989,
-    "timeDay": 2589,
-    "timeWeek": 1627,
-    "timeMonth": 1167,
+    "timeDay": 1995,
+    "timeWeek": 1607,
+    "timeMonth": 1164,
     "timeYear": 1015,
     "dailyMinutesDown": {
       "2026-07-08": 28,
@@ -1041,7 +1041,7 @@
       "2026-10-10": 28,
       "2026-10-12": 60,
       "2026-10-13": 20,
-      "2026-10-14": 2
+      "2026-10-14": 15
     }
   },
   {
