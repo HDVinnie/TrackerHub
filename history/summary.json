@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.83%",
-    "uptimeDay": "56.39%",
-    "uptimeWeek": "63.08%",
-    "uptimeMonth": "91.50%",
+    "uptimeDay": "55.84%",
+    "uptimeWeek": "63.00%",
+    "uptimeMonth": "91.49%",
     "uptimeYear": "99.29%",
     "time": 1038,
     "timeDay": 1064,
@@ -21,7 +21,7 @@
       "2026-10-11": 664,
       "2026-10-12": 710,
       "2026-10-13": 454,
-      "2026-10-14": 499
+      "2026-10-14": 507
     }
   },
   {
@@ -170,16 +170,16 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "96.85%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "97.49%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "97.48%",
     "uptimeYear": "97.82%",
-    "time": 1116,
-    "timeDay": 1731,
-    "timeWeek": 1498,
-    "timeMonth": 2393,
+    "time": 1117,
+    "timeDay": 1647,
+    "timeWeek": 1485,
+    "timeMonth": 2380,
     "timeYear": 1097,
     "dailyMinutesDown": {
       "2025-10-27": 21,
@@ -246,7 +246,7 @@
       "2026-10-11": 33,
       "2026-10-12": 16,
       "2026-10-13": 20,
-      "2026-10-14": 45
+      "2026-10-14": 51
     }
   },
   {
@@ -467,14 +467,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "58.30%",
-    "uptimeWeek": "67.26%",
-    "uptimeMonth": "91.98%",
+    "uptimeDay": "57.90%",
+    "uptimeWeek": "67.23%",
+    "uptimeMonth": "91.96%",
     "uptimeYear": "99.33%",
     "time": 1066,
-    "timeDay": 1094,
+    "timeDay": 1092,
     "timeWeek": 1128,
     "timeMonth": 1082,
     "timeYear": 1070,
@@ -486,7 +486,7 @@
       "2026-10-11": 510,
       "2026-10-12": 340,
       "2026-10-13": 424,
-      "2026-10-14": 500
+      "2026-10-14": 506
     }
   },
   {
@@ -621,7 +621,7 @@
     "timeDay": 608,
     "timeWeek": 1174,
     "timeMonth": 973,
-    "timeYear": 2273,
+    "timeYear": 2268,
     "dailyMinutesDown": {
       "2025-10-15": 1203,
       "2025-10-16": 1223,
@@ -793,12 +793,12 @@
     "status": "up",
     "uptime": "99.89%",
     "uptimeDay": "92.14%",
-    "uptimeWeek": "94.77%",
+    "uptimeWeek": "94.79%",
     "uptimeMonth": "96.70%",
     "uptimeYear": "99.53%",
     "time": 906,
     "timeDay": 1042,
-    "timeWeek": 1024,
+    "timeWeek": 1025,
     "timeMonth": 991,
     "timeYear": 937,
     "dailyMinutesDown": {
@@ -1112,17 +1112,17 @@
     "url": "$PTP",
     "icon": "$PTP_ICON",
     "slug": "pass-the-popcorn",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "93.80%",
-    "time": 806,
-    "timeDay": 1921,
-    "timeWeek": 1432,
-    "timeMonth": 806,
-    "timeYear": 827,
+    "time": 811,
+    "timeDay": 2442,
+    "timeWeek": 1616,
+    "timeMonth": 892,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2025-10-28": 101,
       "2025-10-29": 868,
@@ -1156,7 +1156,8 @@
       "2026-07-17": 786,
       "2026-08-25": 20,
       "2026-09-03": 29,
-      "2026-10-11": 16
+      "2026-10-11": 16,
+      "2026-10-14": 3
     }
   },
   {
@@ -1228,16 +1229,16 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "98.50%",
-    "uptimeMonth": "98.41%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "98.40%",
     "uptimeYear": "99.39%",
     "time": 909,
-    "timeDay": 945,
-    "timeWeek": 999,
-    "timeMonth": 1059,
+    "timeDay": 946,
+    "timeWeek": 998,
+    "timeMonth": 1058,
     "timeYear": 935,
     "dailyMinutesDown": {
       "2026-07-30": 33,
@@ -1288,7 +1289,7 @@
       "2026-10-09": 16,
       "2026-10-10": 45,
       "2026-10-13": 68,
-      "2026-10-14": 22
+      "2026-10-14": 28
     }
   },
   {
