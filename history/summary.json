@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "64.53%",
-    "uptimeWeek": "62.57%",
-    "uptimeMonth": "91.39%",
+    "uptimeDay": "64.55%",
+    "uptimeWeek": "62.38%",
+    "uptimeMonth": "91.34%",
     "uptimeYear": "99.28%",
     "time": 1036,
-    "timeDay": 1065,
+    "timeDay": 1064,
     "timeWeek": 1051,
     "timeMonth": 1050,
     "timeYear": 1047,
@@ -22,7 +22,7 @@
       "2026-10-11": 664,
       "2026-10-12": 710,
       "2026-10-13": 454,
-      "2026-10-14": 231
+      "2026-10-14": 251
     }
   },
   {
@@ -470,7 +470,7 @@
     "status": "up",
     "uptime": "99.84%",
     "uptimeDay": "66.02%",
-    "uptimeWeek": "68.00%",
+    "uptimeWeek": "68.19%",
     "uptimeMonth": "91.88%",
     "uptimeYear": "99.32%",
     "time": 1065,
@@ -1230,16 +1230,16 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "98.41%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.37%",
     "uptimeYear": "99.39%",
     "time": 909,
-    "timeDay": 948,
-    "timeWeek": 1002,
-    "timeMonth": 1058,
+    "timeDay": 934,
+    "timeWeek": 998,
+    "timeMonth": 1057,
     "timeYear": 935,
     "dailyMinutesDown": {
       "2026-07-30": 50,
@@ -1291,7 +1291,7 @@
       "2026-10-09": 16,
       "2026-10-10": 45,
       "2026-10-13": 68,
-      "2026-10-14": 2
+      "2026-10-14": 20
     }
   },
   {
