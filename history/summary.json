@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "55.28%",
-    "uptimeWeek": "63.80%",
-    "uptimeMonth": "91.67%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "54.83%",
+    "uptimeWeek": "63.74%",
+    "uptimeMonth": "91.66%",
+    "uptimeYear": "99.30%",
     "time": 1039,
-    "timeDay": 1061,
+    "timeDay": 1055,
     "timeWeek": 1049,
     "timeMonth": 1050,
     "timeYear": 1047,
@@ -21,7 +21,7 @@
       "2026-10-11": 664,
       "2026-10-12": 710,
       "2026-10-13": 454,
-      "2026-10-14": 562
+      "2026-10-14": 569
     }
   },
   {
@@ -170,16 +170,16 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.44%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "97.54%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "97.53%",
     "uptimeMonth": "97.49%",
     "uptimeYear": "97.82%",
     "time": 1123,
-    "timeDay": 1865,
-    "timeWeek": 1574,
-    "timeMonth": 2388,
+    "timeDay": 1810,
+    "timeWeek": 1565,
+    "timeMonth": 2378,
     "timeYear": 1103,
     "dailyMinutesDown": {
       "2025-10-27": 21,
@@ -246,7 +246,7 @@
       "2026-10-11": 33,
       "2026-10-12": 16,
       "2026-10-13": 20,
-      "2026-10-14": 44
+      "2026-10-14": 45
     }
   },
   {
@@ -469,14 +469,14 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "59.66%",
-    "uptimeWeek": "67.48%",
-    "uptimeMonth": "91.98%",
+    "uptimeDay": "59.20%",
+    "uptimeWeek": "67.42%",
+    "uptimeMonth": "91.96%",
     "uptimeYear": "99.33%",
     "time": 1066,
-    "timeDay": 1078,
-    "timeWeek": 1125,
-    "timeMonth": 1083,
+    "timeDay": 1069,
+    "timeWeek": 1126,
+    "timeMonth": 1082,
     "timeYear": 1070,
     "dailyMinutesDown": {
       "2026-10-07": 263,
@@ -486,7 +486,7 @@
       "2026-10-11": 510,
       "2026-10-12": 340,
       "2026-10-13": 424,
-      "2026-10-14": 500
+      "2026-10-14": 507
     }
   },
   {
