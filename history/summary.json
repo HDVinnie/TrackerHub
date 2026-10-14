@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "54.81%",
-    "uptimeWeek": "62.86%",
-    "uptimeMonth": "91.45%",
+    "uptimeDay": "54.14%",
+    "uptimeWeek": "62.76%",
+    "uptimeMonth": "91.43%",
     "uptimeYear": "99.29%",
     "time": 1038,
-    "timeDay": 1065,
-    "timeWeek": 1050,
+    "timeDay": 1060,
+    "timeWeek": 1049,
     "timeMonth": 1050,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2026-10-11": 664,
       "2026-10-12": 710,
       "2026-10-13": 454,
-      "2026-10-14": 522
+      "2026-10-14": 532
     }
   },
   {
@@ -170,17 +170,17 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "96.79%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "97.49%",
+    "uptimeDay": "96.14%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "97.47%",
     "uptimeYear": "97.82%",
     "time": 1123,
-    "timeDay": 1992,
-    "timeWeek": 1571,
-    "timeMonth": 2404,
-    "timeYear": 1104,
+    "timeDay": 1865,
+    "timeWeek": 1548,
+    "timeMonth": 2388,
+    "timeYear": 1103,
     "dailyMinutesDown": {
       "2025-10-27": 21,
       "2025-11-03": 39,
@@ -246,7 +246,7 @@
       "2026-10-11": 33,
       "2026-10-12": 16,
       "2026-10-13": 20,
-      "2026-10-14": 46
+      "2026-10-14": 56
     }
   },
   {
@@ -476,7 +476,7 @@
     "time": 1066,
     "timeDay": 1092,
     "timeWeek": 1128,
-    "timeMonth": 1082,
+    "timeMonth": 1083,
     "timeYear": 1070,
     "dailyMinutesDown": {
       "2026-10-07": 305,
@@ -849,17 +849,17 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "98.30%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "98.29%",
     "uptimeYear": "99.54%",
-    "time": 1295,
-    "timeDay": 2787,
-    "timeWeek": 1712,
-    "timeMonth": 2429,
-    "timeYear": 1201,
+    "time": 1294,
+    "timeDay": 2017,
+    "timeWeek": 1639,
+    "timeMonth": 2389,
+    "timeYear": 1200,
     "dailyMinutesDown": {
       "2025-10-27": 20,
       "2025-11-03": 39,
@@ -905,7 +905,7 @@
       "2026-10-05": 632,
       "2026-10-08": 25,
       "2026-10-12": 15,
-      "2026-10-14": 3
+      "2026-10-14": 11
     }
   },
   {
