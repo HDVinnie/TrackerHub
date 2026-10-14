@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "54.83%",
-    "uptimeWeek": "63.74%",
-    "uptimeMonth": "91.66%",
+    "uptimeDay": "54.81%",
+    "uptimeWeek": "63.58%",
+    "uptimeMonth": "91.62%",
     "uptimeYear": "99.30%",
     "time": 1039,
     "timeDay": 1055,
@@ -21,7 +21,7 @@
       "2026-10-11": 664,
       "2026-10-12": 710,
       "2026-10-13": 454,
-      "2026-10-14": 569
+      "2026-10-14": 585
     }
   },
   {
@@ -31,12 +31,12 @@
     "slug": "alpha-ratio",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "95.36%",
+    "uptimeDay": "96.45%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "97.98%",
     "uptimeYear": "97.69%",
     "time": 3971,
-    "timeDay": 1006,
+    "timeDay": 999,
     "timeWeek": 5674,
     "timeMonth": 4773,
     "timeYear": 4044,
@@ -170,16 +170,16 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "97.49%",
+    "uptimeDay": "95.90%",
+    "uptimeWeek": "97.39%",
+    "uptimeMonth": "97.46%",
     "uptimeYear": "97.82%",
-    "time": 1123,
-    "timeDay": 1810,
-    "timeWeek": 1565,
-    "timeMonth": 2378,
+    "time": 1124,
+    "timeDay": 1732,
+    "timeWeek": 1547,
+    "timeMonth": 2364,
     "timeYear": 1103,
     "dailyMinutesDown": {
       "2025-10-27": 21,
@@ -246,7 +246,7 @@
       "2026-10-11": 33,
       "2026-10-12": 16,
       "2026-10-13": 20,
-      "2026-10-14": 45
+      "2026-10-14": 59
     }
   },
   {
@@ -254,17 +254,17 @@
     "url": "$ACM",
     "icon": "$ACM_ICON",
     "slug": "asian-cinema",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.48%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.47%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.59%",
-    "time": 1628,
-    "timeDay": 349,
-    "timeWeek": 1600,
-    "timeMonth": 1143,
-    "timeYear": 1297,
+    "time": 1630,
+    "timeDay": 1011,
+    "timeWeek": 1603,
+    "timeMonth": 1154,
+    "timeYear": 1298,
     "dailyMinutesDown": {
       "2025-10-16": 120,
       "2025-11-18": 137,
@@ -304,7 +304,8 @@
       "2026-09-29": 12,
       "2026-10-06": 19,
       "2026-10-10": 37,
-      "2026-10-13": 15
+      "2026-10-13": 15,
+      "2026-10-14": 1
     }
   },
   {
@@ -469,14 +470,14 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "59.20%",
-    "uptimeWeek": "67.42%",
-    "uptimeMonth": "91.96%",
+    "uptimeDay": "59.19%",
+    "uptimeWeek": "67.40%",
+    "uptimeMonth": "91.92%",
     "uptimeYear": "99.33%",
     "time": 1066,
     "timeDay": 1069,
-    "timeWeek": 1126,
-    "timeMonth": 1082,
+    "timeWeek": 1122,
+    "timeMonth": 1083,
     "timeYear": 1070,
     "dailyMinutesDown": {
       "2026-10-07": 263,
@@ -486,7 +487,7 @@
       "2026-10-11": 510,
       "2026-10-12": 340,
       "2026-10-13": 424,
-      "2026-10-14": 507
+      "2026-10-14": 523
     }
   },
   {
