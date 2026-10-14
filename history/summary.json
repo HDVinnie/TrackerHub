@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "59.17%",
-    "uptimeWeek": "62.88%",
-    "uptimeMonth": "91.46%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "56.47%",
+    "uptimeWeek": "62.49%",
+    "uptimeMonth": "91.37%",
+    "uptimeYear": "99.28%",
     "time": 1038,
-    "timeDay": 1064,
-    "timeWeek": 1050,
+    "timeDay": 1063,
+    "timeWeek": 1049,
     "timeMonth": 1050,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-10-11": 664,
       "2026-10-12": 710,
       "2026-10-13": 454,
-      "2026-10-14": 459
+      "2026-10-14": 498
     }
   },
   {
@@ -468,15 +468,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "58.88%",
-    "uptimeWeek": "67.31%",
-    "uptimeMonth": "91.97%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "58.40%",
+    "uptimeWeek": "67.13%",
+    "uptimeMonth": "91.88%",
+    "uptimeYear": "99.32%",
     "time": 1066,
-    "timeDay": 1085,
-    "timeWeek": 1128,
+    "timeDay": 1086,
+    "timeWeek": 1126,
     "timeMonth": 1082,
     "timeYear": 1070,
     "dailyMinutesDown": {
@@ -487,7 +487,7 @@
       "2026-10-11": 510,
       "2026-10-12": 340,
       "2026-10-13": 424,
-      "2026-10-14": 461
+      "2026-10-14": 499
     }
   },
   {
@@ -622,7 +622,7 @@
     "timeDay": 608,
     "timeWeek": 1174,
     "timeMonth": 973,
-    "timeYear": 2270,
+    "timeYear": 2273,
     "dailyMinutesDown": {
       "2025-10-15": 1203,
       "2025-10-16": 1223,
@@ -795,12 +795,12 @@
     "uptime": "99.89%",
     "uptimeDay": "92.14%",
     "uptimeWeek": "94.64%",
-    "uptimeMonth": "96.66%",
+    "uptimeMonth": "96.70%",
     "uptimeYear": "99.53%",
     "time": 906,
     "timeDay": 1042,
     "timeWeek": 1024,
-    "timeMonth": 990,
+    "timeMonth": 991,
     "timeYear": 937,
     "dailyMinutesDown": {
       "2026-08-22": 19,
