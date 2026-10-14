@@ -6,14 +6,14 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.83%",
-    "uptimeDay": "60.88%",
-    "uptimeWeek": "62.91%",
-    "uptimeMonth": "91.47%",
+    "uptimeDay": "60.00%",
+    "uptimeWeek": "62.79%",
+    "uptimeMonth": "91.44%",
     "uptimeYear": "99.29%",
     "time": 1037,
     "timeDay": 1067,
-    "timeWeek": 1052,
-    "timeMonth": 1050,
+    "timeWeek": 1051,
+    "timeMonth": 1051,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2026-10-08": 110,
@@ -22,7 +22,7 @@
       "2026-10-11": 664,
       "2026-10-12": 710,
       "2026-10-13": 454,
-      "2026-10-14": 349
+      "2026-10-14": 361
     }
   },
   {
@@ -170,16 +170,16 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.44%",
-    "uptimeDay": "95.58%",
-    "uptimeWeek": "97.54%",
+    "uptimeDay": "95.50%",
+    "uptimeWeek": "97.53%",
     "uptimeMonth": "97.49%",
     "uptimeYear": "97.82%",
     "time": 1115,
-    "timeDay": 2226,
-    "timeWeek": 1538,
-    "timeMonth": 2432,
+    "timeDay": 2090,
+    "timeWeek": 1528,
+    "timeMonth": 2420,
     "timeYear": 1098,
     "dailyMinutesDown": {
       "2025-10-27": 21,
@@ -246,7 +246,7 @@
       "2026-10-11": 33,
       "2026-10-12": 16,
       "2026-10-13": 20,
-      "2026-10-14": 44
+      "2026-10-14": 45
     }
   },
   {
@@ -469,10 +469,10 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "62.36%",
-    "uptimeWeek": "67.71%",
-    "uptimeMonth": "91.93%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "61.50%",
+    "uptimeWeek": "67.66%",
+    "uptimeMonth": "91.90%",
+    "uptimeYear": "99.32%",
     "time": 1065,
     "timeDay": 1124,
     "timeWeek": 1131,
@@ -487,7 +487,7 @@
       "2026-10-11": 510,
       "2026-10-12": 340,
       "2026-10-13": 424,
-      "2026-10-14": 326
+      "2026-10-14": 338
     }
   },
   {
@@ -622,7 +622,7 @@
     "timeDay": 608,
     "timeWeek": 1174,
     "timeMonth": 973,
-    "timeYear": 2343,
+    "timeYear": 2322,
     "dailyMinutesDown": {
       "2025-10-15": 1203,
       "2025-10-16": 1223,
