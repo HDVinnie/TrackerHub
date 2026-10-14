@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.83%",
-    "uptimeDay": "63.37%",
-    "uptimeWeek": "61.60%",
-    "uptimeMonth": "91.16%",
+    "uptimeDay": "61.70%",
+    "uptimeWeek": "61.35%",
+    "uptimeMonth": "91.11%",
     "uptimeYear": "99.26%",
     "time": 1036,
-    "timeDay": 1079,
+    "timeDay": 1073,
     "timeWeek": 1054,
     "timeMonth": 1050,
     "timeYear": 1047,
@@ -22,7 +22,7 @@
       "2026-10-11": 664,
       "2026-10-12": 710,
       "2026-10-13": 454,
-      "2026-10-14": 172
+      "2026-10-14": 197
     }
   },
   {
@@ -466,14 +466,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "64.00%",
-    "uptimeWeek": "67.81%",
-    "uptimeMonth": "91.93%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "64.12%",
+    "uptimeWeek": "67.59%",
+    "uptimeMonth": "91.88%",
+    "uptimeYear": "99.32%",
     "time": 1065,
-    "timeDay": 1134,
+    "timeDay": 1128,
     "timeWeek": 1137,
     "timeMonth": 1083,
     "timeYear": 1070,
@@ -486,7 +486,7 @@
       "2026-10-11": 510,
       "2026-10-12": 340,
       "2026-10-13": 424,
-      "2026-10-14": 229
+      "2026-10-14": 252
     }
   },
   {
@@ -621,7 +621,7 @@
     "timeDay": 608,
     "timeWeek": 1174,
     "timeMonth": 973,
-    "timeYear": 2419,
+    "timeYear": 2414,
     "dailyMinutesDown": {
       "2025-10-15": 1203,
       "2025-10-16": 1223,
@@ -790,15 +790,15 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "94.62%",
-    "uptimeWeek": "95.36%",
-    "uptimeMonth": "96.82%",
+    "uptimeDay": "93.14%",
+    "uptimeWeek": "95.14%",
+    "uptimeMonth": "96.77%",
     "uptimeYear": "99.53%",
     "time": 920,
-    "timeDay": 1086,
-    "timeWeek": 1014,
+    "timeDay": 1081,
+    "timeWeek": 1015,
     "timeMonth": 988,
     "timeYear": 936,
     "dailyMinutesDown": {
@@ -842,7 +842,7 @@
       "2026-10-09": 79,
       "2026-10-10": 84,
       "2026-10-13": 124,
-      "2026-10-14": 2
+      "2026-10-14": 24
     }
   },
   {
