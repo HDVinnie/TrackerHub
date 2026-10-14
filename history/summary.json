@@ -6,10 +6,10 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.83%",
-    "uptimeDay": "65.46%",
-    "uptimeWeek": "61.71%",
-    "uptimeMonth": "91.19%",
-    "uptimeYear": "99.27%",
+    "uptimeDay": "64.83%",
+    "uptimeWeek": "61.63%",
+    "uptimeMonth": "91.17%",
+    "uptimeYear": "99.26%",
     "time": 1035,
     "timeDay": 1074,
     "timeWeek": 1054,
@@ -22,7 +22,7 @@
       "2026-10-11": 664,
       "2026-10-12": 710,
       "2026-10-13": 454,
-      "2026-10-14": 117
+      "2026-10-14": 126
     }
   },
   {
@@ -467,14 +467,14 @@
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
     "status": "degraded",
-    "uptime": "99.85%",
-    "uptimeDay": "67.48%",
-    "uptimeWeek": "68.27%",
-    "uptimeMonth": "92.04%",
-    "uptimeYear": "99.34%",
+    "uptime": "99.84%",
+    "uptimeDay": "66.85%",
+    "uptimeWeek": "68.18%",
+    "uptimeMonth": "92.02%",
+    "uptimeYear": "99.33%",
     "time": 1065,
     "timeDay": 1115,
-    "timeWeek": 1139,
+    "timeWeek": 1140,
     "timeMonth": 1083,
     "timeYear": 1070,
     "dailyMinutesDown": {
@@ -486,7 +486,7 @@
       "2026-10-11": 510,
       "2026-10-12": 340,
       "2026-10-13": 424,
-      "2026-10-14": 141
+      "2026-10-14": 150
     }
   },
   {
@@ -1228,17 +1228,17 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "96.86%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "98.41%",
+    "uptimeDay": "96.37%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.40%",
     "uptimeYear": "99.39%",
     "time": 909,
-    "timeDay": 934,
-    "timeWeek": 1002,
-    "timeMonth": 1058,
-    "timeYear": 935,
+    "timeDay": 930,
+    "timeWeek": 1000,
+    "timeMonth": 1057,
+    "timeYear": 934,
     "dailyMinutesDown": {
       "2026-07-30": 50,
       "2026-07-29": 5,
@@ -1289,7 +1289,7 @@
       "2026-10-09": 16,
       "2026-10-10": 45,
       "2026-10-13": 68,
-      "2026-10-14": 2
+      "2026-10-14": 9
     }
   },
   {
