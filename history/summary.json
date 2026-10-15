@@ -4,16 +4,16 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "57.71%",
-    "uptimeWeek": "64.70%",
-    "uptimeMonth": "91.88%",
+    "uptimeDay": "57.19%",
+    "uptimeWeek": "64.60%",
+    "uptimeMonth": "91.85%",
     "uptimeYear": "99.32%",
     "time": 1034,
-    "timeDay": 1048,
+    "timeDay": 1047,
     "timeWeek": 1047,
-    "timeMonth": 1049,
+    "timeMonth": 1050,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2026-10-09": 41,
@@ -22,7 +22,7 @@
       "2026-10-12": 710,
       "2026-10-13": 454,
       "2026-10-14": 670,
-      "2026-10-15": 326
+      "2026-10-15": 336
     }
   },
   {
@@ -470,7 +470,7 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "65.33%",
+    "uptimeDay": "66.11%",
     "uptimeWeek": "67.32%",
     "uptimeMonth": "91.89%",
     "uptimeYear": "99.32%",
@@ -1229,16 +1229,16 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "98.49%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "99.39%",
-    "time": 908,
-    "timeDay": 950,
-    "timeWeek": 990,
-    "timeMonth": 1055,
+    "time": 907,
+    "timeDay": 909,
+    "timeWeek": 981,
+    "timeMonth": 1052,
     "timeYear": 935,
     "dailyMinutesDown": {
       "2026-07-31": 39,
@@ -1289,7 +1289,7 @@
       "2026-10-10": 45,
       "2026-10-13": 68,
       "2026-10-14": 31,
-      "2026-10-15": 3
+      "2026-10-15": 11
     }
   },
   {
