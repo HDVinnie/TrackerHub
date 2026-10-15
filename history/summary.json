@@ -4,16 +4,16 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "57.19%",
-    "uptimeWeek": "64.60%",
-    "uptimeMonth": "91.85%",
+    "uptimeDay": "57.92%",
+    "uptimeWeek": "64.70%",
+    "uptimeMonth": "91.88%",
     "uptimeYear": "99.32%",
     "time": 1034,
     "timeDay": 1047,
     "timeWeek": 1047,
-    "timeMonth": 1050,
+    "timeMonth": 1049,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2026-10-09": 41,
@@ -22,7 +22,7 @@
       "2026-10-12": 710,
       "2026-10-13": 454,
       "2026-10-14": 670,
-      "2026-10-15": 336
+      "2026-10-15": 326
     }
   },
   {
@@ -180,7 +180,7 @@
     "time": 1128,
     "timeDay": 1703,
     "timeWeek": 1684,
-    "timeMonth": 2388,
+    "timeMonth": 2397,
     "timeYear": 1107,
     "dailyMinutesDown": {
       "2025-10-27": 21,
@@ -470,12 +470,12 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "66.11%",
+    "uptimeDay": "66.40%",
     "uptimeWeek": "67.32%",
     "uptimeMonth": "91.89%",
     "uptimeYear": "99.32%",
     "time": 1069,
-    "timeDay": 1096,
+    "timeDay": 1102,
     "timeWeek": 1120,
     "timeMonth": 1084,
     "timeYear": 1071,
@@ -1231,9 +1231,9 @@
     "slug": "secret-cinema",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "98.47%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "98.50%",
     "uptimeYear": "99.39%",
     "time": 907,
     "timeDay": 909,
@@ -1241,6 +1241,7 @@
     "timeMonth": 1052,
     "timeYear": 935,
     "dailyMinutesDown": {
+      "2026-07-30": 33,
       "2026-07-31": 39,
       "2026-08-01": 65,
       "2026-08-02": 105,
@@ -1288,8 +1289,7 @@
       "2026-10-09": 16,
       "2026-10-10": 45,
       "2026-10-13": 68,
-      "2026-10-14": 31,
-      "2026-10-15": 11
+      "2026-10-14": 31
     }
   },
   {
