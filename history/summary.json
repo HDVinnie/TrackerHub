@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "54.64%",
-    "uptimeWeek": "64.89%",
-    "uptimeMonth": "91.92%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "53.78%",
+    "uptimeWeek": "64.77%",
+    "uptimeMonth": "91.89%",
+    "uptimeYear": "99.32%",
     "time": 1033,
-    "timeDay": 1051,
+    "timeDay": 1050,
     "timeWeek": 1048,
     "timeMonth": 1049,
     "timeYear": 1047,
@@ -22,7 +22,7 @@
       "2026-10-12": 710,
       "2026-10-13": 454,
       "2026-10-14": 670,
-      "2026-10-15": 213
+      "2026-10-15": 226
     }
   },
   {
@@ -470,9 +470,9 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "65.45%",
-    "uptimeWeek": "67.18%",
-    "uptimeMonth": "91.95%",
+    "uptimeDay": "64.58%",
+    "uptimeWeek": "67.06%",
+    "uptimeMonth": "91.92%",
     "uptimeYear": "99.33%",
     "time": 1069,
     "timeDay": 1066,
@@ -488,7 +488,7 @@
       "2026-10-12": 340,
       "2026-10-13": 424,
       "2026-10-14": 607,
-      "2026-10-15": 143
+      "2026-10-15": 155
     }
   },
   {
@@ -618,7 +618,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "98.04%",
+    "uptimeYear": "98.05%",
     "time": 2669,
     "timeDay": 745,
     "timeWeek": 1193,
@@ -850,17 +850,17 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "98.31%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "98.28%",
     "uptimeYear": "99.54%",
-    "time": 1296,
-    "timeDay": 1787,
-    "timeWeek": 1712,
-    "timeMonth": 2366,
-    "timeYear": 1201,
+    "time": 1295,
+    "timeDay": 1588,
+    "timeWeek": 1658,
+    "timeMonth": 2334,
+    "timeYear": 1200,
     "dailyMinutesDown": {
       "2025-10-27": 20,
       "2025-11-03": 39,
@@ -906,7 +906,7 @@
       "2026-10-05": 632,
       "2026-10-08": 25,
       "2026-10-12": 15,
-      "2026-10-15": 2
+      "2026-10-15": 13
     }
   },
   {
