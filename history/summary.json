@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "57.22%",
-    "uptimeWeek": "65.24%",
-    "uptimeMonth": "92.00%",
+    "uptimeDay": "56.86%",
+    "uptimeWeek": "65.18%",
+    "uptimeMonth": "91.99%",
     "uptimeYear": "99.33%",
     "time": 1038,
     "timeDay": 1028,
@@ -22,7 +22,7 @@
       "2026-10-13": 454,
       "2026-10-14": 670,
       "2026-10-15": 567,
-      "2026-10-16": 375
+      "2026-10-16": 381
     }
   },
   {
@@ -470,14 +470,14 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "67.25%",
+    "uptimeDay": "66.82%",
     "uptimeWeek": "67.70%",
-    "uptimeMonth": "91.99%",
+    "uptimeMonth": "91.98%",
     "uptimeYear": "99.33%",
     "time": 1065,
     "timeDay": 1025,
     "timeWeek": 1113,
-    "timeMonth": 1085,
+    "timeMonth": 1084,
     "timeYear": 1070,
     "dailyMinutesDown": {
       "2026-10-09": 468,
@@ -487,7 +487,7 @@
       "2026-10-13": 424,
       "2026-10-14": 607,
       "2026-10-15": 417,
-      "2026-10-16": 310
+      "2026-10-16": 316
     }
   },
   {
@@ -612,17 +612,17 @@
     "url": "$GGN",
     "icon": "$GGN_ICON",
     "slug": "gazelle-games",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.31%",
-    "uptimeDay": "87.79%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "87.63%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "98.27%",
-    "time": 2644,
-    "timeDay": 555,
-    "timeWeek": 1145,
-    "timeMonth": 950,
-    "timeYear": 2064,
+    "time": 2633,
+    "timeDay": 844,
+    "timeWeek": 1167,
+    "timeMonth": 960,
+    "timeYear": 2063,
     "dailyMinutesDown": {
       "2025-10-17": 939,
       "2025-10-18": 564,
@@ -677,7 +677,7 @@
       "2026-09-16": 20,
       "2026-09-27": 16,
       "2026-10-08": 33,
-      "2026-10-16": 176
+      "2026-10-16": 178
     }
   },
   {
@@ -791,16 +791,16 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "94.69%",
-    "uptimeWeek": "96.03%",
-    "uptimeMonth": "96.72%",
+    "uptimeDay": "94.42%",
+    "uptimeWeek": "95.99%",
+    "uptimeMonth": "96.71%",
     "uptimeYear": "99.54%",
     "time": 912,
-    "timeDay": 992,
-    "timeWeek": 1012,
-    "timeMonth": 991,
+    "timeDay": 990,
+    "timeWeek": 1011,
+    "timeMonth": 990,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2026-08-25": 19,
@@ -840,7 +840,7 @@
       "2026-10-10": 84,
       "2026-10-13": 124,
       "2026-10-14": 94,
-      "2026-10-16": 77
+      "2026-10-16": 80
     }
   },
   {
@@ -848,16 +848,16 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "status": "degraded",
+    "uptime": "99.71%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "98.31%",
     "uptimeYear": "99.54%",
-    "time": 1229,
-    "timeDay": 1744,
-    "timeWeek": 1736,
-    "timeMonth": 2294,
+    "time": 1230,
+    "timeDay": 1697,
+    "timeWeek": 1721,
+    "timeMonth": 2277,
     "timeYear": 1210,
     "dailyMinutesDown": {
       "2025-10-27": 20,
@@ -903,7 +903,8 @@
       "2026-09-29": 67,
       "2026-10-05": 632,
       "2026-10-08": 25,
-      "2026-10-12": 15
+      "2026-10-12": 15,
+      "2026-10-16": 2
     }
   },
   {
