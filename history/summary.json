@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "55.45%",
-    "uptimeWeek": "64.66%",
-    "uptimeMonth": "91.87%",
+    "uptimeDay": "56.20%",
+    "uptimeWeek": "64.77%",
+    "uptimeMonth": "91.89%",
     "uptimeYear": "99.32%",
     "time": 1039,
-    "timeDay": 1033,
+    "timeDay": 1037,
     "timeWeek": 1047,
     "timeMonth": 1050,
     "timeYear": 1047,
@@ -21,7 +21,7 @@
       "2026-10-13": 454,
       "2026-10-14": 670,
       "2026-10-15": 567,
-      "2026-10-16": 564
+      "2026-10-16": 553
     }
   },
   {
@@ -469,24 +469,24 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "68.34%",
-    "uptimeWeek": "68.13%",
-    "uptimeMonth": "92.15%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "69.10%",
+    "uptimeWeek": "68.23%",
+    "uptimeMonth": "92.14%",
+    "uptimeYear": "99.34%",
     "time": 1067,
     "timeDay": 1087,
     "timeWeek": 1121,
     "timeMonth": 1087,
     "timeYear": 1071,
     "dailyMinutesDown": {
-      "2026-10-09": 315,
+      "2026-10-09": 332,
       "2026-10-10": 431,
       "2026-10-11": 510,
       "2026-10-12": 340,
       "2026-10-13": 424,
       "2026-10-14": 607,
       "2026-10-15": 417,
-      "2026-10-16": 393
+      "2026-10-16": 382
     }
   },
   {
@@ -1229,9 +1229,9 @@
     "slug": "secret-cinema",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "98.40%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "98.43%",
     "uptimeYear": "99.40%",
     "time": 919,
     "timeDay": 882,
@@ -1239,7 +1239,7 @@
     "timeMonth": 1049,
     "timeYear": 935,
     "dailyMinutesDown": {
-      "2026-08-01": 22,
+      "2026-08-01": 65,
       "2026-08-02": 105,
       "2026-08-03": 171,
       "2026-08-04": 131,
@@ -1286,7 +1286,7 @@
       "2026-10-10": 45,
       "2026-10-13": 68,
       "2026-10-14": 31,
-      "2026-10-16": 42
+      "2026-10-16": 31
     }
   },
   {
