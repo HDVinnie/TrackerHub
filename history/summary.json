@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "54.30%",
-    "uptimeWeek": "65.27%",
-    "uptimeMonth": "92.01%",
+    "uptimeDay": "53.88%",
+    "uptimeWeek": "65.21%",
+    "uptimeMonth": "91.99%",
     "uptimeYear": "99.33%",
     "time": 1033,
-    "timeDay": 1033,
+    "timeDay": 1034,
     "timeWeek": 1045,
     "timeMonth": 1050,
     "timeYear": 1047,
@@ -21,7 +21,7 @@
       "2026-10-13": 454,
       "2026-10-14": 670,
       "2026-10-15": 567,
-      "2026-10-16": 624
+      "2026-10-16": 630
     }
   },
   {
@@ -467,26 +467,26 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "68.79%",
-    "uptimeWeek": "68.46%",
-    "uptimeMonth": "92.07%",
+    "uptimeDay": "68.71%",
+    "uptimeWeek": "68.45%",
+    "uptimeMonth": "92.10%",
     "uptimeYear": "99.34%",
-    "time": 1067,
-    "timeDay": 1103,
+    "time": 1068,
+    "timeDay": 1108,
     "timeWeek": 1123,
     "timeMonth": 1087,
     "timeYear": 1071,
     "dailyMinutesDown": {
-      "2026-10-09": 315,
+      "2026-10-09": 299,
       "2026-10-10": 431,
       "2026-10-11": 510,
       "2026-10-12": 340,
       "2026-10-13": 424,
       "2026-10-14": 607,
       "2026-10-15": 417,
-      "2026-10-16": 430
+      "2026-10-16": 431
     }
   },
   {
@@ -970,17 +970,17 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "96.82%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "99.21%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "99.01%",
-    "time": 1005,
-    "timeDay": 2180,
-    "timeWeek": 1724,
-    "timeMonth": 1255,
-    "timeYear": 1029,
+    "time": 1004,
+    "timeDay": 2057,
+    "timeWeek": 1704,
+    "timeMonth": 1252,
+    "timeYear": 1028,
     "dailyMinutesDown": {
       "2026-07-11": 84,
       "2026-07-12": 135,
@@ -1038,7 +1038,7 @@
       "2026-10-12": 60,
       "2026-10-13": 20,
       "2026-10-14": 15,
-      "2026-10-16": 46
+      "2026-10-16": 50
     }
   },
   {
