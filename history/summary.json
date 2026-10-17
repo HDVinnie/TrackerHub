@@ -7,9 +7,9 @@
     "status": "degraded",
     "uptime": "99.85%",
     "uptimeDay": "54.42%",
-    "uptimeWeek": "65.34%",
+    "uptimeWeek": "65.30%",
     "uptimeMonth": "92.02%",
-    "uptimeYear": "99.34%",
+    "uptimeYear": "99.33%",
     "time": 1033,
     "timeDay": 1058,
     "timeWeek": 1049,
@@ -22,7 +22,7 @@
       "2026-10-14": 670,
       "2026-10-15": 567,
       "2026-10-16": 657,
-      "2026-10-17": 32
+      "2026-10-17": 36
     }
   },
   {
@@ -467,15 +467,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "67.78%",
-    "uptimeWeek": "68.00%",
-    "uptimeMonth": "92.13%",
+    "uptimeDay": "67.84%",
+    "uptimeWeek": "67.97%",
+    "uptimeMonth": "92.12%",
     "uptimeYear": "99.34%",
     "time": 1068,
-    "timeDay": 1108,
-    "timeWeek": 1127,
+    "timeDay": 1102,
+    "timeWeek": 1126,
     "timeMonth": 1087,
     "timeYear": 1071,
     "dailyMinutesDown": {
@@ -487,7 +487,7 @@
       "2026-10-14": 607,
       "2026-10-15": 417,
       "2026-10-16": 464,
-      "2026-10-17": 33
+      "2026-10-17": 35
     }
   },
   {
