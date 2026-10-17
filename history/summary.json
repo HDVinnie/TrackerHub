@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "58.03%",
-    "uptimeWeek": "65.10%",
-    "uptimeMonth": "91.97%",
+    "uptimeDay": "56.57%",
+    "uptimeWeek": "64.89%",
+    "uptimeMonth": "91.92%",
     "uptimeYear": "99.33%",
     "time": 1034,
     "timeDay": 1059,
@@ -22,7 +22,7 @@
       "2026-10-14": 670,
       "2026-10-15": 567,
       "2026-10-16": 657,
-      "2026-10-17": 102
+      "2026-10-17": 123
     }
   },
   {
@@ -469,10 +469,10 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "72.00%",
-    "uptimeWeek": "68.51%",
-    "uptimeMonth": "92.26%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "70.55%",
+    "uptimeWeek": "68.30%",
+    "uptimeMonth": "92.21%",
+    "uptimeYear": "99.35%",
     "time": 1069,
     "timeDay": 1103,
     "timeWeek": 1123,
@@ -487,7 +487,7 @@
       "2026-10-14": 607,
       "2026-10-15": 417,
       "2026-10-16": 464,
-      "2026-10-17": 77
+      "2026-10-17": 98
     }
   },
   {
@@ -790,19 +790,19 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "96.26%",
-    "uptimeWeek": "96.53%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "96.51%",
     "uptimeMonth": "96.78%",
     "uptimeYear": "99.54%",
     "time": 914,
-    "timeDay": 979,
+    "timeDay": 984,
     "timeWeek": 1009,
     "timeMonth": 991,
     "timeYear": 939,
     "dailyMinutesDown": {
-      "2026-08-25": 55,
+      "2026-08-25": 19,
       "2026-08-26": 144,
       "2026-08-30": 18,
       "2026-08-31": 94,
@@ -839,7 +839,8 @@
       "2026-10-10": 84,
       "2026-10-13": 124,
       "2026-10-14": 94,
-      "2026-10-16": 75
+      "2026-10-16": 75,
+      "2026-10-17": 2
     }
   },
   {
@@ -914,7 +915,7 @@
     "status": "up",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.38%",
     "time": 1815,
