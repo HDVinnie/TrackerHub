@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "60.54%",
-    "uptimeWeek": "66.21%",
-    "uptimeMonth": "92.22%",
+    "uptimeDay": "60.56%",
+    "uptimeWeek": "66.16%",
+    "uptimeMonth": "92.21%",
     "uptimeYear": "99.35%",
     "time": 1036,
-    "timeDay": 1049,
+    "timeDay": 1047,
     "timeWeek": 1047,
     "timeMonth": 1051,
     "timeYear": 1047,
@@ -21,7 +21,7 @@
       "2026-10-14": 670,
       "2026-10-15": 567,
       "2026-10-16": 657,
-      "2026-10-17": 392
+      "2026-10-17": 397
     }
   },
   {
@@ -385,7 +385,7 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.69%",
     "time": 801,
-    "timeDay": 777,
+    "timeDay": 789,
     "timeWeek": 762,
     "timeMonth": 623,
     "timeYear": 692,
@@ -466,16 +466,16 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "73.81%",
-    "uptimeWeek": "68.57%",
-    "uptimeMonth": "92.50%",
+    "uptimeDay": "73.71%",
+    "uptimeWeek": "68.58%",
+    "uptimeMonth": "92.49%",
     "uptimeYear": "99.37%",
     "time": 1066,
-    "timeDay": 1037,
-    "timeWeek": 1114,
-    "timeMonth": 1079,
+    "timeDay": 1032,
+    "timeWeek": 1112,
+    "timeMonth": 1078,
     "timeYear": 1070,
     "dailyMinutesDown": {
       "2026-10-10": 265,
@@ -485,7 +485,7 @@
       "2026-10-14": 607,
       "2026-10-15": 417,
       "2026-10-16": 464,
-      "2026-10-17": 259
+      "2026-10-17": 264
     }
   },
   {
@@ -789,16 +789,16 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "96.73%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "96.72%",
     "uptimeYear": "99.54%",
     "time": 915,
-    "timeDay": 932,
-    "timeWeek": 1008,
-    "timeMonth": 990,
+    "timeDay": 917,
+    "timeWeek": 1005,
+    "timeMonth": 989,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2026-08-26": 144,
@@ -838,7 +838,7 @@
       "2026-10-13": 124,
       "2026-10-14": 94,
       "2026-10-16": 75,
-      "2026-10-17": 26
+      "2026-10-17": 29
     }
   },
   {
