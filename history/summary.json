@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "62.41%",
-    "uptimeWeek": "67.39%",
-    "uptimeMonth": "92.50%",
+    "uptimeDay": "61.37%",
+    "uptimeWeek": "67.24%",
+    "uptimeMonth": "92.46%",
     "uptimeYear": "99.37%",
     "time": 1037,
     "timeDay": 1069,
@@ -21,7 +21,7 @@
       "2026-10-14": 670,
       "2026-10-15": 567,
       "2026-10-16": 657,
-      "2026-10-17": 480
+      "2026-10-17": 495
     }
   },
   {
@@ -168,16 +168,16 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "97.51%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "98.28%",
+    "uptimeMonth": "97.48%",
     "uptimeYear": "97.81%",
     "time": 1144,
-    "timeDay": 1740,
-    "timeWeek": 1695,
-    "timeMonth": 2338,
+    "timeDay": 1588,
+    "timeWeek": 1673,
+    "timeMonth": 2324,
     "timeYear": 1118,
     "dailyMinutesDown": {
       "2025-10-27": 21,
@@ -246,7 +246,7 @@
       "2026-10-13": 20,
       "2026-10-14": 59,
       "2026-10-16": 30,
-      "2026-10-17": 2
+      "2026-10-17": 16
     }
   },
   {
@@ -470,12 +470,12 @@
     "status": "up",
     "uptime": "99.85%",
     "uptimeDay": "77.61%",
-    "uptimeWeek": "69.73%",
+    "uptimeWeek": "69.74%",
     "uptimeMonth": "92.52%",
     "uptimeYear": "99.38%",
     "time": 1064,
     "timeDay": 991,
-    "timeWeek": 1107,
+    "timeWeek": 1108,
     "timeMonth": 1078,
     "timeYear": 1070,
     "dailyMinutesDown": {
@@ -621,7 +621,7 @@
     "timeDay": 597,
     "timeWeek": 1388,
     "timeMonth": 1041,
-    "timeYear": 1764,
+    "timeYear": 1766,
     "dailyMinutesDown": {
       "2025-10-18": 564,
       "2025-10-19": 1000,
@@ -1236,7 +1236,7 @@
     "uptimeYear": "99.40%",
     "time": 918,
     "timeDay": 982,
-    "timeWeek": 929,
+    "timeWeek": 940,
     "timeMonth": 1052,
     "timeYear": 935,
     "dailyMinutesDown": {
