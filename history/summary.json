@@ -4,11 +4,11 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "57.91%",
-    "uptimeWeek": "66.29%",
-    "uptimeMonth": "92.24%",
+    "uptimeDay": "57.93%",
+    "uptimeWeek": "66.24%",
+    "uptimeMonth": "92.23%",
     "uptimeYear": "99.35%",
     "time": 1036,
     "timeDay": 1049,
@@ -21,7 +21,7 @@
       "2026-10-14": 670,
       "2026-10-15": 567,
       "2026-10-16": 657,
-      "2026-10-17": 384
+      "2026-10-17": 389
     }
   },
   {
@@ -168,17 +168,17 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "97.51%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "97.50%",
     "uptimeYear": "97.81%",
     "time": 1140,
-    "timeDay": 1333,
-    "timeWeek": 1672,
-    "timeMonth": 2340,
-    "timeYear": 1115,
+    "timeDay": 1216,
+    "timeWeek": 1646,
+    "timeMonth": 2325,
+    "timeYear": 1114,
     "dailyMinutesDown": {
       "2025-10-27": 21,
       "2025-11-03": 39,
@@ -246,7 +246,7 @@
       "2026-10-13": 20,
       "2026-10-14": 59,
       "2026-10-16": 30,
-      "2026-10-17": 1
+      "2026-10-17": 6
     }
   },
   {
@@ -467,15 +467,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "72.81%",
-    "uptimeWeek": "68.49%",
-    "uptimeMonth": "92.50%",
+    "uptimeDay": "72.53%",
+    "uptimeWeek": "68.45%",
+    "uptimeMonth": "92.49%",
     "uptimeYear": "99.37%",
-    "time": 1067,
-    "timeDay": 1048,
-    "timeWeek": 1115,
+    "time": 1066,
+    "timeDay": 1047,
+    "timeWeek": 1113,
     "timeMonth": 1079,
     "timeYear": 1070,
     "dailyMinutesDown": {
@@ -486,7 +486,7 @@
       "2026-10-14": 607,
       "2026-10-15": 417,
       "2026-10-16": 464,
-      "2026-10-17": 259
+      "2026-10-17": 263
     }
   },
   {
