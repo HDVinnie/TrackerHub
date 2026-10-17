@@ -6,13 +6,13 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "52.82%",
-    "uptimeWeek": "65.90%",
-    "uptimeMonth": "92.15%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "51.93%",
+    "uptimeWeek": "65.76%",
+    "uptimeMonth": "92.12%",
+    "uptimeYear": "99.34%",
     "time": 1035,
-    "timeDay": 1057,
-    "timeWeek": 1048,
+    "timeDay": 1059,
+    "timeWeek": 1049,
     "timeMonth": 1051,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-10-14": 670,
       "2026-10-15": 567,
       "2026-10-16": 657,
-      "2026-10-17": 286
+      "2026-10-17": 300
     }
   },
   {
@@ -469,13 +469,13 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "73.56%",
-    "uptimeWeek": "69.00%",
-    "uptimeMonth": "92.31%",
+    "uptimeDay": "72.62%",
+    "uptimeWeek": "68.86%",
+    "uptimeMonth": "92.28%",
     "uptimeYear": "99.36%",
     "time": 1068,
-    "timeDay": 1062,
-    "timeWeek": 1116,
+    "timeDay": 1068,
+    "timeWeek": 1117,
     "timeMonth": 1085,
     "timeYear": 1071,
     "dailyMinutesDown": {
@@ -486,7 +486,7 @@
       "2026-10-14": 607,
       "2026-10-15": 417,
       "2026-10-16": 464,
-      "2026-10-17": 175
+      "2026-10-17": 189
     }
   },
   {
@@ -613,7 +613,7 @@
     "slug": "gazelle-games",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "95.90%",
+    "uptimeDay": "96.89%",
     "uptimeWeek": "98.08%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "98.47%",
@@ -971,19 +971,19 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.77%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.01%",
-    "time": 1006,
-    "timeDay": 1121,
-    "timeWeek": 1655,
-    "timeMonth": 1253,
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.02%",
+    "time": 1007,
+    "timeDay": 1120,
+    "timeWeek": 1667,
+    "timeMonth": 1252,
     "timeYear": 1029,
     "dailyMinutesDown": {
-      "2026-07-11": 84,
+      "2026-07-11": 27,
       "2026-07-12": 135,
       "2026-07-14": 138,
       "2026-07-16": 166,
@@ -1040,7 +1040,7 @@
       "2026-10-13": 20,
       "2026-10-14": 15,
       "2026-10-16": 44,
-      "2026-10-17": 18
+      "2026-10-17": 20
     }
   },
   {
