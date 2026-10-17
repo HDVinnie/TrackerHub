@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "61.81%",
-    "uptimeWeek": "67.86%",
-    "uptimeMonth": "92.61%",
+    "uptimeDay": "61.56%",
+    "uptimeWeek": "67.82%",
+    "uptimeMonth": "92.60%",
     "uptimeYear": "99.38%",
     "time": 1038,
-    "timeDay": 1058,
-    "timeWeek": 1047,
+    "timeDay": 1042,
+    "timeWeek": 1046,
     "timeMonth": 1051,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2026-10-14": 670,
       "2026-10-15": 567,
       "2026-10-16": 657,
-      "2026-10-17": 547
+      "2026-10-17": 551
     }
   },
   {
@@ -469,12 +469,12 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "78.60%",
-    "uptimeWeek": "69.57%",
-    "uptimeMonth": "92.61%",
+    "uptimeDay": "78.33%",
+    "uptimeWeek": "69.53%",
+    "uptimeMonth": "92.60%",
     "uptimeYear": "99.38%",
     "time": 1064,
-    "timeDay": 985,
+    "timeDay": 966,
     "timeWeek": 1104,
     "timeMonth": 1078,
     "timeYear": 1070,
@@ -486,7 +486,7 @@
       "2026-10-14": 607,
       "2026-10-15": 417,
       "2026-10-16": 464,
-      "2026-10-17": 306
+      "2026-10-17": 311
     }
   },
   {
@@ -1112,17 +1112,17 @@
     "url": "$PTP",
     "icon": "$PTP_ICON",
     "slug": "pass-the-popcorn",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "93.79%",
     "time": 831,
-    "timeDay": 1526,
-    "timeWeek": 1841,
-    "timeMonth": 1132,
-    "timeYear": 856,
+    "timeDay": 1140,
+    "timeWeek": 1764,
+    "timeMonth": 1115,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2025-10-28": 101,
       "2025-10-29": 868,
@@ -1158,7 +1158,7 @@
       "2026-09-03": 29,
       "2026-10-11": 16,
       "2026-10-14": 15,
-      "2026-10-17": 2
+      "2026-10-17": 5
     }
   },
   {
