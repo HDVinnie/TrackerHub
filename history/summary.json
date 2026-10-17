@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "51.15%",
-    "uptimeWeek": "65.70%",
-    "uptimeMonth": "92.11%",
+    "uptimeDay": "49.86%",
+    "uptimeWeek": "65.52%",
+    "uptimeMonth": "92.06%",
     "uptimeYear": "99.34%",
     "time": 1035,
-    "timeDay": 1061,
+    "timeDay": 1062,
     "timeWeek": 1048,
     "timeMonth": 1051,
     "timeYear": 1047,
@@ -22,7 +22,7 @@
       "2026-10-14": 670,
       "2026-10-15": 567,
       "2026-10-16": 657,
-      "2026-10-17": 266
+      "2026-10-17": 285
     }
   },
   {
@@ -169,17 +169,17 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.44%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "97.52%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "97.51%",
     "uptimeYear": "97.81%",
-    "time": 1135,
-    "timeDay": 980,
-    "timeWeek": 1667,
-    "timeMonth": 2393,
-    "timeYear": 1112,
+    "time": 1140,
+    "timeDay": 1369,
+    "timeWeek": 1706,
+    "timeMonth": 2401,
+    "timeYear": 1115,
     "dailyMinutesDown": {
       "2025-10-27": 21,
       "2025-11-03": 39,
@@ -246,7 +246,8 @@
       "2026-10-12": 16,
       "2026-10-13": 20,
       "2026-10-14": 59,
-      "2026-10-16": 30
+      "2026-10-16": 30,
+      "2026-10-17": 2
     }
   },
   {
@@ -469,9 +470,9 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "70.18%",
-    "uptimeWeek": "68.58%",
-    "uptimeMonth": "92.30%",
+    "uptimeDay": "70.59%",
+    "uptimeWeek": "68.64%",
+    "uptimeMonth": "92.27%",
     "uptimeYear": "99.36%",
     "time": 1069,
     "timeDay": 1077,
@@ -479,6 +480,7 @@
     "timeMonth": 1086,
     "timeYear": 1071,
     "dailyMinutesDown": {
+      "2026-10-09": 20,
       "2026-10-10": 431,
       "2026-10-11": 510,
       "2026-10-12": 340,
@@ -486,7 +488,7 @@
       "2026-10-14": 607,
       "2026-10-15": 417,
       "2026-10-16": 464,
-      "2026-10-17": 179
+      "2026-10-17": 173
     }
   },
   {
@@ -613,10 +615,10 @@
     "slug": "gazelle-games",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "87.23%",
+    "uptimeDay": "88.64%",
     "uptimeWeek": "98.08%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "98.44%",
+    "uptimeYear": "98.45%",
     "time": 2612,
     "timeDay": 1590,
     "timeWeek": 1388,
