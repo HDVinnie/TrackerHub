@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "61.81%",
-    "uptimeWeek": "69.51%",
-    "uptimeMonth": "92.98%",
+    "uptimeDay": "62.16%",
+    "uptimeWeek": "69.56%",
+    "uptimeMonth": "92.99%",
     "uptimeYear": "99.42%",
     "time": 1036,
-    "timeDay": 1033,
+    "timeDay": 1035,
     "timeWeek": 1044,
     "timeMonth": 1051,
     "timeYear": 1047,
@@ -21,7 +21,7 @@
       "2026-10-15": 567,
       "2026-10-16": 657,
       "2026-10-17": 545,
-      "2026-10-18": 481
+      "2026-10-18": 476
     }
   },
   {
@@ -471,13 +471,13 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "74.06%",
-    "uptimeWeek": "70.88%",
-    "uptimeMonth": "92.76%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "72.21%",
+    "uptimeWeek": "70.81%",
+    "uptimeMonth": "92.70%",
+    "uptimeYear": "99.39%",
     "time": 1068,
     "timeDay": 1058,
-    "timeWeek": 1089,
+    "timeWeek": 1091,
     "timeMonth": 1079,
     "timeYear": 1070,
     "dailyMinutesDown": {
@@ -488,7 +488,7 @@
       "2026-10-15": 417,
       "2026-10-16": 464,
       "2026-10-17": 313,
-      "2026-10-18": 350
+      "2026-10-18": 376
     }
   },
   {
@@ -618,12 +618,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.08%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "98.61%",
-    "time": 2609,
+    "uptimeYear": "98.62%",
+    "time": 2207,
     "timeDay": 405,
     "timeWeek": 1128,
     "timeMonth": 1041,
-    "timeYear": 1640,
+    "timeYear": 1627,
     "dailyMinutesDown": {
       "2025-10-19": 1000,
       "2025-10-20": 1174,
@@ -799,7 +799,7 @@
     "uptimeYear": "99.54%",
     "time": 920,
     "timeDay": 966,
-    "timeWeek": 994,
+    "timeWeek": 995,
     "timeMonth": 987,
     "timeYear": 939,
     "dailyMinutesDown": {
@@ -973,19 +973,19 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.46%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "98.43%",
     "uptimeMonth": "99.22%",
-    "uptimeYear": "99.01%",
+    "uptimeYear": "99.02%",
     "time": 1008,
-    "timeDay": 843,
-    "timeWeek": 1622,
-    "timeMonth": 1239,
-    "timeYear": 1029,
+    "timeDay": 1031,
+    "timeWeek": 1621,
+    "timeMonth": 1241,
+    "timeYear": 1030,
     "dailyMinutesDown": {
-      "2026-07-11": 84,
+      "2026-07-11": 27,
       "2026-07-12": 135,
       "2026-07-14": 138,
       "2026-07-16": 166,
@@ -1042,7 +1042,8 @@
       "2026-10-13": 20,
       "2026-10-14": 15,
       "2026-10-16": 44,
-      "2026-10-17": 18
+      "2026-10-17": 18,
+      "2026-10-18": 2
     }
   },
   {
