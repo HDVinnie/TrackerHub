@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.86%",
     "uptimeDay": "64.56%",
-    "uptimeWeek": "68.40%",
-    "uptimeMonth": "92.73%",
+    "uptimeWeek": "68.35%",
+    "uptimeMonth": "92.72%",
     "uptimeYear": "99.39%",
     "time": 1035,
     "timeDay": 1042,
@@ -21,7 +21,7 @@
       "2026-10-15": 567,
       "2026-10-16": 657,
       "2026-10-17": 545,
-      "2026-10-18": 321
+      "2026-10-18": 325
     }
   },
   {
@@ -469,26 +469,26 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "75.75%",
-    "uptimeWeek": "70.59%",
-    "uptimeMonth": "92.53%",
+    "uptimeDay": "75.94%",
+    "uptimeWeek": "70.58%",
+    "uptimeMonth": "92.58%",
     "uptimeYear": "99.38%",
-    "time": 1067,
-    "timeDay": 1027,
+    "time": 1068,
+    "timeDay": 1029,
     "timeWeek": 1098,
     "timeMonth": 1079,
     "timeYear": 1070,
     "dailyMinutesDown": {
-      "2026-10-11": 443,
+      "2026-10-11": 418,
       "2026-10-12": 340,
       "2026-10-13": 424,
       "2026-10-14": 607,
       "2026-10-15": 417,
       "2026-10-16": 464,
       "2026-10-17": 313,
-      "2026-10-18": 266
+      "2026-10-18": 267
     }
   },
   {
@@ -496,17 +496,17 @@
     "url": "$EMP",
     "icon": "$EMP_ICON",
     "slug": "empornium",
-    "status": "down",
+    "status": "up",
     "uptime": "97.35%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "89.06%",
-    "time": 838,
-    "timeDay": 277,
-    "timeWeek": 251,
-    "timeMonth": 348,
-    "timeYear": 698,
+    "time": 821,
+    "timeDay": 243,
+    "timeWeek": 246,
+    "timeMonth": 343,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2026-01-01": 97,
       "2025-12-31": 1440,
@@ -578,7 +578,7 @@
       "2026-07-30": 31,
       "2026-08-10": 20,
       "2026-08-29": 15,
-      "2026-10-18": 2
+      "2026-10-18": 4
     }
   },
   {
