@@ -4,25 +4,25 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "64.50%",
-    "uptimeWeek": "67.56%",
-    "uptimeMonth": "92.53%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "64.85%",
+    "uptimeWeek": "68.32%",
+    "uptimeMonth": "92.71%",
+    "uptimeYear": "99.39%",
     "time": 1038,
     "timeDay": 1040,
     "timeWeek": 1045,
     "timeMonth": 1051,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2026-10-12": 347,
+      "2026-10-12": 269,
       "2026-10-13": 454,
       "2026-10-14": 670,
       "2026-10-15": 567,
       "2026-10-16": 657,
       "2026-10-17": 545,
-      "2026-10-18": 33
+      "2026-10-18": 34
     }
   },
   {
@@ -135,10 +135,10 @@
     "slug": "anime-bytes",
     "status": "degraded",
     "uptime": "98.85%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.85%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.84%",
     "time": 1936,
     "timeDay": 9840,
     "timeWeek": 2134,
@@ -162,7 +162,7 @@
       "2026-09-05": 43,
       "2026-09-10": 34,
       "2026-10-13": 16,
-      "2026-10-18": 1
+      "2026-10-18": 8
     }
   },
   {
