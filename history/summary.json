@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "63.37%",
-    "uptimeWeek": "68.35%",
-    "uptimeMonth": "92.72%",
+    "uptimeDay": "62.45%",
+    "uptimeWeek": "68.20%",
+    "uptimeMonth": "92.68%",
     "uptimeYear": "99.39%",
     "time": 1035,
-    "timeDay": 1048,
+    "timeDay": 1043,
     "timeWeek": 1045,
     "timeMonth": 1051,
     "timeYear": 1047,
@@ -21,7 +21,7 @@
       "2026-10-15": 567,
       "2026-10-16": 657,
       "2026-10-17": 545,
-      "2026-10-18": 300
+      "2026-10-18": 315
     }
   },
   {
@@ -471,24 +471,24 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "72.66%",
-    "uptimeWeek": "70.06%",
-    "uptimeMonth": "92.56%",
+    "uptimeDay": "73.68%",
+    "uptimeWeek": "70.34%",
+    "uptimeMonth": "92.53%",
     "uptimeYear": "99.38%",
     "time": 1067,
-    "timeDay": 1026,
+    "timeDay": 1021,
     "timeWeek": 1100,
     "timeMonth": 1079,
     "timeYear": 1070,
     "dailyMinutesDown": {
-      "2026-10-11": 418,
+      "2026-10-11": 443,
       "2026-10-12": 340,
       "2026-10-13": 424,
       "2026-10-14": 607,
       "2026-10-15": 417,
       "2026-10-16": 464,
       "2026-10-17": 313,
-      "2026-10-18": 278
+      "2026-10-18": 266
     }
   },
   {
@@ -793,9 +793,9 @@
     "slug": "my-anona-mouse",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "96.64%",
-    "uptimeMonth": "96.72%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "96.70%",
+    "uptimeMonth": "96.74%",
     "uptimeYear": "99.54%",
     "time": 920,
     "timeDay": 949,
@@ -803,7 +803,7 @@
     "timeMonth": 987,
     "timeYear": 939,
     "dailyMinutesDown": {
-      "2026-08-26": 124,
+      "2026-08-26": 144,
       "2026-08-30": 18,
       "2026-08-31": 94,
       "2026-09-01": 20,
@@ -841,7 +841,7 @@
       "2026-10-14": 94,
       "2026-10-16": 75,
       "2026-10-17": 24,
-      "2026-10-18": 23
+      "2026-10-18": 17
     }
   },
   {
