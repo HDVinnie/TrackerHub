@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "63.48%",
-    "uptimeWeek": "69.30%",
-    "uptimeMonth": "92.94%",
+    "uptimeDay": "62.36%",
+    "uptimeWeek": "69.14%",
+    "uptimeMonth": "92.90%",
     "uptimeYear": "99.41%",
     "time": 1035,
-    "timeDay": 1040,
+    "timeDay": 1037,
     "timeWeek": 1045,
     "timeMonth": 1051,
     "timeYear": 1047,
@@ -21,7 +21,7 @@
       "2026-10-15": 567,
       "2026-10-16": 657,
       "2026-10-17": 545,
-      "2026-10-18": 442
+      "2026-10-18": 458
     }
   },
   {
@@ -169,17 +169,17 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "97.58%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "97.44%",
+    "uptimeDay": "96.50%",
+    "uptimeWeek": "98.26%",
+    "uptimeMonth": "97.40%",
     "uptimeYear": "97.81%",
-    "time": 1145,
-    "timeDay": 1393,
-    "timeWeek": 1732,
-    "timeMonth": 2317,
-    "timeYear": 1117,
+    "time": 1146,
+    "timeDay": 1275,
+    "timeWeek": 1707,
+    "timeMonth": 2303,
+    "timeYear": 1116,
     "dailyMinutesDown": {
       "2025-10-27": 21,
       "2025-11-03": 39,
@@ -248,7 +248,7 @@
       "2026-10-14": 59,
       "2026-10-16": 30,
       "2026-10-17": 16,
-      "2026-10-18": 19
+      "2026-10-18": 35
     }
   },
   {
@@ -469,15 +469,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "74.62%",
-    "uptimeWeek": "70.85%",
-    "uptimeMonth": "92.69%",
+    "uptimeDay": "73.55%",
+    "uptimeWeek": "70.86%",
+    "uptimeMonth": "92.66%",
     "uptimeYear": "99.39%",
-    "time": 1069,
-    "timeDay": 1057,
-    "timeWeek": 1090,
+    "time": 1068,
+    "timeDay": 1050,
+    "timeWeek": 1089,
     "timeMonth": 1079,
     "timeYear": 1070,
     "dailyMinutesDown": {
@@ -488,7 +488,7 @@
       "2026-10-15": 417,
       "2026-10-16": 464,
       "2026-10-17": 313,
-      "2026-10-18": 327
+      "2026-10-18": 342
     }
   },
   {
