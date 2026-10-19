@@ -4,16 +4,16 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "57.11%",
-    "uptimeWeek": "68.86%",
-    "uptimeMonth": "92.83%",
+    "uptimeDay": "57.14%",
+    "uptimeWeek": "68.82%",
+    "uptimeMonth": "92.82%",
     "uptimeYear": "99.40%",
     "time": 1039,
-    "timeDay": 1008,
+    "timeDay": 1006,
     "timeWeek": 1041,
-    "timeMonth": 1050,
+    "timeMonth": 1049,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2026-10-14": 322,
@@ -21,7 +21,7 @@
       "2026-10-16": 657,
       "2026-10-17": 545,
       "2026-10-18": 541,
-      "2026-10-19": 510
+      "2026-10-19": 515
     }
   },
   {
@@ -479,7 +479,7 @@
     "uptimeYear": "99.41%",
     "time": 1066,
     "timeDay": 1074,
-    "timeWeek": 1065,
+    "timeWeek": 1064,
     "timeMonth": 1073,
     "timeYear": 1070,
     "dailyMinutesDown": {
@@ -851,17 +851,17 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "98.22%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "98.21%",
     "uptimeYear": "99.53%",
     "time": 1251,
-    "timeDay": 2109,
-    "timeWeek": 1646,
-    "timeMonth": 2246,
-    "timeYear": 1229,
+    "timeDay": 1839,
+    "timeWeek": 1607,
+    "timeMonth": 2221,
+    "timeYear": 1228,
     "dailyMinutesDown": {
       "2025-10-27": 20,
       "2025-11-03": 39,
@@ -909,7 +909,7 @@
       "2026-10-12": 15,
       "2026-10-16": 17,
       "2026-10-18": 20,
-      "2026-10-19": 3
+      "2026-10-19": 6
     }
   },
   {
@@ -1171,17 +1171,17 @@
     "url": "$RED",
     "icon": "$RED_ICON",
     "slug": "redacted",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.19%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "83.79%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "83.78%",
     "uptimeYear": "97.41%",
-    "time": 1447,
-    "timeDay": 9882,
-    "timeWeek": 3882,
-    "timeMonth": 2800,
-    "timeYear": 1327,
+    "time": 1446,
+    "timeDay": 8576,
+    "timeWeek": 3756,
+    "timeMonth": 2765,
+    "timeYear": 1326,
     "dailyMinutesDown": {
       "2025-10-22": 263,
       "2025-11-14": 395,
@@ -1228,7 +1228,7 @@
       "2026-10-08": 40,
       "2026-10-10": 28,
       "2026-10-18": 19,
-      "2026-10-19": 2
+      "2026-10-19": 5
     }
   },
   {
