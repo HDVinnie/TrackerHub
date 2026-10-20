@@ -6,13 +6,13 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "60.20%",
-    "uptimeWeek": "69.55%",
-    "uptimeMonth": "92.99%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "59.33%",
+    "uptimeWeek": "69.27%",
+    "uptimeMonth": "92.93%",
+    "uptimeYear": "99.41%",
     "time": 1034,
-    "timeDay": 1029,
-    "timeWeek": 1042,
+    "timeDay": 1028,
+    "timeWeek": 1043,
     "timeMonth": 1050,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-10-17": 545,
       "2026-10-18": 541,
       "2026-10-19": 602,
-      "2026-10-20": 130
+      "2026-10-20": 158
     }
   },
   {
@@ -430,17 +430,17 @@
     "url": "$BTN",
     "icon": "$BTN_ICON",
     "slug": "broadcas-the-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.26%",
-    "time": 886,
-    "timeDay": 546,
-    "timeWeek": 646,
-    "timeMonth": 888,
-    "timeYear": 937,
+    "time": 893,
+    "timeDay": 2407,
+    "timeWeek": 948,
+    "timeMonth": 974,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2025-11-18": 115,
       "2025-11-20": 36,
@@ -464,7 +464,8 @@
       "2026-06-09": 69,
       "2026-08-22": 19,
       "2026-08-25": 590,
-      "2026-09-26": 114
+      "2026-09-26": 114,
+      "2026-10-20": 1
     }
   },
   {
@@ -474,13 +475,13 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "79.42%",
-    "uptimeWeek": "70.13%",
-    "uptimeMonth": "93.10%",
+    "uptimeDay": "77.44%",
+    "uptimeWeek": "69.97%",
+    "uptimeMonth": "93.03%",
     "uptimeYear": "99.42%",
     "time": 1067,
     "timeDay": 1088,
-    "timeWeek": 1068,
+    "timeWeek": 1069,
     "timeMonth": 1074,
     "timeYear": 1070,
     "dailyMinutesDown": {
@@ -491,7 +492,7 @@
       "2026-10-17": 313,
       "2026-10-18": 445,
       "2026-10-19": 403,
-      "2026-10-20": 48
+      "2026-10-20": 77
     }
   },
   {
@@ -621,7 +622,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.08%",
     "uptimeMonth": "99.45%",
-    "uptimeYear": "98.89%",
+    "uptimeYear": "98.90%",
     "time": 2195,
     "timeDay": 536,
     "timeWeek": 1084,
@@ -795,12 +796,12 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "95.47%",
-    "uptimeWeek": "96.23%",
+    "uptimeWeek": "96.35%",
     "uptimeMonth": "96.55%",
     "uptimeYear": "99.55%",
     "time": 910,
     "timeDay": 958,
-    "timeWeek": 987,
+    "timeWeek": 989,
     "timeMonth": 986,
     "timeYear": 940,
     "dailyMinutesDown": {
@@ -1237,12 +1238,12 @@
     "status": "up",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.08%",
+    "uptimeWeek": "99.20%",
     "uptimeMonth": "98.47%",
     "uptimeYear": "99.40%",
     "time": 917,
     "timeDay": 906,
-    "timeWeek": 898,
+    "timeWeek": 899,
     "timeMonth": 1053,
     "timeYear": 936,
     "dailyMinutesDown": {
