@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "59.61%",
-    "uptimeWeek": "70.06%",
-    "uptimeMonth": "93.11%",
+    "uptimeDay": "59.98%",
+    "uptimeWeek": "70.11%",
+    "uptimeMonth": "93.12%",
     "uptimeYear": "99.43%",
     "time": 1035,
-    "timeDay": 1037,
-    "timeWeek": 1041,
+    "timeDay": 1040,
+    "timeWeek": 1042,
     "timeMonth": 1050,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2026-10-17": 545,
       "2026-10-18": 541,
       "2026-10-19": 602,
-      "2026-10-20": 304
+      "2026-10-20": 298
     }
   },
   {
@@ -168,16 +168,16 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.44%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "97.28%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "97.88%",
+    "uptimeMonth": "97.27%",
     "uptimeYear": "97.79%",
-    "time": 1171,
-    "timeDay": 2013,
-    "timeWeek": 1641,
-    "timeMonth": 2275,
+    "time": 1172,
+    "timeDay": 1945,
+    "timeWeek": 1632,
+    "timeMonth": 2267,
     "timeYear": 1139,
     "dailyMinutesDown": {
       "2025-10-27": 21,
@@ -249,7 +249,7 @@
       "2026-10-17": 16,
       "2026-10-18": 35,
       "2026-10-19": 32,
-      "2026-10-20": 22
+      "2026-10-20": 24
     }
   },
   {
@@ -472,26 +472,26 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "74.07%",
-    "uptimeWeek": "69.98%",
-    "uptimeMonth": "93.05%",
+    "uptimeDay": "73.95%",
+    "uptimeWeek": "69.97%",
+    "uptimeMonth": "93.09%",
     "uptimeYear": "99.42%",
     "time": 1068,
     "timeDay": 1068,
-    "timeWeek": 1066,
-    "timeMonth": 1073,
+    "timeWeek": 1067,
+    "timeMonth": 1074,
     "timeYear": 1070,
     "dailyMinutesDown": {
-      "2026-10-13": 237,
+      "2026-10-13": 216,
       "2026-10-14": 607,
       "2026-10-15": 417,
       "2026-10-16": 464,
       "2026-10-17": 313,
       "2026-10-18": 445,
       "2026-10-19": 403,
-      "2026-10-20": 162
+      "2026-10-20": 164
     }
   },
   {
@@ -792,19 +792,18 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.90%",
-    "uptimeDay": "95.47%",
-    "uptimeWeek": "96.82%",
+    "uptimeDay": "95.33%",
+    "uptimeWeek": "96.80%",
     "uptimeMonth": "96.59%",
     "uptimeYear": "99.55%",
     "time": 911,
-    "timeDay": 965,
+    "timeDay": 970,
     "timeWeek": 976,
     "timeMonth": 986,
     "timeYear": 940,
     "dailyMinutesDown": {
-      "2026-08-30": 18,
       "2026-08-31": 94,
       "2026-09-01": 20,
       "2026-09-02": 39,
@@ -843,7 +842,7 @@
       "2026-10-17": 24,
       "2026-10-18": 17,
       "2026-10-19": 35,
-      "2026-10-20": 47
+      "2026-10-20": 49
     }
   },
   {
