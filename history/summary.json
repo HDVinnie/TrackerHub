@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "59.25%",
-    "uptimeWeek": "69.84%",
-    "uptimeMonth": "93.06%",
+    "uptimeDay": "59.84%",
+    "uptimeWeek": "69.90%",
+    "uptimeMonth": "93.07%",
     "uptimeYear": "99.42%",
-    "time": 1036,
-    "timeDay": 1053,
-    "timeWeek": 1040,
+    "time": 1037,
+    "timeDay": 1049,
+    "timeWeek": 1039,
     "timeMonth": 1050,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2026-10-17": 545,
       "2026-10-18": 541,
       "2026-10-19": 602,
-      "2026-10-20": 510
+      "2026-10-20": 503
     }
   },
   {
@@ -32,12 +32,12 @@
     "status": "up",
     "uptime": "99.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.55%",
+    "uptimeWeek": "98.57%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "98.15%",
     "time": 3972,
     "timeDay": 497,
-    "timeWeek": 973,
+    "timeWeek": 969,
     "timeMonth": 4478,
     "timeYear": 4032,
     "dailyMinutesDown": {
@@ -170,9 +170,9 @@
     "slug": "anthelion",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "97.26%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "97.28%",
     "uptimeYear": "97.79%",
     "time": 1178,
     "timeDay": 1578,
@@ -249,7 +249,7 @@
       "2026-10-17": 16,
       "2026-10-18": 35,
       "2026-10-19": 32,
-      "2026-10-20": 30
+      "2026-10-20": 22
     }
   },
   {
@@ -385,9 +385,9 @@
     "slug": "blutopia",
     "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.68%",
     "time": 776,
     "timeDay": 1013,
@@ -422,8 +422,7 @@
       "2026-09-03": 21,
       "2026-10-03": 24,
       "2026-10-17": 17,
-      "2026-10-19": 21,
-      "2026-10-20": 7
+      "2026-10-19": 21
     }
   },
   {
@@ -473,15 +472,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "69.79%",
-    "uptimeWeek": "70.13%",
-    "uptimeMonth": "93.13%",
+    "uptimeDay": "70.34%",
+    "uptimeWeek": "70.18%",
+    "uptimeMonth": "93.14%",
     "uptimeYear": "99.43%",
     "time": 1068,
-    "timeDay": 1057,
-    "timeWeek": 1063,
+    "timeDay": 1055,
+    "timeWeek": 1062,
     "timeMonth": 1073,
     "timeYear": 1070,
     "dailyMinutesDown": {
@@ -491,7 +490,7 @@
       "2026-10-17": 313,
       "2026-10-18": 445,
       "2026-10-19": 403,
-      "2026-10-20": 364
+      "2026-10-20": 359
     }
   },
   {
@@ -794,12 +793,12 @@
     "slug": "my-anona-mouse",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "92.99%",
+    "uptimeDay": "93.19%",
     "uptimeWeek": "96.75%",
     "uptimeMonth": "96.56%",
     "uptimeYear": "99.55%",
     "time": 913,
-    "timeDay": 975,
+    "timeDay": 972,
     "timeWeek": 977,
     "timeMonth": 984,
     "timeYear": 941,
@@ -1233,19 +1232,19 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.39%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "98.47%",
     "uptimeYear": "99.40%",
-    "time": 917,
-    "timeDay": 909,
-    "timeWeek": 897,
-    "timeMonth": 1053,
-    "timeYear": 936,
+    "time": 918,
+    "timeDay": 1354,
+    "timeWeek": 943,
+    "timeMonth": 1061,
+    "timeYear": 938,
     "dailyMinutesDown": {
-      "2026-08-01": 65,
+      "2026-08-01": 22,
       "2026-08-02": 105,
       "2026-08-03": 171,
       "2026-08-04": 131,
@@ -1292,7 +1291,8 @@
       "2026-10-10": 45,
       "2026-10-13": 68,
       "2026-10-14": 31,
-      "2026-10-16": 31
+      "2026-10-16": 31,
+      "2026-10-20": 2
     }
   },
   {
