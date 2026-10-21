@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.85%",
     "uptimeDay": "36.53%",
-    "uptimeWeek": "67.06%",
-    "uptimeMonth": "92.42%",
+    "uptimeWeek": "66.99%",
+    "uptimeMonth": "92.40%",
     "uptimeYear": "99.37%",
     "time": 1034,
     "timeDay": 1011,
@@ -21,7 +21,7 @@
       "2026-10-18": 541,
       "2026-10-19": 602,
       "2026-10-20": 555,
-      "2026-10-21": 861
+      "2026-10-21": 868
     }
   },
   {
@@ -31,9 +31,9 @@
     "slug": "alpha-ratio",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "98.19%",
+    "uptimeDay": "96.25%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "98.20%",
     "uptimeYear": "98.16%",
     "time": 3957,
     "timeDay": 942,
@@ -41,6 +41,7 @@
     "timeMonth": 4283,
     "timeYear": 3980,
     "dailyMinutesDown": {
+      "2025-11-26": 21,
       "2025-11-30": 16,
       "2025-12-03": 57,
       "2025-12-05": 18,
@@ -122,7 +123,7 @@
       "2026-10-14": 16,
       "2026-10-17": 18,
       "2026-10-19": 61,
-      "2026-10-21": 60
+      "2026-10-21": 54
     }
   },
   {
@@ -171,9 +172,9 @@
     "slug": "anthelion",
     "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "20.54%",
+    "uptimeDay": "20.03%",
     "uptimeWeek": "87.19%",
-    "uptimeMonth": "94.70%",
+    "uptimeMonth": "94.68%",
     "uptimeYear": "97.58%",
     "time": 1181,
     "timeDay": 987,
@@ -251,7 +252,7 @@
       "2026-10-18": 35,
       "2026-10-19": 32,
       "2026-10-20": 22,
-      "2026-10-21": 1144
+      "2026-10-21": 1152
     }
   },
   {
@@ -261,9 +262,9 @@
     "slug": "asian-cinema",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.61%",
     "time": 1581,
     "timeDay": 1500,
@@ -308,8 +309,7 @@
       "2026-09-29": 12,
       "2026-10-06": 19,
       "2026-10-10": 37,
-      "2026-10-13": 15,
-      "2026-10-21": 6
+      "2026-10-13": 15
     }
   },
   {
@@ -317,17 +317,17 @@
     "url": "$BHD",
     "icon": "$BHD_ICON",
     "slug": "beyond-hd",
-    "status": "degraded",
+    "status": "down",
     "uptime": "97.00%",
-    "uptimeDay": "82.69%",
-    "uptimeWeek": "97.09%",
-    "uptimeMonth": "99.24%",
+    "uptimeDay": "82.19%",
+    "uptimeWeek": "97.02%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "99.71%",
     "time": 1295,
-    "timeDay": 8675,
-    "timeWeek": 4842,
-    "timeMonth": 2937,
-    "timeYear": 1437,
+    "timeDay": 8187,
+    "timeWeek": 4722,
+    "timeMonth": 2902,
+    "timeYear": 1435,
     "dailyMinutesDown": {
       "2025-11-04": 238,
       "2025-11-18": 109,
@@ -357,7 +357,7 @@
       "2026-10-11": 17,
       "2026-10-14": 21,
       "2026-10-19": 44,
-      "2026-10-21": 250
+      "2026-10-21": 257
     }
   },
   {
@@ -437,9 +437,9 @@
     "slug": "broadcas-the-net",
     "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "26.43%",
-    "uptimeWeek": "89.49%",
-    "uptimeMonth": "97.32%",
+    "uptimeDay": "25.93%",
+    "uptimeWeek": "89.42%",
+    "uptimeMonth": "97.31%",
     "uptimeYear": "99.06%",
     "time": 892,
     "timeDay": 301,
@@ -470,7 +470,7 @@
       "2026-08-22": 19,
       "2026-08-25": 590,
       "2026-09-26": 114,
-      "2026-10-21": 1059
+      "2026-10-21": 1067
     }
   },
   {
@@ -481,8 +481,8 @@
     "status": "degraded",
     "uptime": "99.86%",
     "uptimeDay": "47.18%",
-    "uptimeWeek": "68.66%",
-    "uptimeMonth": "92.79%",
+    "uptimeWeek": "68.59%",
+    "uptimeMonth": "92.77%",
     "uptimeYear": "99.40%",
     "time": 1066,
     "timeDay": 1045,
@@ -496,7 +496,7 @@
       "2026-10-18": 445,
       "2026-10-19": 403,
       "2026-10-20": 399,
-      "2026-10-21": 720
+      "2026-10-21": 727
     }
   },
   {
@@ -624,9 +624,9 @@
     "slug": "gazelle-games",
     "status": "degraded",
     "uptime": "99.27%",
-    "uptimeDay": "20.50%",
-    "uptimeWeek": "86.73%",
-    "uptimeMonth": "96.83%",
+    "uptimeDay": "20.00%",
+    "uptimeWeek": "86.65%",
+    "uptimeMonth": "96.82%",
     "uptimeYear": "98.94%",
     "time": 2189,
     "timeDay": 1437,
@@ -683,7 +683,7 @@
       "2026-09-27": 16,
       "2026-10-08": 33,
       "2026-10-16": 194,
-      "2026-10-21": 1145
+      "2026-10-21": 1152
     }
   },
   {
@@ -746,16 +746,17 @@
     "slug": "hawke-uno",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "98.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "98.94%",
     "time": 1285,
     "timeDay": 578,
     "timeWeek": 442,
     "timeMonth": 1572,
     "timeYear": 1361,
     "dailyMinutesDown": {
+      "2026-02-26": 41,
       "2026-02-27": 69,
       "2026-02-28": 43,
       "2026-03-01": 28,
@@ -790,8 +791,7 @@
       "2026-07-27": 59,
       "2026-08-26": 19,
       "2026-09-03": 20,
-      "2026-10-06": 19,
-      "2026-10-21": 7
+      "2026-10-06": 19
     }
   },
   {
@@ -859,10 +859,10 @@
     "slug": "nebulance",
     "status": "degraded",
     "uptime": "99.72%",
-    "uptimeDay": "32.07%",
-    "uptimeWeek": "89.93%",
-    "uptimeMonth": "95.99%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "31.57%",
+    "uptimeWeek": "89.86%",
+    "uptimeMonth": "95.98%",
+    "uptimeYear": "99.34%",
     "time": 1271,
     "timeDay": 1293,
     "timeWeek": 1477,
@@ -915,7 +915,7 @@
       "2026-10-12": 15,
       "2026-10-16": 17,
       "2026-10-18": 20,
-      "2026-10-21": 979
+      "2026-10-21": 987
     }
   },
   {
@@ -1180,9 +1180,9 @@
     "slug": "redacted",
     "status": "down",
     "uptime": "98.14%",
-    "uptimeDay": "23.12%",
-    "uptimeWeek": "88.83%",
-    "uptimeMonth": "81.27%",
+    "uptimeDay": "22.62%",
+    "uptimeWeek": "88.75%",
+    "uptimeMonth": "81.25%",
     "uptimeYear": "97.20%",
     "time": 1448,
     "timeDay": 1445,
@@ -1235,7 +1235,7 @@
       "2026-10-08": 40,
       "2026-10-10": 28,
       "2026-10-18": 19,
-      "2026-10-21": 1107
+      "2026-10-21": 1114
     }
   },
   {
@@ -1246,8 +1246,8 @@
     "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "27.35%",
-    "uptimeWeek": "89.19%",
-    "uptimeMonth": "96.08%",
+    "uptimeWeek": "89.12%",
+    "uptimeMonth": "96.07%",
     "uptimeYear": "99.21%",
     "time": 918,
     "timeDay": 773,
@@ -1303,7 +1303,7 @@
       "2026-10-14": 31,
       "2026-10-16": 31,
       "2026-10-20": 18,
-      "2026-10-21": 1029
+      "2026-10-21": 1037
     }
   },
   {
