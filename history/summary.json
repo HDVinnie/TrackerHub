@@ -5,13 +5,13 @@
     "icon": "$AIH_ICON",
     "slug": "aither",
     "status": "degraded",
-    "uptime": "99.87%",
-    "uptimeDay": "60.55%",
-    "uptimeWeek": "69.96%",
-    "uptimeMonth": "93.09%",
+    "uptime": "99.86%",
+    "uptimeDay": "59.75%",
+    "uptimeWeek": "69.59%",
+    "uptimeMonth": "93.00%",
     "uptimeYear": "99.42%",
     "time": 1038,
-    "timeDay": 1046,
+    "timeDay": 1044,
     "timeWeek": 1037,
     "timeMonth": 1050,
     "timeYear": 1047,
@@ -22,7 +22,7 @@
       "2026-10-18": 541,
       "2026-10-19": 602,
       "2026-10-20": 555,
-      "2026-10-21": 51
+      "2026-10-21": 88
     }
   },
   {
@@ -173,9 +173,9 @@
     "slug": "anthelion",
     "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "97.27%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.19%",
     "uptimeYear": "97.79%",
     "time": 1181,
     "timeDay": 1281,
@@ -253,7 +253,7 @@
       "2026-10-18": 35,
       "2026-10-19": 32,
       "2026-10-20": 22,
-      "2026-10-21": 2
+      "2026-10-21": 39
     }
   },
   {
@@ -478,13 +478,13 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "70.37%",
-    "uptimeWeek": "69.97%",
+    "uptimeDay": "72.19%",
+    "uptimeWeek": "70.34%",
     "uptimeMonth": "93.09%",
     "uptimeYear": "99.42%",
     "time": 1068,
-    "timeDay": 1019,
-    "timeWeek": 1058,
+    "timeDay": 1016,
+    "timeWeek": 1056,
     "timeMonth": 1073,
     "timeYear": 1070,
     "dailyMinutesDown": {
@@ -621,11 +621,11 @@
     "icon": "$GGN_ICON",
     "slug": "gazelle-games",
     "status": "degraded",
-    "uptime": "99.32%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.06%",
+    "uptime": "99.31%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.05%",
     "time": 2189,
     "timeDay": 1437,
     "timeWeek": 1175,
@@ -681,7 +681,7 @@
       "2026-09-27": 16,
       "2026-10-08": 33,
       "2026-10-16": 194,
-      "2026-10-21": 2
+      "2026-10-21": 40
     }
   },
   {
@@ -798,12 +798,12 @@
     "slug": "my-anona-mouse",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "94.50%",
+    "uptimeDay": "96.31%",
     "uptimeWeek": "96.57%",
     "uptimeMonth": "96.52%",
     "uptimeYear": "99.55%",
     "time": 914,
-    "timeDay": 988,
+    "timeDay": 995,
     "timeWeek": 977,
     "timeMonth": 984,
     "timeYear": 941,
@@ -856,10 +856,10 @@
     "slug": "nebulance",
     "status": "degraded",
     "uptime": "99.75%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "98.22%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "98.14%",
+    "uptimeYear": "99.52%",
     "time": 1260,
     "timeDay": 2548,
     "timeWeek": 1732,
@@ -912,7 +912,7 @@
       "2026-10-12": 15,
       "2026-10-16": 17,
       "2026-10-18": 20,
-      "2026-10-21": 2
+      "2026-10-21": 40
     }
   },
   {
@@ -1123,10 +1123,10 @@
     "slug": "pass-the-popcorn",
     "status": "down",
     "uptime": "98.45%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "93.79%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "93.78%",
     "time": 863,
     "timeDay": 1437,
     "timeWeek": 1732,
@@ -1167,7 +1167,7 @@
       "2026-09-03": 29,
       "2026-10-11": 16,
       "2026-10-14": 15,
-      "2026-10-21": 23
+      "2026-10-21": 60
     }
   },
   {
@@ -1175,17 +1175,17 @@
     "url": "$RED",
     "icon": "$RED_ICON",
     "slug": "redacted",
-    "status": "up",
+    "status": "down",
     "uptime": "98.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "83.79%",
     "uptimeYear": "97.41%",
-    "time": 1444,
-    "timeDay": 585,
-    "timeWeek": 3888,
-    "timeMonth": 2760,
-    "timeYear": 1326,
+    "time": 1442,
+    "timeDay": 566,
+    "timeWeek": 3748,
+    "timeMonth": 2723,
+    "timeYear": 1325,
     "dailyMinutesDown": {
       "2025-10-22": 263,
       "2025-11-14": 395,
@@ -1231,7 +1231,8 @@
       "2026-10-06": 197,
       "2026-10-08": 40,
       "2026-10-10": 28,
-      "2026-10-18": 19
+      "2026-10-18": 19,
+      "2026-10-21": 2
     }
   },
   {
