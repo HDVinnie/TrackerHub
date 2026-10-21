@@ -4,25 +4,25 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "59.64%",
-    "uptimeWeek": "69.82%",
-    "uptimeMonth": "93.06%",
+    "uptimeDay": "60.55%",
+    "uptimeWeek": "69.96%",
+    "uptimeMonth": "93.09%",
     "uptimeYear": "99.42%",
     "time": 1038,
-    "timeDay": 1043,
+    "timeDay": 1046,
     "timeWeek": 1037,
     "timeMonth": 1050,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2026-10-15": 94,
+      "2026-10-15": 78,
       "2026-10-16": 657,
       "2026-10-17": 545,
       "2026-10-18": 541,
       "2026-10-19": 602,
       "2026-10-20": 555,
-      "2026-10-21": 49
+      "2026-10-21": 51
     }
   },
   {
@@ -171,13 +171,13 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "97.28%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "97.27%",
     "uptimeYear": "97.79%",
-    "time": 1180,
+    "time": 1181,
     "timeDay": 1281,
     "timeWeek": 1560,
     "timeMonth": 2228,
@@ -252,7 +252,8 @@
       "2026-10-17": 16,
       "2026-10-18": 35,
       "2026-10-19": 32,
-      "2026-10-20": 22
+      "2026-10-20": 22,
+      "2026-10-21": 2
     }
   },
   {
@@ -619,17 +620,17 @@
     "url": "$GGN",
     "icon": "$GGN_ICON",
     "slug": "gazelle-games",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "99.06%",
     "time": 2189,
-    "timeDay": 587,
-    "timeWeek": 1082,
-    "timeMonth": 1038,
-    "timeYear": 1366,
+    "timeDay": 1437,
+    "timeWeek": 1175,
+    "timeMonth": 1062,
+    "timeYear": 1367,
     "dailyMinutesDown": {
       "2025-10-22": 216,
       "2025-10-28": 36,
@@ -679,7 +680,8 @@
       "2026-09-16": 20,
       "2026-09-27": 16,
       "2026-10-08": 33,
-      "2026-10-16": 194
+      "2026-10-16": 194,
+      "2026-10-21": 2
     }
   },
   {
@@ -852,17 +854,17 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "98.23%",
+    "status": "degraded",
+    "uptime": "99.75%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "98.22%",
     "uptimeYear": "99.53%",
-    "time": 1255,
-    "timeDay": 704,
-    "timeWeek": 1649,
-    "timeMonth": 2227,
-    "timeYear": 1232,
+    "time": 1260,
+    "timeDay": 2548,
+    "timeWeek": 1732,
+    "timeMonth": 2257,
+    "timeYear": 1238,
     "dailyMinutesDown": {
       "2025-10-27": 20,
       "2025-11-03": 39,
@@ -909,7 +911,8 @@
       "2026-10-08": 25,
       "2026-10-12": 15,
       "2026-10-16": 17,
-      "2026-10-18": 20
+      "2026-10-18": 20,
+      "2026-10-21": 2
     }
   },
   {
@@ -1119,10 +1122,10 @@
     "icon": "$PTP_ICON",
     "slug": "pass-the-popcorn",
     "status": "down",
-    "uptime": "98.46%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.92%",
+    "uptime": "98.45%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "93.79%",
     "time": 863,
     "timeDay": 1437,
@@ -1164,7 +1167,7 @@
       "2026-09-03": 29,
       "2026-10-11": 16,
       "2026-10-14": 15,
-      "2026-10-21": 2
+      "2026-10-21": 23
     }
   },
   {
