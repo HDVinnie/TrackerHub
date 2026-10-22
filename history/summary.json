@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.86%",
     "uptimeDay": "48.74%",
-    "uptimeWeek": "67.92%",
-    "uptimeMonth": "92.62%",
+    "uptimeWeek": "67.88%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "99.38%",
     "time": 1036,
     "timeDay": 1033,
@@ -21,7 +21,7 @@
       "2026-10-19": 602,
       "2026-10-20": 555,
       "2026-10-21": 930,
-      "2026-10-22": 297
+      "2026-10-22": 301
     }
   },
   {
@@ -29,17 +29,17 @@
     "url": "$AR",
     "icon": "$AR_ICON",
     "slug": "alpha-ratio",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.20%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.19%",
     "uptimeYear": "98.16%",
-    "time": 3975,
-    "timeDay": 3935,
-    "timeWeek": 1618,
-    "timeMonth": 3978,
-    "timeYear": 3997,
+    "time": 3974,
+    "timeDay": 3439,
+    "timeWeek": 1575,
+    "timeMonth": 3953,
+    "timeYear": 3993,
     "dailyMinutesDown": {
       "2025-11-30": 16,
       "2025-12-03": 57,
@@ -123,7 +123,7 @@
       "2026-10-17": 18,
       "2026-10-19": 61,
       "2026-10-21": 54,
-      "2026-10-22": 2
+      "2026-10-22": 5
     }
   },
   {
@@ -173,8 +173,8 @@
     "status": "down",
     "uptime": "99.35%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.43%",
-    "uptimeMonth": "92.65%",
+    "uptimeWeek": "78.38%",
+    "uptimeMonth": "92.64%",
     "uptimeYear": "97.41%",
     "time": 1183,
     "timeDay": 0,
@@ -252,7 +252,7 @@
       "2026-10-18": 35,
       "2026-10-19": 32,
       "2026-10-20": 22,
-      "2026-10-22": 716,
+      "2026-10-22": 721,
       "2026-10-21": 1324
     }
   },
@@ -390,12 +390,12 @@
     "slug": "blutopia",
     "status": "up",
     "uptime": "98.71%",
-    "uptimeDay": "87.51%",
+    "uptimeDay": "87.58%",
     "uptimeWeek": "97.83%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.65%",
     "time": 778,
-    "timeDay": 390,
+    "timeDay": 515,
     "timeWeek": 803,
     "timeMonth": 680,
     "timeYear": 700,
@@ -438,7 +438,7 @@
     "slug": "broadcas-the-net",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "53.43%",
+    "uptimeDay": "53.76%",
     "uptimeWeek": "88.23%",
     "uptimeMonth": "97.03%",
     "uptimeYear": "99.04%",
@@ -482,8 +482,8 @@
     "status": "degraded",
     "uptime": "99.86%",
     "uptimeDay": "52.05%",
-    "uptimeWeek": "69.07%",
-    "uptimeMonth": "92.88%",
+    "uptimeWeek": "69.02%",
+    "uptimeMonth": "92.87%",
     "uptimeYear": "99.41%",
     "time": 1068,
     "timeDay": 1034,
@@ -498,7 +498,7 @@
       "2026-10-19": 403,
       "2026-10-20": 399,
       "2026-10-21": 761,
-      "2026-10-22": 335
+      "2026-10-22": 340
     }
   },
   {
@@ -626,7 +626,7 @@
     "slug": "gazelle-games",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "37.44%",
+    "uptimeDay": "37.77%",
     "uptimeWeek": "83.18%",
     "uptimeMonth": "96.02%",
     "uptimeYear": "98.93%",
@@ -695,7 +695,7 @@
     "slug": "great-poster-wall",
     "status": "up",
     "uptime": "98.59%",
-    "uptimeDay": "97.73%",
+    "uptimeDay": "98.06%",
     "uptimeWeek": "94.34%",
     "uptimeMonth": "97.87%",
     "uptimeYear": "98.40%",
@@ -862,9 +862,9 @@
     "status": "degraded",
     "uptime": "99.76%",
     "uptimeDay": "18.12%",
-    "uptimeWeek": "82.67%",
-    "uptimeMonth": "94.32%",
-    "uptimeYear": "99.21%",
+    "uptimeWeek": "82.62%",
+    "uptimeMonth": "94.31%",
+    "uptimeYear": "99.20%",
     "time": 1283,
     "timeDay": 1158,
     "timeWeek": 1404,
@@ -918,7 +918,7 @@
       "2026-10-16": 17,
       "2026-10-18": 20,
       "2026-10-21": 1133,
-      "2026-10-22": 579
+      "2026-10-22": 583
     }
   },
   {
@@ -928,7 +928,7 @@
     "slug": "only-encodes",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "75.45%",
+    "uptimeDay": "75.78%",
     "uptimeWeek": "95.33%",
     "uptimeMonth": "98.42%",
     "uptimeYear": "99.30%",
@@ -1129,7 +1129,7 @@
     "slug": "pass-the-popcorn",
     "status": "up",
     "uptime": "98.41%",
-    "uptimeDay": "75.36%",
+    "uptimeDay": "75.69%",
     "uptimeWeek": "90.31%",
     "uptimeMonth": "97.70%",
     "uptimeYear": "93.61%",
@@ -1184,8 +1184,8 @@
     "status": "down",
     "uptime": "98.10%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.93%",
-    "uptimeMonth": "79.22%",
+    "uptimeWeek": "79.88%",
+    "uptimeMonth": "79.21%",
     "uptimeYear": "97.08%",
     "time": 1448,
     "timeDay": 434,
@@ -1237,7 +1237,7 @@
       "2026-10-08": 40,
       "2026-10-10": 28,
       "2026-10-18": 19,
-      "2026-10-22": 718,
+      "2026-10-22": 723,
       "2026-10-21": 1285
     }
   },
@@ -1249,8 +1249,8 @@
     "status": "down",
     "uptime": "99.75%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.40%",
-    "uptimeMonth": "94.11%",
+    "uptimeWeek": "80.36%",
+    "uptimeMonth": "94.10%",
     "uptimeYear": "99.04%",
     "time": 918,
     "timeDay": 0,
@@ -1306,7 +1306,7 @@
       "2026-10-14": 31,
       "2026-10-16": 31,
       "2026-10-20": 18,
-      "2026-10-22": 718,
+      "2026-10-22": 723,
       "2026-10-21": 1208
     }
   },
