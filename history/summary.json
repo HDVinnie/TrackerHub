@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "65.14%",
-    "uptimeWeek": "66.79%",
-    "uptimeMonth": "92.36%",
+    "uptimeDay": "63.87%",
+    "uptimeWeek": "66.48%",
+    "uptimeMonth": "92.29%",
     "uptimeYear": "99.36%",
     "time": 1035,
     "timeDay": 1043,
-    "timeWeek": 1034,
+    "timeWeek": 1035,
     "timeMonth": 1043,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2026-10-20": 555,
       "2026-10-21": 930,
       "2026-10-22": 577,
-      "2026-10-23": 414
+      "2026-10-23": 446
     }
   },
   {
@@ -172,7 +172,7 @@
     "slug": "anthelion",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "90.46%",
+    "uptimeDay": "92.68%",
     "uptimeWeek": "72.55%",
     "uptimeMonth": "91.23%",
     "uptimeYear": "97.29%",
@@ -479,15 +479,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "79.71%",
-    "uptimeWeek": "68.96%",
-    "uptimeMonth": "92.86%",
+    "uptimeDay": "77.59%",
+    "uptimeWeek": "68.65%",
+    "uptimeMonth": "92.79%",
     "uptimeYear": "99.40%",
     "time": 1065,
-    "timeDay": 1020,
-    "timeWeek": 1043,
+    "timeDay": 1016,
+    "timeWeek": 1039,
     "timeMonth": 1069,
     "timeYear": 1069,
     "dailyMinutesDown": {
@@ -497,7 +497,7 @@
       "2026-10-20": 399,
       "2026-10-21": 761,
       "2026-10-22": 595,
-      "2026-10-23": 293
+      "2026-10-23": 324
     }
   },
   {
@@ -632,7 +632,7 @@
     "uptimeYear": "98.94%",
     "time": 2230,
     "timeDay": 490,
-    "timeWeek": 4493,
+    "timeWeek": 4766,
     "timeMonth": 2031,
     "timeYear": 1283,
     "dailyMinutesDown": {
@@ -803,9 +803,9 @@
     "slug": "my-anona-mouse",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "95.13%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "96.64%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "96.65%",
     "uptimeYear": "99.56%",
     "time": 922,
     "timeDay": 965,
@@ -813,6 +813,7 @@
     "timeMonth": 985,
     "timeYear": 942,
     "dailyMinutesDown": {
+      "2026-09-02": 16,
       "2026-09-03": 118,
       "2026-09-04": 47,
       "2026-09-05": 6,
@@ -849,7 +850,7 @@
       "2026-10-18": 17,
       "2026-10-19": 35,
       "2026-10-20": 100,
-      "2026-10-23": 70
+      "2026-10-23": 64
     }
   },
   {
@@ -859,12 +860,12 @@
     "slug": "nebulance",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "92.02%",
+    "uptimeDay": "93.83%",
     "uptimeWeek": "78.70%",
     "uptimeMonth": "93.37%",
     "uptimeYear": "99.13%",
     "time": 1298,
-    "timeDay": 1122,
+    "timeDay": 1145,
     "timeWeek": 1323,
     "timeMonth": 1772,
     "timeYear": 1232,
@@ -1128,10 +1129,10 @@
     "slug": "pass-the-popcorn",
     "status": "down",
     "uptime": "98.41%",
-    "uptimeDay": "88.08%",
-    "uptimeWeek": "88.61%",
-    "uptimeMonth": "97.31%",
-    "uptimeYear": "93.58%",
+    "uptimeDay": "85.87%",
+    "uptimeWeek": "88.29%",
+    "uptimeMonth": "97.23%",
+    "uptimeYear": "93.57%",
     "time": 869,
     "timeDay": 405,
     "timeWeek": 1525,
@@ -1173,7 +1174,7 @@
       "2026-10-11": 16,
       "2026-10-14": 15,
       "2026-10-21": 977,
-      "2026-10-23": 172
+      "2026-10-23": 203
     }
   },
   {
@@ -1249,12 +1250,12 @@
     "status": "down",
     "uptime": "99.65%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "61.61%",
-    "uptimeMonth": "89.76%",
+    "uptimeWeek": "61.29%",
+    "uptimeMonth": "89.69%",
     "uptimeYear": "98.67%",
     "time": 918,
     "timeDay": 1037,
-    "timeWeek": 971,
+    "timeWeek": 988,
     "timeMonth": 1088,
     "timeYear": 938,
     "dailyMinutesDown": {
@@ -1306,7 +1307,7 @@
       "2026-10-14": 31,
       "2026-10-16": 31,
       "2026-10-20": 18,
-      "2026-10-23": 1204,
+      "2026-10-23": 1236,
       "2026-10-22": 1440,
       "2026-10-21": 1208
     }
