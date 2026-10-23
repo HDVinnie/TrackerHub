@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "61.35%",
-    "uptimeWeek": "66.57%",
-    "uptimeMonth": "92.31%",
+    "uptimeDay": "61.38%",
+    "uptimeWeek": "66.52%",
+    "uptimeMonth": "92.30%",
     "uptimeYear": "99.36%",
     "time": 1035,
-    "timeDay": 1041,
+    "timeDay": 1039,
     "timeWeek": 1033,
     "timeMonth": 1043,
     "timeYear": 1046,
@@ -21,7 +21,7 @@
       "2026-10-20": 555,
       "2026-10-21": 930,
       "2026-10-22": 577,
-      "2026-10-23": 546
+      "2026-10-23": 552
     }
   },
   {
@@ -479,15 +479,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "77.06%",
-    "uptimeWeek": "68.91%",
-    "uptimeMonth": "92.85%",
+    "uptimeDay": "76.73%",
+    "uptimeWeek": "68.87%",
+    "uptimeMonth": "92.84%",
     "uptimeYear": "99.40%",
     "time": 1066,
-    "timeDay": 1056,
-    "timeWeek": 1039,
+    "timeDay": 1049,
+    "timeWeek": 1038,
     "timeMonth": 1069,
     "timeYear": 1069,
     "dailyMinutesDown": {
@@ -497,7 +497,7 @@
       "2026-10-20": 399,
       "2026-10-21": 761,
       "2026-10-22": 595,
-      "2026-10-23": 332
+      "2026-10-23": 336
     }
   },
   {
@@ -1247,16 +1247,16 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "down",
     "uptime": "99.64%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "59.40%",
-    "uptimeMonth": "89.25%",
+    "uptimeWeek": "59.34%",
+    "uptimeMonth": "89.24%",
     "uptimeYear": "98.63%",
     "time": 918,
-    "timeDay": 1001,
-    "timeWeek": 1001,
-    "timeMonth": 1087,
+    "timeDay": 954,
+    "timeWeek": 985,
+    "timeMonth": 1085,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2026-08-02": 105,
@@ -1307,7 +1307,7 @@
       "2026-10-14": 31,
       "2026-10-16": 31,
       "2026-10-20": 18,
-      "2026-10-23": 1427,
+      "2026-10-23": 1432,
       "2026-10-22": 1440,
       "2026-10-21": 1208
     }
