@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "47.61%",
-    "uptimeWeek": "66.48%",
-    "uptimeMonth": "92.29%",
+    "uptimeDay": "47.49%",
+    "uptimeWeek": "66.42%",
+    "uptimeMonth": "92.27%",
     "uptimeYear": "99.36%",
     "time": 1040,
-    "timeDay": 1092,
+    "timeDay": 1093,
     "timeWeek": 1040,
     "timeMonth": 1046,
     "timeYear": 1047,
@@ -21,7 +21,7 @@
       "2026-10-21": 930,
       "2026-10-22": 577,
       "2026-10-23": 539,
-      "2026-10-24": 663
+      "2026-10-24": 670
     }
   },
   {
@@ -479,15 +479,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "81.73%",
-    "uptimeWeek": "68.79%",
-    "uptimeMonth": "92.82%",
+    "uptimeDay": "81.37%",
+    "uptimeWeek": "68.74%",
+    "uptimeMonth": "92.81%",
     "uptimeYear": "99.40%",
     "time": 1067,
-    "timeDay": 1076,
-    "timeWeek": 1053,
+    "timeDay": 1071,
+    "timeWeek": 1052,
     "timeMonth": 1070,
     "timeYear": 1069,
     "dailyMinutesDown": {
@@ -497,7 +497,7 @@
       "2026-10-21": 761,
       "2026-10-22": 595,
       "2026-10-23": 324,
-      "2026-10-24": 263
+      "2026-10-24": 269
     }
   },
   {
@@ -1130,7 +1130,7 @@
     "slug": "pass-the-popcorn",
     "status": "up",
     "uptime": "98.41%",
-    "uptimeDay": "96.80%",
+    "uptimeDay": "97.24%",
     "uptimeWeek": "87.62%",
     "uptimeMonth": "97.08%",
     "uptimeYear": "93.56%",
@@ -1252,8 +1252,8 @@
     "status": "down",
     "uptime": "99.58%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "46.79%",
-    "uptimeMonth": "86.35%",
+    "uptimeWeek": "46.73%",
+    "uptimeMonth": "86.34%",
     "uptimeYear": "98.39%",
     "time": 913,
     "timeDay": 929,
@@ -1309,7 +1309,7 @@
       "2026-10-14": 31,
       "2026-10-16": 31,
       "2026-10-20": 18,
-      "2026-10-24": 1257,
+      "2026-10-24": 1264,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1208
