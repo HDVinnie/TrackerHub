@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "62.49%",
-    "uptimeWeek": "66.61%",
-    "uptimeMonth": "92.32%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "61.89%",
+    "uptimeWeek": "66.29%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "99.35%",
     "time": 1035,
-    "timeDay": 1042,
+    "timeDay": 1040,
     "timeWeek": 1031,
     "timeMonth": 1043,
     "timeYear": 1046,
@@ -22,7 +22,7 @@
       "2026-10-21": 930,
       "2026-10-22": 577,
       "2026-10-23": 539,
-      "2026-10-24": 3
+      "2026-10-24": 36
     }
   },
   {
@@ -488,7 +488,7 @@
     "uptimeYear": "99.40%",
     "time": 1066,
     "timeDay": 1054,
-    "timeWeek": 1035,
+    "timeWeek": 1036,
     "timeMonth": 1069,
     "timeYear": 1069,
     "dailyMinutesDown": {
@@ -1063,16 +1063,16 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "degraded",
-    "uptime": "99.82%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "99.38%",
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.65%",
     "time": 622,
-    "timeDay": 1433,
-    "timeWeek": 2016,
-    "timeMonth": 946,
+    "timeDay": 1279,
+    "timeWeek": 1931,
+    "timeMonth": 940,
     "timeYear": 636,
     "dailyMinutesDown": {
       "2025-11-02": 133,
@@ -1121,7 +1121,7 @@
       "2026-10-04": 88,
       "2026-10-10": 36,
       "2026-10-21": 142,
-      "2026-10-24": 5
+      "2026-10-24": 35
     }
   },
   {
@@ -1252,9 +1252,9 @@
     "status": "down",
     "uptime": "99.64%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "58.91%",
-    "uptimeMonth": "89.14%",
-    "uptimeYear": "98.62%",
+    "uptimeWeek": "58.59%",
+    "uptimeMonth": "89.06%",
+    "uptimeYear": "98.61%",
     "time": 918,
     "timeDay": 954,
     "timeWeek": 985,
@@ -1309,7 +1309,7 @@
       "2026-10-14": 31,
       "2026-10-16": 31,
       "2026-10-20": 18,
-      "2026-10-24": 36,
+      "2026-10-24": 68,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1208
