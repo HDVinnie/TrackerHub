@@ -6,13 +6,13 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.85%",
-    "uptimeDay": "54.64%",
-    "uptimeWeek": "67.09%",
-    "uptimeMonth": "92.43%",
+    "uptimeDay": "54.17%",
+    "uptimeWeek": "67.02%",
+    "uptimeMonth": "92.41%",
     "uptimeYear": "99.37%",
     "time": 1039,
-    "timeDay": 1067,
-    "timeWeek": 1035,
+    "timeDay": 1066,
+    "timeWeek": 1036,
     "timeMonth": 1045,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2026-10-21": 930,
       "2026-10-22": 577,
       "2026-10-23": 539,
-      "2026-10-24": 502
+      "2026-10-24": 509
     }
   },
   {
@@ -438,9 +438,9 @@
     "slug": "broadcas-the-net",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "88.16%",
-    "uptimeMonth": "97.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "88.23%",
+    "uptimeMonth": "97.03%",
     "uptimeYear": "99.04%",
     "time": 901,
     "timeDay": 1986,
@@ -471,8 +471,7 @@
       "2026-08-22": 19,
       "2026-08-25": 590,
       "2026-09-26": 114,
-      "2026-10-21": 1186,
-      "2026-10-24": 7
+      "2026-10-21": 1186
     }
   },
   {
@@ -482,13 +481,13 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.86%",
-    "uptimeDay": "78.30%",
-    "uptimeWeek": "68.46%",
-    "uptimeMonth": "92.74%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "77.83%",
+    "uptimeWeek": "68.39%",
+    "uptimeMonth": "92.73%",
+    "uptimeYear": "99.39%",
     "time": 1067,
     "timeDay": 1061,
-    "timeWeek": 1048,
+    "timeWeek": 1049,
     "timeMonth": 1070,
     "timeYear": 1069,
     "dailyMinutesDown": {
@@ -499,7 +498,7 @@
       "2026-10-21": 761,
       "2026-10-22": 595,
       "2026-10-23": 324,
-      "2026-10-24": 248
+      "2026-10-24": 255
     }
   },
   {
@@ -811,7 +810,7 @@
     "uptimeYear": "99.56%",
     "time": 926,
     "timeDay": 1046,
-    "timeWeek": 978,
+    "timeWeek": 980,
     "timeMonth": 989,
     "timeYear": 943,
     "dailyMinutesDown": {
@@ -1132,7 +1131,7 @@
     "slug": "pass-the-popcorn",
     "status": "up",
     "uptime": "98.41%",
-    "uptimeDay": "83.40%",
+    "uptimeDay": "83.87%",
     "uptimeWeek": "87.62%",
     "uptimeMonth": "97.08%",
     "uptimeYear": "93.56%",
@@ -1251,16 +1250,16 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "down",
     "uptime": "99.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.71%",
-    "uptimeMonth": "86.79%",
+    "uptimeWeek": "48.64%",
+    "uptimeMonth": "86.78%",
     "uptimeYear": "98.42%",
     "time": 914,
-    "timeDay": 959,
-    "timeWeek": 966,
-    "timeMonth": 1014,
+    "timeDay": 956,
+    "timeWeek": 964,
+    "timeMonth": 1013,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2026-08-02": 105,
@@ -1311,7 +1310,7 @@
       "2026-10-14": 31,
       "2026-10-16": 31,
       "2026-10-20": 18,
-      "2026-10-24": 1064,
+      "2026-10-24": 1071,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1208
