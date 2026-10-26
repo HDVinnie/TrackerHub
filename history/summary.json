@@ -4,16 +4,16 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "21.27%",
-    "uptimeWeek": "60.08%",
-    "uptimeMonth": "90.81%",
+    "uptimeDay": "20.86%",
+    "uptimeWeek": "59.76%",
+    "uptimeMonth": "90.74%",
     "uptimeYear": "99.23%",
     "time": 1039,
-    "timeDay": 1147,
+    "timeDay": 1132,
     "timeWeek": 1059,
-    "timeMonth": 1052,
+    "timeMonth": 1051,
     "timeYear": 1048,
     "dailyMinutesDown": {
       "2026-10-21": 881,
@@ -21,7 +21,7 @@
       "2026-10-23": 539,
       "2026-10-24": 784,
       "2026-10-25": 1038,
-      "2026-10-26": 208
+      "2026-10-26": 241
     }
   },
   {
@@ -37,7 +37,7 @@
     "uptimeYear": "98.16%",
     "time": 4030,
     "timeDay": 457,
-    "timeWeek": 3405,
+    "timeWeek": 3511,
     "timeMonth": 4724,
     "timeYear": 4047,
     "dailyMinutesDown": {
@@ -481,11 +481,11 @@
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
     "status": "degraded",
-    "uptime": "99.86%",
-    "uptimeDay": "73.88%",
-    "uptimeWeek": "69.00%",
-    "uptimeMonth": "92.54%",
-    "uptimeYear": "99.38%",
+    "uptime": "99.85%",
+    "uptimeDay": "71.55%",
+    "uptimeWeek": "68.66%",
+    "uptimeMonth": "92.46%",
+    "uptimeYear": "99.37%",
     "time": 1066,
     "timeDay": 1032,
     "timeWeek": 1043,
@@ -500,7 +500,7 @@
       "2026-10-23": 324,
       "2026-10-24": 283,
       "2026-10-25": 397,
-      "2026-10-26": 94
+      "2026-10-26": 128
     }
   },
   {
@@ -1258,8 +1258,8 @@
     "status": "down",
     "uptime": "99.49%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "28.36%",
-    "uptimeMonth": "82.19%",
+    "uptimeWeek": "28.03%",
+    "uptimeMonth": "82.12%",
     "uptimeYear": "98.03%",
     "time": 908,
     "timeDay": 871,
@@ -1315,7 +1315,7 @@
       "2026-10-14": 31,
       "2026-10-16": 31,
       "2026-10-20": 18,
-      "2026-10-26": 235,
+      "2026-10-26": 268,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
