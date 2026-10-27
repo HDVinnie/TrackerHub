@@ -6,13 +6,13 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.83%",
-    "uptimeDay": "59.18%",
-    "uptimeWeek": "60.67%",
-    "uptimeMonth": "90.95%",
-    "uptimeYear": "99.25%",
+    "uptimeDay": "58.60%",
+    "uptimeWeek": "60.59%",
+    "uptimeMonth": "90.93%",
+    "uptimeYear": "99.24%",
     "time": 1037,
     "timeDay": 1078,
-    "timeWeek": 1069,
+    "timeWeek": 1070,
     "timeMonth": 1055,
     "timeYear": 1049,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2026-10-24": 784,
       "2026-10-25": 1038,
       "2026-10-26": 762,
-      "2026-10-27": 540
+      "2026-10-27": 548
     }
   },
   {
@@ -320,9 +320,9 @@
     "slug": "beyond-hd",
     "status": "degraded",
     "uptime": "97.00%",
-    "uptimeDay": "78.25%",
-    "uptimeWeek": "92.80%",
-    "uptimeMonth": "98.15%",
+    "uptimeDay": "77.67%",
+    "uptimeWeek": "92.72%",
+    "uptimeMonth": "98.14%",
     "uptimeYear": "99.62%",
     "time": 1489,
     "timeDay": 14678,
@@ -360,7 +360,7 @@
       "2026-10-19": 44,
       "2026-10-21": 323,
       "2026-10-26": 90,
-      "2026-10-27": 313
+      "2026-10-27": 322
     }
   },
   {
@@ -482,15 +482,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "80.07%",
-    "uptimeWeek": "69.35%",
-    "uptimeMonth": "92.33%",
+    "uptimeDay": "79.59%",
+    "uptimeWeek": "69.28%",
+    "uptimeMonth": "92.31%",
     "uptimeYear": "99.36%",
     "time": 1066,
-    "timeDay": 1083,
-    "timeWeek": 1041,
+    "timeDay": 1077,
+    "timeWeek": 1040,
     "timeMonth": 1070,
     "timeYear": 1061,
     "dailyMinutesDown": {
@@ -501,7 +501,7 @@
       "2026-10-24": 283,
       "2026-10-25": 397,
       "2026-10-26": 435,
-      "2026-10-27": 256
+      "2026-10-27": 263
     }
   },
   {
@@ -1259,14 +1259,14 @@
     "status": "down",
     "uptime": "99.37%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "4.78%",
-    "uptimeMonth": "76.83%",
+    "uptimeWeek": "4.70%",
+    "uptimeMonth": "76.81%",
     "uptimeYear": "97.58%",
     "time": 905,
     "timeDay": 839,
     "timeWeek": 894,
     "timeMonth": 975,
-    "timeYear": 935,
+    "timeYear": 928,
     "dailyMinutesDown": {
       "2026-08-02": 105,
       "2026-08-03": 171,
@@ -1316,7 +1316,7 @@
       "2026-10-14": 31,
       "2026-10-16": 31,
       "2026-10-20": 18,
-      "2026-10-27": 1172,
+      "2026-10-27": 1180,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
