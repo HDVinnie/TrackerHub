@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.83%",
     "uptimeDay": "50.29%",
-    "uptimeWeek": "61.41%",
-    "uptimeMonth": "91.12%",
+    "uptimeWeek": "61.31%",
+    "uptimeMonth": "91.10%",
     "uptimeYear": "99.26%",
     "time": 1041,
     "timeDay": 1095,
@@ -22,7 +22,7 @@
       "2026-10-24": 784,
       "2026-10-25": 1038,
       "2026-10-26": 762,
-      "2026-10-27": 100
+      "2026-10-27": 109
     }
   },
   {
@@ -483,15 +483,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "72.82%",
-    "uptimeWeek": "68.55%",
-    "uptimeMonth": "92.28%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "72.22%",
+    "uptimeWeek": "68.47%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "99.35%",
     "time": 1064,
-    "timeDay": 1028,
-    "timeWeek": 1033,
+    "timeDay": 1026,
+    "timeWeek": 1034,
     "timeMonth": 1068,
     "timeYear": 1060,
     "dailyMinutesDown": {
@@ -503,7 +503,7 @@
       "2026-10-24": 283,
       "2026-10-25": 397,
       "2026-10-26": 435,
-      "2026-10-27": 28
+      "2026-10-27": 37
     }
   },
   {
@@ -816,7 +816,7 @@
     "uptimeYear": "99.55%",
     "time": 917,
     "timeDay": 954,
-    "timeWeek": 980,
+    "timeWeek": 981,
     "timeMonth": 988,
     "timeYear": 944,
     "dailyMinutesDown": {
@@ -1077,7 +1077,7 @@
     "uptimeYear": "99.64%",
     "time": 629,
     "timeDay": 861,
-    "timeWeek": 1579,
+    "timeWeek": 1570,
     "timeMonth": 928,
     "timeYear": 639,
     "dailyMinutesDown": {
@@ -1257,16 +1257,16 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "down",
+    "status": "degraded",
     "uptime": "99.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "14.71%",
-    "uptimeMonth": "79.05%",
+    "uptimeWeek": "14.61%",
+    "uptimeMonth": "79.03%",
     "uptimeYear": "97.77%",
     "time": 906,
-    "timeDay": 831,
-    "timeWeek": 898,
-    "timeMonth": 981,
+    "timeDay": 861,
+    "timeWeek": 902,
+    "timeMonth": 982,
     "timeYear": 936,
     "dailyMinutesDown": {
       "2026-08-02": 105,
@@ -1317,7 +1317,7 @@
       "2026-10-14": 31,
       "2026-10-16": 31,
       "2026-10-20": 18,
-      "2026-10-27": 172,
+      "2026-10-27": 182,
       "2026-10-26": 1440,
       "2026-10-25": 1440,
       "2026-10-24": 1440,
