@@ -171,17 +171,17 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.33%",
-    "uptimeDay": "96.86%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "91.35%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "91.37%",
     "uptimeYear": "97.28%",
-    "time": 1182,
-    "timeDay": 2609,
-    "timeWeek": 1398,
-    "timeMonth": 2178,
-    "timeYear": 1159,
+    "time": 1183,
+    "timeDay": 2547,
+    "timeWeek": 1429,
+    "timeMonth": 2177,
+    "timeYear": 1160,
     "dailyMinutesDown": {
       "2025-11-03": 39,
       "2025-11-06": 22,
@@ -256,7 +256,7 @@
       "2026-10-21": 1324,
       "2026-10-27": 27,
       "2026-10-29": 19,
-      "2026-10-30": 26
+      "2026-10-30": 18
     }
   },
   {
@@ -266,9 +266,9 @@
     "slug": "asian-cinema",
     "status": "degraded",
     "uptime": "99.35%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.61%",
     "time": 1575,
     "timeDay": 7554,
@@ -314,7 +314,7 @@
       "2026-10-06": 19,
       "2026-10-10": 37,
       "2026-10-13": 15,
-      "2026-10-30": 11
+      "2026-10-30": 16
     }
   },
   {
@@ -489,7 +489,7 @@
     "status": "up",
     "uptime": "99.87%",
     "uptimeDay": "78.82%",
-    "uptimeWeek": "75.66%",
+    "uptimeWeek": "75.71%",
     "uptimeMonth": "93.15%",
     "uptimeYear": "99.43%",
     "time": 1068,
@@ -874,9 +874,9 @@
     "slug": "nebulance",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "93.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "93.52%",
     "uptimeYear": "99.13%",
     "time": 1324,
     "timeDay": 4157,
@@ -930,8 +930,7 @@
       "2026-10-16": 17,
       "2026-10-18": 20,
       "2026-10-21": 1133,
-      "2026-10-22": 996,
-      "2026-10-30": 9
+      "2026-10-22": 996
     }
   },
   {
@@ -1268,10 +1267,10 @@
     "uptime": "99.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "68.50%",
+    "uptimeMonth": "68.48%",
     "uptimeYear": "96.88%",
     "time": 915,
-    "timeDay": 832,
+    "timeDay": 822,
     "timeWeek": 895,
     "timeMonth": 956,
     "timeYear": 929,
@@ -1324,7 +1323,7 @@
       "2026-10-14": 31,
       "2026-10-16": 31,
       "2026-10-20": 18,
-      "2026-10-30": 525,
+      "2026-10-30": 530,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
