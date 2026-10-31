@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "70.96%",
-    "uptimeWeek": "67.09%",
-    "uptimeMonth": "92.43%",
+    "uptimeDay": "70.56%",
+    "uptimeWeek": "67.03%",
+    "uptimeMonth": "92.41%",
     "uptimeYear": "99.37%",
     "time": 1042,
-    "timeDay": 1036,
-    "timeWeek": 1067,
+    "timeDay": 1035,
+    "timeWeek": 1066,
     "timeMonth": 1056,
     "timeYear": 1049,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-10-28": 563,
       "2026-10-29": 453,
       "2026-10-30": 540,
-      "2026-10-31": 376
+      "2026-10-31": 382
     }
   },
   {
@@ -816,9 +816,9 @@
     "slug": "my-anona-mouse",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "95.78%",
-    "uptimeMonth": "95.97%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "95.84%",
+    "uptimeMonth": "95.98%",
     "uptimeYear": "99.56%",
     "time": 923,
     "timeDay": 1015,
@@ -826,7 +826,7 @@
     "timeMonth": 989,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2026-09-10": 17,
+      "2026-09-10": 46,
       "2026-09-13": 40,
       "2026-09-14": 42,
       "2026-09-15": 83,
@@ -864,7 +864,7 @@
       "2026-10-28": 102,
       "2026-10-29": 35,
       "2026-10-30": 60,
-      "2026-10-31": 23
+      "2026-10-31": 17
     }
   },
   {
@@ -1199,9 +1199,9 @@
     "slug": "redacted",
     "status": "up",
     "uptime": "98.01%",
-    "uptimeDay": "21.76%",
+    "uptimeDay": "22.21%",
     "uptimeWeek": "81.64%",
-    "uptimeMonth": "75.59%",
+    "uptimeMonth": "75.60%",
     "uptimeYear": "96.62%",
     "time": 1441,
     "timeDay": 581,
@@ -1269,7 +1269,7 @@
     "uptime": "99.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.35%",
+    "uptimeMonth": "63.33%",
     "uptimeYear": "96.45%",
     "time": 909,
     "timeDay": 912,
@@ -1325,7 +1325,7 @@
       "2026-10-14": 31,
       "2026-10-16": 31,
       "2026-10-20": 18,
-      "2026-10-31": 1340,
+      "2026-10-31": 1346,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
