@@ -4,25 +4,25 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "68.14%",
-    "uptimeWeek": "68.77%",
-    "uptimeMonth": "92.81%",
-    "uptimeYear": "99.40%",
+    "status": "degraded",
+    "uptime": "99.87%",
+    "uptimeDay": "68.08%",
+    "uptimeWeek": "69.46%",
+    "uptimeMonth": "92.97%",
+    "uptimeYear": "99.41%",
     "time": 1038,
-    "timeDay": 1031,
+    "timeDay": 1033,
     "timeWeek": 1058,
     "timeMonth": 1056,
     "timeYear": 1049,
     "dailyMinutesDown": {
-      "2026-10-26": 416,
+      "2026-10-26": 345,
       "2026-10-27": 603,
       "2026-10-28": 563,
       "2026-10-29": 453,
       "2026-10-30": 540,
       "2026-10-31": 394,
-      "2026-11-01": 193
+      "2026-11-01": 194
     }
   },
   {
@@ -267,10 +267,10 @@
     "slug": "asian-cinema",
     "status": "degraded",
     "uptime": "99.35%",
-    "uptimeDay": "94.48%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.60%",
+    "uptimeDay": "94.03%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.59%",
     "time": 1596,
     "timeDay": 3132,
     "timeWeek": 2718,
@@ -316,7 +316,7 @@
       "2026-10-10": 37,
       "2026-10-13": 15,
       "2026-10-30": 19,
-      "2026-11-01": 80
+      "2026-11-01": 87
     }
   },
   {
@@ -490,9 +490,9 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "78.99%",
-    "uptimeWeek": "75.59%",
-    "uptimeMonth": "93.77%",
+    "uptimeDay": "79.54%",
+    "uptimeWeek": "75.74%",
+    "uptimeMonth": "93.75%",
     "uptimeYear": "99.48%",
     "time": 1068,
     "timeDay": 1108,
@@ -500,7 +500,7 @@
     "timeMonth": 1073,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2026-10-24": 121,
+      "2026-10-24": 138,
       "2026-10-25": 397,
       "2026-10-26": 435,
       "2026-10-27": 308,
@@ -508,7 +508,7 @@
       "2026-10-29": 347,
       "2026-10-30": 393,
       "2026-10-31": 294,
-      "2026-11-01": 86
+      "2026-11-01": 78
     }
   },
   {
@@ -1081,9 +1081,9 @@
     "slug": "private-hd",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.11%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.63%",
     "time": 635,
     "timeDay": 849,
@@ -1139,8 +1139,7 @@
       "2026-10-21": 142,
       "2026-10-24": 72,
       "2026-10-26": 21,
-      "2026-10-27": 23,
-      "2026-11-01": 8
+      "2026-10-27": 23
     }
   },
   {
@@ -1202,9 +1201,9 @@
     "slug": "redacted",
     "status": "up",
     "uptime": "98.01%",
-    "uptimeDay": "56.55%",
+    "uptimeDay": "57.01%",
     "uptimeWeek": "81.64%",
-    "uptimeMonth": "76.73%",
+    "uptimeMonth": "76.75%",
     "uptimeYear": "96.62%",
     "time": 1440,
     "timeDay": 587,
@@ -1272,7 +1271,7 @@
     "uptime": "99.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.21%",
+    "uptimeMonth": "62.19%",
     "uptimeYear": "96.36%",
     "time": 907,
     "timeDay": 895,
@@ -1328,7 +1327,7 @@
       "2026-10-14": 31,
       "2026-10-16": 31,
       "2026-10-20": 18,
-      "2026-11-01": 401,
+      "2026-11-01": 407,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
