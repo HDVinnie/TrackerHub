@@ -5,10 +5,10 @@
     "icon": "$AIH_ICON",
     "slug": "aither",
     "status": "degraded",
-    "uptime": "99.87%",
-    "uptimeDay": "68.08%",
-    "uptimeWeek": "69.46%",
-    "uptimeMonth": "92.97%",
+    "uptime": "99.86%",
+    "uptimeDay": "67.63%",
+    "uptimeWeek": "69.39%",
+    "uptimeMonth": "92.96%",
     "uptimeYear": "99.41%",
     "time": 1038,
     "timeDay": 1033,
@@ -22,7 +22,7 @@
       "2026-10-29": 453,
       "2026-10-30": 540,
       "2026-10-31": 394,
-      "2026-11-01": 194
+      "2026-11-01": 200
     }
   },
   {
@@ -267,9 +267,9 @@
     "slug": "asian-cinema",
     "status": "degraded",
     "uptime": "99.35%",
-    "uptimeDay": "94.03%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "93.57%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.59%",
     "time": 1596,
     "timeDay": 3132,
@@ -316,7 +316,7 @@
       "2026-10-10": 37,
       "2026-10-13": 15,
       "2026-10-30": 19,
-      "2026-11-01": 87
+      "2026-11-01": 93
     }
   },
   {
@@ -488,19 +488,19 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "79.54%",
-    "uptimeWeek": "75.74%",
-    "uptimeMonth": "93.75%",
+    "uptimeDay": "79.44%",
+    "uptimeWeek": "75.79%",
+    "uptimeMonth": "93.78%",
     "uptimeYear": "99.48%",
     "time": 1068,
-    "timeDay": 1108,
+    "timeDay": 1112,
     "timeWeek": 1067,
     "timeMonth": 1073,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2026-10-24": 138,
+      "2026-10-24": 121,
       "2026-10-25": 397,
       "2026-10-26": 435,
       "2026-10-27": 308,
@@ -508,7 +508,7 @@
       "2026-10-29": 347,
       "2026-10-30": 393,
       "2026-10-31": 294,
-      "2026-11-01": 78
+      "2026-11-01": 79
     }
   },
   {
@@ -1201,9 +1201,9 @@
     "slug": "redacted",
     "status": "up",
     "uptime": "98.01%",
-    "uptimeDay": "57.01%",
+    "uptimeDay": "57.47%",
     "uptimeWeek": "81.64%",
-    "uptimeMonth": "76.75%",
+    "uptimeMonth": "76.76%",
     "uptimeYear": "96.62%",
     "time": 1440,
     "timeDay": 587,
@@ -1271,7 +1271,7 @@
     "uptime": "99.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.19%",
+    "uptimeMonth": "62.17%",
     "uptimeYear": "96.36%",
     "time": 907,
     "timeDay": 895,
@@ -1327,7 +1327,7 @@
       "2026-10-14": 31,
       "2026-10-16": 31,
       "2026-10-20": 18,
-      "2026-11-01": 407,
+      "2026-11-01": 414,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
