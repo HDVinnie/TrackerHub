@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "71.67%",
-    "uptimeWeek": "72.11%",
-    "uptimeMonth": "93.58%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "71.19%",
+    "uptimeWeek": "72.04%",
+    "uptimeMonth": "93.57%",
+    "uptimeYear": "99.46%",
     "time": 1041,
-    "timeDay": 1029,
+    "timeDay": 1031,
     "timeWeek": 1044,
     "timeMonth": 1053,
     "timeYear": 1049,
@@ -22,7 +22,7 @@
       "2026-10-30": 540,
       "2026-10-31": 394,
       "2026-11-01": 413,
-      "2026-11-02": 408
+      "2026-11-02": 415
     }
   },
   {
@@ -488,15 +488,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "76.91%",
-    "uptimeWeek": "77.89%",
-    "uptimeMonth": "94.04%",
+    "uptimeDay": "77.25%",
+    "uptimeWeek": "77.94%",
+    "uptimeMonth": "94.05%",
     "uptimeYear": "99.50%",
     "time": 1068,
-    "timeDay": 991,
-    "timeWeek": 1064,
+    "timeDay": 996,
+    "timeWeek": 1065,
     "timeMonth": 1069,
     "timeYear": 1057,
     "dailyMinutesDown": {
@@ -507,7 +507,7 @@
       "2026-10-30": 393,
       "2026-10-31": 294,
       "2026-11-01": 209,
-      "2026-11-02": 329
+      "2026-11-02": 324
     }
   },
   {
@@ -1085,8 +1085,8 @@
     "uptimeMonth": "99.08%",
     "uptimeYear": "99.65%",
     "time": 647,
-    "timeDay": 937,
-    "timeWeek": 1063,
+    "timeDay": 912,
+    "timeWeek": 1055,
     "timeMonth": 1045,
     "timeYear": 677,
     "dailyMinutesDown": {
@@ -1202,7 +1202,7 @@
     "uptime": "98.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "81.64%",
-    "uptimeMonth": "82.05%",
+    "uptimeMonth": "82.06%",
     "uptimeYear": "96.62%",
     "time": 1440,
     "timeDay": 450,
@@ -1268,8 +1268,8 @@
     "slug": "secret-cinema",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "46.92%",
-    "uptimeWeek": "6.70%",
+    "uptimeDay": "47.39%",
+    "uptimeWeek": "6.77%",
     "uptimeMonth": "58.49%",
     "uptimeYear": "96.04%",
     "time": 904,
