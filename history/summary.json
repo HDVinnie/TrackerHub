@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "73.37%",
-    "uptimeWeek": "72.01%",
-    "uptimeMonth": "93.56%",
+    "uptimeDay": "72.96%",
+    "uptimeWeek": "71.95%",
+    "uptimeMonth": "93.54%",
     "uptimeYear": "99.46%",
     "time": 1038,
-    "timeDay": 1015,
+    "timeDay": 1014,
     "timeWeek": 1045,
     "timeMonth": 1054,
     "timeYear": 1049,
@@ -22,7 +22,7 @@
       "2026-10-30": 540,
       "2026-10-31": 394,
       "2026-11-01": 413,
-      "2026-11-02": 164
+      "2026-11-02": 170
     }
   },
   {
@@ -488,15 +488,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "81.62%",
-    "uptimeWeek": "77.54%",
-    "uptimeMonth": "93.85%",
+    "uptimeDay": "81.32%",
+    "uptimeWeek": "77.55%",
+    "uptimeMonth": "93.84%",
     "uptimeYear": "99.49%",
-    "time": 1067,
-    "timeDay": 1064,
-    "timeWeek": 1070,
+    "time": 1068,
+    "timeDay": 1058,
+    "timeWeek": 1069,
     "timeMonth": 1072,
     "timeYear": 1058,
     "dailyMinutesDown": {
@@ -508,7 +508,7 @@
       "2026-10-30": 393,
       "2026-10-31": 294,
       "2026-11-01": 209,
-      "2026-11-02": 136
+      "2026-11-02": 140
     }
   },
   {
@@ -1089,7 +1089,7 @@
     "timeDay": 1006,
     "timeWeek": 1073,
     "timeMonth": 1050,
-    "timeYear": 675,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2025-11-18": 126,
       "2025-11-29": 17,
@@ -1203,7 +1203,7 @@
     "uptime": "98.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "81.64%",
-    "uptimeMonth": "80.14%",
+    "uptimeMonth": "80.15%",
     "uptimeYear": "96.62%",
     "time": 1440,
     "timeDay": 450,
@@ -1271,7 +1271,7 @@
     "uptime": "98.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.86%",
+    "uptimeMonth": "58.85%",
     "uptimeYear": "96.07%",
     "time": 905,
     "timeDay": 798,
@@ -1327,7 +1327,7 @@
       "2026-10-14": 31,
       "2026-10-16": 31,
       "2026-10-20": 18,
-      "2026-11-02": 454,
+      "2026-11-02": 460,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
