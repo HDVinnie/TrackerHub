@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.87%",
     "uptimeDay": "74.97%",
-    "uptimeWeek": "70.20%",
-    "uptimeMonth": "93.14%",
+    "uptimeWeek": "70.14%",
+    "uptimeMonth": "93.13%",
     "uptimeYear": "99.43%",
     "time": 1042,
     "timeDay": 1024,
@@ -23,7 +23,7 @@
       "2026-10-30": 540,
       "2026-10-31": 394,
       "2026-11-01": 413,
-      "2026-11-02": 1
+      "2026-11-02": 7
     }
   },
   {
@@ -489,15 +489,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "82.92%",
-    "uptimeWeek": "76.97%",
-    "uptimeMonth": "93.84%",
+    "uptimeDay": "82.88%",
+    "uptimeWeek": "76.92%",
+    "uptimeMonth": "93.83%",
     "uptimeYear": "99.49%",
-    "time": 1066,
-    "timeDay": 1105,
-    "timeWeek": 1075,
+    "time": 1063,
+    "timeDay": 1099,
+    "timeWeek": 1074,
     "timeMonth": 1073,
     "timeYear": 1058,
     "dailyMinutesDown": {
@@ -509,7 +509,7 @@
       "2026-10-30": 393,
       "2026-10-31": 294,
       "2026-11-01": 209,
-      "2026-11-02": 39
+      "2026-11-02": 44
     }
   },
   {
@@ -644,7 +644,7 @@
     "uptimeMonth": "95.98%",
     "uptimeYear": "98.98%",
     "time": 2147,
-    "timeDay": 1103,
+    "timeDay": 558,
     "timeWeek": 3760,
     "timeMonth": 2669,
     "timeYear": 1339,
@@ -1204,7 +1204,7 @@
     "uptime": "98.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "81.64%",
-    "uptimeMonth": "79.23%",
+    "uptimeMonth": "79.24%",
     "uptimeYear": "96.62%",
     "time": 1440,
     "timeDay": 450,
@@ -1272,7 +1272,7 @@
     "uptime": "99.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.77%",
+    "uptimeMonth": "59.76%",
     "uptimeYear": "96.15%",
     "time": 905,
     "timeDay": 792,
@@ -1328,7 +1328,7 @@
       "2026-10-14": 31,
       "2026-10-16": 31,
       "2026-10-20": 18,
-      "2026-11-02": 54,
+      "2026-11-02": 60,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
