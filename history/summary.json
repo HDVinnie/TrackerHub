@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "66.65%",
-    "uptimeWeek": "73.03%",
+    "uptimeDay": "66.48%",
+    "uptimeWeek": "73.01%",
     "uptimeMonth": "93.79%",
     "uptimeYear": "99.48%",
     "time": 1042,
-    "timeDay": 1032,
+    "timeDay": 1031,
     "timeWeek": 1043,
     "timeMonth": 1053,
     "timeYear": 1048,
@@ -22,7 +22,7 @@
       "2026-10-31": 394,
       "2026-11-01": 413,
       "2026-11-02": 470,
-      "2026-11-03": 94
+      "2026-11-03": 96
     }
   },
   {
@@ -487,15 +487,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "77.04%",
-    "uptimeWeek": "77.59%",
+    "uptimeDay": "76.92%",
+    "uptimeWeek": "77.58%",
     "uptimeMonth": "94.22%",
     "uptimeYear": "99.52%",
     "time": 1065,
-    "timeDay": 997,
-    "timeWeek": 1063,
+    "timeDay": 995,
+    "timeWeek": 1062,
     "timeMonth": 1068,
     "timeYear": 1057,
     "dailyMinutesDown": {
@@ -507,7 +507,7 @@
       "2026-10-31": 294,
       "2026-11-01": 209,
       "2026-11-02": 323,
-      "2026-11-03": 64
+      "2026-11-03": 66
     }
   },
   {
@@ -940,9 +940,9 @@
     "slug": "only-encodes",
     "status": "degraded",
     "uptime": "99.74%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "98.27%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "98.26%",
     "uptimeYear": "99.31%",
     "time": 1986,
     "timeDay": 9942,
@@ -990,7 +990,7 @@
       "2026-10-24": 60,
       "2026-10-27": 26,
       "2026-10-28": 17,
-      "2026-11-03": 2
+      "2026-11-03": 5
     }
   },
   {
@@ -1268,8 +1268,8 @@
     "slug": "secret-cinema",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "71.49%",
-    "uptimeWeek": "10.21%",
+    "uptimeDay": "71.72%",
+    "uptimeWeek": "10.25%",
     "uptimeMonth": "58.46%",
     "uptimeYear": "96.05%",
     "time": 904,
