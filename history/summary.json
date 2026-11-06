@@ -7,12 +7,12 @@
     "status": "degraded",
     "uptime": "99.88%",
     "uptimeDay": "69.21%",
-    "uptimeWeek": "72.84%",
-    "uptimeMonth": "93.75%",
+    "uptimeWeek": "72.68%",
+    "uptimeMonth": "93.71%",
     "uptimeYear": "99.48%",
     "time": 1038,
     "timeDay": 1036,
-    "timeWeek": 1036,
+    "timeWeek": 1035,
     "timeMonth": 1048,
     "timeYear": 1048,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-11-03": 501,
       "2026-11-04": 405,
       "2026-11-05": 576,
-      "2026-11-06": 277
+      "2026-11-06": 293
     }
   },
   {
@@ -489,8 +489,8 @@
     "status": "degraded",
     "uptime": "99.90%",
     "uptimeDay": "81.42%",
-    "uptimeWeek": "82.17%",
-    "uptimeMonth": "94.62%",
+    "uptimeWeek": "82.13%",
+    "uptimeMonth": "94.58%",
     "uptimeYear": "99.55%",
     "time": 1067,
     "timeDay": 1114,
@@ -506,7 +506,7 @@
       "2026-11-03": 195,
       "2026-11-04": 271,
       "2026-11-05": 205,
-      "2026-11-06": 191
+      "2026-11-06": 208
     }
   },
   {
@@ -872,17 +872,17 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.97%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "94.96%",
     "uptimeYear": "99.14%",
-    "time": 1294,
-    "timeDay": 809,
-    "timeWeek": 794,
-    "timeMonth": 1391,
-    "timeYear": 1245,
+    "time": 1295,
+    "timeDay": 1190,
+    "timeWeek": 865,
+    "timeMonth": 1393,
+    "timeYear": 1246,
     "dailyMinutesDown": {
       "2025-12-03": 47,
       "2025-12-19": 38,
@@ -928,7 +928,8 @@
       "2026-10-16": 17,
       "2026-10-18": 20,
       "2026-10-21": 1133,
-      "2026-10-22": 996
+      "2026-10-22": 996,
+      "2026-11-06": 3
     }
   },
   {
@@ -1201,7 +1202,7 @@
     "status": "up",
     "uptime": "98.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.71%",
+    "uptimeWeek": "85.87%",
     "uptimeMonth": "89.79%",
     "uptimeYear": "96.62%",
     "time": 1438,
@@ -1266,19 +1267,19 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "60.41%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "60.55%",
     "uptimeMonth": "58.95%",
-    "uptimeYear": "96.07%",
+    "uptimeYear": "96.08%",
     "time": 912,
-    "timeDay": 872,
-    "timeWeek": 934,
-    "timeMonth": 922,
+    "timeDay": 926,
+    "timeWeek": 938,
+    "timeMonth": 923,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2026-08-03": 52,
+      "2026-08-03": 27,
       "2026-08-04": 131,
       "2026-08-05": 80,
       "2026-08-07": 44,
@@ -1340,7 +1341,8 @@
       "2026-10-21": 1208,
       "2026-11-03": 17,
       "2026-11-04": 48,
-      "2026-11-05": 17
+      "2026-11-05": 17,
+      "2026-11-06": 3
     }
   },
   {
