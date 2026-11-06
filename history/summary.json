@@ -6,14 +6,14 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "64.73%",
-    "uptimeWeek": "72.72%",
-    "uptimeMonth": "93.72%",
+    "uptimeDay": "64.32%",
+    "uptimeWeek": "72.66%",
+    "uptimeMonth": "93.71%",
     "uptimeYear": "99.48%",
     "time": 1042,
-    "timeDay": 1049,
+    "timeDay": 1050,
     "timeWeek": 1038,
-    "timeMonth": 1052,
+    "timeMonth": 1051,
     "timeYear": 1048,
     "dailyMinutesDown": {
       "2026-10-31": 200,
@@ -22,7 +22,7 @@
       "2026-11-03": 501,
       "2026-11-04": 405,
       "2026-11-05": 576,
-      "2026-11-06": 191
+      "2026-11-06": 197
     }
   },
   {
@@ -489,8 +489,8 @@
     "status": "degraded",
     "uptime": "99.90%",
     "uptimeDay": "82.61%",
-    "uptimeWeek": "81.71%",
-    "uptimeMonth": "94.61%",
+    "uptimeWeek": "81.65%",
+    "uptimeMonth": "94.59%",
     "uptimeYear": "99.55%",
     "time": 1061,
     "timeDay": 1066,
@@ -507,7 +507,7 @@
       "2026-11-03": 195,
       "2026-11-04": 271,
       "2026-11-05": 205,
-      "2026-11-06": 125
+      "2026-11-06": 131
     }
   },
   {
@@ -815,14 +815,14 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "97.81%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "96.57%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "96.56%",
     "uptimeYear": "99.56%",
     "time": 935,
-    "timeDay": 990,
+    "timeDay": 989,
     "timeWeek": 977,
     "timeMonth": 986,
     "timeYear": 951,
@@ -865,7 +865,7 @@
       "2026-10-31": 17,
       "2026-11-04": 54,
       "2026-11-05": 23,
-      "2026-11-06": 26
+      "2026-11-06": 30
     }
   },
   {
@@ -1270,12 +1270,12 @@
     "status": "up",
     "uptime": "98.98%",
     "uptimeDay": "98.79%",
-    "uptimeWeek": "56.12%",
-    "uptimeMonth": "58.77%",
+    "uptimeWeek": "56.18%",
+    "uptimeMonth": "58.78%",
     "uptimeYear": "96.07%",
     "time": 912,
     "timeDay": 782,
-    "timeWeek": 933,
+    "timeWeek": 932,
     "timeMonth": 925,
     "timeYear": 924,
     "dailyMinutesDown": {
