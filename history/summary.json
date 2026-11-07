@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "70.34%",
-    "uptimeWeek": "73.68%",
-    "uptimeMonth": "93.94%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "69.97%",
+    "uptimeWeek": "73.62%",
+    "uptimeMonth": "93.93%",
+    "uptimeYear": "99.49%",
     "time": 1041,
-    "timeDay": 1035,
+    "timeDay": 1034,
     "timeWeek": 1035,
     "timeMonth": 1047,
     "timeYear": 1048,
@@ -22,7 +22,7 @@
       "2026-11-04": 405,
       "2026-11-05": 576,
       "2026-11-06": 439,
-      "2026-11-07": 180
+      "2026-11-07": 186
     }
   },
   {
@@ -486,16 +486,16 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "79.42%",
-    "uptimeWeek": "82.37%",
-    "uptimeMonth": "94.87%",
+    "uptimeDay": "79.11%",
+    "uptimeWeek": "82.32%",
+    "uptimeMonth": "94.86%",
     "uptimeYear": "99.57%",
     "time": 1068,
-    "timeDay": 1089,
-    "timeWeek": 1067,
-    "timeMonth": 1071,
+    "timeDay": 1085,
+    "timeWeek": 1066,
+    "timeMonth": 1070,
     "timeYear": 1058,
     "dailyMinutesDown": {
       "2026-10-30": 331,
@@ -506,7 +506,7 @@
       "2026-11-04": 271,
       "2026-11-05": 205,
       "2026-11-06": 268,
-      "2026-11-07": 152
+      "2026-11-07": 157
     }
   },
   {
@@ -1078,10 +1078,10 @@
     "slug": "private-hd",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.65%",
     "time": 724,
     "timeDay": 820,
     "timeWeek": 1359,
@@ -1138,8 +1138,7 @@
       "2026-10-27": 23,
       "2026-11-01": 23,
       "2026-11-05": 16,
-      "2026-11-06": 16,
-      "2026-11-07": 12
+      "2026-11-06": 16
     }
   },
   {
@@ -1202,7 +1201,7 @@
     "status": "up",
     "uptime": "98.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.32%",
+    "uptimeWeek": "95.37%",
     "uptimeMonth": "89.79%",
     "uptimeYear": "96.62%",
     "time": 1438,
@@ -1270,7 +1269,7 @@
     "status": "up",
     "uptime": "98.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "70.02%",
+    "uptimeWeek": "70.08%",
     "uptimeMonth": "59.02%",
     "uptimeYear": "96.07%",
     "time": 911,
