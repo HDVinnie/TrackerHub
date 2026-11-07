@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "69.85%",
-    "uptimeWeek": "73.12%",
-    "uptimeMonth": "93.81%",
+    "uptimeDay": "68.57%",
+    "uptimeWeek": "72.93%",
+    "uptimeMonth": "93.77%",
     "uptimeYear": "99.48%",
     "time": 1040,
-    "timeDay": 1039,
-    "timeWeek": 1036,
+    "timeDay": 1037,
+    "timeWeek": 1035,
     "timeMonth": 1048,
     "timeYear": 1048,
     "dailyMinutesDown": {
@@ -21,7 +21,8 @@
       "2026-11-03": 501,
       "2026-11-04": 405,
       "2026-11-05": 576,
-      "2026-11-06": 436
+      "2026-11-06": 439,
+      "2026-11-07": 16
     }
   },
   {
@@ -485,14 +486,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "81.51%",
-    "uptimeWeek": "82.54%",
-    "uptimeMonth": "94.64%",
+    "uptimeDay": "80.28%",
+    "uptimeWeek": "82.37%",
+    "uptimeMonth": "94.60%",
     "uptimeYear": "99.55%",
     "time": 1068,
-    "timeDay": 1109,
+    "timeDay": 1107,
     "timeWeek": 1071,
     "timeMonth": 1071,
     "timeYear": 1058,
@@ -505,7 +506,8 @@
       "2026-11-03": 195,
       "2026-11-04": 271,
       "2026-11-05": 205,
-      "2026-11-06": 266
+      "2026-11-06": 268,
+      "2026-11-07": 16
     }
   },
   {
@@ -945,7 +947,7 @@
     "timeDay": 899,
     "timeWeek": 2819,
     "timeMonth": 3287,
-    "timeYear": 2197,
+    "timeYear": 2199,
     "dailyMinutesDown": {
       "2026-03-19": 40,
       "2026-03-20": 69,
@@ -1200,7 +1202,7 @@
     "status": "up",
     "uptime": "98.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.81%",
+    "uptimeWeek": "90.00%",
     "uptimeMonth": "89.79%",
     "uptimeYear": "96.62%",
     "time": 1438,
@@ -1268,7 +1270,7 @@
     "status": "up",
     "uptime": "98.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "64.52%",
+    "uptimeWeek": "64.71%",
     "uptimeMonth": "58.95%",
     "uptimeYear": "96.07%",
     "time": 911,
