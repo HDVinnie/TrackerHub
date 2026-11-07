@@ -4,16 +4,16 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
-    "uptime": "99.89%",
-    "uptimeDay": "72.57%",
-    "uptimeWeek": "73.89%",
-    "uptimeMonth": "93.99%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "71.79%",
+    "uptimeWeek": "73.78%",
+    "uptimeMonth": "93.97%",
     "uptimeYear": "99.50%",
     "time": 1042,
-    "timeDay": 1033,
+    "timeDay": 1030,
     "timeWeek": 1034,
-    "timeMonth": 1047,
+    "timeMonth": 1046,
     "timeYear": 1048,
     "dailyMinutesDown": {
       "2026-11-01": 59,
@@ -22,7 +22,7 @@
       "2026-11-04": 405,
       "2026-11-05": 576,
       "2026-11-06": 439,
-      "2026-11-07": 187
+      "2026-11-07": 198
     }
   },
   {
@@ -486,14 +486,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "78.57%",
-    "uptimeWeek": "82.27%",
-    "uptimeMonth": "94.85%",
+    "uptimeDay": "77.84%",
+    "uptimeWeek": "82.17%",
+    "uptimeMonth": "94.83%",
     "uptimeYear": "99.57%",
     "time": 1061,
-    "timeDay": 1090,
+    "timeDay": 1086,
     "timeWeek": 1068,
     "timeMonth": 1070,
     "timeYear": 1058,
@@ -506,7 +506,7 @@
       "2026-11-04": 271,
       "2026-11-05": 205,
       "2026-11-06": 268,
-      "2026-11-07": 179
+      "2026-11-07": 190
     }
   },
   {
@@ -1201,7 +1201,7 @@
     "status": "up",
     "uptime": "98.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.05%",
+    "uptimeWeek": "97.17%",
     "uptimeMonth": "89.79%",
     "uptimeYear": "96.62%",
     "time": 1438,
@@ -1266,15 +1266,15 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "71.74%",
-    "uptimeMonth": "59.01%",
-    "uptimeYear": "96.08%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "71.76%",
+    "uptimeMonth": "58.99%",
+    "uptimeYear": "96.07%",
     "time": 911,
-    "timeDay": 974,
-    "timeWeek": 942,
+    "timeDay": 959,
+    "timeWeek": 943,
     "timeMonth": 924,
     "timeYear": 925,
     "dailyMinutesDown": {
@@ -1341,7 +1341,7 @@
       "2026-11-03": 17,
       "2026-11-04": 48,
       "2026-11-05": 17,
-      "2026-11-07": 2
+      "2026-11-07": 12
     }
   },
   {
