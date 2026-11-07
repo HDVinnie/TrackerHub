@@ -4,16 +4,16 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "69.31%",
-    "uptimeWeek": "74.03%",
-    "uptimeMonth": "94.02%",
+    "uptimeDay": "69.35%",
+    "uptimeWeek": "73.97%",
+    "uptimeMonth": "94.01%",
     "uptimeYear": "99.50%",
     "time": 1038,
-    "timeDay": 1040,
+    "timeDay": 1039,
     "timeWeek": 1035,
-    "timeMonth": 1047,
+    "timeMonth": 1046,
     "timeYear": 1048,
     "dailyMinutesDown": {
       "2026-11-02": 387,
@@ -21,7 +21,7 @@
       "2026-11-04": 405,
       "2026-11-05": 576,
       "2026-11-06": 439,
-      "2026-11-07": 314
+      "2026-11-07": 320
     }
   },
   {
@@ -492,8 +492,8 @@
     "uptimeMonth": "94.85%",
     "uptimeYear": "99.57%",
     "time": 1067,
-    "timeDay": 1075,
-    "timeWeek": 1069,
+    "timeDay": 1077,
+    "timeWeek": 1070,
     "timeMonth": 1070,
     "timeYear": 1059,
     "dailyMinutesDown": {
@@ -942,7 +942,7 @@
     "uptimeMonth": "98.36%",
     "uptimeYear": "99.31%",
     "time": 2006,
-    "timeDay": 508,
+    "timeDay": 578,
     "timeWeek": 2819,
     "timeMonth": 3287,
     "timeYear": 2201,
@@ -1077,10 +1077,10 @@
     "slug": "private-hd",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.65%",
     "time": 717,
     "timeDay": 910,
     "timeWeek": 1345,
@@ -1137,8 +1137,7 @@
       "2026-10-27": 23,
       "2026-11-01": 23,
       "2026-11-05": 16,
-      "2026-11-06": 16,
-      "2026-11-07": 6
+      "2026-11-06": 16
     }
   },
   {
@@ -1269,12 +1268,12 @@
     "status": "up",
     "uptime": "98.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "75.03%",
+    "uptimeWeek": "75.09%",
     "uptimeMonth": "59.02%",
     "uptimeYear": "96.07%",
     "time": 911,
-    "timeDay": 928,
-    "timeWeek": 942,
+    "timeDay": 937,
+    "timeWeek": 945,
     "timeMonth": 923,
     "timeYear": 925,
     "dailyMinutesDown": {
