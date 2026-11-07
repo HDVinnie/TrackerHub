@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.88%",
     "uptimeDay": "71.61%",
-    "uptimeWeek": "73.87%",
-    "uptimeMonth": "93.99%",
+    "uptimeWeek": "73.81%",
+    "uptimeMonth": "93.97%",
     "uptimeYear": "99.50%",
     "time": 1042,
     "timeDay": 1034,
@@ -22,7 +22,7 @@
       "2026-11-04": 405,
       "2026-11-05": 576,
       "2026-11-06": 439,
-      "2026-11-07": 206
+      "2026-11-07": 212
     }
   },
   {
@@ -486,11 +486,11 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.90%",
-    "uptimeDay": "78.67%",
-    "uptimeWeek": "82.39%",
-    "uptimeMonth": "94.81%",
+    "uptimeDay": "78.57%",
+    "uptimeWeek": "82.44%",
+    "uptimeMonth": "94.85%",
     "uptimeYear": "99.57%",
     "time": 1061,
     "timeDay": 1076,
@@ -498,7 +498,7 @@
     "timeMonth": 1070,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2026-10-30": 331,
+      "2026-10-30": 314,
       "2026-10-31": 294,
       "2026-11-01": 209,
       "2026-11-02": 323,
@@ -506,7 +506,7 @@
       "2026-11-04": 271,
       "2026-11-05": 205,
       "2026-11-06": 268,
-      "2026-11-07": 178
+      "2026-11-07": 179
     }
   },
   {
@@ -1201,7 +1201,7 @@
     "status": "up",
     "uptime": "98.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.68%",
+    "uptimeWeek": "97.74%",
     "uptimeMonth": "89.79%",
     "uptimeYear": "96.62%",
     "time": 1438,
@@ -1266,15 +1266,15 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "72.36%",
-    "uptimeMonth": "59.01%",
-    "uptimeYear": "96.08%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "72.38%",
+    "uptimeMonth": "59.00%",
+    "uptimeYear": "96.07%",
     "time": 911,
-    "timeDay": 966,
-    "timeWeek": 944,
+    "timeDay": 955,
+    "timeWeek": 942,
     "timeMonth": 924,
     "timeYear": 925,
     "dailyMinutesDown": {
@@ -1341,7 +1341,7 @@
       "2026-11-03": 17,
       "2026-11-04": 48,
       "2026-11-05": 17,
-      "2026-11-07": 2
+      "2026-11-07": 6
     }
   },
   {
