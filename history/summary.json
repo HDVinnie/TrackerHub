@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.88%",
     "uptimeDay": "72.66%",
-    "uptimeWeek": "73.31%",
-    "uptimeMonth": "93.86%",
+    "uptimeWeek": "73.25%",
+    "uptimeMonth": "93.84%",
     "uptimeYear": "99.49%",
     "time": 1041,
     "timeDay": 1038,
@@ -22,7 +22,7 @@
       "2026-11-04": 405,
       "2026-11-05": 576,
       "2026-11-06": 439,
-      "2026-11-07": 121
+      "2026-11-07": 128
     }
   },
   {
@@ -488,12 +488,12 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.90%",
-    "uptimeDay": "80.05%",
-    "uptimeWeek": "82.13%",
-    "uptimeMonth": "94.74%",
+    "uptimeDay": "79.57%",
+    "uptimeWeek": "82.06%",
+    "uptimeMonth": "94.73%",
     "uptimeYear": "99.56%",
     "time": 1068,
-    "timeDay": 1087,
+    "timeDay": 1090,
     "timeWeek": 1066,
     "timeMonth": 1070,
     "timeYear": 1058,
@@ -507,7 +507,7 @@
       "2026-11-04": 271,
       "2026-11-05": 205,
       "2026-11-06": 268,
-      "2026-11-07": 118
+      "2026-11-07": 125
     }
   },
   {
@@ -1202,7 +1202,7 @@
     "status": "up",
     "uptime": "98.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.14%",
+    "uptimeWeek": "94.21%",
     "uptimeMonth": "89.79%",
     "uptimeYear": "96.62%",
     "time": 1438,
@@ -1267,19 +1267,19 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "68.85%",
-    "uptimeMonth": "59.02%",
-    "uptimeYear": "96.07%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "68.89%",
+    "uptimeMonth": "59.01%",
+    "uptimeYear": "96.08%",
     "time": 911,
-    "timeDay": 939,
-    "timeWeek": 937,
+    "timeDay": 952,
+    "timeWeek": 938,
     "timeMonth": 923,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2026-08-03": 52,
+      "2026-08-03": 27,
       "2026-08-04": 131,
       "2026-08-05": 80,
       "2026-08-07": 44,
@@ -1341,7 +1341,8 @@
       "2026-10-21": 1208,
       "2026-11-03": 17,
       "2026-11-04": 48,
-      "2026-11-05": 17
+      "2026-11-05": 17,
+      "2026-11-07": 2
     }
   },
   {
