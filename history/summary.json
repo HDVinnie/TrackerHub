@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.88%",
     "uptimeDay": "65.59%",
-    "uptimeWeek": "73.59%",
-    "uptimeMonth": "93.92%",
+    "uptimeWeek": "73.53%",
+    "uptimeMonth": "93.91%",
     "uptimeYear": "99.49%",
     "time": 1040,
     "timeDay": 1031,
@@ -22,7 +22,7 @@
       "2026-11-05": 576,
       "2026-11-06": 439,
       "2026-11-07": 422,
-      "2026-11-08": 121
+      "2026-11-08": 126
     }
   },
   {
@@ -486,15 +486,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "81.00%",
-    "uptimeWeek": "82.83%",
-    "uptimeMonth": "94.88%",
+    "uptimeDay": "81.07%",
+    "uptimeWeek": "82.79%",
+    "uptimeMonth": "94.87%",
     "uptimeYear": "99.57%",
     "time": 1068,
-    "timeDay": 1078,
-    "timeWeek": 1066,
+    "timeDay": 1075,
+    "timeWeek": 1065,
     "timeMonth": 1069,
     "timeYear": 1059,
     "dailyMinutesDown": {
@@ -507,7 +507,7 @@
       "2026-11-05": 205,
       "2026-11-06": 268,
       "2026-11-07": 267,
-      "2026-11-08": 31
+      "2026-11-08": 35
     }
   },
   {
@@ -815,16 +815,16 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "96.85%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "96.84%",
     "uptimeYear": "99.56%",
     "time": 930,
     "timeDay": 970,
     "timeWeek": 970,
-    "timeMonth": 983,
+    "timeMonth": 982,
     "timeYear": 951,
     "dailyMinutesDown": {
       "2026-09-15": 60,
@@ -866,7 +866,7 @@
       "2026-11-04": 54,
       "2026-11-05": 23,
       "2026-11-06": 44,
-      "2026-11-08": 2
+      "2026-11-08": 5
     }
   },
   {
@@ -1271,7 +1271,7 @@
     "status": "up",
     "uptime": "98.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.05%",
+    "uptimeWeek": "81.11%",
     "uptimeMonth": "59.02%",
     "uptimeYear": "96.07%",
     "time": 911,
