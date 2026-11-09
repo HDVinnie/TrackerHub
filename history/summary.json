@@ -6,23 +6,23 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "61.77%",
-    "uptimeWeek": "71.98%",
-    "uptimeMonth": "93.55%",
+    "uptimeDay": "62.20%",
+    "uptimeWeek": "71.65%",
+    "uptimeMonth": "93.48%",
     "uptimeYear": "99.46%",
     "time": 1039,
     "timeDay": 1074,
     "timeWeek": 1041,
-    "timeMonth": 1047,
+    "timeMonth": 1046,
     "timeYear": 1048,
     "dailyMinutesDown": {
+      "2026-11-03": 49,
       "2026-11-04": 405,
-      "2026-11-03": 11,
       "2026-11-05": 576,
       "2026-11-06": 439,
       "2026-11-07": 422,
       "2026-11-08": 438,
-      "2026-11-09": 540
+      "2026-11-09": 534
     }
   },
   {
@@ -488,17 +488,17 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "65.80%",
-    "uptimeWeek": "80.78%",
-    "uptimeMonth": "94.55%",
-    "uptimeYear": "99.55%",
+    "uptimeDay": "66.20%",
+    "uptimeWeek": "80.84%",
+    "uptimeMonth": "94.52%",
+    "uptimeYear": "99.54%",
     "time": 1067,
     "timeDay": 1067,
-    "timeWeek": 1069,
+    "timeWeek": 1068,
     "timeMonth": 1067,
     "timeYear": 1059,
     "dailyMinutesDown": {
-      "2026-11-01": 131,
+      "2026-11-01": 150,
       "2026-11-02": 323,
       "2026-11-03": 195,
       "2026-11-04": 271,
@@ -506,7 +506,7 @@
       "2026-11-06": 268,
       "2026-11-07": 267,
       "2026-11-08": 243,
-      "2026-11-09": 489
+      "2026-11-09": 483
     }
   },
   {
@@ -1078,17 +1078,17 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.82%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "99.64%",
-    "time": 710,
-    "timeDay": 1001,
-    "timeWeek": 1320,
-    "timeMonth": 1212,
-    "timeYear": 757,
+    "time": 712,
+    "timeDay": 1089,
+    "timeWeek": 1346,
+    "timeMonth": 1225,
+    "timeYear": 761,
     "dailyMinutesDown": {
       "2025-11-18": 126,
       "2025-11-29": 17,
@@ -1142,7 +1142,7 @@
       "2026-11-05": 16,
       "2026-11-06": 16,
       "2026-11-08": 16,
-      "2026-11-09": 18
+      "2026-11-09": 20
     }
   },
   {
