@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
-    "uptime": "99.88%",
-    "uptimeDay": "62.73%",
-    "uptimeWeek": "71.57%",
-    "uptimeMonth": "93.46%",
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "62.35%",
+    "uptimeWeek": "71.52%",
+    "uptimeMonth": "93.45%",
     "uptimeYear": "99.45%",
     "time": 1038,
-    "timeDay": 1051,
+    "timeDay": 1050,
     "timeWeek": 1038,
     "timeMonth": 1046,
     "timeYear": 1048,
@@ -22,7 +22,7 @@
       "2026-11-06": 439,
       "2026-11-07": 422,
       "2026-11-08": 438,
-      "2026-11-09": 446
+      "2026-11-09": 452
     }
   },
   {
@@ -486,14 +486,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "66.83%",
-    "uptimeWeek": "81.07%",
-    "uptimeMonth": "94.52%",
+    "uptimeDay": "66.52%",
+    "uptimeWeek": "81.03%",
+    "uptimeMonth": "94.51%",
     "uptimeYear": "99.54%",
     "time": 1061,
-    "timeDay": 1055,
+    "timeDay": 1057,
     "timeWeek": 1066,
     "timeMonth": 1067,
     "timeYear": 1058,
@@ -507,7 +507,7 @@
       "2026-11-06": 268,
       "2026-11-07": 267,
       "2026-11-08": 243,
-      "2026-11-09": 406
+      "2026-11-09": 411
     }
   },
   {
@@ -818,9 +818,9 @@
     "slug": "my-anona-mouse",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "96.55%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "97.16%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "97.17%",
     "uptimeYear": "99.56%",
     "time": 929,
     "timeDay": 1010,
@@ -828,7 +828,7 @@
     "timeMonth": 982,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2026-09-15": 22,
+      "2026-09-15": 43,
       "2026-09-16": 26,
       "2026-09-18": 20,
       "2026-09-20": 41,
@@ -867,7 +867,7 @@
       "2026-11-04": 54,
       "2026-11-05": 23,
       "2026-11-06": 44,
-      "2026-11-09": 49
+      "2026-11-09": 43
     }
   },
   {
