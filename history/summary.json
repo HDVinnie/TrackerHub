@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "73.47%",
-    "uptimeWeek": "72.79%",
-    "uptimeMonth": "93.74%",
+    "uptimeDay": "73.02%",
+    "uptimeWeek": "72.72%",
+    "uptimeMonth": "93.72%",
     "uptimeYear": "99.48%",
     "time": 1042,
     "timeDay": 1039,
@@ -22,7 +22,7 @@
       "2026-11-06": 439,
       "2026-11-07": 422,
       "2026-11-08": 438,
-      "2026-11-09": 231
+      "2026-11-09": 237
     }
   },
   {
@@ -488,12 +488,12 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.90%",
-    "uptimeDay": "75.93%",
-    "uptimeWeek": "82.25%",
-    "uptimeMonth": "94.69%",
+    "uptimeDay": "75.49%",
+    "uptimeWeek": "82.19%",
+    "uptimeMonth": "94.68%",
     "uptimeYear": "99.56%",
     "time": 1068,
-    "timeDay": 1049,
+    "timeDay": 1045,
     "timeWeek": 1060,
     "timeMonth": 1067,
     "timeYear": 1058,
@@ -507,7 +507,7 @@
       "2026-11-06": 268,
       "2026-11-07": 267,
       "2026-11-08": 243,
-      "2026-11-09": 206
+      "2026-11-09": 212
     }
   },
   {
@@ -1079,17 +1079,17 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.82%",
-    "uptimeDay": "97.65%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "99.64%",
-    "time": 703,
-    "timeDay": 800,
-    "timeWeek": 1307,
-    "timeMonth": 1213,
-    "timeYear": 753,
+    "time": 706,
+    "timeDay": 919,
+    "timeWeek": 1324,
+    "timeMonth": 1221,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2025-11-18": 126,
       "2025-11-29": 17,
@@ -1143,7 +1143,7 @@
       "2026-11-05": 16,
       "2026-11-06": 16,
       "2026-11-08": 16,
-      "2026-11-09": 18
+      "2026-11-09": 20
     }
   },
   {
@@ -1272,15 +1272,15 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "98.11%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "58.99%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "98.87%",
+    "uptimeMonth": "58.98%",
     "uptimeYear": "96.08%",
-    "time": 910,
-    "timeDay": 977,
-    "timeWeek": 1006,
+    "time": 911,
+    "timeDay": 972,
+    "timeWeek": 1005,
     "timeMonth": 929,
     "timeYear": 927,
     "dailyMinutesDown": {
@@ -1346,7 +1346,7 @@
       "2026-11-03": 17,
       "2026-11-04": 48,
       "2026-11-05": 17,
-      "2026-11-09": 28
+      "2026-11-09": 31
     }
   },
   {
