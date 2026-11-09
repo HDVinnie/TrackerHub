@@ -5,24 +5,24 @@
     "icon": "$AIH_ICON",
     "slug": "aither",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "61.93%",
-    "uptimeWeek": "71.73%",
-    "uptimeMonth": "93.50%",
-    "uptimeYear": "99.46%",
+    "uptime": "99.87%",
+    "uptimeDay": "62.35%",
+    "uptimeWeek": "71.52%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "99.45%",
     "time": 1038,
-    "timeDay": 1044,
+    "timeDay": 1046,
     "timeWeek": 1038,
     "timeMonth": 1046,
     "timeYear": 1048,
     "dailyMinutesDown": {
-      "2026-11-03": 117,
+      "2026-11-03": 145,
       "2026-11-04": 405,
       "2026-11-05": 576,
       "2026-11-06": 439,
       "2026-11-07": 422,
       "2026-11-08": 438,
-      "2026-11-09": 458
+      "2026-11-09": 452
     }
   },
   {
@@ -1079,17 +1079,17 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.12%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.64%",
     "time": 707,
-    "timeDay": 973,
-    "timeWeek": 1339,
-    "timeMonth": 1218,
-    "timeYear": 756,
+    "timeDay": 919,
+    "timeWeek": 1325,
+    "timeMonth": 1212,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2025-11-18": 126,
       "2025-11-29": 17,
@@ -1143,7 +1143,7 @@
       "2026-11-05": 16,
       "2026-11-06": 16,
       "2026-11-08": 16,
-      "2026-11-09": 21
+      "2026-11-09": 24
     }
   },
   {
