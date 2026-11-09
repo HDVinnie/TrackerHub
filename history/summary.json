@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "58.95%",
-    "uptimeWeek": "71.95%",
-    "uptimeMonth": "93.55%",
+    "uptimeDay": "59.58%",
+    "uptimeWeek": "71.65%",
+    "uptimeMonth": "93.48%",
     "uptimeYear": "99.46%",
     "time": 1039,
     "timeDay": 1067,
@@ -16,13 +16,13 @@
     "timeMonth": 1046,
     "timeYear": 1048,
     "dailyMinutesDown": {
+      "2026-11-03": 49,
       "2026-11-04": 405,
-      "2026-11-03": 11,
       "2026-11-05": 576,
       "2026-11-06": 439,
       "2026-11-07": 422,
       "2026-11-08": 438,
-      "2026-11-09": 542
+      "2026-11-09": 534
     }
   },
   {
@@ -443,17 +443,17 @@
     "url": "$BTN",
     "icon": "$BTN_ICON",
     "slug": "broadcas-the-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "97.29%",
     "uptimeYear": "99.04%",
-    "time": 921,
-    "timeDay": 396,
-    "timeWeek": 760,
-    "timeMonth": 947,
-    "timeYear": 966,
+    "time": 923,
+    "timeDay": 867,
+    "timeWeek": 808,
+    "timeMonth": 955,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2025-11-18": 115,
       "2025-11-20": 36,
@@ -478,7 +478,8 @@
       "2026-08-22": 19,
       "2026-08-25": 590,
       "2026-09-26": 114,
-      "2026-10-21": 1186
+      "2026-10-21": 1186,
+      "2026-11-09": 1
     }
   },
   {
