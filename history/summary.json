@@ -7,12 +7,12 @@
     "status": "degraded",
     "uptime": "99.88%",
     "uptimeDay": "64.92%",
-    "uptimeWeek": "73.32%",
-    "uptimeMonth": "93.86%",
+    "uptimeWeek": "73.27%",
+    "uptimeMonth": "93.85%",
     "uptimeYear": "99.49%",
     "time": 1043,
     "timeDay": 1066,
-    "timeWeek": 1044,
+    "timeWeek": 1043,
     "timeMonth": 1047,
     "timeYear": 1048,
     "dailyMinutesDown": {
@@ -21,7 +21,7 @@
       "2026-11-07": 422,
       "2026-11-08": 438,
       "2026-11-09": 534,
-      "2026-11-10": 336
+      "2026-11-10": 342
     }
   },
   {
@@ -485,14 +485,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "76.31%",
-    "uptimeWeek": "80.12%",
-    "uptimeMonth": "94.52%",
+    "uptimeDay": "76.03%",
+    "uptimeWeek": "80.08%",
+    "uptimeMonth": "94.51%",
     "uptimeYear": "99.54%",
     "time": 1068,
-    "timeDay": 1068,
+    "timeDay": 1065,
     "timeWeek": 1069,
     "timeMonth": 1068,
     "timeYear": 1059,
@@ -505,7 +505,7 @@
       "2026-11-07": 267,
       "2026-11-08": 243,
       "2026-11-09": 483,
-      "2026-11-10": 203
+      "2026-11-10": 207
     }
   },
   {
@@ -814,12 +814,12 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "97.42%",
-    "uptimeWeek": "98.01%",
-    "uptimeMonth": "97.20%",
-    "uptimeYear": "99.57%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "97.98%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "99.56%",
     "time": 936,
     "timeDay": 986,
     "timeWeek": 981,
@@ -864,7 +864,7 @@
       "2026-11-05": 23,
       "2026-11-06": 44,
       "2026-11-09": 60,
-      "2026-11-10": 20
+      "2026-11-10": 23
     }
   },
   {
@@ -1080,7 +1080,7 @@
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.18%",
+    "uptimeMonth": "99.19%",
     "uptimeYear": "99.64%",
     "time": 714,
     "timeDay": 1258,
