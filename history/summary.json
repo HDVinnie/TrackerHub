@@ -4,16 +4,16 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "71.15%",
-    "uptimeWeek": "73.57%",
-    "uptimeMonth": "93.92%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "71.98%",
+    "uptimeWeek": "73.69%",
+    "uptimeMonth": "93.94%",
+    "uptimeYear": "99.50%",
     "time": 1039,
-    "timeDay": 1055,
+    "timeDay": 1057,
     "timeWeek": 1043,
-    "timeMonth": 1046,
+    "timeMonth": 1047,
     "timeYear": 1048,
     "dailyMinutesDown": {
       "2026-11-05": 438,
@@ -21,7 +21,7 @@
       "2026-11-07": 422,
       "2026-11-08": 438,
       "2026-11-09": 534,
-      "2026-11-10": 398
+      "2026-11-10": 386
     }
   },
   {
@@ -180,7 +180,7 @@
     "timeDay": 1232,
     "timeWeek": 1053,
     "timeMonth": 1377,
-    "timeYear": 1154,
+    "timeYear": 1155,
     "dailyMinutesDown": {
       "2025-11-26": 21,
       "2025-12-04": 147,
@@ -487,13 +487,13 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.90%",
-    "uptimeDay": "80.94%",
-    "uptimeWeek": "80.18%",
-    "uptimeMonth": "94.61%",
+    "uptimeDay": "80.48%",
+    "uptimeWeek": "80.11%",
+    "uptimeMonth": "94.59%",
     "uptimeYear": "99.55%",
     "time": 1061,
     "timeDay": 1061,
-    "timeWeek": 1068,
+    "timeWeek": 1067,
     "timeMonth": 1067,
     "timeYear": 1059,
     "dailyMinutesDown": {
@@ -505,7 +505,7 @@
       "2026-11-07": 267,
       "2026-11-08": 243,
       "2026-11-09": 483,
-      "2026-11-10": 242
+      "2026-11-10": 249
     }
   },
   {
@@ -643,7 +643,7 @@
     "timeDay": 609,
     "timeWeek": 543,
     "timeMonth": 2599,
-    "timeYear": 1342,
+    "timeYear": 1344,
     "dailyMinutesDown": {
       "2025-11-18": 15,
       "2025-11-21": 18,
@@ -818,7 +818,7 @@
     "uptime": "99.90%",
     "uptimeDay": "97.24%",
     "uptimeWeek": "97.98%",
-    "uptimeMonth": "97.29%",
+    "uptimeMonth": "97.31%",
     "uptimeYear": "99.56%",
     "time": 937,
     "timeDay": 973,
