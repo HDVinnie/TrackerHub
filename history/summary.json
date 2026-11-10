@@ -6,22 +6,22 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "68.09%",
-    "uptimeWeek": "73.48%",
-    "uptimeMonth": "93.90%",
+    "uptimeDay": "68.51%",
+    "uptimeWeek": "73.34%",
+    "uptimeMonth": "93.86%",
     "uptimeYear": "99.49%",
     "time": 1039,
-    "timeDay": 1046,
+    "timeDay": 1042,
     "timeWeek": 1041,
     "timeMonth": 1046,
     "timeYear": 1048,
     "dailyMinutesDown": {
-      "2026-11-05": 385,
+      "2026-11-05": 406,
       "2026-11-06": 439,
       "2026-11-07": 422,
       "2026-11-08": 438,
       "2026-11-09": 534,
-      "2026-11-10": 459
+      "2026-11-10": 453
     }
   },
   {
@@ -485,17 +485,17 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.90%",
-    "uptimeDay": "79.05%",
-    "uptimeWeek": "79.77%",
-    "uptimeMonth": "94.51%",
+    "uptimeDay": "79.36%",
+    "uptimeWeek": "79.81%",
+    "uptimeMonth": "94.52%",
     "uptimeYear": "99.54%",
     "time": 1067,
-    "timeDay": 1039,
-    "timeWeek": 1064,
-    "timeMonth": 1066,
-    "timeYear": 1058,
+    "timeDay": 1051,
+    "timeWeek": 1066,
+    "timeMonth": 1067,
+    "timeYear": 1059,
     "dailyMinutesDown": {
       "2026-11-02": 174,
       "2026-11-03": 195,
@@ -505,7 +505,7 @@
       "2026-11-07": 267,
       "2026-11-08": 243,
       "2026-11-09": 483,
-      "2026-11-10": 302
+      "2026-11-10": 297
     }
   },
   {
@@ -1149,7 +1149,7 @@
     "icon": "$PTP_ICON",
     "slug": "pass-the-popcorn",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.08%",
