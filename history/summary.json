@@ -4,11 +4,11 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "63.40%",
-    "uptimeWeek": "72.02%",
-    "uptimeMonth": "93.56%",
+    "uptimeDay": "63.05%",
+    "uptimeWeek": "71.97%",
+    "uptimeMonth": "93.55%",
     "uptimeYear": "99.46%",
     "time": 1040,
     "timeDay": 1081,
@@ -23,7 +23,7 @@
       "2026-11-07": 422,
       "2026-11-08": 438,
       "2026-11-09": 534,
-      "2026-11-10": 1
+      "2026-11-10": 6
     }
   },
   {
@@ -487,14 +487,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "69.83%",
-    "uptimeWeek": "80.82%",
-    "uptimeMonth": "94.56%",
+    "uptimeDay": "69.93%",
+    "uptimeWeek": "80.78%",
+    "uptimeMonth": "94.55%",
     "uptimeYear": "99.55%",
     "time": 1067,
-    "timeDay": 1073,
+    "timeDay": 1070,
     "timeWeek": 1068,
     "timeMonth": 1068,
     "timeYear": 1059,
@@ -508,7 +508,7 @@
       "2026-11-07": 267,
       "2026-11-08": 243,
       "2026-11-09": 483,
-      "2026-11-10": 2
+      "2026-11-10": 6
     }
   },
   {
@@ -824,7 +824,7 @@
     "uptimeMonth": "97.18%",
     "uptimeYear": "99.56%",
     "time": 932,
-    "timeDay": 997,
+    "timeDay": 999,
     "timeWeek": 978,
     "timeMonth": 981,
     "timeYear": 953,
@@ -1000,17 +1000,17 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.05%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.04%",
     "time": 1013,
-    "timeDay": 997,
-    "timeWeek": 898,
-    "timeMonth": 1290,
-    "timeYear": 1052,
+    "timeDay": 988,
+    "timeWeek": 900,
+    "timeMonth": 1288,
+    "timeYear": 1051,
     "dailyMinutesDown": {
       "2026-07-14": 57,
       "2026-07-16": 166,
@@ -1073,7 +1073,7 @@
       "2026-10-23": 15,
       "2026-10-27": 22,
       "2026-10-29": 22,
-      "2026-11-10": 3
+      "2026-11-10": 6
     }
   },
   {
