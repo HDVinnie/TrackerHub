@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "70.22%",
-    "uptimeWeek": "73.57%",
-    "uptimeMonth": "93.92%",
+    "uptimeDay": "69.82%",
+    "uptimeWeek": "73.51%",
+    "uptimeMonth": "93.91%",
     "uptimeYear": "99.49%",
     "time": 1042,
     "timeDay": 1025,
@@ -22,7 +22,7 @@
       "2026-11-08": 438,
       "2026-11-09": 534,
       "2026-11-10": 453,
-      "2026-11-11": 239
+      "2026-11-11": 245
     }
   },
   {
@@ -171,16 +171,16 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "93.13%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "93.12%",
     "uptimeYear": "97.28%",
     "time": 1165,
-    "timeDay": 1221,
-    "timeWeek": 1067,
-    "timeMonth": 1381,
+    "timeDay": 1173,
+    "timeWeek": 1061,
+    "timeMonth": 1377,
     "timeYear": 1154,
     "dailyMinutesDown": {
       "2025-11-26": 21,
@@ -257,7 +257,7 @@
       "2026-10-30": 31,
       "2026-11-01": 20,
       "2026-11-05": 16,
-      "2026-11-11": 1
+      "2026-11-11": 6
     }
   },
   {
@@ -489,10 +489,10 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "78.16%",
-    "uptimeWeek": "80.30%",
-    "uptimeMonth": "94.43%",
-    "uptimeYear": "99.54%",
+    "uptimeDay": "77.76%",
+    "uptimeWeek": "80.24%",
+    "uptimeMonth": "94.41%",
+    "uptimeYear": "99.53%",
     "time": 1067,
     "timeDay": 1007,
     "timeWeek": 1056,
@@ -508,7 +508,7 @@
       "2026-11-08": 243,
       "2026-11-09": 483,
       "2026-11-10": 301,
-      "2026-11-11": 157
+      "2026-11-11": 163
     }
   },
   {
@@ -1276,7 +1276,7 @@
     "status": "up",
     "uptime": "98.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
+    "uptimeWeek": "99.48%",
     "uptimeMonth": "59.10%",
     "uptimeYear": "96.07%",
     "time": 910,
