@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "74.35%",
-    "uptimeWeek": "73.87%",
-    "uptimeMonth": "93.99%",
+    "uptimeDay": "73.92%",
+    "uptimeWeek": "73.81%",
+    "uptimeMonth": "93.97%",
     "uptimeYear": "99.50%",
     "time": 1038,
     "timeDay": 1038,
@@ -21,7 +21,7 @@
       "2026-11-08": 438,
       "2026-11-09": 534,
       "2026-11-10": 453,
-      "2026-11-11": 350
+      "2026-11-11": 356
     }
   },
   {
@@ -170,16 +170,16 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "93.14%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "93.13%",
     "uptimeYear": "97.28%",
     "time": 1165,
-    "timeDay": 927,
-    "timeWeek": 997,
-    "timeMonth": 1385,
+    "timeDay": 952,
+    "timeWeek": 999,
+    "timeMonth": 1383,
     "timeYear": 1154,
     "dailyMinutesDown": {
       "2025-11-26": 21,
@@ -255,7 +255,8 @@
       "2026-10-29": 19,
       "2026-10-30": 31,
       "2026-11-01": 20,
-      "2026-11-05": 16
+      "2026-11-05": 16,
+      "2026-11-11": 1
     }
   },
   {
@@ -487,13 +488,13 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "85.07%",
-    "uptimeWeek": "80.37%",
-    "uptimeMonth": "94.46%",
+    "uptimeDay": "84.64%",
+    "uptimeWeek": "80.31%",
+    "uptimeMonth": "94.45%",
     "uptimeYear": "99.54%",
     "time": 1061,
     "timeDay": 1010,
-    "timeWeek": 1055,
+    "timeWeek": 1054,
     "timeMonth": 1063,
     "timeYear": 1058,
     "dailyMinutesDown": {
@@ -505,7 +506,7 @@
       "2026-11-08": 243,
       "2026-11-09": 483,
       "2026-11-10": 301,
-      "2026-11-11": 210
+      "2026-11-11": 216
     }
   },
   {
@@ -1076,16 +1077,16 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "99.15%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.64%",
     "time": 729,
-    "timeDay": 1154,
-    "timeWeek": 986,
-    "timeMonth": 1224,
+    "timeDay": 1120,
+    "timeWeek": 985,
+    "timeMonth": 1220,
     "timeYear": 774,
     "dailyMinutesDown": {
       "2025-11-18": 126,
@@ -1141,7 +1142,7 @@
       "2026-11-06": 16,
       "2026-11-08": 16,
       "2026-11-09": 18,
-      "2026-11-11": 20
+      "2026-11-11": 23
     }
   },
   {
@@ -1278,7 +1279,7 @@
     "uptimeYear": "96.07%",
     "time": 913,
     "timeDay": 911,
-    "timeWeek": 961,
+    "timeWeek": 958,
     "timeMonth": 925,
     "timeYear": 928,
     "dailyMinutesDown": {
