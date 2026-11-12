@@ -4,25 +4,25 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "72.29%",
-    "uptimeWeek": "73.27%",
-    "uptimeMonth": "93.85%",
+    "uptimeDay": "72.24%",
+    "uptimeWeek": "73.48%",
+    "uptimeMonth": "93.90%",
     "uptimeYear": "99.49%",
     "time": 1038,
-    "timeDay": 1037,
+    "timeDay": 1036,
     "timeWeek": 1040,
     "timeMonth": 1046,
     "timeYear": 1048,
     "dailyMinutesDown": {
-      "2026-11-06": 75,
+      "2026-11-06": 54,
       "2026-11-07": 422,
       "2026-11-08": 438,
       "2026-11-09": 534,
       "2026-11-10": 453,
       "2026-11-11": 391,
-      "2026-11-12": 384
+      "2026-11-12": 385
     }
   },
   {
@@ -494,7 +494,7 @@
     "uptimeMonth": "94.45%",
     "uptimeYear": "99.54%",
     "time": 1067,
-    "timeDay": 1056,
+    "timeDay": 1055,
     "timeWeek": 1059,
     "timeMonth": 1058,
     "timeYear": 1058,
@@ -824,7 +824,7 @@
     "uptimeYear": "99.56%",
     "time": 937,
     "timeDay": 972,
-    "timeWeek": 980,
+    "timeWeek": 981,
     "timeMonth": 981,
     "timeYear": 955,
     "dailyMinutesDown": {
@@ -1357,17 +1357,17 @@
     "url": "$TL",
     "icon": "$TL_ICON",
     "slug": "torrent-leech",
-    "status": "degraded",
+    "status": "up",
     "uptime": "97.57%",
-    "uptimeDay": "96.95%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 576,
-    "timeDay": 932,
-    "timeWeek": 651,
-    "timeMonth": 690,
-    "timeYear": 629,
+    "timeDay": 863,
+    "timeWeek": 633,
+    "timeMonth": 682,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2025-11-18": 110,
       "2025-11-29": 43,
@@ -1381,7 +1381,7 @@
       "2026-08-15": 57,
       "2026-09-03": 18,
       "2026-10-10": 44,
-      "2026-11-12": 44
+      "2026-11-12": 48
     }
   }
 ]
