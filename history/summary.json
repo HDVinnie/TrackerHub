@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "72.60%",
-    "uptimeWeek": "73.45%",
-    "uptimeMonth": "93.89%",
+    "uptimeDay": "73.35%",
+    "uptimeWeek": "73.56%",
+    "uptimeMonth": "93.92%",
     "uptimeYear": "99.49%",
     "time": 1038,
-    "timeDay": 1031,
+    "timeDay": 1035,
     "timeWeek": 1042,
     "timeMonth": 1046,
     "timeYear": 1048,
@@ -22,7 +22,7 @@
       "2026-11-09": 534,
       "2026-11-10": 453,
       "2026-11-11": 391,
-      "2026-11-12": 348
+      "2026-11-12": 337
     }
   },
   {
@@ -487,14 +487,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "82.02%",
-    "uptimeWeek": "79.62%",
-    "uptimeMonth": "94.47%",
+    "uptimeDay": "82.72%",
+    "uptimeWeek": "79.72%",
+    "uptimeMonth": "94.49%",
     "uptimeYear": "99.54%",
     "time": 1067,
-    "timeDay": 1064,
+    "timeDay": 1063,
     "timeWeek": 1060,
     "timeMonth": 1058,
     "timeYear": 1058,
@@ -507,7 +507,7 @@
       "2026-11-09": 483,
       "2026-11-10": 301,
       "2026-11-11": 268,
-      "2026-11-12": 199
+      "2026-11-12": 189
     }
   },
   {
@@ -816,16 +816,16 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.90%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "97.26%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "97.28%",
     "uptimeYear": "99.57%",
     "time": 936,
-    "timeDay": 988,
+    "timeDay": 990,
     "timeWeek": 982,
-    "timeMonth": 981,
+    "timeMonth": 982,
     "timeYear": 955,
     "dailyMinutesDown": {
       "2026-09-20": 22,
@@ -866,7 +866,7 @@
       "2026-11-06": 44,
       "2026-11-09": 60,
       "2026-11-10": 23,
-      "2026-11-12": 30
+      "2026-11-12": 21
     }
   },
   {
