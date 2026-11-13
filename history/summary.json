@@ -4,25 +4,25 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "54.64%",
-    "uptimeWeek": "71.65%",
-    "uptimeMonth": "93.48%",
+    "uptimeDay": "54.90%",
+    "uptimeWeek": "71.81%",
+    "uptimeMonth": "93.51%",
     "uptimeYear": "99.46%",
     "time": 1042,
-    "timeDay": 1005,
+    "timeDay": 1007,
     "timeWeek": 1037,
     "timeMonth": 1044,
     "timeYear": 1048,
     "dailyMinutesDown": {
-      "2026-11-07": 28,
       "2026-11-08": 438,
+      "2026-11-07": 6,
       "2026-11-09": 534,
       "2026-11-10": 453,
       "2026-11-11": 391,
       "2026-11-12": 388,
-      "2026-11-13": 629
+      "2026-11-13": 635
     }
   },
   {
@@ -489,12 +489,12 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "71.94%",
-    "uptimeWeek": "78.41%",
-    "uptimeMonth": "94.26%",
+    "uptimeDay": "71.30%",
+    "uptimeWeek": "78.32%",
+    "uptimeMonth": "94.23%",
     "uptimeYear": "99.52%",
     "time": 1066,
-    "timeDay": 1036,
+    "timeDay": 1035,
     "timeWeek": 1049,
     "timeMonth": 1057,
     "timeYear": 1058,
@@ -507,7 +507,7 @@
       "2026-11-10": 301,
       "2026-11-11": 268,
       "2026-11-12": 209,
-      "2026-11-13": 383
+      "2026-11-13": 392
     }
   },
   {
@@ -637,9 +637,9 @@
     "slug": "gazelle-games",
     "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "49.77%",
-    "uptimeWeek": "92.82%",
-    "uptimeMonth": "94.40%",
+    "uptimeDay": "49.14%",
+    "uptimeWeek": "92.73%",
+    "uptimeMonth": "94.38%",
     "uptimeYear": "98.84%",
     "time": 1976,
     "timeDay": 449,
@@ -697,7 +697,7 @@
       "2026-10-21": 1324,
       "2026-10-25": 17,
       "2026-10-30": 16,
-      "2026-11-13": 723
+      "2026-11-13": 732
     }
   },
   {
@@ -824,7 +824,7 @@
     "uptimeMonth": "97.32%",
     "uptimeYear": "99.57%",
     "time": 946,
-    "timeDay": 1043,
+    "timeDay": 1044,
     "timeWeek": 995,
     "timeMonth": 984,
     "timeYear": 958,
