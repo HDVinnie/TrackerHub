@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "63.95%",
-    "uptimeWeek": "72.43%",
-    "uptimeMonth": "93.66%",
+    "uptimeDay": "63.74%",
+    "uptimeWeek": "72.40%",
+    "uptimeMonth": "93.65%",
     "uptimeYear": "99.47%",
     "time": 1040,
-    "timeDay": 1038,
+    "timeDay": 1035,
     "timeWeek": 1039,
     "timeMonth": 1045,
     "timeYear": 1048,
@@ -22,7 +22,7 @@
       "2026-11-10": 453,
       "2026-11-11": 391,
       "2026-11-12": 388,
-      "2026-11-13": 360
+      "2026-11-13": 363
     }
   },
   {
@@ -489,17 +489,18 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "76.76%",
-    "uptimeWeek": "78.58%",
-    "uptimeMonth": "94.36%",
+    "uptimeDay": "77.41%",
+    "uptimeWeek": "78.67%",
+    "uptimeMonth": "94.31%",
     "uptimeYear": "99.53%",
     "time": 1066,
-    "timeDay": 1025,
+    "timeDay": 1027,
     "timeWeek": 1052,
     "timeMonth": 1057,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2026-11-05": 174,
+      "2026-11-05": 205,
+      "2026-11-04": 2,
       "2026-11-06": 268,
       "2026-11-07": 267,
       "2026-11-08": 243,
@@ -507,7 +508,7 @@
       "2026-11-10": 301,
       "2026-11-11": 268,
       "2026-11-12": 209,
-      "2026-11-13": 257
+      "2026-11-13": 248
     }
   },
   {
@@ -637,9 +638,9 @@
     "slug": "gazelle-games",
     "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "93.12%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "95.83%",
+    "uptimeDay": "92.56%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "95.81%",
     "uptimeYear": "98.96%",
     "time": 1976,
     "timeDay": 449,
@@ -697,7 +698,7 @@
       "2026-10-21": 1324,
       "2026-10-25": 17,
       "2026-10-30": 16,
-      "2026-11-13": 99
+      "2026-11-13": 107
     }
   },
   {
@@ -876,9 +877,9 @@
     "slug": "nebulance",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "88.12%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "94.67%",
+    "uptimeDay": "88.75%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "94.69%",
     "uptimeYear": "99.11%",
     "time": 1218,
     "timeDay": 764,
@@ -931,8 +932,7 @@
       "2026-10-18": 20,
       "2026-10-21": 1133,
       "2026-10-22": 996,
-      "2026-11-12": 162,
-      "2026-11-13": 9
+      "2026-11-12": 162
     }
   },
   {
