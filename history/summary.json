@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "72.96%",
-    "uptimeWeek": "72.88%",
-    "uptimeMonth": "93.76%",
+    "uptimeDay": "73.30%",
+    "uptimeWeek": "72.93%",
+    "uptimeMonth": "93.77%",
     "uptimeYear": "99.48%",
     "time": 1039,
-    "timeDay": 1034,
-    "timeWeek": 1040,
+    "timeDay": 1037,
+    "timeWeek": 1041,
     "timeMonth": 1046,
     "timeYear": 1048,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-11-10": 453,
       "2026-11-11": 391,
       "2026-11-12": 388,
-      "2026-11-13": 149
+      "2026-11-13": 144
     }
   },
   {
@@ -487,19 +487,19 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "86.47%",
-    "uptimeWeek": "79.53%",
-    "uptimeMonth": "94.37%",
+    "uptimeDay": "86.35%",
+    "uptimeWeek": "79.51%",
+    "uptimeMonth": "94.40%",
     "uptimeYear": "99.53%",
     "time": 1060,
     "timeDay": 1046,
     "timeWeek": 1055,
-    "timeMonth": 1058,
+    "timeMonth": 1057,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2026-11-04": 121,
+      "2026-11-04": 106,
       "2026-11-05": 205,
       "2026-11-06": 268,
       "2026-11-07": 267,
@@ -508,7 +508,7 @@
       "2026-11-10": 301,
       "2026-11-11": 268,
       "2026-11-12": 209,
-      "2026-11-13": 100
+      "2026-11-13": 102
     }
   },
   {
@@ -819,17 +819,17 @@
     "slug": "my-anona-mouse",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "96.82%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "97.23%",
-    "uptimeYear": "99.57%",
+    "uptimeDay": "97.22%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "97.24%",
+    "uptimeYear": "99.56%",
     "time": 939,
     "timeDay": 957,
     "timeWeek": 978,
     "timeMonth": 979,
     "timeYear": 955,
     "dailyMinutesDown": {
-      "2026-09-21": 20,
+      "2026-09-21": 61,
       "2026-09-23": 78,
       "2026-09-24": 16,
       "2026-09-25": 34,
@@ -867,7 +867,7 @@
       "2026-11-09": 60,
       "2026-11-10": 23,
       "2026-11-12": 19,
-      "2026-11-13": 46
+      "2026-11-13": 40
     }
   },
   {
