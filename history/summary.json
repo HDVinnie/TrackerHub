@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "70.87%",
-    "uptimeWeek": "73.21%",
-    "uptimeMonth": "93.83%",
+    "uptimeDay": "70.90%",
+    "uptimeWeek": "73.16%",
+    "uptimeMonth": "93.82%",
     "uptimeYear": "99.49%",
     "time": 1039,
-    "timeDay": 1036,
+    "timeDay": 1035,
     "timeWeek": 1040,
     "timeMonth": 1046,
     "timeYear": 1048,
@@ -23,7 +23,7 @@
       "2026-11-10": 453,
       "2026-11-11": 391,
       "2026-11-12": 388,
-      "2026-11-13": 43
+      "2026-11-13": 48
     }
   },
   {
@@ -488,14 +488,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "83.09%",
-    "uptimeWeek": "79.33%",
-    "uptimeMonth": "94.44%",
+    "uptimeDay": "83.17%",
+    "uptimeWeek": "79.34%",
+    "uptimeMonth": "94.43%",
     "uptimeYear": "99.54%",
-    "time": 1064,
-    "timeDay": 1057,
+    "time": 1062,
+    "timeDay": 1053,
     "timeWeek": 1058,
     "timeMonth": 1058,
     "timeYear": 1058,
@@ -509,7 +509,7 @@
       "2026-11-10": 301,
       "2026-11-11": 268,
       "2026-11-12": 209,
-      "2026-11-13": 43
+      "2026-11-13": 48
     }
   },
   {
@@ -818,15 +818,15 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "96.81%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "97.22%",
+    "uptimeDay": "96.56%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "97.21%",
     "uptimeYear": "99.57%",
-    "time": 937,
-    "timeDay": 969,
-    "timeWeek": 981,
+    "time": 938,
+    "timeDay": 964,
+    "timeWeek": 980,
     "timeMonth": 980,
     "timeYear": 955,
     "dailyMinutesDown": {
@@ -868,7 +868,7 @@
       "2026-11-09": 60,
       "2026-11-10": 23,
       "2026-11-12": 19,
-      "2026-11-13": 27
+      "2026-11-13": 30
     }
   },
   {
