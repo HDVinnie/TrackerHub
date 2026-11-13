@@ -6,13 +6,13 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "62.16%",
-    "uptimeWeek": "72.09%",
-    "uptimeMonth": "93.58%",
+    "uptimeDay": "61.50%",
+    "uptimeWeek": "71.99%",
+    "uptimeMonth": "93.56%",
     "uptimeYear": "99.46%",
     "time": 1041,
-    "timeDay": 1031,
-    "timeWeek": 1040,
+    "timeDay": 1030,
+    "timeWeek": 1039,
     "timeMonth": 1045,
     "timeYear": 1048,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-11-10": 453,
       "2026-11-11": 391,
       "2026-11-12": 388,
-      "2026-11-13": 459
+      "2026-11-13": 468
     }
   },
   {
@@ -34,7 +34,7 @@
     "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.76%",
+    "uptimeMonth": "98.78%",
     "uptimeYear": "98.10%",
     "time": 3845,
     "timeDay": 350,
@@ -269,12 +269,12 @@
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.59%",
     "time": 1524,
     "timeDay": 293,
     "timeWeek": 588,
-    "timeMonth": 1500,
+    "timeMonth": 1489,
     "timeYear": 1365,
     "dailyMinutesDown": {
       "2025-11-18": 137,
@@ -487,19 +487,19 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "77.69%",
-    "uptimeWeek": "78.83%",
-    "uptimeMonth": "94.34%",
+    "uptimeDay": "77.25%",
+    "uptimeWeek": "78.77%",
+    "uptimeMonth": "94.39%",
     "uptimeYear": "99.53%",
     "time": 1066,
-    "timeDay": 1032,
-    "timeWeek": 1051,
+    "timeDay": 1039,
+    "timeWeek": 1052,
     "timeMonth": 1057,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2026-11-05": 157,
+      "2026-11-05": 128,
       "2026-11-06": 268,
       "2026-11-07": 267,
       "2026-11-08": 243,
@@ -507,7 +507,7 @@
       "2026-11-10": 301,
       "2026-11-11": 268,
       "2026-11-12": 209,
-      "2026-11-13": 284
+      "2026-11-13": 290
     }
   },
   {
@@ -637,9 +637,9 @@
     "slug": "gazelle-games",
     "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "76.85%",
-    "uptimeWeek": "96.69%",
-    "uptimeMonth": "95.29%",
+    "uptimeDay": "76.20%",
+    "uptimeWeek": "96.60%",
+    "uptimeMonth": "95.27%",
     "uptimeYear": "98.91%",
     "time": 1976,
     "timeDay": 449,
@@ -697,7 +697,7 @@
       "2026-10-21": 1324,
       "2026-10-25": 17,
       "2026-10-30": 16,
-      "2026-11-13": 333
+      "2026-11-13": 343
     }
   },
   {
@@ -1080,16 +1080,16 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.63%",
-    "time": 777,
-    "timeDay": 905,
+    "time": 776,
+    "timeDay": 868,
     "timeWeek": 1350,
-    "timeMonth": 1344,
+    "timeMonth": 1339,
     "timeYear": 819,
     "dailyMinutesDown": {
       "2025-11-18": 126,
@@ -1146,7 +1146,7 @@
       "2026-11-08": 16,
       "2026-11-09": 18,
       "2026-11-11": 17,
-      "2026-11-13": 18
+      "2026-11-13": 24
     }
   },
   {
@@ -1282,7 +1282,7 @@
     "uptimeYear": "96.08%",
     "time": 921,
     "timeDay": 1651,
-    "timeWeek": 1070,
+    "timeWeek": 1074,
     "timeMonth": 948,
     "timeYear": 936,
     "dailyMinutesDown": {
