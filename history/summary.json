@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "53.55%",
-    "uptimeWeek": "71.73%",
-    "uptimeMonth": "93.49%",
+    "uptimeDay": "52.94%",
+    "uptimeWeek": "71.64%",
+    "uptimeMonth": "93.47%",
     "uptimeYear": "99.46%",
     "time": 1041,
-    "timeDay": 1018,
+    "timeDay": 1020,
     "timeWeek": 1038,
     "timeMonth": 1045,
     "timeYear": 1048,
@@ -22,7 +22,7 @@
       "2026-11-10": 453,
       "2026-11-11": 391,
       "2026-11-12": 388,
-      "2026-11-13": 599
+      "2026-11-13": 608
     }
   },
   {
@@ -487,14 +487,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "72.58%",
-    "uptimeWeek": "78.40%",
+    "uptimeDay": "72.41%",
+    "uptimeWeek": "78.47%",
     "uptimeMonth": "94.23%",
     "uptimeYear": "99.52%",
     "time": 1066,
-    "timeDay": 1032,
+    "timeDay": 1031,
     "timeWeek": 1049,
     "timeMonth": 1057,
     "timeYear": 1058,
@@ -507,7 +507,7 @@
       "2026-11-10": 301,
       "2026-11-11": 268,
       "2026-11-12": 209,
-      "2026-11-13": 373
+      "2026-11-13": 376
     }
   },
   {
@@ -637,9 +637,9 @@
     "slug": "gazelle-games",
     "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "58.19%",
-    "uptimeWeek": "94.03%",
-    "uptimeMonth": "94.68%",
+    "uptimeDay": "57.58%",
+    "uptimeWeek": "93.94%",
+    "uptimeMonth": "94.66%",
     "uptimeYear": "98.86%",
     "time": 1976,
     "timeDay": 449,
@@ -697,7 +697,7 @@
       "2026-10-21": 1324,
       "2026-10-25": 17,
       "2026-10-30": 16,
-      "2026-11-13": 602
+      "2026-11-13": 611
     }
   },
   {
@@ -821,7 +821,7 @@
     "uptime": "99.90%",
     "uptimeDay": "92.75%",
     "uptimeWeek": "97.94%",
-    "uptimeMonth": "97.29%",
+    "uptimeMonth": "97.31%",
     "uptimeYear": "99.57%",
     "time": 946,
     "timeDay": 1034,
@@ -1080,16 +1080,16 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.63%",
     "time": 781,
-    "timeDay": 1014,
-    "timeWeek": 1354,
-    "timeMonth": 1339,
+    "timeDay": 997,
+    "timeWeek": 1346,
+    "timeMonth": 1336,
     "timeYear": 823,
     "dailyMinutesDown": {
       "2025-11-18": 126,
@@ -1146,7 +1146,7 @@
       "2026-11-08": 16,
       "2026-11-09": 18,
       "2026-11-11": 17,
-      "2026-11-13": 18
+      "2026-11-13": 24
     }
   },
   {
