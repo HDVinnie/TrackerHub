@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "63.32%",
-    "uptimeWeek": "72.36%",
-    "uptimeMonth": "93.64%",
+    "uptimeDay": "63.68%",
+    "uptimeWeek": "72.33%",
+    "uptimeMonth": "93.63%",
     "uptimeYear": "99.47%",
     "time": 1041,
-    "timeDay": 1034,
+    "timeDay": 1032,
     "timeWeek": 1040,
     "timeMonth": 1045,
     "timeYear": 1048,
@@ -22,7 +22,7 @@
       "2026-11-10": 453,
       "2026-11-11": 391,
       "2026-11-12": 388,
-      "2026-11-13": 431
+      "2026-11-13": 434
     }
   },
   {
@@ -173,7 +173,7 @@
     "slug": "anthelion",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "98.14%",
+    "uptimeDay": "98.73%",
     "uptimeWeek": "98.27%",
     "uptimeMonth": "92.78%",
     "uptimeYear": "97.25%",
@@ -487,14 +487,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "77.19%",
-    "uptimeWeek": "78.59%",
+    "uptimeDay": "77.63%",
+    "uptimeWeek": "78.62%",
     "uptimeMonth": "94.36%",
     "uptimeYear": "99.53%",
     "time": 1066,
-    "timeDay": 1031,
+    "timeDay": 1026,
     "timeWeek": 1051,
     "timeMonth": 1057,
     "timeYear": 1058,
@@ -507,7 +507,7 @@
       "2026-11-10": 301,
       "2026-11-11": 268,
       "2026-11-12": 209,
-      "2026-11-13": 272
+      "2026-11-13": 274
     }
   },
   {
@@ -637,9 +637,9 @@
     "slug": "gazelle-games",
     "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "82.26%",
-    "uptimeWeek": "97.47%",
-    "uptimeMonth": "95.47%",
+    "uptimeDay": "81.67%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "95.45%",
     "uptimeYear": "98.93%",
     "time": 1976,
     "timeDay": 449,
@@ -697,7 +697,7 @@
       "2026-10-21": 1324,
       "2026-10-25": 17,
       "2026-10-30": 16,
-      "2026-11-13": 255
+      "2026-11-13": 264
     }
   },
   {
@@ -820,7 +820,7 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "94.10%",
-    "uptimeWeek": "98.09%",
+    "uptimeWeek": "98.14%",
     "uptimeMonth": "97.31%",
     "uptimeYear": "99.57%",
     "time": 941,
@@ -876,7 +876,7 @@
     "slug": "nebulance",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "99.30%",
     "uptimeWeek": "98.39%",
     "uptimeMonth": "94.69%",
     "uptimeYear": "99.11%",
@@ -999,17 +999,17 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.46%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "99.05%",
     "time": 1017,
-    "timeDay": 945,
-    "timeWeek": 923,
-    "timeMonth": 1194,
-    "timeYear": 1050,
+    "timeDay": 928,
+    "timeWeek": 917,
+    "timeMonth": 1191,
+    "timeYear": 1049,
     "dailyMinutesDown": {
       "2026-07-14": 27,
       "2026-07-16": 166,
@@ -1073,7 +1073,7 @@
       "2026-10-27": 22,
       "2026-10-29": 22,
       "2026-11-12": 15,
-      "2026-11-13": 3
+      "2026-11-13": 9
     }
   },
   {
