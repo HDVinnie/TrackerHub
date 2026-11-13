@@ -7,12 +7,12 @@
     "status": "degraded",
     "uptime": "99.88%",
     "uptimeDay": "58.09%",
-    "uptimeWeek": "72.28%",
-    "uptimeMonth": "93.62%",
+    "uptimeWeek": "72.19%",
+    "uptimeMonth": "93.60%",
     "uptimeYear": "99.47%",
     "time": 1041,
     "timeDay": 1021,
-    "timeWeek": 1038,
+    "timeWeek": 1039,
     "timeMonth": 1045,
     "timeYear": 1048,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-11-10": 453,
       "2026-11-11": 391,
       "2026-11-12": 388,
-      "2026-11-13": 518
+      "2026-11-13": 527
     }
   },
   {
@@ -487,11 +487,11 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "75.92%",
-    "uptimeWeek": "78.79%",
-    "uptimeMonth": "94.38%",
+    "uptimeDay": "76.38%",
+    "uptimeWeek": "78.77%",
+    "uptimeMonth": "94.37%",
     "uptimeYear": "99.53%",
     "time": 1066,
     "timeDay": 1016,
@@ -507,7 +507,7 @@
       "2026-11-10": 301,
       "2026-11-11": 268,
       "2026-11-12": 209,
-      "2026-11-13": 311
+      "2026-11-13": 313
     }
   },
   {
@@ -637,9 +637,9 @@
     "slug": "gazelle-games",
     "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "66.69%",
-    "uptimeWeek": "95.24%",
-    "uptimeMonth": "94.96%",
+    "uptimeDay": "66.06%",
+    "uptimeWeek": "95.15%",
+    "uptimeMonth": "94.94%",
     "uptimeYear": "98.88%",
     "time": 1976,
     "timeDay": 449,
@@ -697,7 +697,7 @@
       "2026-10-21": 1324,
       "2026-10-25": 17,
       "2026-10-30": 16,
-      "2026-11-13": 480
+      "2026-11-13": 489
     }
   },
   {
@@ -817,11 +817,11 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "92.59%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "97.28%",
+    "uptimeDay": "92.14%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "97.26%",
     "uptimeYear": "99.57%",
     "time": 942,
     "timeDay": 940,
@@ -866,7 +866,7 @@
       "2026-11-09": 60,
       "2026-11-10": 23,
       "2026-11-12": 19,
-      "2026-11-13": 106
+      "2026-11-13": 113
     }
   },
   {
@@ -1001,7 +1001,7 @@
     "slug": "orpheus",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.05%",
+    "uptimeDay": "99.68%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.04%",
