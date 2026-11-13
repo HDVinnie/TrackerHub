@@ -4,25 +4,25 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "57.66%",
-    "uptimeWeek": "72.06%",
-    "uptimeMonth": "93.57%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "57.25%",
+    "uptimeWeek": "72.26%",
+    "uptimeMonth": "93.62%",
+    "uptimeYear": "99.47%",
     "time": 1041,
-    "timeDay": 1022,
+    "timeDay": 1023,
     "timeWeek": 1038,
     "timeMonth": 1045,
     "timeYear": 1048,
     "dailyMinutesDown": {
-      "2026-11-07": 76,
+      "2026-11-07": 50,
       "2026-11-08": 438,
       "2026-11-09": 534,
       "2026-11-10": 453,
       "2026-11-11": 391,
       "2026-11-12": 388,
-      "2026-11-13": 540
+      "2026-11-13": 546
     }
   },
   {
@@ -489,9 +489,9 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "76.95%",
+    "uptimeDay": "76.29%",
     "uptimeWeek": "78.85%",
-    "uptimeMonth": "94.38%",
+    "uptimeMonth": "94.36%",
     "uptimeYear": "99.53%",
     "time": 1066,
     "timeDay": 1029,
@@ -507,7 +507,7 @@
       "2026-11-10": 301,
       "2026-11-11": 268,
       "2026-11-12": 209,
-      "2026-11-13": 311
+      "2026-11-13": 320
     }
   },
   {
@@ -637,9 +637,9 @@
     "slug": "gazelle-games",
     "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "62.55%",
-    "uptimeWeek": "94.65%",
-    "uptimeMonth": "94.82%",
+    "uptimeDay": "61.90%",
+    "uptimeWeek": "94.56%",
+    "uptimeMonth": "94.80%",
     "uptimeYear": "98.87%",
     "time": 1976,
     "timeDay": 449,
@@ -697,7 +697,7 @@
       "2026-10-21": 1324,
       "2026-10-25": 17,
       "2026-10-30": 16,
-      "2026-11-13": 539
+      "2026-11-13": 549
     }
   },
   {
@@ -825,7 +825,7 @@
     "uptimeYear": "99.57%",
     "time": 942,
     "timeDay": 938,
-    "timeWeek": 973,
+    "timeWeek": 974,
     "timeMonth": 976,
     "timeYear": 955,
     "dailyMinutesDown": {
@@ -999,16 +999,16 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.51%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "99.05%",
     "time": 1018,
-    "timeDay": 939,
-    "timeWeek": 923,
-    "timeMonth": 1169,
+    "timeDay": 933,
+    "timeWeek": 921,
+    "timeMonth": 1167,
     "timeYear": 1049,
     "dailyMinutesDown": {
       "2026-07-14": 27,
@@ -1073,7 +1073,7 @@
       "2026-10-27": 22,
       "2026-10-29": 22,
       "2026-11-12": 15,
-      "2026-11-13": 3
+      "2026-11-13": 9
     }
   },
   {
@@ -1361,12 +1361,12 @@
     "slug": "torrent-leech",
     "status": "up",
     "uptime": "97.57%",
-    "uptimeDay": "97.14%",
+    "uptimeDay": "97.61%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.90%",
     "time": 576,
-    "timeDay": 863,
+    "timeDay": 893,
     "timeWeek": 633,
     "timeMonth": 682,
     "timeYear": 628,
