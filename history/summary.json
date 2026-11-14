@@ -4,11 +4,11 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "61.99%",
-    "uptimeWeek": "72.18%",
-    "uptimeMonth": "93.60%",
+    "uptimeDay": "61.93%",
+    "uptimeWeek": "72.12%",
+    "uptimeMonth": "93.59%",
     "uptimeYear": "99.47%",
     "time": 1040,
     "timeDay": 1027,
@@ -22,7 +22,7 @@
       "2026-11-11": 391,
       "2026-11-12": 388,
       "2026-11-13": 647,
-      "2026-11-14": 287
+      "2026-11-14": 292
     }
   },
   {
@@ -489,9 +489,9 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "76.55%",
-    "uptimeWeek": "78.37%",
-    "uptimeMonth": "94.32%",
+    "uptimeDay": "76.12%",
+    "uptimeWeek": "78.31%",
+    "uptimeMonth": "94.31%",
     "uptimeYear": "99.53%",
     "time": 1060,
     "timeDay": 1032,
@@ -507,7 +507,7 @@
       "2026-11-11": 268,
       "2026-11-12": 209,
       "2026-11-13": 412,
-      "2026-11-14": 175
+      "2026-11-14": 182
     }
   },
   {
@@ -637,7 +637,7 @@
     "slug": "gazelle-games",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "46.60%",
+    "uptimeDay": "47.03%",
     "uptimeWeek": "90.92%",
     "uptimeMonth": "93.96%",
     "uptimeYear": "98.80%",
@@ -822,7 +822,7 @@
     "uptime": "99.90%",
     "uptimeDay": "96.95%",
     "uptimeWeek": "97.70%",
-    "uptimeMonth": "97.36%",
+    "uptimeMonth": "97.37%",
     "uptimeYear": "99.57%",
     "time": 939,
     "timeDay": 1098,
@@ -1082,17 +1082,17 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.83%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.63%",
-    "time": 788,
-    "timeDay": 1097,
-    "timeWeek": 1328,
-    "timeMonth": 1324,
-    "timeYear": 828,
+    "time": 785,
+    "timeDay": 1117,
+    "timeWeek": 1330,
+    "timeMonth": 1325,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2025-11-18": 126,
       "2025-11-29": 17,
@@ -1149,7 +1149,7 @@
       "2026-11-09": 18,
       "2026-11-11": 17,
       "2026-11-13": 15,
-      "2026-11-14": 16
+      "2026-11-14": 18
     }
   },
   {
