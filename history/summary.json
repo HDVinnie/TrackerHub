@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "52.93%",
-    "uptimeWeek": "71.70%",
-    "uptimeMonth": "93.49%",
+    "uptimeDay": "52.95%",
+    "uptimeWeek": "71.65%",
+    "uptimeMonth": "93.48%",
     "uptimeYear": "99.46%",
     "time": 1042,
-    "timeDay": 1011,
+    "timeDay": 1009,
     "timeWeek": 1038,
     "timeMonth": 1044,
     "timeYear": 1048,
@@ -22,7 +22,7 @@
       "2026-11-11": 391,
       "2026-11-12": 388,
       "2026-11-13": 647,
-      "2026-11-14": 89
+      "2026-11-14": 94
     }
   },
   {
@@ -487,14 +487,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "72.54%",
-    "uptimeWeek": "78.24%",
-    "uptimeMonth": "94.29%",
+    "uptimeDay": "72.25%",
+    "uptimeWeek": "78.20%",
+    "uptimeMonth": "94.28%",
     "uptimeYear": "99.52%",
-    "time": 1066,
-    "timeDay": 1038,
+    "time": 1067,
+    "timeDay": 1037,
     "timeWeek": 1049,
     "timeMonth": 1056,
     "timeYear": 1058,
@@ -508,7 +508,7 @@
       "2026-11-11": 268,
       "2026-11-12": 209,
       "2026-11-13": 412,
-      "2026-11-14": 27
+      "2026-11-14": 31
     }
   },
   {
@@ -819,16 +819,16 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "92.62%",
-    "uptimeWeek": "97.68%",
+    "uptimeDay": "92.37%",
+    "uptimeWeek": "97.65%",
     "uptimeMonth": "97.26%",
     "uptimeYear": "99.57%",
     "time": 936,
-    "timeDay": 1079,
-    "timeWeek": 999,
-    "timeMonth": 985,
+    "timeDay": 1071,
+    "timeWeek": 997,
+    "timeMonth": 984,
     "timeYear": 958,
     "dailyMinutesDown": {
       "2026-09-23": 16,
@@ -869,7 +869,7 @@
       "2026-11-10": 23,
       "2026-11-12": 19,
       "2026-11-13": 104,
-      "2026-11-14": 27
+      "2026-11-14": 31
     }
   },
   {
