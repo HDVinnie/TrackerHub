@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.88%",
     "uptimeDay": "55.20%",
-    "uptimeWeek": "71.91%",
-    "uptimeMonth": "93.54%",
+    "uptimeWeek": "71.80%",
+    "uptimeMonth": "93.51%",
     "uptimeYear": "99.46%",
     "time": 1042,
     "timeDay": 1015,
@@ -22,7 +22,7 @@
       "2026-11-11": 391,
       "2026-11-12": 388,
       "2026-11-13": 647,
-      "2026-11-14": 20
+      "2026-11-14": 31
     }
   },
   {
@@ -487,15 +487,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "71.50%",
-    "uptimeWeek": "78.30%",
-    "uptimeMonth": "94.23%",
+    "uptimeDay": "71.95%",
+    "uptimeWeek": "78.26%",
+    "uptimeMonth": "94.22%",
     "uptimeYear": "99.52%",
     "time": 1066,
-    "timeDay": 1039,
-    "timeWeek": 1050,
+    "timeDay": 1036,
+    "timeWeek": 1049,
     "timeMonth": 1056,
     "timeYear": 1058,
     "dailyMinutesDown": {
@@ -508,7 +508,7 @@
       "2026-11-11": 268,
       "2026-11-12": 209,
       "2026-11-13": 412,
-      "2026-11-14": 21
+      "2026-11-14": 25
     }
   },
   {
@@ -638,9 +638,9 @@
     "slug": "gazelle-games",
     "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "40.17%",
-    "uptimeWeek": "91.45%",
-    "uptimeMonth": "94.09%",
+    "uptimeDay": "39.45%",
+    "uptimeWeek": "91.35%",
+    "uptimeMonth": "94.06%",
     "uptimeYear": "98.81%",
     "time": 1976,
     "timeDay": 0,
@@ -698,7 +698,7 @@
       "2026-10-21": 1324,
       "2026-10-25": 17,
       "2026-10-30": 16,
-      "2026-11-14": 22,
+      "2026-11-14": 32,
       "2026-11-13": 839
     }
   },
@@ -819,15 +819,15 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "91.94%",
-    "uptimeWeek": "97.78%",
-    "uptimeMonth": "97.29%",
+    "uptimeDay": "92.11%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "97.27%",
     "uptimeYear": "99.57%",
     "time": 936,
-    "timeDay": 1055,
-    "timeWeek": 996,
+    "timeDay": 1052,
+    "timeWeek": 995,
     "timeMonth": 984,
     "timeYear": 958,
     "dailyMinutesDown": {
@@ -869,7 +869,7 @@
       "2026-11-10": 23,
       "2026-11-12": 19,
       "2026-11-13": 104,
-      "2026-11-14": 16
+      "2026-11-14": 25
     }
   },
   {
@@ -1083,17 +1083,17 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.14%",
+    "status": "degraded",
+    "uptime": "99.83%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.63%",
-    "time": 781,
-    "timeDay": 1056,
-    "timeWeek": 1359,
-    "timeMonth": 1340,
-    "timeYear": 824,
+    "time": 783,
+    "timeDay": 1090,
+    "timeWeek": 1363,
+    "timeMonth": 1342,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2025-11-18": 126,
       "2025-11-29": 17,
@@ -1149,7 +1149,8 @@
       "2026-11-08": 16,
       "2026-11-09": 18,
       "2026-11-11": 17,
-      "2026-11-13": 15
+      "2026-11-13": 15,
+      "2026-11-14": 2
     }
   },
   {
@@ -1278,7 +1279,7 @@
     "slug": "secret-cinema",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "98.66%",
+    "uptimeDay": "99.38%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "59.16%",
     "uptimeYear": "96.08%",
