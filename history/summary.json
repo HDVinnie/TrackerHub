@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "73.19%",
-    "uptimeWeek": "72.14%",
-    "uptimeMonth": "93.59%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "72.81%",
+    "uptimeWeek": "72.09%",
+    "uptimeMonth": "93.58%",
+    "uptimeYear": "99.46%",
     "time": 1042,
-    "timeDay": 1039,
+    "timeDay": 1037,
     "timeWeek": 1038,
     "timeMonth": 1044,
     "timeYear": 1048,
@@ -22,7 +22,7 @@
       "2026-11-11": 391,
       "2026-11-12": 388,
       "2026-11-13": 647,
-      "2026-11-14": 370
+      "2026-11-14": 375
     }
   },
   {
@@ -179,7 +179,7 @@
     "uptimeYear": "97.25%",
     "time": 1165,
     "timeDay": 0,
-    "timeWeek": 970,
+    "timeWeek": 989,
     "timeMonth": 1249,
     "timeYear": 1154,
     "dailyMinutesDown": {
@@ -487,15 +487,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "82.84%",
-    "uptimeWeek": "78.90%",
-    "uptimeMonth": "94.36%",
+    "uptimeDay": "82.52%",
+    "uptimeWeek": "78.85%",
+    "uptimeMonth": "94.35%",
     "uptimeYear": "99.53%",
     "time": 1066,
-    "timeDay": 1013,
-    "timeWeek": 1039,
+    "timeDay": 1014,
+    "timeWeek": 1040,
     "timeMonth": 1055,
     "timeYear": 1057,
     "dailyMinutesDown": {
@@ -507,7 +507,7 @@
       "2026-11-11": 268,
       "2026-11-12": 209,
       "2026-11-13": 412,
-      "2026-11-14": 212
+      "2026-11-14": 217
     }
   },
   {
@@ -637,7 +637,7 @@
     "slug": "gazelle-games",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "81.58%",
+    "uptimeDay": "81.99%",
     "uptimeWeek": "90.92%",
     "uptimeMonth": "93.96%",
     "uptimeYear": "98.80%",
