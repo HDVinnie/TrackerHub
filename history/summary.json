@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "72.56%",
-    "uptimeWeek": "72.05%",
-    "uptimeMonth": "93.57%",
+    "uptimeDay": "72.17%",
+    "uptimeWeek": "72.00%",
+    "uptimeMonth": "93.56%",
     "uptimeYear": "99.46%",
     "time": 1042,
-    "timeDay": 1038,
+    "timeDay": 1036,
     "timeWeek": 1038,
     "timeMonth": 1044,
     "timeYear": 1048,
@@ -22,7 +22,7 @@
       "2026-11-11": 391,
       "2026-11-12": 388,
       "2026-11-13": 647,
-      "2026-11-14": 379
+      "2026-11-14": 384
     }
   },
   {
@@ -175,12 +175,12 @@
     "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.27%",
-    "uptimeMonth": "92.95%",
+    "uptimeMonth": "92.96%",
     "uptimeYear": "97.25%",
     "time": 1165,
     "timeDay": 0,
     "timeWeek": 989,
-    "timeMonth": 1249,
+    "timeMonth": 1252,
     "timeYear": 1154,
     "dailyMinutesDown": {
       "2025-11-26": 21,
@@ -274,7 +274,7 @@
     "time": 1498,
     "timeDay": 1944,
     "timeWeek": 831,
-    "timeMonth": 1536,
+    "timeMonth": 1534,
     "timeYear": 1360,
     "dailyMinutesDown": {
       "2025-11-18": 137,
@@ -489,17 +489,17 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "82.29%",
-    "uptimeWeek": "78.82%",
-    "uptimeMonth": "94.34%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "82.93%",
+    "uptimeWeek": "78.91%",
+    "uptimeMonth": "94.29%",
+    "uptimeYear": "99.52%",
     "time": 1066,
     "timeDay": 1014,
     "timeWeek": 1039,
     "timeMonth": 1055,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2026-11-06": 78,
+      "2026-11-06": 109,
       "2026-11-07": 267,
       "2026-11-08": 243,
       "2026-11-09": 483,
@@ -507,7 +507,7 @@
       "2026-11-11": 268,
       "2026-11-12": 209,
       "2026-11-13": 412,
-      "2026-11-14": 220
+      "2026-11-14": 211
     }
   },
   {
@@ -637,7 +637,7 @@
     "slug": "gazelle-games",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "83.10%",
+    "uptimeDay": "83.51%",
     "uptimeWeek": "90.92%",
     "uptimeMonth": "93.96%",
     "uptimeYear": "98.80%",
