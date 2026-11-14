@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.88%",
     "uptimeDay": "63.59%",
-    "uptimeWeek": "72.07%",
-    "uptimeMonth": "93.57%",
+    "uptimeWeek": "71.99%",
+    "uptimeMonth": "93.56%",
     "uptimeYear": "99.46%",
     "time": 1040,
     "timeDay": 1032,
@@ -22,7 +22,7 @@
       "2026-11-11": 391,
       "2026-11-12": 388,
       "2026-11-13": 647,
-      "2026-11-14": 317
+      "2026-11-14": 324
     }
   },
   {
@@ -489,12 +489,12 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "78.61%",
-    "uptimeWeek": "78.81%",
-    "uptimeMonth": "94.32%",
+    "uptimeDay": "78.48%",
+    "uptimeWeek": "78.73%",
+    "uptimeMonth": "94.30%",
     "uptimeYear": "99.53%",
     "time": 1065,
-    "timeDay": 1037,
+    "timeDay": 1038,
     "timeWeek": 1046,
     "timeMonth": 1055,
     "timeYear": 1058,
@@ -507,7 +507,7 @@
       "2026-11-11": 268,
       "2026-11-12": 209,
       "2026-11-13": 412,
-      "2026-11-14": 175
+      "2026-11-14": 183
     }
   },
   {
@@ -637,7 +637,7 @@
     "slug": "gazelle-games",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "58.06%",
+    "uptimeDay": "58.59%",
     "uptimeWeek": "90.92%",
     "uptimeMonth": "93.96%",
     "uptimeYear": "98.80%",
@@ -1001,19 +1001,19 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.51%",
-    "uptimeYear": "99.04%",
-    "time": 1019,
-    "timeDay": 925,
-    "timeWeek": 920,
+    "uptimeYear": "99.05%",
+    "time": 1020,
+    "timeDay": 958,
+    "timeWeek": 927,
     "timeMonth": 1160,
     "timeYear": 1049,
     "dailyMinutesDown": {
-      "2026-07-14": 57,
+      "2026-07-14": 27,
       "2026-07-16": 166,
       "2026-07-18": 68,
       "2026-07-19": 131,
@@ -1074,7 +1074,8 @@
       "2026-10-23": 15,
       "2026-10-27": 22,
       "2026-10-29": 22,
-      "2026-11-12": 15
+      "2026-11-12": 15,
+      "2026-11-14": 2
     }
   },
   {
