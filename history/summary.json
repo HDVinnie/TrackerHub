@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "65.38%",
-    "uptimeWeek": "72.06%",
-    "uptimeMonth": "93.57%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "67.01%",
+    "uptimeWeek": "72.14%",
+    "uptimeMonth": "93.59%",
+    "uptimeYear": "99.47%",
     "time": 1041,
-    "timeDay": 1035,
+    "timeDay": 1038,
     "timeWeek": 1038,
     "timeMonth": 1044,
     "timeYear": 1048,
@@ -22,7 +22,7 @@
       "2026-11-11": 391,
       "2026-11-12": 388,
       "2026-11-13": 647,
-      "2026-11-14": 378
+      "2026-11-14": 370
     }
   },
   {
@@ -489,17 +489,17 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "77.35%",
-    "uptimeWeek": "78.83%",
-    "uptimeMonth": "94.34%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "77.94%",
+    "uptimeWeek": "78.91%",
+    "uptimeMonth": "94.29%",
+    "uptimeYear": "99.52%",
     "time": 1065,
     "timeDay": 1030,
     "timeWeek": 1042,
     "timeMonth": 1055,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2026-11-06": 78,
+      "2026-11-06": 109,
       "2026-11-07": 267,
       "2026-11-08": 243,
       "2026-11-09": 483,
@@ -507,7 +507,7 @@
       "2026-11-11": 268,
       "2026-11-12": 209,
       "2026-11-13": 412,
-      "2026-11-14": 219
+      "2026-11-14": 211
     }
   },
   {
@@ -637,7 +637,7 @@
     "slug": "gazelle-games",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "70.14%",
+    "uptimeDay": "71.43%",
     "uptimeWeek": "90.92%",
     "uptimeMonth": "93.96%",
     "uptimeYear": "98.80%",
@@ -818,19 +818,19 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.90%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "97.70%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "97.68%",
     "uptimeMonth": "97.48%",
     "uptimeYear": "99.57%",
-    "time": 941,
-    "timeDay": 1109,
+    "time": 942,
+    "timeDay": 1113,
     "timeWeek": 999,
     "timeMonth": 983,
     "timeYear": 959,
     "dailyMinutesDown": {
-      "2026-09-23": 37,
+      "2026-09-23": 16,
       "2026-09-24": 16,
       "2026-09-25": 34,
       "2026-09-26": 16,
@@ -868,7 +868,7 @@
       "2026-11-10": 23,
       "2026-11-12": 19,
       "2026-11-13": 104,
-      "2026-11-14": 25
+      "2026-11-14": 27
     }
   },
   {
