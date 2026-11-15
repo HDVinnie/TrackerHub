@@ -12,7 +12,7 @@
     "uptimeYear": "99.46%",
     "time": 1038,
     "timeDay": 1040,
-    "timeWeek": 1037,
+    "timeWeek": 1038,
     "timeMonth": 1044,
     "timeYear": 1048,
     "dailyMinutesDown": {
@@ -487,14 +487,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "84.79%",
-    "uptimeWeek": "78.39%",
-    "uptimeMonth": "94.29%",
+    "uptimeDay": "84.27%",
+    "uptimeWeek": "78.31%",
+    "uptimeMonth": "94.27%",
     "uptimeYear": "99.52%",
     "time": 1066,
-    "timeDay": 1018,
+    "timeDay": 1015,
     "timeWeek": 1038,
     "timeMonth": 1054,
     "timeYear": 1057,
@@ -508,7 +508,7 @@
       "2026-11-12": 209,
       "2026-11-13": 412,
       "2026-11-14": 216,
-      "2026-11-15": 65
+      "2026-11-15": 72
     }
   },
   {
@@ -516,13 +516,13 @@
     "url": "$EMP",
     "icon": "$EMP_ICON",
     "slug": "empornium",
-    "status": "up",
+    "status": "down",
     "uptime": "97.40%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "89.05%",
-    "time": 681,
+    "time": 680,
     "timeDay": 351,
     "timeWeek": 357,
     "timeMonth": 841,
@@ -600,7 +600,8 @@
       "2026-08-29": 15,
       "2026-10-23": 18,
       "2026-10-28": 22,
-      "2026-11-14": 3
+      "2026-11-14": 3,
+      "2026-11-15": 1
     }
   },
   {
@@ -828,7 +829,7 @@
     "uptimeYear": "99.57%",
     "time": 944,
     "timeDay": 992,
-    "timeWeek": 997,
+    "timeWeek": 998,
     "timeMonth": 983,
     "timeYear": 959,
     "dailyMinutesDown": {
