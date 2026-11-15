@@ -4,17 +4,17 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "75.39%",
-    "uptimeWeek": "72.07%",
-    "uptimeMonth": "93.57%",
+    "uptimeDay": "75.04%",
+    "uptimeWeek": "72.02%",
+    "uptimeMonth": "93.56%",
     "uptimeYear": "99.46%",
     "time": 1038,
-    "timeDay": 1044,
+    "timeDay": 1042,
     "timeWeek": 1038,
     "timeMonth": 1044,
-    "timeYear": 1048,
+    "timeYear": 1047,
     "dailyMinutesDown": {
       "2026-11-09": 406,
       "2026-11-10": 453,
@@ -22,7 +22,7 @@
       "2026-11-12": 388,
       "2026-11-13": 647,
       "2026-11-14": 397,
-      "2026-11-15": 138
+      "2026-11-15": 143
     }
   },
   {
@@ -272,7 +272,7 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.59%",
     "time": 1498,
-    "timeDay": 624,
+    "timeDay": 756,
     "timeWeek": 875,
     "timeMonth": 1554,
     "timeYear": 1360,
@@ -487,16 +487,16 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "87.27%",
-    "uptimeWeek": "78.36%",
-    "uptimeMonth": "94.28%",
+    "uptimeDay": "86.96%",
+    "uptimeWeek": "78.32%",
+    "uptimeMonth": "94.27%",
     "uptimeYear": "99.52%",
     "time": 1066,
-    "timeDay": 1022,
+    "timeDay": 1021,
     "timeWeek": 1039,
-    "timeMonth": 1055,
+    "timeMonth": 1054,
     "timeYear": 1057,
     "dailyMinutesDown": {
       "2026-11-06": 22,
@@ -508,7 +508,7 @@
       "2026-11-12": 209,
       "2026-11-13": 412,
       "2026-11-14": 216,
-      "2026-11-15": 86
+      "2026-11-15": 91
     }
   },
   {
@@ -820,16 +820,16 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "96.17%",
-    "uptimeWeek": "97.15%",
-    "uptimeMonth": "97.36%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "97.12%",
+    "uptimeMonth": "97.35%",
     "uptimeYear": "99.57%",
     "time": 944,
-    "timeDay": 999,
-    "timeWeek": 998,
-    "timeMonth": 984,
+    "timeDay": 993,
+    "timeWeek": 997,
+    "timeMonth": 983,
     "timeYear": 959,
     "dailyMinutesDown": {
       "2026-09-25": 34,
@@ -869,7 +869,7 @@
       "2026-11-12": 19,
       "2026-11-13": 104,
       "2026-11-14": 25,
-      "2026-11-15": 56
+      "2026-11-15": 60
     }
   },
   {
