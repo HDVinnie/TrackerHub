@@ -6,22 +6,22 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "65.16%",
-    "uptimeWeek": "73.15%",
-    "uptimeMonth": "93.82%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "65.46%",
+    "uptimeWeek": "72.87%",
+    "uptimeMonth": "93.76%",
+    "uptimeYear": "99.48%",
     "time": 1042,
-    "timeDay": 1031,
+    "timeDay": 1032,
     "timeWeek": 1038,
     "timeMonth": 1044,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2026-11-10": 399,
+      "2026-11-10": 432,
       "2026-11-11": 391,
       "2026-11-12": 388,
       "2026-11-13": 647,
       "2026-11-14": 397,
-      "2026-11-15": 487
+      "2026-11-15": 483
     }
   },
   {
@@ -486,15 +486,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "79.20%",
+    "uptimeDay": "79.27%",
     "uptimeWeek": "78.13%",
     "uptimeMonth": "94.20%",
     "uptimeYear": "99.52%",
     "time": 1065,
-    "timeDay": 999,
-    "timeWeek": 1034,
+    "timeDay": 1007,
+    "timeWeek": 1035,
     "timeMonth": 1052,
     "timeYear": 1057,
     "dailyMinutesDown": {
@@ -506,7 +506,7 @@
       "2026-11-12": 209,
       "2026-11-13": 412,
       "2026-11-14": 216,
-      "2026-11-15": 296
+      "2026-11-15": 295
     }
   },
   {
@@ -637,10 +637,10 @@
     "slug": "gazelle-games",
     "status": "degraded",
     "uptime": "99.24%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "90.60%",
-    "uptimeMonth": "93.89%",
-    "uptimeYear": "98.80%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "90.46%",
+    "uptimeMonth": "93.86%",
+    "uptimeYear": "98.79%",
     "time": 2053,
     "timeDay": 14960,
     "timeWeek": 6311,
@@ -699,7 +699,7 @@
       "2026-10-30": 16,
       "2026-11-14": 76,
       "2026-11-13": 839,
-      "2026-11-15": 32
+      "2026-11-15": 47
     }
   },
   {
@@ -826,7 +826,7 @@
     "uptimeMonth": "97.36%",
     "uptimeYear": "99.56%",
     "time": 938,
-    "timeDay": 994,
+    "timeDay": 999,
     "timeWeek": 998,
     "timeMonth": 984,
     "timeYear": 960,
@@ -1363,7 +1363,7 @@
     "icon": "$TL_ICON",
     "slug": "torrent-leech",
     "status": "up",
-    "uptime": "97.57%",
+    "uptime": "97.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.91%",
