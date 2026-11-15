@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "72.75%",
-    "uptimeWeek": "72.28%",
-    "uptimeMonth": "93.62%",
+    "uptimeDay": "72.45%",
+    "uptimeWeek": "72.17%",
+    "uptimeMonth": "93.60%",
     "uptimeYear": "99.47%",
     "time": 1042,
-    "timeDay": 1034,
+    "timeDay": 1031,
     "timeWeek": 1038,
     "timeMonth": 1044,
     "timeYear": 1048,
@@ -21,7 +21,8 @@
       "2026-11-11": 391,
       "2026-11-12": 388,
       "2026-11-13": 647,
-      "2026-11-14": 393
+      "2026-11-14": 397,
+      "2026-11-15": 7
     }
   },
   {
@@ -488,12 +489,12 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "85.31%",
-    "uptimeWeek": "78.90%",
-    "uptimeMonth": "94.36%",
+    "uptimeDay": "85.05%",
+    "uptimeWeek": "78.79%",
+    "uptimeMonth": "94.33%",
     "uptimeYear": "99.53%",
     "time": 1066,
-    "timeDay": 1020,
+    "timeDay": 1016,
     "timeWeek": 1041,
     "timeMonth": 1055,
     "timeYear": 1057,
@@ -506,7 +507,8 @@
       "2026-11-11": 268,
       "2026-11-12": 209,
       "2026-11-13": 412,
-      "2026-11-14": 213
+      "2026-11-14": 216,
+      "2026-11-15": 8
     }
   },
   {
@@ -637,7 +639,7 @@
     "slug": "gazelle-games",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "94.54%",
+    "uptimeDay": "95.30%",
     "uptimeWeek": "90.92%",
     "uptimeMonth": "93.96%",
     "uptimeYear": "98.80%",
@@ -818,16 +820,16 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "97.48%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "97.59%",
+    "uptimeMonth": "97.46%",
     "uptimeYear": "99.57%",
     "time": 943,
-    "timeDay": 1004,
+    "timeDay": 997,
     "timeWeek": 998,
-    "timeMonth": 984,
+    "timeMonth": 983,
     "timeYear": 959,
     "dailyMinutesDown": {
       "2026-09-23": 16,
@@ -868,7 +870,8 @@
       "2026-11-10": 23,
       "2026-11-12": 19,
       "2026-11-13": 104,
-      "2026-11-14": 27
+      "2026-11-14": 29,
+      "2026-11-15": 7
     }
   },
   {
