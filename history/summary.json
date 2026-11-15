@@ -7,12 +7,12 @@
     "status": "degraded",
     "uptime": "99.88%",
     "uptimeDay": "76.10%",
-    "uptimeWeek": "72.15%",
-    "uptimeMonth": "93.59%",
-    "uptimeYear": "99.47%",
+    "uptimeWeek": "72.09%",
+    "uptimeMonth": "93.58%",
+    "uptimeYear": "99.46%",
     "time": 1038,
     "timeDay": 1038,
-    "timeWeek": 1038,
+    "timeWeek": 1037,
     "timeMonth": 1043,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-11-12": 388,
       "2026-11-13": 647,
       "2026-11-14": 397,
-      "2026-11-15": 93
+      "2026-11-15": 99
     }
   },
   {
@@ -487,11 +487,11 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "87.79%",
-    "uptimeWeek": "78.58%",
-    "uptimeMonth": "94.29%",
+    "uptimeDay": "87.87%",
+    "uptimeWeek": "78.53%",
+    "uptimeMonth": "94.28%",
     "uptimeYear": "99.52%",
     "time": 1066,
     "timeDay": 1019,
@@ -508,7 +508,7 @@
       "2026-11-12": 209,
       "2026-11-13": 412,
       "2026-11-14": 216,
-      "2026-11-15": 65
+      "2026-11-15": 69
     }
   },
   {
@@ -827,7 +827,7 @@
     "uptimeMonth": "97.43%",
     "uptimeYear": "99.57%",
     "time": 944,
-    "timeDay": 997,
+    "timeDay": 998,
     "timeWeek": 998,
     "timeMonth": 984,
     "timeYear": 959,
@@ -1280,15 +1280,15 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "59.22%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "59.21%",
     "uptimeYear": "96.09%",
     "time": 921,
-    "timeDay": 1083,
-    "timeWeek": 1084,
+    "timeDay": 1065,
+    "timeWeek": 1082,
     "timeMonth": 951,
     "timeYear": 937,
     "dailyMinutesDown": {
@@ -1357,7 +1357,7 @@
       "2026-11-09": 25,
       "2026-11-12": 19,
       "2026-11-13": 24,
-      "2026-11-15": 3
+      "2026-11-15": 6
     }
   },
   {
