@@ -4,7 +4,7 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "75.61%",
     "uptimeWeek": "71.91%",
@@ -13,8 +13,8 @@
     "time": 1038,
     "timeDay": 1040,
     "timeWeek": 1038,
-    "timeMonth": 1044,
-    "timeYear": 1048,
+    "timeMonth": 1043,
+    "timeYear": 1047,
     "dailyMinutesDown": {
       "2026-11-09": 468,
       "2026-11-10": 453,
@@ -487,14 +487,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "86.47%",
-    "uptimeWeek": "78.58%",
-    "uptimeMonth": "94.29%",
+    "uptimeDay": "86.54%",
+    "uptimeWeek": "78.54%",
+    "uptimeMonth": "94.28%",
     "uptimeYear": "99.52%",
     "time": 1066,
-    "timeDay": 1014,
+    "timeDay": 1012,
     "timeWeek": 1039,
     "timeMonth": 1054,
     "timeYear": 1057,
@@ -508,7 +508,7 @@
       "2026-11-12": 209,
       "2026-11-13": 412,
       "2026-11-14": 216,
-      "2026-11-15": 65
+      "2026-11-15": 69
     }
   },
   {
@@ -820,15 +820,15 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "97.44%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "97.41%",
     "uptimeMonth": "97.42%",
     "uptimeYear": "99.57%",
     "time": 944,
-    "timeDay": 1001,
-    "timeWeek": 999,
+    "timeDay": 997,
+    "timeWeek": 998,
     "timeMonth": 984,
     "timeYear": 959,
     "dailyMinutesDown": {
@@ -870,7 +870,7 @@
       "2026-11-12": 19,
       "2026-11-13": 104,
       "2026-11-14": 25,
-      "2026-11-15": 26
+      "2026-11-15": 30
     }
   },
   {
@@ -1091,8 +1091,8 @@
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.63%",
     "time": 787,
-    "timeDay": 871,
-    "timeWeek": 1339,
+    "timeDay": 888,
+    "timeWeek": 1347,
     "timeMonth": 1318,
     "timeYear": 829,
     "dailyMinutesDown": {
