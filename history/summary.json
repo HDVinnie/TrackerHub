@@ -486,15 +486,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "77.81%",
-    "uptimeWeek": "77.93%",
-    "uptimeMonth": "94.15%",
+    "uptimeDay": "77.48%",
+    "uptimeWeek": "77.88%",
+    "uptimeMonth": "94.14%",
     "uptimeYear": "99.51%",
     "time": 1065,
-    "timeDay": 1003,
-    "timeWeek": 1035,
+    "timeDay": 1000,
+    "timeWeek": 1034,
     "timeMonth": 1052,
     "timeYear": 1057,
     "dailyMinutesDown": {
@@ -506,7 +506,7 @@
       "2026-11-12": 209,
       "2026-11-13": 412,
       "2026-11-14": 216,
-      "2026-11-15": 316
+      "2026-11-15": 321
     }
   },
   {
@@ -636,10 +636,10 @@
     "icon": "$GGN_ICON",
     "slug": "gazelle-games",
     "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "96.02%",
-    "uptimeWeek": "90.35%",
-    "uptimeMonth": "93.83%",
+    "uptime": "99.24%",
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "90.41%",
+    "uptimeMonth": "93.85%",
     "uptimeYear": "98.79%",
     "time": 2050,
     "timeDay": 8908,
@@ -699,7 +699,7 @@
       "2026-10-30": 16,
       "2026-11-14": 76,
       "2026-11-13": 839,
-      "2026-11-15": 57
+      "2026-11-15": 51
     }
   },
   {
@@ -821,16 +821,17 @@
     "slug": "my-anona-mouse",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "95.90%",
-    "uptimeWeek": "97.11%",
-    "uptimeMonth": "97.35%",
-    "uptimeYear": "99.57%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "97.36%",
+    "uptimeYear": "99.56%",
     "time": 938,
     "timeDay": 990,
     "timeWeek": 998,
     "timeMonth": 984,
     "timeYear": 960,
     "dailyMinutesDown": {
+      "2026-09-24": 16,
       "2026-09-25": 34,
       "2026-09-26": 16,
       "2026-09-29": 17,
@@ -868,7 +869,7 @@
       "2026-11-12": 19,
       "2026-11-13": 104,
       "2026-11-14": 25,
-      "2026-11-15": 60
+      "2026-11-15": 54
     }
   },
   {
