@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.88%",
     "uptimeDay": "74.55%",
-    "uptimeWeek": "71.92%",
-    "uptimeMonth": "93.54%",
+    "uptimeWeek": "71.79%",
+    "uptimeMonth": "93.51%",
     "uptimeYear": "99.46%",
     "time": 1038,
     "timeDay": 1036,
@@ -22,7 +22,7 @@
       "2026-11-12": 388,
       "2026-11-13": 647,
       "2026-11-14": 397,
-      "2026-11-15": 169
+      "2026-11-15": 181
     }
   },
   {
@@ -171,16 +171,16 @@
     "url": "$ATH",
     "icon": "$ATH_ICON",
     "slug": "anthelion",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "92.96%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "92.95%",
     "uptimeYear": "97.25%",
-    "time": 1166,
-    "timeDay": 715,
-    "timeWeek": 990,
-    "timeMonth": 1234,
+    "time": 1165,
+    "timeDay": 1032,
+    "timeWeek": 1005,
+    "timeMonth": 1235,
     "timeYear": 1155,
     "dailyMinutesDown": {
       "2025-11-26": 21,
@@ -257,7 +257,8 @@
       "2026-10-30": 31,
       "2026-11-01": 20,
       "2026-11-05": 16,
-      "2026-11-12": 175
+      "2026-11-12": 175,
+      "2026-11-15": 1
     }
   },
   {
@@ -490,8 +491,8 @@
     "status": "degraded",
     "uptime": "99.89%",
     "uptimeDay": "87.39%",
-    "uptimeWeek": "78.67%",
-    "uptimeMonth": "94.28%",
+    "uptimeWeek": "78.54%",
+    "uptimeMonth": "94.25%",
     "uptimeYear": "99.52%",
     "time": 1066,
     "timeDay": 1021,
@@ -508,7 +509,7 @@
       "2026-11-12": 209,
       "2026-11-13": 412,
       "2026-11-14": 216,
-      "2026-11-15": 86
+      "2026-11-15": 99
     }
   },
   {
