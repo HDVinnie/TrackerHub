@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "74.85%",
-    "uptimeWeek": "72.30%",
-    "uptimeMonth": "93.63%",
+    "uptimeDay": "74.38%",
+    "uptimeWeek": "72.23%",
+    "uptimeMonth": "93.61%",
     "uptimeYear": "99.47%",
     "time": 1043,
-    "timeDay": 1037,
+    "timeDay": 1036,
     "timeWeek": 1038,
     "timeMonth": 1044,
     "timeYear": 1048,
@@ -22,7 +22,7 @@
       "2026-11-12": 388,
       "2026-11-13": 647,
       "2026-11-14": 397,
-      "2026-11-15": 53
+      "2026-11-15": 60
     }
   },
   {
@@ -487,14 +487,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "84.03%",
-    "uptimeWeek": "78.54%",
-    "uptimeMonth": "94.31%",
-    "uptimeYear": "99.53%",
+    "uptimeDay": "83.61%",
+    "uptimeWeek": "78.55%",
+    "uptimeMonth": "94.29%",
+    "uptimeYear": "99.52%",
     "time": 1066,
-    "timeDay": 1016,
+    "timeDay": 1014,
     "timeWeek": 1039,
     "timeMonth": 1055,
     "timeYear": 1057,
@@ -508,7 +508,7 @@
       "2026-11-12": 209,
       "2026-11-13": 412,
       "2026-11-14": 216,
-      "2026-11-15": 40
+      "2026-11-15": 46
     }
   },
   {
@@ -820,16 +820,16 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "97.48%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "97.63%",
+    "uptimeMonth": "97.47%",
     "uptimeYear": "99.57%",
     "time": 943,
-    "timeDay": 1001,
-    "timeWeek": 999,
-    "timeMonth": 984,
+    "timeDay": 997,
+    "timeWeek": 998,
+    "timeMonth": 983,
     "timeYear": 959,
     "dailyMinutesDown": {
       "2026-09-23": 16,
@@ -871,7 +871,7 @@
       "2026-11-12": 19,
       "2026-11-13": 104,
       "2026-11-14": 25,
-      "2026-11-15": 2
+      "2026-11-15": 7
     }
   },
   {
