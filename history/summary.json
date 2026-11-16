@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "61.88%",
-    "uptimeWeek": "71.20%",
-    "uptimeMonth": "93.37%",
+    "uptimeDay": "61.78%",
+    "uptimeWeek": "71.16%",
+    "uptimeMonth": "93.36%",
     "uptimeYear": "99.45%",
     "time": 1039,
-    "timeDay": 1006,
+    "timeDay": 1009,
     "timeWeek": 1033,
     "timeMonth": 1043,
     "timeYear": 1047,
@@ -22,7 +22,7 @@
       "2026-11-13": 647,
       "2026-11-14": 397,
       "2026-11-15": 503,
-      "2026-11-16": 481
+      "2026-11-16": 485
     }
   },
   {
@@ -489,12 +489,12 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "73.19%",
+    "uptimeDay": "73.02%",
     "uptimeWeek": "78.24%",
-    "uptimeMonth": "93.95%",
-    "uptimeYear": "99.50%",
+    "uptimeMonth": "93.94%",
+    "uptimeYear": "99.49%",
     "time": 1058,
-    "timeDay": 983,
+    "timeDay": 986,
     "timeWeek": 1028,
     "timeMonth": 1051,
     "timeYear": 1056,
@@ -507,7 +507,7 @@
       "2026-11-13": 412,
       "2026-11-14": 216,
       "2026-11-15": 341,
-      "2026-11-16": 334
+      "2026-11-16": 338
     }
   },
   {
@@ -515,17 +515,17 @@
     "url": "$EMP",
     "icon": "$EMP_ICON",
     "slug": "empornium",
-    "status": "degraded",
+    "status": "up",
     "uptime": "97.40%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "89.05%",
-    "time": 717,
-    "timeDay": 6719,
-    "timeWeek": 1930,
-    "timeMonth": 1234,
-    "timeYear": 763,
+    "time": 715,
+    "timeDay": 5095,
+    "timeWeek": 1798,
+    "timeMonth": 1212,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2026-01-01": 97,
       "2025-12-31": 1440,
@@ -600,7 +600,7 @@
       "2026-10-23": 18,
       "2026-10-28": 22,
       "2026-11-14": 3,
-      "2026-11-16": 2
+      "2026-11-16": 5
     }
   },
   {
@@ -821,16 +821,16 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "89.23%",
-    "uptimeWeek": "96.07%",
-    "uptimeMonth": "97.18%",
+    "uptimeDay": "89.10%",
+    "uptimeWeek": "96.05%",
+    "uptimeMonth": "97.17%",
     "uptimeYear": "99.55%",
     "time": 942,
     "timeDay": 950,
     "timeWeek": 992,
-    "timeMonth": 983,
+    "timeMonth": 982,
     "timeYear": 959,
     "dailyMinutesDown": {
       "2026-09-30": 44,
@@ -868,7 +868,7 @@
       "2026-11-13": 104,
       "2026-11-14": 25,
       "2026-11-15": 56,
-      "2026-11-16": 153
+      "2026-11-16": 154
     }
   },
   {
