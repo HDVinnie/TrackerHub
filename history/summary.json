@@ -4,11 +4,11 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "62.56%",
-    "uptimeWeek": "72.63%",
-    "uptimeMonth": "93.70%",
+    "uptimeDay": "63.69%",
+    "uptimeWeek": "72.70%",
+    "uptimeMonth": "93.72%",
     "uptimeYear": "99.48%",
     "time": 1038,
     "timeDay": 1025,
@@ -22,7 +22,7 @@
       "2026-11-13": 647,
       "2026-11-14": 397,
       "2026-11-15": 503,
-      "2026-11-16": 132
+      "2026-11-16": 125
     }
   },
   {
@@ -487,14 +487,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "72.73%",
-    "uptimeWeek": "77.53%",
-    "uptimeMonth": "94.05%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "73.17%",
+    "uptimeWeek": "77.60%",
+    "uptimeMonth": "94.07%",
+    "uptimeYear": "99.51%",
     "time": 1065,
-    "timeDay": 998,
+    "timeDay": 997,
     "timeWeek": 1034,
     "timeMonth": 1051,
     "timeYear": 1057,
@@ -508,7 +508,7 @@
       "2026-11-13": 412,
       "2026-11-14": 216,
       "2026-11-15": 341,
-      "2026-11-16": 116
+      "2026-11-16": 109
     }
   },
   {
@@ -821,11 +821,11 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.90%",
-    "uptimeDay": "92.53%",
-    "uptimeWeek": "96.40%",
-    "uptimeMonth": "97.27%",
+    "uptimeDay": "92.94%",
+    "uptimeWeek": "96.45%",
+    "uptimeMonth": "97.28%",
     "uptimeYear": "99.56%",
     "time": 940,
     "timeDay": 973,
@@ -870,7 +870,7 @@
       "2026-11-13": 104,
       "2026-11-14": 25,
       "2026-11-15": 56,
-      "2026-11-16": 76
+      "2026-11-16": 70
     }
   },
   {
@@ -887,7 +887,7 @@
     "time": 1217,
     "timeDay": 614,
     "timeWeek": 671,
-    "timeMonth": 1275,
+    "timeMonth": 1281,
     "timeYear": 1197,
     "dailyMinutesDown": {
       "2025-12-03": 47,
@@ -1012,7 +1012,7 @@
     "time": 1019,
     "timeDay": 740,
     "timeWeek": 915,
-    "timeMonth": 1123,
+    "timeMonth": 1127,
     "timeYear": 1049,
     "dailyMinutesDown": {
       "2026-07-14": 57,
