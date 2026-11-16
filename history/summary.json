@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "58.22%",
-    "uptimeWeek": "70.80%",
-    "uptimeMonth": "93.28%",
+    "uptimeDay": "59.04%",
+    "uptimeWeek": "70.67%",
+    "uptimeMonth": "93.25%",
     "uptimeYear": "99.44%",
     "time": 1040,
     "timeDay": 999,
@@ -16,13 +16,13 @@
     "timeMonth": 1042,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2026-11-10": 68,
+      "2026-11-10": 93,
       "2026-11-11": 391,
       "2026-11-12": 388,
       "2026-11-13": 647,
       "2026-11-14": 397,
       "2026-11-15": 503,
-      "2026-11-16": 553
+      "2026-11-16": 541
     }
   },
   {
@@ -267,10 +267,10 @@
     "slug": "asian-cinema",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.59%",
     "time": 1502,
     "timeDay": 1122,
     "timeWeek": 1000,
@@ -316,8 +316,7 @@
       "2026-10-10": 37,
       "2026-10-13": 15,
       "2026-10-30": 19,
-      "2026-11-01": 127,
-      "2026-11-16": 12
+      "2026-11-01": 127
     }
   },
   {
@@ -325,17 +324,17 @@
     "url": "$BHD",
     "icon": "$BHD_ICON",
     "slug": "beyond-hd",
-    "status": "up",
+    "status": "degraded",
     "uptime": "97.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.72%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "97.71%",
     "uptimeYear": "99.62%",
-    "time": 1679,
-    "timeDay": 1120,
-    "timeWeek": 816,
-    "timeMonth": 5971,
-    "timeYear": 1985,
+    "time": 1680,
+    "timeDay": 1223,
+    "timeWeek": 881,
+    "timeMonth": 5921,
+    "timeYear": 1984,
     "dailyMinutesDown": {
       "2025-11-18": 109,
       "2025-11-26": 21,
@@ -366,7 +365,8 @@
       "2026-10-19": 44,
       "2026-10-21": 323,
       "2026-10-26": 90,
-      "2026-10-27": 544
+      "2026-10-27": 544,
+      "2026-11-16": 2
     }
   },
   {
@@ -445,17 +445,17 @@
     "url": "$BTN",
     "icon": "$BTN_ICON",
     "slug": "broadcas-the-net",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "97.29%",
     "uptimeYear": "99.04%",
-    "time": 954,
-    "timeDay": 805,
-    "timeWeek": 2148,
-    "timeMonth": 1359,
-    "timeYear": 1011,
+    "time": 956,
+    "timeDay": 926,
+    "timeWeek": 2090,
+    "timeMonth": 1357,
+    "timeYear": 1012,
     "dailyMinutesDown": {
       "2025-11-18": 115,
       "2025-11-20": 36,
@@ -480,7 +480,8 @@
       "2026-08-22": 19,
       "2026-08-25": 590,
       "2026-09-26": 114,
-      "2026-10-21": 1186
+      "2026-10-21": 1186,
+      "2026-11-16": 2
     }
   },
   {
@@ -490,17 +491,17 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "69.39%",
-    "uptimeWeek": "78.49%",
-    "uptimeMonth": "93.93%",
+    "uptimeDay": "70.24%",
+    "uptimeWeek": "78.61%",
+    "uptimeMonth": "93.89%",
     "uptimeYear": "99.49%",
     "time": 1058,
     "timeDay": 983,
     "timeWeek": 1027,
-    "timeMonth": 1050,
+    "timeMonth": 1049,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2026-11-08": 40,
+      "2026-11-08": 71,
       "2026-11-09": 483,
       "2026-11-10": 301,
       "2026-11-11": 268,
@@ -508,7 +509,7 @@
       "2026-11-13": 412,
       "2026-11-14": 216,
       "2026-11-15": 341,
-      "2026-11-16": 390
+      "2026-11-16": 378
     }
   },
   {
@@ -823,9 +824,9 @@
     "slug": "my-anona-mouse",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "88.57%",
-    "uptimeWeek": "95.97%",
-    "uptimeMonth": "97.16%",
+    "uptimeDay": "89.41%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "97.18%",
     "uptimeYear": "99.55%",
     "time": 943,
     "timeDay": 949,
@@ -833,6 +834,7 @@
     "timeMonth": 982,
     "timeYear": 959,
     "dailyMinutesDown": {
+      "2026-09-29": 17,
       "2026-09-30": 44,
       "2026-10-01": 51,
       "2026-10-02": 64,
@@ -868,7 +870,7 @@
       "2026-11-13": 104,
       "2026-11-14": 25,
       "2026-11-15": 56,
-      "2026-11-16": 162
+      "2026-11-16": 150
     }
   },
   {
@@ -943,9 +945,9 @@
     "slug": "only-encodes",
     "status": "degraded",
     "uptime": "99.74%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "98.57%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "98.55%",
     "uptimeYear": "99.31%",
     "time": 2007,
     "timeDay": 944,
@@ -994,7 +996,7 @@
       "2026-10-27": 26,
       "2026-10-28": 17,
       "2026-11-03": 51,
-      "2026-11-16": 3
+      "2026-11-16": 10
     }
   },
   {
