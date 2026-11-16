@@ -6,7 +6,7 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "59.67%",
+    "uptimeDay": "60.10%",
     "uptimeWeek": "70.92%",
     "uptimeMonth": "93.31%",
     "uptimeYear": "99.44%",
@@ -16,13 +16,13 @@
     "timeMonth": 1042,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2026-11-10": 93,
+      "2026-11-10": 99,
       "2026-11-11": 391,
       "2026-11-12": 388,
       "2026-11-13": 647,
       "2026-11-14": 397,
       "2026-11-15": 503,
-      "2026-11-16": 516
+      "2026-11-16": 510
     }
   },
   {
@@ -32,9 +32,9 @@
     "slug": "alpha-ratio",
     "status": "degraded",
     "uptime": "99.57%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "98.95%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "98.93%",
     "uptimeYear": "98.10%",
     "time": 3844,
     "timeDay": 1071,
@@ -125,7 +125,7 @@
       "2026-10-21": 54,
       "2026-11-02": 22,
       "2026-11-03": 304,
-      "2026-11-16": 2
+      "2026-11-16": 8
     }
   },
   {
@@ -491,7 +491,7 @@
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "71.38%",
-    "uptimeWeek": "78.38%",
+    "uptimeWeek": "78.39%",
     "uptimeMonth": "93.88%",
     "uptimeYear": "99.49%",
     "time": 1058,
@@ -766,17 +766,17 @@
     "url": "$UNO",
     "icon": "$UNO_ICON",
     "slug": "hawke-uno",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.44%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "98.91%",
     "time": 1323,
-    "timeDay": 995,
-    "timeWeek": 624,
-    "timeMonth": 1791,
-    "timeYear": 1384,
+    "timeDay": 853,
+    "timeWeek": 591,
+    "timeMonth": 1758,
+    "timeYear": 1383,
     "dailyMinutesDown": {
       "2026-02-27": 49,
       "2026-02-28": 43,
@@ -814,7 +814,7 @@
       "2026-09-03": 20,
       "2026-10-06": 19,
       "2026-10-29": 243,
-      "2026-11-16": 3
+      "2026-11-16": 6
     }
   },
   {
@@ -943,17 +943,17 @@
     "url": "$OE",
     "icon": "$OE_ICON",
     "slug": "only-encodes",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "98.57%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "98.56%",
     "uptimeYear": "99.31%",
     "time": 2007,
-    "timeDay": 1050,
-    "timeWeek": 702,
-    "timeMonth": 3676,
-    "timeYear": 2210,
+    "timeDay": 913,
+    "timeWeek": 668,
+    "timeMonth": 3629,
+    "timeYear": 2208,
     "dailyMinutesDown": {
       "2026-03-19": 20,
       "2026-03-20": 69,
@@ -996,7 +996,7 @@
       "2026-10-27": 26,
       "2026-10-28": 17,
       "2026-11-03": 51,
-      "2026-11-16": 3
+      "2026-11-16": 6
     }
   },
   {
