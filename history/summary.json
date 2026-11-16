@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.88%",
     "uptimeDay": "64.98%",
-    "uptimeWeek": "73.12%",
-    "uptimeMonth": "93.82%",
+    "uptimeWeek": "73.08%",
+    "uptimeMonth": "93.81%",
     "uptimeYear": "99.48%",
     "time": 1042,
     "timeDay": 1035,
@@ -22,7 +22,7 @@
       "2026-11-13": 647,
       "2026-11-14": 397,
       "2026-11-15": 503,
-      "2026-11-16": 27
+      "2026-11-16": 31
     }
   },
   {
@@ -491,7 +491,7 @@
     "uptime": "99.89%",
     "uptimeDay": "76.42%",
     "uptimeWeek": "77.92%",
-    "uptimeMonth": "94.13%",
+    "uptimeMonth": "94.12%",
     "uptimeYear": "99.51%",
     "time": 1065,
     "timeDay": 1011,
@@ -508,7 +508,7 @@
       "2026-11-13": 412,
       "2026-11-14": 216,
       "2026-11-15": 341,
-      "2026-11-16": 28
+      "2026-11-16": 32
     }
   },
   {
@@ -821,10 +821,10 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "94.17%",
-    "uptimeWeek": "96.87%",
+    "uptimeDay": "94.05%",
+    "uptimeWeek": "96.85%",
     "uptimeMonth": "97.29%",
     "uptimeYear": "99.56%",
     "time": 939,
@@ -871,7 +871,7 @@
       "2026-11-13": 104,
       "2026-11-14": 25,
       "2026-11-15": 56,
-      "2026-11-16": 28
+      "2026-11-16": 30
     }
   },
   {
@@ -1085,16 +1085,16 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.83%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.06%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.63%",
-    "time": 793,
-    "timeDay": 882,
-    "timeWeek": 1355,
-    "timeMonth": 1305,
+    "time": 794,
+    "timeDay": 892,
+    "timeWeek": 1351,
+    "timeMonth": 1304,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2025-11-18": 126,
@@ -1153,7 +1153,8 @@
       "2026-11-11": 17,
       "2026-11-13": 15,
       "2026-11-14": 16,
-      "2026-11-15": 17
+      "2026-11-15": 17,
+      "2026-11-16": 2
     }
   },
   {
