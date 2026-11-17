@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "55.87%",
-    "uptimeWeek": "70.96%",
-    "uptimeMonth": "93.32%",
+    "uptimeDay": "55.22%",
+    "uptimeWeek": "70.87%",
+    "uptimeMonth": "93.30%",
     "uptimeYear": "99.44%",
     "time": 1041,
-    "timeDay": 1011,
-    "timeWeek": 1029,
+    "timeDay": 1010,
+    "timeWeek": 1028,
     "timeMonth": 1042,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-11-14": 397,
       "2026-11-15": 503,
       "2026-11-16": 630,
-      "2026-11-17": 131
+      "2026-11-17": 140
     }
   },
   {
@@ -491,9 +491,9 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "69.24%",
-    "uptimeWeek": "77.78%",
-    "uptimeMonth": "93.89%",
+    "uptimeDay": "69.99%",
+    "uptimeWeek": "77.98%",
+    "uptimeMonth": "93.86%",
     "uptimeYear": "99.49%",
     "time": 1064,
     "timeDay": 1004,
@@ -501,7 +501,7 @@
     "timeMonth": 1049,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2026-11-09": 381,
+      "2026-11-09": 406,
       "2026-11-10": 301,
       "2026-11-11": 268,
       "2026-11-12": 209,
@@ -509,7 +509,7 @@
       "2026-11-14": 216,
       "2026-11-15": 341,
       "2026-11-16": 454,
-      "2026-11-17": 96
+      "2026-11-17": 85
     }
   },
   {
@@ -1004,17 +1004,17 @@
     "slug": "orpheus",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.05%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.04%",
     "time": 1020,
     "timeDay": 893,
     "timeWeek": 906,
     "timeMonth": 1075,
     "timeYear": 1048,
     "dailyMinutesDown": {
-      "2026-07-14": 27,
+      "2026-07-14": 57,
       "2026-07-16": 166,
       "2026-07-18": 68,
       "2026-07-19": 131,
@@ -1075,8 +1075,7 @@
       "2026-10-23": 15,
       "2026-10-27": 22,
       "2026-10-29": 22,
-      "2026-11-12": 15,
-      "2026-11-17": 11
+      "2026-11-12": 15
     }
   },
   {
