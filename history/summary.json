@@ -4,25 +4,25 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "68.32%",
-    "uptimeWeek": "70.71%",
-    "uptimeMonth": "93.26%",
+    "uptimeDay": "68.78%",
+    "uptimeWeek": "70.86%",
+    "uptimeMonth": "93.29%",
     "uptimeYear": "99.44%",
     "time": 1039,
-    "timeDay": 1033,
+    "timeDay": 1035,
     "timeWeek": 1028,
     "timeMonth": 1042,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2026-11-11": 65,
+      "2026-11-11": 49,
       "2026-11-12": 388,
       "2026-11-13": 647,
       "2026-11-14": 397,
       "2026-11-15": 503,
       "2026-11-16": 630,
-      "2026-11-17": 326
+      "2026-11-17": 327
     }
   },
   {
@@ -32,9 +32,9 @@
     "slug": "alpha-ratio",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "98.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "98.10%",
     "time": 3795,
     "timeDay": 974,
@@ -42,7 +42,7 @@
     "timeMonth": 2713,
     "timeYear": 3908,
     "dailyMinutesDown": {
-      "2025-12-03": 40,
+      "2025-12-03": 57,
       "2025-12-05": 18,
       "2026-01-02": 1376,
       "2026-01-01": 656,
@@ -124,8 +124,7 @@
       "2026-10-19": 61,
       "2026-10-21": 54,
       "2026-11-02": 22,
-      "2026-11-03": 304,
-      "2026-11-17": 9
+      "2026-11-03": 304
     }
   },
   {
@@ -179,7 +178,7 @@
     "uptimeMonth": "93.03%",
     "uptimeYear": "97.25%",
     "time": 1177,
-    "timeDay": 1626,
+    "timeDay": 1695,
     "timeWeek": 1176,
     "timeMonth": 1249,
     "timeYear": 1161,
@@ -490,14 +489,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "75.66%",
-    "uptimeWeek": "77.69%",
-    "uptimeMonth": "94.09%",
+    "uptimeDay": "76.62%",
+    "uptimeWeek": "77.75%",
+    "uptimeMonth": "94.11%",
     "uptimeYear": "99.51%",
     "time": 1058,
-    "timeDay": 1006,
+    "timeDay": 1009,
     "timeWeek": 1019,
     "timeMonth": 1049,
     "timeYear": 1056,
@@ -510,7 +509,7 @@
       "2026-11-14": 216,
       "2026-11-15": 341,
       "2026-11-16": 454,
-      "2026-11-17": 251
+      "2026-11-17": 245
     }
   },
   {
@@ -770,17 +769,17 @@
     "slug": "hawke-uno",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "98.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "98.90%",
     "time": 1325,
-    "timeDay": 826,
+    "timeDay": 708,
     "timeWeek": 667,
     "timeMonth": 1650,
     "timeYear": 1381,
     "dailyMinutesDown": {
-      "2026-02-27": 49,
+      "2026-02-27": 69,
       "2026-02-28": 43,
       "2026-03-01": 28,
       "2026-03-02": 107,
@@ -815,8 +814,7 @@
       "2026-08-26": 19,
       "2026-09-03": 20,
       "2026-10-06": 19,
-      "2026-10-29": 243,
-      "2026-11-17": 8
+      "2026-10-29": 243
     }
   },
   {
@@ -951,7 +949,7 @@
     "uptimeMonth": "98.57%",
     "uptimeYear": "99.31%",
     "time": 2006,
-    "timeDay": 912,
+    "timeDay": 808,
     "timeWeek": 729,
     "timeMonth": 3481,
     "timeYear": 2202,
