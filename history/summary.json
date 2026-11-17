@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "68.11%",
-    "uptimeWeek": "70.39%",
-    "uptimeMonth": "93.19%",
+    "uptimeDay": "68.14%",
+    "uptimeWeek": "70.34%",
+    "uptimeMonth": "93.17%",
     "uptimeYear": "99.43%",
     "time": 1040,
-    "timeDay": 1045,
+    "timeDay": 1043,
     "timeWeek": 1030,
     "timeMonth": 1042,
     "timeYear": 1047,
@@ -21,7 +21,7 @@
       "2026-11-14": 397,
       "2026-11-15": 503,
       "2026-11-16": 630,
-      "2026-11-17": 427
+      "2026-11-17": 433
     }
   },
   {
@@ -488,14 +488,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "75.01%",
-    "uptimeWeek": "77.83%",
-    "uptimeMonth": "94.06%",
+    "uptimeDay": "75.10%",
+    "uptimeWeek": "77.79%",
+    "uptimeMonth": "94.05%",
     "uptimeYear": "99.50%",
     "time": 1063,
-    "timeDay": 1010,
+    "timeDay": 1008,
     "timeWeek": 1020,
     "timeMonth": 1049,
     "timeYear": 1056,
@@ -508,7 +508,7 @@
       "2026-11-14": 216,
       "2026-11-15": 341,
       "2026-11-16": 454,
-      "2026-11-17": 332
+      "2026-11-17": 336
     }
   },
   {
@@ -821,11 +821,11 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "94.76%",
-    "uptimeWeek": "95.69%",
-    "uptimeMonth": "97.06%",
+    "uptimeDay": "94.91%",
+    "uptimeWeek": "95.66%",
+    "uptimeMonth": "97.05%",
     "uptimeYear": "99.55%",
     "time": 940,
     "timeDay": 977,
@@ -867,7 +867,7 @@
       "2026-11-14": 25,
       "2026-11-15": 56,
       "2026-11-16": 160,
-      "2026-11-17": 69
+      "2026-11-17": 73
     }
   },
   {
@@ -1089,7 +1089,7 @@
     "uptimeYear": "99.62%",
     "time": 797,
     "timeDay": 752,
-    "timeWeek": 1498,
+    "timeWeek": 1470,
     "timeMonth": 1349,
     "timeYear": 861,
     "dailyMinutesDown": {
