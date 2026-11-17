@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "66.69%",
-    "uptimeWeek": "70.38%",
-    "uptimeMonth": "93.18%",
+    "uptimeDay": "66.32%",
+    "uptimeWeek": "70.33%",
+    "uptimeMonth": "93.17%",
     "uptimeYear": "99.43%",
     "time": 1040,
-    "timeDay": 1051,
+    "timeDay": 1049,
     "timeWeek": 1030,
     "timeMonth": 1042,
     "timeYear": 1047,
@@ -21,7 +21,7 @@
       "2026-11-14": 397,
       "2026-11-15": 503,
       "2026-11-16": 630,
-      "2026-11-17": 428
+      "2026-11-17": 433
     }
   },
   {
@@ -488,15 +488,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "74.27%",
-    "uptimeWeek": "77.82%",
-    "uptimeMonth": "94.06%",
+    "uptimeDay": "73.95%",
+    "uptimeWeek": "77.78%",
+    "uptimeMonth": "94.05%",
     "uptimeYear": "99.50%",
     "time": 1063,
-    "timeDay": 1011,
-    "timeWeek": 1019,
+    "timeDay": 1010,
+    "timeWeek": 1020,
     "timeMonth": 1049,
     "timeYear": 1056,
     "dailyMinutesDown": {
@@ -508,7 +508,7 @@
       "2026-11-14": 216,
       "2026-11-15": 341,
       "2026-11-16": 454,
-      "2026-11-17": 333
+      "2026-11-17": 337
     }
   },
   {
@@ -821,14 +821,14 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "94.45%",
-    "uptimeWeek": "95.69%",
-    "uptimeMonth": "97.06%",
+    "uptimeDay": "94.18%",
+    "uptimeWeek": "95.65%",
+    "uptimeMonth": "97.05%",
     "uptimeYear": "99.55%",
     "time": 939,
-    "timeDay": 981,
+    "timeDay": 979,
     "timeWeek": 992,
     "timeMonth": 983,
     "timeYear": 960,
@@ -867,7 +867,7 @@
       "2026-11-14": 25,
       "2026-11-15": 56,
       "2026-11-16": 160,
-      "2026-11-17": 69
+      "2026-11-17": 73
     }
   },
   {
@@ -1089,7 +1089,7 @@
     "uptimeYear": "99.62%",
     "time": 797,
     "timeDay": 768,
-    "timeWeek": 1499,
+    "timeWeek": 1488,
     "timeMonth": 1348,
     "timeYear": 861,
     "dailyMinutesDown": {
@@ -1363,9 +1363,9 @@
     "slug": "torrent-leech",
     "status": "up",
     "uptime": "97.58%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.90%",
     "time": 592,
     "timeDay": 1254,
@@ -1385,8 +1385,7 @@
       "2026-08-15": 57,
       "2026-09-03": 18,
       "2026-10-10": 44,
-      "2026-11-12": 41,
-      "2026-11-17": 5
+      "2026-11-12": 41
     }
   }
 ]
