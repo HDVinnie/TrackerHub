@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "74.36%",
-    "uptimeWeek": "70.01%",
-    "uptimeMonth": "93.10%",
+    "uptimeDay": "74.10%",
+    "uptimeWeek": "69.97%",
+    "uptimeMonth": "93.09%",
     "uptimeYear": "99.42%",
     "time": 1041,
     "timeDay": 1046,
@@ -22,7 +22,7 @@
       "2026-11-15": 503,
       "2026-11-16": 630,
       "2026-11-17": 425,
-      "2026-11-18": 82
+      "2026-11-18": 86
     }
   },
   {
@@ -486,13 +486,13 @@
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "79.07%",
-    "uptimeWeek": "78.13%",
+    "uptimeWeek": "78.14%",
     "uptimeMonth": "93.94%",
     "uptimeYear": "99.49%",
     "time": 1063,
     "timeDay": 1011,
     "timeWeek": 1021,
-    "timeMonth": 1049,
+    "timeMonth": 1050,
     "timeYear": 1056,
     "dailyMinutesDown": {
       "2026-11-09": 72,
@@ -512,17 +512,17 @@
     "url": "$EMP",
     "icon": "$EMP_ICON",
     "slug": "empornium",
-    "status": "down",
+    "status": "up",
     "uptime": "97.40%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "89.05%",
-    "time": 882,
-    "timeDay": 381,
-    "timeWeek": 1537,
-    "timeMonth": 1162,
-    "timeYear": 759,
+    "time": 881,
+    "timeDay": 353,
+    "timeWeek": 1460,
+    "timeMonth": 1143,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2026-01-01": 97,
       "2025-12-31": 1440,
@@ -597,7 +597,7 @@
       "2026-10-23": 18,
       "2026-10-28": 22,
       "2026-11-14": 3,
-      "2026-11-18": 3
+      "2026-11-18": 5
     }
   },
   {
@@ -1076,16 +1076,16 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "98.95%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.94%",
     "uptimeYear": "99.62%",
-    "time": 845,
-    "timeDay": 6582,
-    "timeWeek": 1946,
-    "timeMonth": 1511,
+    "time": 844,
+    "timeDay": 5872,
+    "timeWeek": 1929,
+    "timeMonth": 1506,
     "timeYear": 918,
     "dailyMinutesDown": {
       "2025-11-29": 17,
@@ -1145,7 +1145,7 @@
       "2026-11-14": 16,
       "2026-11-15": 17,
       "2026-11-16": 46,
-      "2026-11-18": 3
+      "2026-11-18": 4
     }
   },
   {
