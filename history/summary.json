@@ -11,7 +11,7 @@
     "uptimeMonth": "93.08%",
     "uptimeYear": "99.42%",
     "time": 1042,
-    "timeDay": 1015,
+    "timeDay": 1017,
     "timeWeek": 1029,
     "timeMonth": 1042,
     "timeYear": 1047,
@@ -483,19 +483,19 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "82.81%",
-    "uptimeWeek": "78.29%",
-    "uptimeMonth": "93.94%",
-    "uptimeYear": "99.49%",
-    "time": 1063,
-    "timeDay": 1019,
-    "timeWeek": 1023,
-    "timeMonth": 1049,
+    "status": "degraded",
+    "uptime": "99.89%",
+    "uptimeDay": "83.16%",
+    "uptimeWeek": "78.27%",
+    "uptimeMonth": "93.98%",
+    "uptimeYear": "99.50%",
+    "time": 1064,
+    "timeDay": 1028,
+    "timeWeek": 1024,
+    "timeMonth": 1050,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2026-11-09": 72,
+      "2026-11-09": 51,
       "2026-11-10": 301,
       "2026-11-11": 268,
       "2026-11-12": 209,
@@ -504,7 +504,7 @@
       "2026-11-15": 341,
       "2026-11-16": 454,
       "2026-11-17": 328,
-      "2026-11-18": 58
+      "2026-11-18": 60
     }
   },
   {
@@ -869,16 +869,16 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "94.73%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "94.72%",
     "uptimeYear": "99.11%",
-    "time": 1216,
-    "timeDay": 581,
-    "timeWeek": 670,
-    "timeMonth": 1284,
+    "time": 1217,
+    "timeDay": 840,
+    "timeWeek": 713,
+    "timeMonth": 1282,
     "timeYear": 1197,
     "dailyMinutesDown": {
       "2025-12-03": 47,
@@ -926,7 +926,8 @@
       "2026-10-18": 20,
       "2026-10-21": 1133,
       "2026-10-22": 996,
-      "2026-11-12": 162
+      "2026-11-12": 162,
+      "2026-11-18": 3
     }
   },
   {
@@ -994,19 +995,19 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.04%",
-    "time": 1020,
-    "timeDay": 938,
-    "timeWeek": 917,
-    "timeMonth": 1076,
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.05%",
+    "time": 1021,
+    "timeDay": 953,
+    "timeWeek": 920,
+    "timeMonth": 1075,
     "timeYear": 1048,
     "dailyMinutesDown": {
-      "2026-07-14": 57,
+      "2026-07-14": 27,
       "2026-07-16": 166,
       "2026-07-18": 68,
       "2026-07-19": 131,
@@ -1067,7 +1068,8 @@
       "2026-10-23": 15,
       "2026-10-27": 22,
       "2026-10-29": 22,
-      "2026-11-12": 15
+      "2026-11-12": 15,
+      "2026-11-18": 3
     }
   },
   {
@@ -1270,17 +1272,17 @@
     "url": "$SC",
     "icon": "$SC_ICON",
     "slug": "secret-cinema",
-    "status": "down",
+    "status": "degraded",
     "uptime": "98.99%",
-    "uptimeDay": "92.01%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "59.03%",
+    "uptimeDay": "91.47%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "59.02%",
     "uptimeYear": "96.07%",
     "time": 918,
-    "timeDay": 882,
-    "timeWeek": 1070,
-    "timeMonth": 950,
-    "timeYear": 937,
+    "timeDay": 914,
+    "timeWeek": 1071,
+    "timeMonth": 951,
+    "timeYear": 938,
     "dailyMinutesDown": {
       "2026-08-05": 80,
       "2026-08-07": 44,
@@ -1346,7 +1348,7 @@
       "2026-11-09": 25,
       "2026-11-12": 19,
       "2026-11-13": 24,
-      "2026-11-18": 115
+      "2026-11-18": 123
     }
   },
   {
@@ -1356,9 +1358,9 @@
     "slug": "torrent-leech",
     "status": "up",
     "uptime": "97.58%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.90%",
     "time": 596,
     "timeDay": 1116,
@@ -1377,8 +1379,7 @@
       "2026-08-15": 57,
       "2026-09-03": 18,
       "2026-10-10": 44,
-      "2026-11-12": 41,
-      "2026-11-18": 6
+      "2026-11-12": 41
     }
   }
 ]
