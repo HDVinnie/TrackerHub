@@ -11,8 +11,8 @@
     "uptimeMonth": "93.39%",
     "uptimeYear": "99.45%",
     "time": 1039,
-    "timeDay": 1020,
-    "timeWeek": 1025,
+    "timeDay": 1018,
+    "timeWeek": 1026,
     "timeMonth": 1041,
     "timeYear": 1046,
     "dailyMinutesDown": {
@@ -483,19 +483,19 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "75.64%",
-    "uptimeWeek": "77.07%",
-    "uptimeMonth": "93.95%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "75.54%",
+    "uptimeWeek": "77.06%",
+    "uptimeMonth": "94.08%",
+    "uptimeYear": "99.51%",
     "time": 1063,
-    "timeDay": 972,
+    "timeDay": 974,
     "timeWeek": 1012,
     "timeMonth": 1046,
     "timeYear": 1055,
     "dailyMinutesDown": {
-      "2026-11-11": 152,
+      "2026-11-11": 95,
       "2026-11-12": 209,
       "2026-11-13": 412,
       "2026-11-14": 216,
@@ -503,7 +503,7 @@
       "2026-11-16": 454,
       "2026-11-17": 328,
       "2026-11-18": 208,
-      "2026-11-19": 332
+      "2026-11-19": 334
     }
   },
   {
@@ -641,7 +641,7 @@
     "timeDay": 663,
     "timeWeek": 4736,
     "timeMonth": 3450,
-    "timeYear": 1438,
+    "timeYear": 1436,
     "dailyMinutesDown": {
       "2025-11-21": 18,
       "2025-12-13": 48,
@@ -876,7 +876,7 @@
     "time": 1261,
     "timeDay": 1069,
     "timeWeek": 970,
-    "timeMonth": 1208,
+    "timeMonth": 1185,
     "timeYear": 1194,
     "dailyMinutesDown": {
       "2025-12-03": 47,
@@ -1078,9 +1078,9 @@
     "slug": "private-hd",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "98.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "99.64%",
     "time": 859,
     "timeDay": 946,
@@ -1144,8 +1144,7 @@
       "2026-11-13": 15,
       "2026-11-14": 16,
       "2026-11-15": 17,
-      "2026-11-16": 46,
-      "2026-11-19": 6
+      "2026-11-16": 46
     }
   },
   {
@@ -1214,7 +1213,7 @@
     "time": 1437,
     "timeDay": 632,
     "timeWeek": 531,
-    "timeMonth": 787,
+    "timeMonth": 719,
     "timeYear": 1199,
     "dailyMinutesDown": {
       "2026-02-13": 86,
@@ -1361,12 +1360,12 @@
     "status": "up",
     "uptime": "97.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
     "time": 647,
     "timeDay": 1898,
-    "timeWeek": 1500,
+    "timeWeek": 1527,
     "timeMonth": 1148,
     "timeYear": 718,
     "dailyMinutesDown": {
