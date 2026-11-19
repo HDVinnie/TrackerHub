@@ -11,8 +11,8 @@
     "uptimeMonth": "93.39%",
     "uptimeYear": "99.45%",
     "time": 1039,
-    "timeDay": 1019,
-    "timeWeek": 1026,
+    "timeDay": 1021,
+    "timeWeek": 1025,
     "timeMonth": 1042,
     "timeYear": 1046,
     "dailyMinutesDown": {
@@ -30,19 +30,19 @@
     "url": "$AR",
     "icon": "$AR_ICON",
     "slug": "alpha-ratio",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "98.10%",
-    "time": 3791,
-    "timeDay": 20348,
-    "timeWeek": 2479,
-    "timeMonth": 3005,
-    "timeYear": 3933,
+    "time": 3792,
+    "timeDay": 15530,
+    "timeWeek": 2449,
+    "timeMonth": 3011,
+    "timeYear": 3929,
     "dailyMinutesDown": {
-      "2025-12-03": 57,
+      "2025-12-03": 40,
       "2025-12-05": 18,
       "2026-01-02": 1376,
       "2026-01-01": 656,
@@ -124,7 +124,8 @@
       "2026-10-19": 61,
       "2026-10-21": 54,
       "2026-11-02": 22,
-      "2026-11-03": 304
+      "2026-11-03": 304,
+      "2026-11-19": 2
     }
   },
   {
@@ -265,10 +266,10 @@
     "icon": "$ACM_ICON",
     "slug": "asian-cinema",
     "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.65%",
+    "uptime": "99.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.61%",
     "time": 1503,
     "timeDay": 1017,
@@ -314,8 +315,7 @@
       "2026-10-10": 37,
       "2026-10-13": 15,
       "2026-10-30": 19,
-      "2026-11-01": 127,
-      "2026-11-19": 9
+      "2026-11-01": 127
     }
   },
   {
@@ -703,16 +703,16 @@
     "url": "$GPW",
     "icon": "$GPW_ICON",
     "slug": "great-poster-wall",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.55%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "98.54%",
     "uptimeYear": "98.40%",
     "time": 1055,
-    "timeDay": 410,
-    "timeWeek": 819,
-    "timeMonth": 1424,
+    "timeDay": 916,
+    "timeWeek": 855,
+    "timeMonth": 1423,
     "timeYear": 1146,
     "dailyMinutesDown": {
       "2025-12-30": 952,
@@ -751,7 +751,8 @@
       "2026-10-28": 17,
       "2026-10-29": 18,
       "2026-10-31": 41,
-      "2026-11-08": 30
+      "2026-11-08": 30,
+      "2026-11-19": 3
     }
   },
   {
@@ -935,19 +936,18 @@
     "url": "$OE",
     "icon": "$OE_ICON",
     "slug": "only-encodes",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.74%",
-    "uptimeDay": "95.59%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "98.43%",
+    "uptimeDay": "95.39%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "99.30%",
-    "time": 2013,
-    "timeDay": 578,
-    "timeWeek": 918,
-    "timeMonth": 2770,
-    "timeYear": 2190,
+    "time": 2011,
+    "timeDay": 683,
+    "timeWeek": 926,
+    "timeMonth": 2752,
+    "timeYear": 2189,
     "dailyMinutesDown": {
-      "2026-03-19": 20,
       "2026-03-20": 69,
       "2026-03-21": 38,
       "2026-03-22": 44,
@@ -988,7 +988,7 @@
       "2026-10-27": 26,
       "2026-10-28": 17,
       "2026-11-03": 51,
-      "2026-11-19": 63
+      "2026-11-19": 66
     }
   },
   {
@@ -1207,10 +1207,10 @@
     "slug": "redacted",
     "status": "down",
     "uptime": "98.07%",
-    "uptimeDay": "77.70%",
-    "uptimeWeek": "96.81%",
-    "uptimeMonth": "89.13%",
-    "uptimeYear": "96.66%",
+    "uptimeDay": "76.40%",
+    "uptimeWeek": "96.63%",
+    "uptimeMonth": "89.08%",
+    "uptimeYear": "96.65%",
     "time": 1437,
     "timeDay": 616,
     "timeWeek": 538,
@@ -1265,7 +1265,7 @@
       "2026-10-31": 1026,
       "2026-10-30": 824,
       "2026-11-08": 56,
-      "2026-11-19": 321
+      "2026-11-19": 340
     }
   },
   {
@@ -1281,7 +1281,7 @@
     "uptimeYear": "96.07%",
     "time": 922,
     "timeDay": 946,
-    "timeWeek": 1080,
+    "timeWeek": 1081,
     "timeMonth": 951,
     "timeYear": 938,
     "dailyMinutesDown": {
@@ -1365,7 +1365,7 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
     "time": 647,
-    "timeDay": 1898,
+    "timeDay": 2024,
     "timeWeek": 1527,
     "timeMonth": 1148,
     "timeYear": 718,
