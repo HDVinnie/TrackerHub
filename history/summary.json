@@ -4,26 +4,26 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "77.12%",
-    "uptimeWeek": "70.08%",
-    "uptimeMonth": "93.12%",
+    "uptimeDay": "77.03%",
+    "uptimeWeek": "70.29%",
+    "uptimeMonth": "93.16%",
     "uptimeYear": "99.43%",
     "time": 1040,
-    "timeDay": 1022,
+    "timeDay": 1025,
     "timeWeek": 1028,
     "timeMonth": 1042,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2026-11-12": 27,
       "2026-11-13": 647,
+      "2026-11-12": 4,
       "2026-11-14": 397,
       "2026-11-15": 503,
       "2026-11-16": 630,
       "2026-11-17": 425,
       "2026-11-18": 344,
-      "2026-11-19": 44
+      "2026-11-19": 45
     }
   },
   {
@@ -484,19 +484,19 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "86.51%",
-    "uptimeWeek": "78.24%",
-    "uptimeMonth": "93.89%",
+    "uptimeDay": "86.37%",
+    "uptimeWeek": "78.29%",
+    "uptimeMonth": "93.94%",
     "uptimeYear": "99.49%",
-    "time": 1057,
-    "timeDay": 1042,
+    "time": 1058,
+    "timeDay": 1043,
     "timeWeek": 1024,
     "timeMonth": 1048,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2026-11-10": 199,
+      "2026-11-10": 174,
       "2026-11-11": 268,
       "2026-11-12": 209,
       "2026-11-13": 412,
@@ -505,7 +505,7 @@
       "2026-11-16": 454,
       "2026-11-17": 328,
       "2026-11-18": 208,
-      "2026-11-19": 44
+      "2026-11-19": 46
     }
   },
   {
@@ -513,17 +513,17 @@
     "url": "$EMP",
     "icon": "$EMP_ICON",
     "slug": "empornium",
-    "status": "down",
+    "status": "up",
     "uptime": "97.40%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "89.05%",
-    "time": 880,
-    "timeDay": 193,
-    "timeWeek": 1375,
-    "timeMonth": 1133,
-    "timeYear": 756,
+    "time": 879,
+    "timeDay": 204,
+    "timeWeek": 1316,
+    "timeMonth": 1116,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2026-01-01": 97,
       "2025-12-31": 1440,
@@ -598,7 +598,7 @@
       "2026-10-23": 18,
       "2026-10-28": 22,
       "2026-11-14": 3,
-      "2026-11-19": 2
+      "2026-11-19": 6
     }
   },
   {
@@ -871,15 +871,15 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.75%",
-    "uptimeDay": "96.66%",
-    "uptimeWeek": "97.92%",
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "97.89%",
     "uptimeMonth": "94.66%",
     "uptimeYear": "99.10%",
     "time": 1218,
-    "timeDay": 1051,
-    "timeWeek": 830,
+    "timeDay": 1070,
+    "timeWeek": 854,
     "timeMonth": 1243,
     "timeYear": 1197,
     "dailyMinutesDown": {
@@ -930,7 +930,7 @@
       "2026-10-22": 996,
       "2026-11-12": 162,
       "2026-11-18": 18,
-      "2026-11-19": 30
+      "2026-11-19": 33
     }
   },
   {
@@ -940,9 +940,9 @@
     "slug": "only-encodes",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "98.51%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "98.50%",
     "uptimeYear": "99.31%",
     "time": 2014,
     "timeDay": 989,
@@ -991,7 +991,7 @@
       "2026-10-27": 26,
       "2026-10-28": 17,
       "2026-11-03": 51,
-      "2026-11-19": 27
+      "2026-11-19": 33
     }
   },
   {
@@ -1361,9 +1361,9 @@
     "slug": "torrent-leech",
     "status": "up",
     "uptime": "97.58%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
     "time": 616,
     "timeDay": 1204,
@@ -1382,8 +1382,7 @@
       "2026-08-15": 57,
       "2026-09-03": 18,
       "2026-10-10": 44,
-      "2026-11-12": 41,
-      "2026-11-19": 10
+      "2026-11-12": 41
     }
   }
 ]
