@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "64.91%",
-    "uptimeWeek": "71.49%",
-    "uptimeMonth": "93.44%",
+    "uptimeDay": "65.29%",
+    "uptimeWeek": "71.46%",
+    "uptimeMonth": "93.43%",
     "uptimeYear": "99.45%",
     "time": 1042,
-    "timeDay": 1038,
-    "timeWeek": 1029,
+    "timeDay": 1036,
+    "timeWeek": 1028,
     "timeMonth": 1042,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-11-16": 630,
       "2026-11-17": 425,
       "2026-11-18": 344,
-      "2026-11-19": 293
+      "2026-11-19": 297
     }
   },
   {
@@ -173,7 +173,7 @@
     "status": "up",
     "uptime": "99.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.27%",
+    "uptimeWeek": "98.35%",
     "uptimeMonth": "93.21%",
     "uptimeYear": "97.25%",
     "time": 1171,
@@ -483,14 +483,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "80.20%",
-    "uptimeWeek": "78.07%",
-    "uptimeMonth": "94.03%",
+    "uptimeDay": "80.03%",
+    "uptimeWeek": "78.04%",
+    "uptimeMonth": "94.02%",
     "uptimeYear": "99.50%",
     "time": 1063,
-    "timeDay": 1000,
+    "timeDay": 992,
     "timeWeek": 1015,
     "timeMonth": 1046,
     "timeYear": 1055,
@@ -504,7 +504,7 @@
       "2026-11-16": 454,
       "2026-11-17": 328,
       "2026-11-18": 208,
-      "2026-11-19": 176
+      "2026-11-19": 178
     }
   },
   {
@@ -871,9 +871,9 @@
     "slug": "nebulance",
     "status": "degraded",
     "uptime": "99.73%",
-    "uptimeDay": "62.32%",
-    "uptimeWeek": "92.83%",
-    "uptimeMonth": "93.49%",
+    "uptimeDay": "61.70%",
+    "uptimeWeek": "92.78%",
+    "uptimeMonth": "93.47%",
     "uptimeYear": "99.00%",
     "time": 1261,
     "timeDay": 1088,
@@ -928,7 +928,7 @@
       "2026-10-22": 996,
       "2026-11-12": 162,
       "2026-11-18": 18,
-      "2026-11-19": 541
+      "2026-11-19": 550
     }
   },
   {
@@ -1207,10 +1207,10 @@
     "icon": "$RED_ICON",
     "slug": "redacted",
     "status": "down",
-    "uptime": "98.06%",
-    "uptimeDay": "93.77%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "89.65%",
+    "uptime": "98.05%",
+    "uptimeDay": "93.15%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "89.63%",
     "uptimeYear": "96.70%",
     "time": 1437,
     "timeDay": 610,
@@ -1266,7 +1266,7 @@
       "2026-10-31": 1026,
       "2026-10-30": 824,
       "2026-11-08": 56,
-      "2026-11-19": 90
+      "2026-11-19": 99
     }
   },
   {
@@ -1366,7 +1366,7 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
     "time": 633,
-    "timeDay": 1678,
+    "timeDay": 1580,
     "timeWeek": 1326,
     "timeMonth": 1059,
     "timeYear": 702,
