@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "75.84%",
-    "uptimeWeek": "70.12%",
-    "uptimeMonth": "93.12%",
+    "uptimeDay": "75.46%",
+    "uptimeWeek": "70.07%",
+    "uptimeMonth": "93.11%",
     "uptimeYear": "99.43%",
     "time": 1040,
     "timeDay": 1027,
@@ -23,7 +23,7 @@
       "2026-11-16": 630,
       "2026-11-17": 425,
       "2026-11-18": 344,
-      "2026-11-19": 62
+      "2026-11-19": 68
     }
   },
   {
@@ -484,11 +484,11 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "86.38%",
-    "uptimeWeek": "78.36%",
-    "uptimeMonth": "93.94%",
+    "uptimeDay": "86.11%",
+    "uptimeWeek": "78.32%",
+    "uptimeMonth": "93.93%",
     "uptimeYear": "99.49%",
     "time": 1063,
     "timeDay": 1027,
@@ -505,7 +505,7 @@
       "2026-11-16": 454,
       "2026-11-17": 328,
       "2026-11-18": 208,
-      "2026-11-19": 46
+      "2026-11-19": 50
     }
   },
   {
@@ -870,17 +870,17 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "97.89%",
-    "uptimeMonth": "94.66%",
+    "uptimeDay": "96.28%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "94.65%",
     "uptimeYear": "99.10%",
     "time": 1219,
-    "timeDay": 1056,
-    "timeWeek": 874,
-    "timeMonth": 1239,
-    "timeYear": 1197,
+    "timeDay": 1047,
+    "timeWeek": 880,
+    "timeMonth": 1237,
+    "timeYear": 1196,
     "dailyMinutesDown": {
       "2025-12-03": 47,
       "2025-12-19": 38,
@@ -929,7 +929,7 @@
       "2026-10-22": 996,
       "2026-11-12": 162,
       "2026-11-18": 18,
-      "2026-11-19": 33
+      "2026-11-19": 36
     }
   },
   {
