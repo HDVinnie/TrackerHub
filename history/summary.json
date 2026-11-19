@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "65.25%",
-    "uptimeWeek": "71.30%",
-    "uptimeMonth": "93.39%",
+    "uptimeDay": "64.89%",
+    "uptimeWeek": "71.20%",
+    "uptimeMonth": "93.37%",
     "uptimeYear": "99.45%",
     "time": 1038,
-    "timeDay": 1034,
+    "timeDay": 1035,
     "timeWeek": 1028,
     "timeMonth": 1042,
     "timeYear": 1047,
@@ -22,7 +22,7 @@
       "2026-11-16": 630,
       "2026-11-17": 425,
       "2026-11-18": 344,
-      "2026-11-19": 374
+      "2026-11-19": 384
     }
   },
   {
@@ -485,13 +485,13 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "78.46%",
-    "uptimeWeek": "77.77%",
-    "uptimeMonth": "94.02%",
+    "uptimeDay": "77.78%",
+    "uptimeWeek": "77.67%",
+    "uptimeMonth": "93.99%",
     "uptimeYear": "99.50%",
     "time": 1063,
-    "timeDay": 982,
-    "timeWeek": 1015,
+    "timeDay": 983,
+    "timeWeek": 1016,
     "timeMonth": 1046,
     "timeYear": 1055,
     "dailyMinutesDown": {
@@ -503,7 +503,7 @@
       "2026-11-16": 454,
       "2026-11-17": 328,
       "2026-11-18": 208,
-      "2026-11-19": 245
+      "2026-11-19": 255
     }
   },
   {
@@ -813,14 +813,14 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "91.77%",
-    "uptimeWeek": "94.73%",
-    "uptimeMonth": "96.87%",
+    "uptimeDay": "91.64%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "96.86%",
     "uptimeYear": "99.56%",
     "time": 948,
-    "timeDay": 966,
+    "timeDay": 965,
     "timeWeek": 989,
     "timeMonth": 982,
     "timeYear": 960,
@@ -859,7 +859,7 @@
       "2026-11-16": 160,
       "2026-11-17": 67,
       "2026-11-18": 38,
-      "2026-11-19": 81
+      "2026-11-19": 83
     }
   },
   {
@@ -869,9 +869,9 @@
     "slug": "nebulance",
     "status": "degraded",
     "uptime": "99.72%",
-    "uptimeDay": "47.31%",
-    "uptimeWeek": "92.30%",
-    "uptimeMonth": "93.00%",
+    "uptimeDay": "46.62%",
+    "uptimeWeek": "92.20%",
+    "uptimeMonth": "92.98%",
     "uptimeYear": "98.96%",
     "time": 1261,
     "timeDay": 1088,
@@ -926,7 +926,7 @@
       "2026-10-22": 996,
       "2026-11-12": 162,
       "2026-11-18": 18,
-      "2026-11-19": 757
+      "2026-11-19": 767
     }
   },
   {
@@ -995,16 +995,16 @@
     "url": "$OPS",
     "icon": "$OPS_ICON",
     "slug": "orpheus",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.05%",
-    "time": 1026,
-    "timeDay": 958,
-    "timeWeek": 1040,
-    "timeMonth": 1056,
+    "time": 1027,
+    "timeDay": 913,
+    "timeWeek": 1035,
+    "timeMonth": 1054,
     "timeYear": 1053,
     "dailyMinutesDown": {
       "2026-07-14": 27,
@@ -1069,7 +1069,7 @@
       "2026-10-27": 22,
       "2026-10-29": 22,
       "2026-11-12": 15,
-      "2026-11-19": 8
+      "2026-11-19": 10
     }
   },
   {
@@ -1207,9 +1207,9 @@
     "slug": "redacted",
     "status": "down",
     "uptime": "98.05%",
-    "uptimeDay": "78.76%",
-    "uptimeWeek": "96.97%",
-    "uptimeMonth": "89.16%",
+    "uptimeDay": "78.07%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "89.14%",
     "uptimeYear": "96.66%",
     "time": 1437,
     "timeDay": 610,
@@ -1265,7 +1265,7 @@
       "2026-10-31": 1026,
       "2026-10-30": 824,
       "2026-11-08": 56,
-      "2026-11-19": 306
+      "2026-11-19": 316
     }
   },
   {
@@ -1282,7 +1282,7 @@
     "time": 921,
     "timeDay": 972,
     "timeWeek": 1088,
-    "timeMonth": 951,
+    "timeMonth": 952,
     "timeYear": 938,
     "dailyMinutesDown": {
       "2026-08-05": 32,
@@ -1365,7 +1365,7 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
     "time": 633,
-    "timeDay": 1398,
+    "timeDay": 1478,
     "timeWeek": 1326,
     "timeMonth": 1059,
     "timeYear": 702,
