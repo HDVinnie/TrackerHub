@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "73.25%",
-    "uptimeWeek": "70.71%",
-    "uptimeMonth": "93.26%",
+    "uptimeDay": "72.44%",
+    "uptimeWeek": "70.59%",
+    "uptimeMonth": "93.23%",
     "uptimeYear": "99.44%",
     "time": 1041,
-    "timeDay": 1027,
-    "timeWeek": 1029,
+    "timeDay": 1026,
+    "timeWeek": 1028,
     "timeMonth": 1042,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-11-16": 630,
       "2026-11-17": 425,
       "2026-11-18": 344,
-      "2026-11-19": 99
+      "2026-11-19": 111
     }
   },
   {
@@ -485,9 +485,9 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "84.77%",
-    "uptimeWeek": "78.13%",
-    "uptimeMonth": "93.93%",
+    "uptimeDay": "85.25%",
+    "uptimeWeek": "78.20%",
+    "uptimeMonth": "93.90%",
     "uptimeYear": "99.49%",
     "time": 1063,
     "timeDay": 1022,
@@ -495,7 +495,7 @@
     "timeMonth": 1048,
     "timeYear": 1055,
     "dailyMinutesDown": {
-      "2026-11-10": 157,
+      "2026-11-10": 174,
       "2026-11-11": 268,
       "2026-11-12": 209,
       "2026-11-13": 412,
@@ -504,7 +504,7 @@
       "2026-11-16": 454,
       "2026-11-17": 328,
       "2026-11-18": 208,
-      "2026-11-19": 69
+      "2026-11-19": 62
     }
   },
   {
@@ -869,16 +869,16 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "94.03%",
-    "uptimeWeek": "97.54%",
-    "uptimeMonth": "94.58%",
+    "uptimeDay": "93.38%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "94.56%",
     "uptimeYear": "99.09%",
     "time": 1221,
-    "timeDay": 1072,
-    "timeWeek": 903,
-    "timeMonth": 1237,
+    "timeDay": 1058,
+    "timeWeek": 904,
+    "timeMonth": 1235,
     "timeYear": 1196,
     "dailyMinutesDown": {
       "2025-12-03": 47,
@@ -928,7 +928,7 @@
       "2026-10-22": 996,
       "2026-11-12": 162,
       "2026-11-18": 18,
-      "2026-11-19": 68
+      "2026-11-19": 77
     }
   },
   {
