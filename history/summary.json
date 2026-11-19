@@ -11,7 +11,7 @@
     "uptimeMonth": "93.37%",
     "uptimeYear": "99.45%",
     "time": 1042,
-    "timeDay": 1038,
+    "timeDay": 1035,
     "timeWeek": 1028,
     "timeMonth": 1042,
     "timeYear": 1047,
@@ -30,17 +30,17 @@
     "url": "$AR",
     "icon": "$AR_ICON",
     "slug": "alpha-ratio",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
     "uptimeMonth": "98.96%",
     "uptimeYear": "98.10%",
     "time": 3791,
-    "timeDay": 6272,
-    "timeWeek": 2520,
-    "timeMonth": 2943,
-    "timeYear": 3932,
+    "timeDay": 5836,
+    "timeWeek": 2479,
+    "timeMonth": 2925,
+    "timeYear": 3928,
     "dailyMinutesDown": {
       "2025-12-03": 40,
       "2025-12-05": 18,
@@ -125,7 +125,7 @@
       "2026-10-21": 54,
       "2026-11-02": 22,
       "2026-11-03": 304,
-      "2026-11-19": 12
+      "2026-11-19": 15
     }
   },
   {
@@ -491,7 +491,7 @@
     "uptimeMonth": "93.92%",
     "uptimeYear": "99.49%",
     "time": 1063,
-    "timeDay": 1000,
+    "timeDay": 998,
     "timeWeek": 1015,
     "timeMonth": 1046,
     "timeYear": 1055,
@@ -513,17 +513,17 @@
     "url": "$EMP",
     "icon": "$EMP_ICON",
     "slug": "empornium",
-    "status": "down",
+    "status": "up",
     "uptime": "97.40%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "89.05%",
-    "time": 880,
-    "timeDay": 182,
-    "timeWeek": 1316,
-    "timeMonth": 1116,
-    "timeYear": 755,
+    "time": 879,
+    "timeDay": 255,
+    "timeWeek": 1270,
+    "timeMonth": 1102,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2026-01-01": 97,
       "2025-12-31": 1440,
@@ -598,7 +598,7 @@
       "2026-10-23": 18,
       "2026-10-28": 22,
       "2026-11-14": 3,
-      "2026-11-19": 8
+      "2026-11-19": 10
     }
   },
   {
@@ -823,7 +823,7 @@
     "uptimeMonth": "96.97%",
     "uptimeYear": "99.55%",
     "time": 948,
-    "timeDay": 969,
+    "timeDay": 968,
     "timeWeek": 989,
     "timeMonth": 983,
     "timeYear": 960,
@@ -873,9 +873,9 @@
     "slug": "nebulance",
     "status": "degraded",
     "uptime": "99.73%",
-    "uptimeDay": "63.98%",
-    "uptimeWeek": "93.07%",
-    "uptimeMonth": "93.55%",
+    "uptimeDay": "63.38%",
+    "uptimeWeek": "92.98%",
+    "uptimeMonth": "93.53%",
     "uptimeYear": "99.01%",
     "time": 1261,
     "timeDay": 1088,
@@ -930,7 +930,7 @@
       "2026-10-22": 996,
       "2026-11-12": 162,
       "2026-11-18": 18,
-      "2026-11-19": 517
+      "2026-11-19": 526
     }
   },
   {
@@ -1006,7 +1006,7 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.04%",
     "time": 1026,
-    "timeDay": 2479,
+    "timeDay": 815,
     "timeWeek": 1038,
     "timeMonth": 1055,
     "timeYear": 1053,
@@ -1087,7 +1087,7 @@
     "uptimeMonth": "98.95%",
     "uptimeYear": "99.64%",
     "time": 852,
-    "timeDay": 873,
+    "timeDay": 806,
     "timeWeek": 1635,
     "timeMonth": 1485,
     "timeYear": 924,
@@ -1210,9 +1210,9 @@
     "slug": "redacted",
     "status": "down",
     "uptime": "98.06%",
-    "uptimeDay": "95.44%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "89.71%",
+    "uptimeDay": "94.84%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "89.69%",
     "uptimeYear": "96.70%",
     "time": 1437,
     "timeDay": 610,
@@ -1268,7 +1268,7 @@
       "2026-10-31": 1026,
       "2026-10-30": 824,
       "2026-11-08": 56,
-      "2026-11-19": 66
+      "2026-11-19": 74
     }
   },
   {
@@ -1361,16 +1361,16 @@
     "url": "$TL",
     "icon": "$TL_ICON",
     "slug": "torrent-leech",
-    "status": "down",
+    "status": "up",
     "uptime": "97.58%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.92%",
     "time": 633,
-    "timeDay": 1744,
-    "timeWeek": 1347,
-    "timeMonth": 1068,
+    "timeDay": 1678,
+    "timeWeek": 1326,
+    "timeMonth": 1059,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2025-11-29": 43,
@@ -1385,7 +1385,7 @@
       "2026-09-03": 18,
       "2026-10-10": 44,
       "2026-11-12": 41,
-      "2026-11-19": 3
+      "2026-11-19": 9
     }
   }
 ]
