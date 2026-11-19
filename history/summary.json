@@ -4,15 +4,15 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "72.56%",
-    "uptimeWeek": "71.23%",
-    "uptimeMonth": "93.38%",
+    "uptimeDay": "72.07%",
+    "uptimeWeek": "71.16%",
+    "uptimeMonth": "93.36%",
     "uptimeYear": "99.45%",
     "time": 1041,
-    "timeDay": 1031,
-    "timeWeek": 1029,
+    "timeDay": 1028,
+    "timeWeek": 1028,
     "timeMonth": 1042,
     "timeYear": 1047,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2026-11-16": 630,
       "2026-11-17": 425,
       "2026-11-18": 344,
-      "2026-11-19": 128
+      "2026-11-19": 135
     }
   },
   {
@@ -483,15 +483,15 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "84.06%",
-    "uptimeWeek": "78.76%",
-    "uptimeMonth": "93.98%",
+    "uptimeDay": "83.64%",
+    "uptimeWeek": "78.77%",
+    "uptimeMonth": "93.97%",
     "uptimeYear": "99.50%",
     "time": 1063,
-    "timeDay": 1021,
-    "timeWeek": 1020,
+    "timeDay": 1017,
+    "timeWeek": 1019,
     "timeMonth": 1047,
     "timeYear": 1055,
     "dailyMinutesDown": {
@@ -504,7 +504,7 @@
       "2026-11-16": 454,
       "2026-11-17": 328,
       "2026-11-18": 208,
-      "2026-11-19": 79
+      "2026-11-19": 85
     }
   },
   {
@@ -814,17 +814,17 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "95.51%",
-    "uptimeMonth": "97.05%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "95.46%",
+    "uptimeMonth": "97.04%",
     "uptimeYear": "99.55%",
     "time": 947,
-    "timeDay": 974,
+    "timeDay": 971,
     "timeWeek": 991,
     "timeMonth": 983,
-    "timeYear": 961,
+    "timeYear": 960,
     "dailyMinutesDown": {
       "2026-10-02": 21,
       "2026-10-03": 92,
@@ -862,7 +862,7 @@
       "2026-11-16": 160,
       "2026-11-17": 67,
       "2026-11-18": 38,
-      "2026-11-19": 2
+      "2026-11-19": 8
     }
   },
   {
@@ -870,16 +870,16 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "90.64%",
-    "uptimeWeek": "97.06%",
-    "uptimeMonth": "94.47%",
+    "uptimeDay": "90.28%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "94.45%",
     "uptimeYear": "99.08%",
-    "time": 1259,
-    "timeDay": 1075,
-    "timeWeek": 948,
-    "timeMonth": 1230,
+    "time": 1260,
+    "timeDay": 1070,
+    "timeWeek": 949,
+    "timeMonth": 1228,
     "timeYear": 1195,
     "dailyMinutesDown": {
       "2025-12-03": 47,
@@ -929,7 +929,7 @@
       "2026-10-22": 996,
       "2026-11-12": 162,
       "2026-11-18": 18,
-      "2026-11-19": 116
+      "2026-11-19": 121
     }
   },
   {
@@ -1282,7 +1282,7 @@
     "uptimeYear": "96.07%",
     "time": 918,
     "timeDay": 865,
-    "timeWeek": 1076,
+    "timeWeek": 1074,
     "timeMonth": 951,
     "timeYear": 938,
     "dailyMinutesDown": {
