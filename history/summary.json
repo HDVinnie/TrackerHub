@@ -11,7 +11,7 @@
     "uptimeMonth": "93.32%",
     "uptimeYear": "99.44%",
     "time": 1041,
-    "timeDay": 1028,
+    "timeDay": 1029,
     "timeWeek": 1028,
     "timeMonth": 1042,
     "timeYear": 1047,
@@ -326,7 +326,7 @@
     "uptime": "97.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.66%",
-    "uptimeMonth": "97.46%",
+    "uptimeMonth": "97.49%",
     "uptimeYear": "99.61%",
     "time": 1848,
     "timeDay": 793,
@@ -490,8 +490,8 @@
     "uptimeMonth": "93.94%",
     "uptimeYear": "99.50%",
     "time": 1063,
-    "timeDay": 1004,
-    "timeWeek": 1019,
+    "timeDay": 998,
+    "timeWeek": 1018,
     "timeMonth": 1047,
     "timeYear": 1055,
     "dailyMinutesDown": {
@@ -871,9 +871,9 @@
     "slug": "nebulance",
     "status": "degraded",
     "uptime": "99.74%",
-    "uptimeDay": "82.56%",
-    "uptimeWeek": "95.90%",
-    "uptimeMonth": "94.20%",
+    "uptimeDay": "81.60%",
+    "uptimeWeek": "95.76%",
+    "uptimeMonth": "94.17%",
     "uptimeYear": "99.06%",
     "time": 1260,
     "timeDay": 1081,
@@ -928,7 +928,7 @@
       "2026-10-22": 996,
       "2026-11-12": 162,
       "2026-11-18": 18,
-      "2026-11-19": 232
+      "2026-11-19": 246
     }
   },
   {
@@ -1001,7 +1001,7 @@
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.74%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.04%",
     "time": 1026,
     "timeDay": 1890,
@@ -1357,17 +1357,17 @@
     "url": "$TL",
     "icon": "$TL_ICON",
     "slug": "torrent-leech",
-    "status": "down",
+    "status": "up",
     "uptime": "97.58%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.92%",
-    "time": 634,
-    "timeDay": 1618,
-    "timeWeek": 1403,
-    "timeMonth": 1093,
-    "timeYear": 705,
+    "time": 633,
+    "timeDay": 1560,
+    "timeWeek": 1376,
+    "timeMonth": 1081,
+    "timeYear": 704,
     "dailyMinutesDown": {
       "2025-11-29": 43,
       "2025-12-07": 15,
@@ -1381,7 +1381,7 @@
       "2026-09-03": 18,
       "2026-10-10": 44,
       "2026-11-12": 41,
-      "2026-11-19": 3
+      "2026-11-19": 14
     }
   }
 ]
