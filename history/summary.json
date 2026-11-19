@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "72.28%",
+    "uptimeDay": "72.64%",
     "uptimeWeek": "70.93%",
     "uptimeMonth": "93.31%",
     "uptimeYear": "99.44%",
     "time": 1041,
-    "timeDay": 1028,
+    "timeDay": 1029,
     "timeWeek": 1029,
     "timeMonth": 1042,
     "timeYear": 1047,
@@ -39,7 +39,7 @@
     "time": 3730,
     "timeDay": 1399,
     "timeWeek": 1217,
-    "timeMonth": 2479,
+    "timeMonth": 2495,
     "timeYear": 3866,
     "dailyMinutesDown": {
       "2025-12-03": 57,
@@ -486,7 +486,7 @@
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "84.19%",
-    "uptimeWeek": "78.52%",
+    "uptimeWeek": "78.56%",
     "uptimeMonth": "93.91%",
     "uptimeYear": "99.49%",
     "time": 1063,
@@ -869,16 +869,16 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.75%",
-    "uptimeDay": "92.31%",
-    "uptimeWeek": "97.29%",
+    "uptimeDay": "92.16%",
+    "uptimeWeek": "97.27%",
     "uptimeMonth": "94.52%",
     "uptimeYear": "99.09%",
     "time": 1259,
-    "timeDay": 1074,
-    "timeWeek": 941,
-    "timeMonth": 1231,
+    "timeDay": 1075,
+    "timeWeek": 948,
+    "timeMonth": 1230,
     "timeYear": 1195,
     "dailyMinutesDown": {
       "2025-12-03": 47,
@@ -928,7 +928,7 @@
       "2026-10-22": 996,
       "2026-11-12": 162,
       "2026-11-18": 18,
-      "2026-11-19": 92
+      "2026-11-19": 94
     }
   },
   {
@@ -1357,16 +1357,16 @@
     "url": "$TL",
     "icon": "$TL_ICON",
     "slug": "torrent-leech",
-    "status": "degraded",
+    "status": "up",
     "uptime": "97.58%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.92%",
-    "time": 631,
-    "timeDay": 1610,
-    "timeWeek": 1378,
-    "timeMonth": 1061,
+    "time": 630,
+    "timeDay": 1546,
+    "timeWeek": 1350,
+    "timeMonth": 1050,
     "timeYear": 696,
     "dailyMinutesDown": {
       "2025-11-29": 43,
@@ -1381,7 +1381,7 @@
       "2026-09-03": 18,
       "2026-10-10": 44,
       "2026-11-12": 41,
-      "2026-11-19": 3
+      "2026-11-19": 6
     }
   }
 ]
