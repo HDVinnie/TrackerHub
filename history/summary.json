@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.87%",
-    "uptimeDay": "65.05%",
-    "uptimeWeek": "71.29%",
-    "uptimeMonth": "93.39%",
+    "uptimeDay": "64.87%",
+    "uptimeWeek": "71.20%",
+    "uptimeMonth": "93.37%",
     "uptimeYear": "99.45%",
     "time": 1038,
-    "timeDay": 1034,
+    "timeDay": 1035,
     "timeWeek": 1028,
     "timeMonth": 1042,
     "timeYear": 1047,
@@ -22,7 +22,7 @@
       "2026-11-16": 630,
       "2026-11-17": 425,
       "2026-11-18": 344,
-      "2026-11-19": 338
+      "2026-11-19": 348
     }
   },
   {
@@ -40,7 +40,7 @@
     "timeDay": 5836,
     "timeWeek": 2479,
     "timeMonth": 2925,
-    "timeYear": 3928,
+    "timeYear": 3933,
     "dailyMinutesDown": {
       "2025-12-03": 57,
       "2025-12-05": 18,
@@ -173,12 +173,12 @@
     "status": "up",
     "uptime": "99.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.95%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "93.21%",
     "uptimeYear": "97.25%",
     "time": 1171,
     "timeDay": 911,
-    "timeWeek": 1216,
+    "timeWeek": 1237,
     "timeMonth": 1190,
     "timeYear": 1162,
     "dailyMinutesDown": {
@@ -485,13 +485,13 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "80.56%",
-    "uptimeWeek": "78.13%",
-    "uptimeMonth": "94.04%",
+    "uptimeDay": "80.27%",
+    "uptimeWeek": "78.03%",
+    "uptimeMonth": "94.02%",
     "uptimeYear": "99.50%",
     "time": 1063,
-    "timeDay": 983,
-    "timeWeek": 1015,
+    "timeDay": 984,
+    "timeWeek": 1016,
     "timeMonth": 1046,
     "timeYear": 1055,
     "dailyMinutesDown": {
@@ -503,7 +503,7 @@
       "2026-11-16": 454,
       "2026-11-17": 328,
       "2026-11-18": 208,
-      "2026-11-19": 209
+      "2026-11-19": 219
     }
   },
   {
@@ -815,9 +815,9 @@
     "slug": "my-anona-mouse",
     "status": "degraded",
     "uptime": "99.90%",
-    "uptimeDay": "94.27%",
-    "uptimeWeek": "95.09%",
-    "uptimeMonth": "96.95%",
+    "uptimeDay": "93.57%",
+    "uptimeWeek": "94.99%",
+    "uptimeMonth": "96.93%",
     "uptimeYear": "99.55%",
     "time": 948,
     "timeDay": 968,
@@ -860,7 +860,7 @@
       "2026-11-16": 160,
       "2026-11-17": 67,
       "2026-11-18": 38,
-      "2026-11-19": 45
+      "2026-11-19": 55
     }
   },
   {
@@ -870,9 +870,9 @@
     "slug": "nebulance",
     "status": "degraded",
     "uptime": "99.72%",
-    "uptimeDay": "50.49%",
-    "uptimeWeek": "92.75%",
-    "uptimeMonth": "93.11%",
+    "uptimeDay": "49.79%",
+    "uptimeWeek": "92.65%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "98.97%",
     "time": 1261,
     "timeDay": 1088,
@@ -927,7 +927,7 @@
       "2026-10-22": 996,
       "2026-11-12": 162,
       "2026-11-18": 18,
-      "2026-11-19": 711
+      "2026-11-19": 722
     }
   },
   {
@@ -1077,16 +1077,16 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "98.98%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "98.95%",
     "uptimeMonth": "98.93%",
     "uptimeYear": "99.64%",
     "time": 854,
-    "timeDay": 942,
-    "timeWeek": 1619,
-    "timeMonth": 1481,
+    "timeDay": 874,
+    "timeWeek": 1606,
+    "timeMonth": 1477,
     "timeYear": 924,
     "dailyMinutesDown": {
       "2025-11-29": 17,
@@ -1146,7 +1146,7 @@
       "2026-11-14": 16,
       "2026-11-15": 17,
       "2026-11-16": 46,
-      "2026-11-19": 8
+      "2026-11-19": 10
     }
   },
   {
@@ -1208,10 +1208,10 @@
     "slug": "redacted",
     "status": "down",
     "uptime": "98.05%",
-    "uptimeDay": "81.95%",
-    "uptimeWeek": "97.42%",
-    "uptimeMonth": "89.27%",
-    "uptimeYear": "96.67%",
+    "uptimeDay": "81.24%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "89.24%",
+    "uptimeYear": "96.66%",
     "time": 1437,
     "timeDay": 610,
     "timeWeek": 511,
@@ -1266,7 +1266,7 @@
       "2026-10-31": 1026,
       "2026-10-30": 824,
       "2026-11-08": 56,
-      "2026-11-19": 260
+      "2026-11-19": 270
     }
   },
   {
