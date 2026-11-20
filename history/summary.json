@@ -4,26 +4,25 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "68.22%",
-    "uptimeWeek": "71.55%",
-    "uptimeMonth": "93.45%",
-    "uptimeYear": "99.45%",
-    "time": 1039,
-    "timeDay": 1007,
+    "uptimeDay": "68.73%",
+    "uptimeWeek": "71.72%",
+    "uptimeMonth": "93.49%",
+    "uptimeYear": "99.46%",
+    "time": 1040,
+    "timeDay": 1008,
     "timeWeek": 1025,
     "timeMonth": 1041,
     "timeYear": 1046,
     "dailyMinutesDown": {
-      "2026-11-13": 18,
       "2026-11-14": 397,
       "2026-11-15": 503,
       "2026-11-16": 630,
       "2026-11-17": 425,
       "2026-11-18": 344,
       "2026-11-19": 527,
-      "2026-11-20": 25
+      "2026-11-20": 26
     }
   },
   {
@@ -173,9 +172,9 @@
     "slug": "anthelion",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "93.20%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "93.21%",
     "uptimeYear": "97.25%",
     "time": 1162,
     "timeDay": 874,
@@ -257,8 +256,7 @@
       "2026-10-30": 31,
       "2026-11-01": 20,
       "2026-11-05": 16,
-      "2026-11-12": 175,
-      "2026-11-20": 8
+      "2026-11-12": 175
     }
   },
   {
@@ -491,7 +489,7 @@
     "uptimeMonth": "94.04%",
     "uptimeYear": "99.50%",
     "time": 1056,
-    "timeDay": 981,
+    "timeDay": 982,
     "timeWeek": 1011,
     "timeMonth": 1044,
     "timeYear": 1055,
@@ -869,15 +867,15 @@
     "url": "$NBL",
     "icon": "$NBL_ICON",
     "slug": "nebulance",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.72%",
-    "uptimeDay": "46.89%",
-    "uptimeWeek": "91.64%",
-    "uptimeMonth": "92.85%",
+    "uptimeDay": "47.29%",
+    "uptimeWeek": "91.61%",
+    "uptimeMonth": "92.84%",
     "uptimeYear": "98.95%",
-    "time": 1261,
-    "timeDay": 1039,
-    "timeWeek": 974,
+    "time": 1262,
+    "timeDay": 1043,
+    "timeWeek": 978,
     "timeMonth": 1172,
     "timeYear": 1194,
     "dailyMinutesDown": {
@@ -928,7 +926,8 @@
       "2026-10-22": 996,
       "2026-11-12": 162,
       "2026-11-18": 18,
-      "2026-11-19": 824
+      "2026-11-19": 824,
+      "2026-11-20": 3
     }
   },
   {
