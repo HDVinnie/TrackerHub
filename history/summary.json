@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "72.51%",
-    "uptimeWeek": "71.89%",
-    "uptimeMonth": "93.53%",
+    "uptimeDay": "72.08%",
+    "uptimeWeek": "71.83%",
+    "uptimeMonth": "93.52%",
     "uptimeYear": "99.46%",
     "time": 1038,
     "timeDay": 1028,
@@ -22,7 +22,7 @@
       "2026-11-17": 425,
       "2026-11-18": 344,
       "2026-11-19": 527,
-      "2026-11-20": 356
+      "2026-11-20": 362
     }
   },
   {
@@ -633,7 +633,7 @@
     "status": "up",
     "uptime": "99.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.87%",
+    "uptimeWeek": "97.93%",
     "uptimeMonth": "94.29%",
     "uptimeYear": "98.79%",
     "time": 2042,
@@ -1076,17 +1076,17 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "98.95%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "98.94%",
     "uptimeYear": "99.64%",
     "time": 866,
-    "timeDay": 1048,
-    "timeWeek": 1654,
-    "timeMonth": 1458,
-    "timeYear": 928,
+    "timeDay": 1014,
+    "timeWeek": 1643,
+    "timeMonth": 1455,
+    "timeYear": 927,
     "dailyMinutesDown": {
       "2025-11-29": 17,
       "2025-12-19": 37,
@@ -1145,7 +1145,7 @@
       "2026-11-14": 16,
       "2026-11-15": 17,
       "2026-11-16": 46,
-      "2026-11-20": 3
+      "2026-11-20": 6
     }
   },
   {
