@@ -6,13 +6,13 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "60.95%",
-    "uptimeWeek": "71.89%",
-    "uptimeMonth": "93.53%",
+    "uptimeDay": "60.23%",
+    "uptimeWeek": "71.76%",
+    "uptimeMonth": "93.50%",
     "uptimeYear": "99.46%",
     "time": 1038,
     "timeDay": 1023,
-    "timeWeek": 1025,
+    "timeWeek": 1024,
     "timeMonth": 1040,
     "timeYear": 1046,
     "dailyMinutesDown": {
@@ -23,7 +23,7 @@
       "2026-11-20": 402,
       "2026-11-21": 310,
       "2026-11-22": 430,
-      "2026-11-23": 309
+      "2026-11-23": 322
     }
   },
   {
@@ -484,19 +484,19 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "73.10%",
-    "uptimeWeek": "77.30%",
-    "uptimeMonth": "93.90%",
+    "status": "degraded",
+    "uptime": "99.89%",
+    "uptimeDay": "72.34%",
+    "uptimeWeek": "77.20%",
+    "uptimeMonth": "93.93%",
     "uptimeYear": "99.49%",
     "time": 1061,
-    "timeDay": 1029,
+    "timeDay": 1036,
     "timeWeek": 1010,
     "timeMonth": 1042,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2026-11-15": 181,
+      "2026-11-15": 156,
       "2026-11-16": 454,
       "2026-11-17": 328,
       "2026-11-18": 208,
@@ -504,7 +504,7 @@
       "2026-11-20": 342,
       "2026-11-21": 276,
       "2026-11-22": 329,
-      "2026-11-23": 222
+      "2026-11-23": 233
     }
   },
   {
@@ -1087,8 +1087,8 @@
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.64%",
     "time": 899,
-    "timeDay": 939,
-    "timeWeek": 1875,
+    "timeDay": 798,
+    "timeWeek": 1796,
     "timeMonth": 1433,
     "timeYear": 955,
     "dailyMinutesDown": {
@@ -1282,10 +1282,10 @@
     "slug": "secret-cinema",
     "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "98.03%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "97.89%",
     "uptimeMonth": "66.35%",
-    "uptimeYear": "96.08%",
+    "uptimeYear": "96.07%",
     "time": 924,
     "timeDay": 821,
     "timeWeek": 968,
@@ -1358,7 +1358,7 @@
       "2026-11-18": 145,
       "2026-11-19": 18,
       "2026-11-20": 18,
-      "2026-11-23": 17
+      "2026-11-23": 31
     }
   },
   {
