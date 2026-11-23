@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "65.13%",
-    "uptimeWeek": "71.98%",
-    "uptimeMonth": "93.55%",
+    "uptimeDay": "64.75%",
+    "uptimeWeek": "71.93%",
+    "uptimeMonth": "93.54%",
     "uptimeYear": "99.46%",
     "time": 1039,
-    "timeDay": 1027,
+    "timeDay": 1024,
     "timeWeek": 1024,
     "timeMonth": 1040,
     "timeYear": 1046,
@@ -23,7 +23,7 @@
       "2026-11-20": 402,
       "2026-11-21": 310,
       "2026-11-22": 430,
-      "2026-11-23": 383
+      "2026-11-23": 389
     }
   },
   {
@@ -484,14 +484,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "70.98%",
-    "uptimeWeek": "77.65%",
-    "uptimeMonth": "93.98%",
+    "uptimeDay": "70.70%",
+    "uptimeWeek": "77.61%",
+    "uptimeMonth": "93.97%",
     "uptimeYear": "99.50%",
     "time": 1055,
-    "timeDay": 1031,
+    "timeDay": 1029,
     "timeWeek": 1010,
     "timeMonth": 1042,
     "timeYear": 1052,
@@ -504,7 +504,7 @@
       "2026-11-20": 342,
       "2026-11-21": 276,
       "2026-11-22": 329,
-      "2026-11-23": 294
+      "2026-11-23": 298
     }
   },
   {
@@ -1082,9 +1082,9 @@
     "slug": "private-hd",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.22%",
     "uptimeYear": "99.64%",
     "time": 881,
     "timeDay": 830,
@@ -1150,8 +1150,7 @@
       "2026-11-15": 17,
       "2026-11-16": 46,
       "2026-11-21": 17,
-      "2026-11-22": 6,
-      "2026-11-23": 7
+      "2026-11-22": 6
     }
   },
   {
@@ -1285,7 +1284,7 @@
     "uptime": "99.00%",
     "uptimeDay": "97.47%",
     "uptimeWeek": "97.83%",
-    "uptimeMonth": "67.03%",
+    "uptimeMonth": "67.05%",
     "uptimeYear": "96.07%",
     "time": 924,
     "timeDay": 783,
