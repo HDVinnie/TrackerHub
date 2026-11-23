@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.88%",
     "uptimeDay": "61.71%",
-    "uptimeWeek": "71.89%",
-    "uptimeMonth": "93.53%",
+    "uptimeWeek": "71.81%",
+    "uptimeMonth": "93.51%",
     "uptimeYear": "99.46%",
     "time": 1038,
     "timeDay": 1024,
@@ -23,7 +23,7 @@
       "2026-11-20": 402,
       "2026-11-21": 310,
       "2026-11-22": 430,
-      "2026-11-23": 327
+      "2026-11-23": 335
     }
   },
   {
@@ -488,7 +488,7 @@
     "uptime": "99.89%",
     "uptimeDay": "71.97%",
     "uptimeWeek": "77.10%",
-    "uptimeMonth": "93.98%",
+    "uptimeMonth": "93.96%",
     "uptimeYear": "99.50%",
     "time": 1061,
     "timeDay": 1036,
@@ -504,7 +504,7 @@
       "2026-11-20": 342,
       "2026-11-21": 276,
       "2026-11-22": 329,
-      "2026-11-23": 250
+      "2026-11-23": 258
     }
   },
   {
@@ -814,19 +814,18 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.91%",
-    "uptimeDay": "93.66%",
-    "uptimeWeek": "95.85%",
-    "uptimeMonth": "96.87%",
-    "uptimeYear": "99.58%",
+    "uptimeDay": "93.50%",
+    "uptimeWeek": "95.82%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "99.59%",
     "time": 947,
-    "timeDay": 966,
+    "timeDay": 968,
     "timeWeek": 968,
     "timeMonth": 980,
     "timeYear": 961,
     "dailyMinutesDown": {
-      "2026-10-07": 16,
       "2026-10-08": 128,
       "2026-10-09": 79,
       "2026-10-10": 84,
@@ -862,7 +861,7 @@
       "2026-11-20": 45,
       "2026-11-21": 20,
       "2026-11-22": 15,
-      "2026-11-23": 76
+      "2026-11-23": 78
     }
   },
   {
@@ -1088,7 +1087,7 @@
     "uptimeYear": "99.64%",
     "time": 899,
     "timeDay": 812,
-    "timeWeek": 1819,
+    "timeWeek": 1834,
     "timeMonth": 1433,
     "timeYear": 955,
     "dailyMinutesDown": {
@@ -1284,7 +1283,7 @@
     "uptime": "99.00%",
     "uptimeDay": "97.47%",
     "uptimeWeek": "97.83%",
-    "uptimeMonth": "66.41%",
+    "uptimeMonth": "66.43%",
     "uptimeYear": "96.07%",
     "time": 924,
     "timeDay": 783,
