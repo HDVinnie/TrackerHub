@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "65.83%",
-    "uptimeWeek": "71.89%",
-    "uptimeMonth": "93.53%",
+    "uptimeDay": "65.21%",
+    "uptimeWeek": "71.80%",
+    "uptimeMonth": "93.51%",
     "uptimeYear": "99.46%",
     "time": 1039,
     "timeDay": 1028,
@@ -23,7 +23,7 @@
       "2026-11-20": 402,
       "2026-11-21": 310,
       "2026-11-22": 430,
-      "2026-11-23": 349
+      "2026-11-23": 358
     }
   },
   {
@@ -486,9 +486,9 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "72.95%",
-    "uptimeWeek": "77.29%",
-    "uptimeMonth": "93.98%",
+    "uptimeDay": "72.33%",
+    "uptimeWeek": "77.21%",
+    "uptimeMonth": "93.96%",
     "uptimeYear": "99.50%",
     "time": 1061,
     "timeDay": 1034,
@@ -504,7 +504,7 @@
       "2026-11-20": 342,
       "2026-11-21": 276,
       "2026-11-22": 329,
-      "2026-11-23": 266
+      "2026-11-23": 275
     }
   },
   {
@@ -814,19 +814,18 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.91%",
-    "uptimeDay": "93.66%",
-    "uptimeWeek": "95.85%",
-    "uptimeMonth": "96.91%",
-    "uptimeYear": "99.58%",
+    "uptimeDay": "93.48%",
+    "uptimeWeek": "95.82%",
+    "uptimeMonth": "96.92%",
+    "uptimeYear": "99.59%",
     "time": 948,
-    "timeDay": 967,
-    "timeWeek": 967,
+    "timeDay": 968,
+    "timeWeek": 968,
     "timeMonth": 980,
     "timeYear": 961,
     "dailyMinutesDown": {
-      "2026-10-07": 16,
       "2026-10-08": 128,
       "2026-10-09": 79,
       "2026-10-10": 84,
@@ -862,7 +861,7 @@
       "2026-11-20": 45,
       "2026-11-21": 20,
       "2026-11-22": 15,
-      "2026-11-23": 76
+      "2026-11-23": 79
     }
   },
   {
@@ -1284,7 +1283,7 @@
     "uptime": "99.00%",
     "uptimeDay": "97.47%",
     "uptimeWeek": "97.83%",
-    "uptimeMonth": "66.61%",
+    "uptimeMonth": "66.63%",
     "uptimeYear": "96.07%",
     "time": 924,
     "timeDay": 783,
