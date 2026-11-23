@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "65.58%",
-    "uptimeWeek": "72.05%",
-    "uptimeMonth": "93.57%",
+    "uptimeDay": "65.13%",
+    "uptimeWeek": "71.98%",
+    "uptimeMonth": "93.55%",
     "uptimeYear": "99.46%",
     "time": 1039,
     "timeDay": 1027,
@@ -23,7 +23,7 @@
       "2026-11-20": 402,
       "2026-11-21": 310,
       "2026-11-22": 430,
-      "2026-11-23": 377
+      "2026-11-23": 383
     }
   },
   {
@@ -486,9 +486,9 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "71.45%",
-    "uptimeWeek": "77.72%",
-    "uptimeMonth": "94.00%",
+    "uptimeDay": "70.98%",
+    "uptimeWeek": "77.65%",
+    "uptimeMonth": "93.98%",
     "uptimeYear": "99.50%",
     "time": 1055,
     "timeDay": 1031,
@@ -504,7 +504,7 @@
       "2026-11-20": 342,
       "2026-11-21": 276,
       "2026-11-22": 329,
-      "2026-11-23": 287
+      "2026-11-23": 294
     }
   },
   {
@@ -1080,17 +1080,17 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "99.64%",
     "time": 881,
-    "timeDay": 889,
-    "timeWeek": 1853,
-    "timeMonth": 1433,
-    "timeYear": 956,
+    "timeDay": 830,
+    "timeWeek": 1837,
+    "timeMonth": 1430,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2025-11-29": 17,
       "2025-12-19": 37,
@@ -1151,7 +1151,7 @@
       "2026-11-16": 46,
       "2026-11-21": 17,
       "2026-11-22": 6,
-      "2026-11-23": 3
+      "2026-11-23": 7
     }
   },
   {
@@ -1285,7 +1285,7 @@
     "uptime": "99.00%",
     "uptimeDay": "97.47%",
     "uptimeWeek": "97.83%",
-    "uptimeMonth": "67.02%",
+    "uptimeMonth": "67.03%",
     "uptimeYear": "96.07%",
     "time": 924,
     "timeDay": 783,
