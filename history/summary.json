@@ -4,11 +4,11 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "70.69%",
-    "uptimeWeek": "72.02%",
-    "uptimeMonth": "93.56%",
+    "uptimeDay": "71.02%",
+    "uptimeWeek": "72.07%",
+    "uptimeMonth": "93.57%",
     "uptimeYear": "99.46%",
     "time": 1038,
     "timeDay": 1010,
@@ -23,7 +23,7 @@
       "2026-11-21": 310,
       "2026-11-22": 430,
       "2026-11-23": 445,
-      "2026-11-24": 249
+      "2026-11-24": 244
     }
   },
   {
@@ -326,7 +326,7 @@
     "icon": "$BHD_ICON",
     "slug": "beyond-hd",
     "status": "up",
-    "uptime": "97.03%",
+    "uptime": "97.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.25%",
@@ -487,9 +487,9 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "82.05%",
-    "uptimeWeek": "78.65%",
-    "uptimeMonth": "94.12%",
+    "uptimeDay": "82.72%",
+    "uptimeWeek": "78.81%",
+    "uptimeMonth": "94.08%",
     "uptimeYear": "99.51%",
     "time": 1061,
     "timeDay": 1072,
@@ -497,7 +497,7 @@
     "timeMonth": 1043,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2026-11-16": 301,
+      "2026-11-16": 328,
       "2026-11-17": 328,
       "2026-11-18": 208,
       "2026-11-19": 332,
@@ -505,7 +505,7 @@
       "2026-11-21": 276,
       "2026-11-22": 329,
       "2026-11-23": 389,
-      "2026-11-24": 71
+      "2026-11-24": 61
     }
   },
   {
@@ -1161,9 +1161,9 @@
     "slug": "pass-the-popcorn",
     "status": "down",
     "uptime": "98.42%",
-    "uptimeDay": "75.63%",
-    "uptimeWeek": "96.31%",
-    "uptimeMonth": "99.15%",
+    "uptimeDay": "74.52%",
+    "uptimeWeek": "96.15%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "93.82%",
     "time": 869,
     "timeDay": 399,
@@ -1205,7 +1205,7 @@
       "2026-10-21": 977,
       "2026-10-23": 271,
       "2026-11-22": 21,
-      "2026-11-24": 351
+      "2026-11-24": 367
     }
   },
   {
@@ -1287,11 +1287,11 @@
     "uptime": "99.00%",
     "uptimeDay": "97.47%",
     "uptimeWeek": "97.83%",
-    "uptimeMonth": "69.46%",
+    "uptimeMonth": "69.50%",
     "uptimeYear": "96.07%",
     "time": 923,
     "timeDay": 725,
-    "timeWeek": 967,
+    "timeWeek": 965,
     "timeMonth": 953,
     "timeYear": 941,
     "dailyMinutesDown": {
