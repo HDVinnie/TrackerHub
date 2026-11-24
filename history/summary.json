@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.88%",
     "uptimeDay": "67.13%",
-    "uptimeWeek": "71.69%",
-    "uptimeMonth": "93.48%",
+    "uptimeWeek": "71.60%",
+    "uptimeMonth": "93.46%",
     "uptimeYear": "99.46%",
     "time": 1037,
     "timeDay": 1011,
@@ -23,7 +23,7 @@
       "2026-11-21": 310,
       "2026-11-22": 430,
       "2026-11-23": 445,
-      "2026-11-24": 178
+      "2026-11-24": 187
     }
   },
   {
@@ -487,9 +487,9 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "76.33%",
-    "uptimeWeek": "78.56%",
-    "uptimeMonth": "94.12%",
+    "uptimeDay": "76.07%",
+    "uptimeWeek": "78.47%",
+    "uptimeMonth": "94.10%",
     "uptimeYear": "99.51%",
     "time": 1061,
     "timeDay": 1051,
@@ -505,7 +505,7 @@
       "2026-11-21": 276,
       "2026-11-22": 329,
       "2026-11-23": 389,
-      "2026-11-24": 42
+      "2026-11-24": 51
     }
   },
   {
@@ -815,19 +815,19 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.91%",
-    "uptimeDay": "97.29%",
-    "uptimeWeek": "96.40%",
-    "uptimeMonth": "96.88%",
-    "uptimeYear": "99.58%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "96.33%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "99.59%",
     "time": 950,
-    "timeDay": 976,
+    "timeDay": 978,
     "timeWeek": 965,
     "timeMonth": 979,
     "timeYear": 961,
     "dailyMinutesDown": {
-      "2026-10-08": 128,
+      "2026-10-08": 102,
       "2026-10-09": 79,
       "2026-10-10": 84,
       "2026-10-13": 124,
@@ -863,7 +863,7 @@
       "2026-11-21": 20,
       "2026-11-22": 15,
       "2026-11-23": 76,
-      "2026-11-24": 19
+      "2026-11-24": 26
     }
   },
   {
@@ -943,7 +943,7 @@
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.54%",
+    "uptimeMonth": "99.57%",
     "uptimeYear": "99.30%",
     "time": 2014,
     "timeDay": 834,
@@ -1161,9 +1161,9 @@
     "slug": "pass-the-popcorn",
     "status": "down",
     "uptime": "98.44%",
-    "uptimeDay": "94.34%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "93.69%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "93.87%",
     "time": 869,
     "timeDay": 399,
@@ -1205,7 +1205,7 @@
       "2026-10-21": 977,
       "2026-10-23": 271,
       "2026-11-22": 21,
-      "2026-11-24": 81
+      "2026-11-24": 91
     }
   },
   {
@@ -1287,7 +1287,7 @@
     "uptime": "99.00%",
     "uptimeDay": "97.47%",
     "uptimeWeek": "97.83%",
-    "uptimeMonth": "68.85%",
+    "uptimeMonth": "68.87%",
     "uptimeYear": "96.07%",
     "time": 923,
     "timeDay": 725,
