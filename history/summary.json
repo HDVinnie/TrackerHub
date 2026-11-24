@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "70.89%",
-    "uptimeWeek": "72.76%",
-    "uptimeMonth": "93.73%",
+    "uptimeDay": "71.41%",
+    "uptimeWeek": "72.84%",
+    "uptimeMonth": "93.75%",
     "uptimeYear": "99.48%",
     "time": 1039,
-    "timeDay": 1003,
+    "timeDay": 1004,
     "timeWeek": 1020,
     "timeMonth": 1039,
     "timeYear": 1045,
@@ -22,7 +22,7 @@
       "2026-11-21": 310,
       "2026-11-22": 430,
       "2026-11-23": 445,
-      "2026-11-24": 348
+      "2026-11-24": 340
     }
   },
   {
@@ -180,7 +180,7 @@
     "time": 1140,
     "timeDay": 829,
     "timeWeek": 917,
-    "timeMonth": 1097,
+    "timeMonth": 1098,
     "timeYear": 1160,
     "dailyMinutesDown": {
       "2025-11-26": 21,
@@ -487,17 +487,17 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "82.43%",
-    "uptimeWeek": "78.84%",
-    "uptimeMonth": "94.11%",
+    "uptimeDay": "82.96%",
+    "uptimeWeek": "78.92%",
+    "uptimeMonth": "94.07%",
     "uptimeYear": "99.51%",
     "time": 1061,
-    "timeDay": 1075,
+    "timeDay": 1074,
     "timeWeek": 1021,
     "timeMonth": 1043,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2026-11-16": 226,
+      "2026-11-16": 251,
       "2026-11-17": 328,
       "2026-11-18": 208,
       "2026-11-19": 332,
@@ -505,7 +505,7 @@
       "2026-11-21": 276,
       "2026-11-22": 329,
       "2026-11-23": 389,
-      "2026-11-24": 149
+      "2026-11-24": 141
     }
   },
   {
@@ -822,7 +822,7 @@
     "uptimeMonth": "96.81%",
     "uptimeYear": "99.59%",
     "time": 943,
-    "timeDay": 964,
+    "timeDay": 963,
     "timeWeek": 967,
     "timeMonth": 979,
     "timeYear": 961,
@@ -1287,7 +1287,7 @@
     "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.83%",
-    "uptimeMonth": "70.15%",
+    "uptimeMonth": "70.18%",
     "uptimeYear": "96.07%",
     "time": 923,
     "timeDay": 705,
