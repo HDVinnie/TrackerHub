@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "71.89%",
-    "uptimeWeek": "72.28%",
-    "uptimeMonth": "93.62%",
+    "uptimeDay": "71.43%",
+    "uptimeWeek": "72.22%",
+    "uptimeMonth": "93.61%",
     "uptimeYear": "99.47%",
     "time": 1038,
-    "timeDay": 1003,
+    "timeDay": 1002,
     "timeWeek": 1020,
     "timeMonth": 1039,
     "timeYear": 1045,
@@ -23,7 +23,7 @@
       "2026-11-21": 310,
       "2026-11-22": 430,
       "2026-11-23": 445,
-      "2026-11-24": 334
+      "2026-11-24": 340
     }
   },
   {
@@ -377,9 +377,9 @@
     "slug": "bibliotik",
     "status": "degraded",
     "uptime": "99.77%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 344,
     "timeDay": 1759,
@@ -389,7 +389,7 @@
     "dailyMinutesDown": {
       "2025-12-29": 155,
       "2026-03-03": 15,
-      "2026-11-24": 1
+      "2026-11-24": 10
     }
   },
   {
@@ -1090,7 +1090,7 @@
     "uptimeYear": "99.64%",
     "time": 887,
     "timeDay": 858,
-    "timeWeek": 1699,
+    "timeWeek": 1720,
     "timeMonth": 1417,
     "timeYear": 954,
     "dailyMinutesDown": {
@@ -1288,7 +1288,7 @@
     "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.83%",
-    "uptimeMonth": "70.02%",
+    "uptimeMonth": "70.04%",
     "uptimeYear": "96.07%",
     "time": 923,
     "timeDay": 705,
