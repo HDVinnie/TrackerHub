@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "64.73%",
-    "uptimeWeek": "72.31%",
-    "uptimeMonth": "93.63%",
+    "uptimeDay": "63.87%",
+    "uptimeWeek": "72.18%",
+    "uptimeMonth": "93.60%",
     "uptimeYear": "99.47%",
     "time": 1040,
-    "timeDay": 1007,
+    "timeDay": 1006,
     "timeWeek": 1018,
     "timeMonth": 1037,
     "timeYear": 1045,
@@ -22,7 +22,7 @@
       "2026-11-21": 310,
       "2026-11-22": 430,
       "2026-11-23": 445,
-      "2026-11-24": 499
+      "2026-11-24": 511
     }
   },
   {
@@ -485,14 +485,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "81.26%",
-    "uptimeWeek": "78.67%",
-    "uptimeMonth": "94.18%",
-    "uptimeYear": "99.52%",
+    "uptimeDay": "80.52%",
+    "uptimeWeek": "78.57%",
+    "uptimeMonth": "94.16%",
+    "uptimeYear": "99.51%",
     "time": 1055,
-    "timeDay": 1093,
+    "timeDay": 1094,
     "timeWeek": 1025,
     "timeMonth": 1043,
     "timeYear": 1053,
@@ -505,7 +505,7 @@
       "2026-11-21": 276,
       "2026-11-22": 329,
       "2026-11-23": 389,
-      "2026-11-24": 270
+      "2026-11-24": 280
     }
   },
   {
@@ -822,7 +822,7 @@
     "uptimeMonth": "96.77%",
     "uptimeYear": "99.59%",
     "time": 946,
-    "timeDay": 970,
+    "timeDay": 967,
     "timeWeek": 963,
     "timeMonth": 978,
     "timeYear": 961,
@@ -1286,9 +1286,9 @@
     "slug": "secret-cinema",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "97.77%",
-    "uptimeMonth": "71.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "71.44%",
     "uptimeYear": "96.07%",
     "time": 923,
     "timeDay": 996,
@@ -1296,6 +1296,7 @@
     "timeMonth": 956,
     "timeYear": 941,
     "dailyMinutesDown": {
+      "2026-08-07": 21,
       "2026-08-08": 31,
       "2026-08-09": 36,
       "2026-08-13": 56,
@@ -1361,8 +1362,7 @@
       "2026-11-18": 145,
       "2026-11-19": 18,
       "2026-11-20": 18,
-      "2026-11-23": 36,
-      "2026-11-24": 7
+      "2026-11-23": 36
     }
   },
   {
