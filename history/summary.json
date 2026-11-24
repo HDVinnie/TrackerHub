@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "67.40%",
-    "uptimeWeek": "72.41%",
-    "uptimeMonth": "93.65%",
+    "uptimeDay": "68.10%",
+    "uptimeWeek": "72.31%",
+    "uptimeMonth": "93.63%",
     "uptimeYear": "99.47%",
     "time": 1040,
     "timeDay": 1007,
@@ -16,13 +16,13 @@
     "timeMonth": 1038,
     "timeYear": 1045,
     "dailyMinutesDown": {
-      "2026-11-18": 248,
+      "2026-11-18": 268,
       "2026-11-19": 527,
       "2026-11-20": 402,
       "2026-11-21": 310,
       "2026-11-22": 430,
       "2026-11-23": 445,
-      "2026-11-24": 422
+      "2026-11-24": 412
     }
   },
   {
@@ -179,7 +179,7 @@
     "uptimeYear": "97.25%",
     "time": 1140,
     "timeDay": 829,
-    "timeWeek": 891,
+    "timeWeek": 900,
     "timeMonth": 1102,
     "timeYear": 1160,
     "dailyMinutesDown": {
@@ -485,19 +485,19 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "82.51%",
-    "uptimeWeek": "78.67%",
-    "uptimeMonth": "94.17%",
-    "uptimeYear": "99.51%",
+    "uptimeDay": "82.88%",
+    "uptimeWeek": "78.72%",
+    "uptimeMonth": "94.21%",
+    "uptimeYear": "99.52%",
     "time": 1055,
     "timeDay": 1080,
     "timeWeek": 1024,
     "timeMonth": 1043,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2026-11-16": 145,
+      "2026-11-16": 126,
       "2026-11-17": 328,
       "2026-11-18": 208,
       "2026-11-19": 332,
@@ -505,7 +505,7 @@
       "2026-11-21": 276,
       "2026-11-22": 329,
       "2026-11-23": 389,
-      "2026-11-24": 207
+      "2026-11-24": 209
     }
   },
   {
@@ -1288,12 +1288,12 @@
     "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.83%",
-    "uptimeMonth": "70.87%",
+    "uptimeMonth": "70.88%",
     "uptimeYear": "96.07%",
     "time": 923,
     "timeDay": 705,
     "timeWeek": 969,
-    "timeMonth": 953,
+    "timeMonth": 954,
     "timeYear": 941,
     "dailyMinutesDown": {
       "2026-08-07": 21,
