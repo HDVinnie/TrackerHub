@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "62.58%",
-    "uptimeWeek": "71.50%",
-    "uptimeMonth": "93.44%",
+    "uptimeDay": "61.64%",
+    "uptimeWeek": "71.36%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.45%",
     "time": 1040,
     "timeDay": 1005,
@@ -23,7 +23,7 @@
       "2026-11-22": 430,
       "2026-11-23": 445,
       "2026-11-24": 522,
-      "2026-11-25": 58
+      "2026-11-25": 72
     }
   },
   {
@@ -488,10 +488,10 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "79.30%",
-    "uptimeWeek": "79.01%",
-    "uptimeMonth": "94.20%",
-    "uptimeYear": "99.52%",
+    "uptimeDay": "78.36%",
+    "uptimeWeek": "78.88%",
+    "uptimeMonth": "94.17%",
+    "uptimeYear": "99.51%",
     "time": 1060,
     "timeDay": 1100,
     "timeWeek": 1026,
@@ -507,7 +507,7 @@
       "2026-11-22": 329,
       "2026-11-23": 389,
       "2026-11-24": 280,
-      "2026-11-25": 17
+      "2026-11-25": 31
     }
   },
   {
@@ -817,19 +817,19 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.91%",
-    "uptimeDay": "93.09%",
-    "uptimeWeek": "96.27%",
-    "uptimeMonth": "96.76%",
-    "uptimeYear": "99.59%",
+    "uptimeDay": "92.93%",
+    "uptimeWeek": "96.24%",
+    "uptimeMonth": "96.79%",
+    "uptimeYear": "99.60%",
     "time": 946,
-    "timeDay": 967,
+    "timeDay": 969,
     "timeWeek": 963,
     "timeMonth": 978,
     "timeYear": 961,
     "dailyMinutesDown": {
-      "2026-10-09": 79,
+      "2026-10-09": 52,
       "2026-10-10": 84,
       "2026-10-13": 124,
       "2026-10-14": 94,
@@ -865,7 +865,7 @@
       "2026-11-22": 15,
       "2026-11-23": 76,
       "2026-11-24": 84,
-      "2026-11-25": 16
+      "2026-11-25": 18
     }
   },
   {
@@ -1290,7 +1290,7 @@
     "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.83%",
-    "uptimeMonth": "71.60%",
+    "uptimeMonth": "71.63%",
     "uptimeYear": "96.07%",
     "time": 923,
     "timeDay": 996,
