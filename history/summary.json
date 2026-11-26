@@ -6,12 +6,12 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "76.87%",
-    "uptimeWeek": "71.40%",
-    "uptimeMonth": "93.42%",
+    "uptimeDay": "76.59%",
+    "uptimeWeek": "71.33%",
+    "uptimeMonth": "93.40%",
     "uptimeYear": "99.45%",
     "time": 1041,
-    "timeDay": 1045,
+    "timeDay": 1044,
     "timeWeek": 1020,
     "timeMonth": 1034,
     "timeYear": 1045,
@@ -23,7 +23,7 @@
       "2026-11-23": 445,
       "2026-11-24": 522,
       "2026-11-25": 470,
-      "2026-11-26": 32
+      "2026-11-26": 40
     }
   },
   {
@@ -486,17 +486,17 @@
     "slug": "desi-torrents",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "67.81%",
-    "uptimeWeek": "75.91%",
-    "uptimeMonth": "94.17%",
+    "uptimeDay": "68.74%",
+    "uptimeWeek": "76.01%",
+    "uptimeMonth": "94.16%",
     "uptimeYear": "99.51%",
     "time": 1055,
-    "timeDay": 1055,
+    "timeDay": 1053,
     "timeWeek": 1033,
-    "timeMonth": 1045,
+    "timeMonth": 1044,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2026-11-18": 47,
+      "2026-11-18": 64,
       "2026-11-19": 332,
       "2026-11-20": 342,
       "2026-11-21": 276,
@@ -504,7 +504,7 @@
       "2026-11-23": 389,
       "2026-11-24": 280,
       "2026-11-25": 473,
-      "2026-11-26": 85
+      "2026-11-26": 76
     }
   },
   {
@@ -814,14 +814,14 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "94.72%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "96.55%",
-    "uptimeYear": "99.60%",
+    "uptimeDay": "94.35%",
+    "uptimeWeek": "95.36%",
+    "uptimeMonth": "96.54%",
+    "uptimeYear": "99.59%",
     "time": 951,
-    "timeDay": 969,
+    "timeDay": 968,
     "timeWeek": 963,
     "timeMonth": 978,
     "timeYear": 962,
@@ -862,7 +862,7 @@
       "2026-11-23": 76,
       "2026-11-24": 84,
       "2026-11-25": 113,
-      "2026-11-26": 27
+      "2026-11-26": 33
     }
   },
   {
@@ -873,7 +873,7 @@
     "status": "up",
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.74%",
+    "uptimeWeek": "91.81%",
     "uptimeMonth": "97.30%",
     "uptimeYear": "98.92%",
     "time": 1262,
@@ -1285,9 +1285,9 @@
     "slug": "secret-cinema",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.03%",
-    "uptimeMonth": "75.42%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "75.46%",
     "uptimeYear": "96.07%",
     "time": 922,
     "timeDay": 879,
@@ -1295,7 +1295,7 @@
     "timeMonth": 960,
     "timeYear": 941,
     "dailyMinutesDown": {
-      "2026-08-08": 15,
+      "2026-08-08": 31,
       "2026-08-09": 36,
       "2026-08-13": 56,
       "2026-08-14": 23,
@@ -1361,7 +1361,7 @@
       "2026-11-19": 18,
       "2026-11-20": 18,
       "2026-11-23": 36,
-      "2026-11-26": 25
+      "2026-11-26": 16
     }
   },
   {
@@ -1377,7 +1377,7 @@
     "uptimeYear": "99.92%",
     "time": 755,
     "timeDay": 2204,
-    "timeWeek": 3093,
+    "timeWeek": 3091,
     "timeMonth": 1692,
     "timeYear": 843,
     "dailyMinutesDown": {
