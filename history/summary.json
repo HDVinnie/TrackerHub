@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.88%",
     "uptimeDay": "72.16%",
-    "uptimeWeek": "71.43%",
-    "uptimeMonth": "93.43%",
+    "uptimeWeek": "71.36%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.45%",
     "time": 1040,
     "timeDay": 1033,
@@ -23,7 +23,7 @@
       "2026-11-23": 445,
       "2026-11-24": 522,
       "2026-11-25": 470,
-      "2026-11-26": 8
+      "2026-11-26": 15
     }
   },
   {
@@ -487,8 +487,8 @@
     "status": "degraded",
     "uptime": "99.89%",
     "uptimeDay": "69.27%",
-    "uptimeWeek": "76.34%",
-    "uptimeMonth": "94.21%",
+    "uptimeWeek": "76.27%",
+    "uptimeMonth": "94.19%",
     "uptimeYear": "99.52%",
     "time": 1055,
     "timeDay": 1059,
@@ -504,7 +504,7 @@
       "2026-11-23": 389,
       "2026-11-24": 280,
       "2026-11-25": 473,
-      "2026-11-26": 9
+      "2026-11-26": 16
     }
   },
   {
@@ -814,15 +814,15 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "93.82%",
-    "uptimeWeek": "95.66%",
-    "uptimeMonth": "96.61%",
+    "uptimeDay": "93.98%",
+    "uptimeWeek": "95.61%",
+    "uptimeMonth": "96.60%",
     "uptimeYear": "99.60%",
     "time": 951,
-    "timeDay": 963,
-    "timeWeek": 962,
+    "timeDay": 964,
+    "timeWeek": 963,
     "timeMonth": 978,
     "timeYear": 961,
     "dailyMinutesDown": {
@@ -862,7 +862,7 @@
       "2026-11-23": 76,
       "2026-11-24": 84,
       "2026-11-25": 113,
-      "2026-11-26": 2
+      "2026-11-26": 7
     }
   },
   {
@@ -941,7 +941,7 @@
     "status": "up",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.30%",
     "time": 2016,
@@ -1287,7 +1287,7 @@
     "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
-    "uptimeMonth": "74.93%",
+    "uptimeMonth": "74.95%",
     "uptimeYear": "96.07%",
     "time": 923,
     "timeDay": 862,
