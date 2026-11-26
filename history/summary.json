@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "75.17%",
-    "uptimeWeek": "70.98%",
-    "uptimeMonth": "93.32%",
+    "uptimeDay": "74.73%",
+    "uptimeWeek": "70.92%",
+    "uptimeMonth": "93.31%",
     "uptimeYear": "99.44%",
     "time": 1037,
-    "timeDay": 1044,
+    "timeDay": 1041,
     "timeWeek": 1020,
     "timeMonth": 1034,
     "timeYear": 1045,
@@ -23,7 +23,7 @@
       "2026-11-23": 445,
       "2026-11-24": 522,
       "2026-11-25": 470,
-      "2026-11-26": 138
+      "2026-11-26": 145
     }
   },
   {
@@ -484,11 +484,11 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "73.23%",
-    "uptimeWeek": "76.19%",
-    "uptimeMonth": "94.12%",
+    "uptimeDay": "73.12%",
+    "uptimeWeek": "76.24%",
+    "uptimeMonth": "94.16%",
     "uptimeYear": "99.51%",
     "time": 1056,
     "timeDay": 1040,
@@ -496,7 +496,6 @@
     "timeMonth": 1044,
     "timeYear": 1053,
     "dailyMinutesDown": {
-      "2026-11-18": 18,
       "2026-11-19": 332,
       "2026-11-20": 342,
       "2026-11-21": 276,
@@ -504,7 +503,7 @@
       "2026-11-23": 389,
       "2026-11-24": 280,
       "2026-11-25": 473,
-      "2026-11-26": 136
+      "2026-11-26": 138
     }
   },
   {
@@ -822,7 +821,7 @@
     "uptimeYear": "99.59%",
     "time": 944,
     "timeDay": 969,
-    "timeWeek": 964,
+    "timeWeek": 963,
     "timeMonth": 978,
     "timeYear": 962,
     "dailyMinutesDown": {
@@ -873,7 +872,7 @@
     "status": "up",
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.07%",
+    "uptimeWeek": "94.14%",
     "uptimeMonth": "97.30%",
     "uptimeYear": "98.92%",
     "time": 1262,
@@ -1287,7 +1286,7 @@
     "uptime": "99.00%",
     "uptimeDay": "98.92%",
     "uptimeWeek": "99.12%",
-    "uptimeMonth": "76.01%",
+    "uptimeMonth": "76.03%",
     "uptimeYear": "96.07%",
     "time": 922,
     "timeDay": 869,
