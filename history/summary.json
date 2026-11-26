@@ -7,8 +7,8 @@
     "status": "degraded",
     "uptime": "99.87%",
     "uptimeDay": "72.11%",
-    "uptimeWeek": "71.26%",
-    "uptimeMonth": "93.39%",
+    "uptimeWeek": "71.19%",
+    "uptimeMonth": "93.37%",
     "uptimeYear": "99.45%",
     "time": 1038,
     "timeDay": 1059,
@@ -22,7 +22,7 @@
       "2026-11-23": 445,
       "2026-11-24": 522,
       "2026-11-25": 470,
-      "2026-11-26": 316
+      "2026-11-26": 323
     }
   },
   {
@@ -486,8 +486,8 @@
     "status": "degraded",
     "uptime": "99.89%",
     "uptimeDay": "75.78%",
-    "uptimeWeek": "76.36%",
-    "uptimeMonth": "94.18%",
+    "uptimeWeek": "76.29%",
+    "uptimeMonth": "94.16%",
     "uptimeYear": "99.51%",
     "time": 1061,
     "timeDay": 1065,
@@ -502,7 +502,7 @@
       "2026-11-23": 389,
       "2026-11-24": 280,
       "2026-11-25": 473,
-      "2026-11-26": 228
+      "2026-11-26": 235
     }
   },
   {
@@ -812,15 +812,15 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "93.89%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "96.61%",
+    "uptimeDay": "94.06%",
+    "uptimeWeek": "96.05%",
+    "uptimeMonth": "96.62%",
     "uptimeYear": "99.60%",
     "time": 946,
-    "timeDay": 972,
-    "timeWeek": 965,
+    "timeDay": 973,
+    "timeWeek": 966,
     "timeMonth": 978,
     "timeYear": 962,
     "dailyMinutesDown": {
@@ -859,7 +859,7 @@
       "2026-11-23": 76,
       "2026-11-24": 84,
       "2026-11-25": 113,
-      "2026-11-26": 41
+      "2026-11-26": 46
     }
   },
   {
@@ -870,7 +870,7 @@
     "status": "up",
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.93%",
+    "uptimeWeek": "97.99%",
     "uptimeMonth": "97.30%",
     "uptimeYear": "98.92%",
     "time": 1264,
@@ -1284,12 +1284,12 @@
     "uptime": "99.00%",
     "uptimeDay": "98.92%",
     "uptimeWeek": "99.30%",
-    "uptimeMonth": "76.90%",
+    "uptimeMonth": "76.91%",
     "uptimeYear": "96.07%",
     "time": 922,
     "timeDay": 848,
     "timeWeek": 974,
-    "timeMonth": 960,
+    "timeMonth": 959,
     "timeYear": 941,
     "dailyMinutesDown": {
       "2026-08-08": 31,
