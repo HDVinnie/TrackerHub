@@ -6,9 +6,9 @@
     "slug": "aither",
     "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "65.39%",
-    "uptimeWeek": "71.49%",
-    "uptimeMonth": "93.44%",
+    "uptimeDay": "64.83%",
+    "uptimeWeek": "71.41%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.45%",
     "time": 1040,
     "timeDay": 1040,
@@ -23,7 +23,7 @@
       "2026-11-24": 522,
       "2026-11-25": 470,
       "2026-11-26": 473,
-      "2026-11-27": 148
+      "2026-11-27": 156
     }
   },
   {
@@ -486,9 +486,9 @@
     "slug": "desi-torrents",
     "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "74.84%",
-    "uptimeWeek": "75.17%",
-    "uptimeMonth": "94.29%",
+    "uptimeDay": "74.28%",
+    "uptimeWeek": "75.09%",
+    "uptimeMonth": "94.27%",
     "uptimeYear": "99.52%",
     "time": 1055,
     "timeDay": 1037,
@@ -503,7 +503,7 @@
       "2026-11-24": 280,
       "2026-11-25": 473,
       "2026-11-26": 370,
-      "2026-11-27": 128
+      "2026-11-27": 136
     }
   },
   {
@@ -814,19 +814,19 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.91%",
-    "uptimeDay": "96.38%",
-    "uptimeWeek": "95.66%",
+    "uptimeDay": "96.22%",
+    "uptimeWeek": "95.64%",
     "uptimeMonth": "96.73%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.61%",
     "time": 949,
-    "timeDay": 992,
+    "timeDay": 993,
     "timeWeek": 968,
     "timeMonth": 979,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2026-10-13": 48,
+      "2026-10-13": 28,
       "2026-10-14": 94,
       "2026-10-16": 75,
       "2026-10-17": 24,
@@ -862,7 +862,7 @@
       "2026-11-24": 84,
       "2026-11-25": 113,
       "2026-11-26": 54,
-      "2026-11-27": 31
+      "2026-11-27": 33
     }
   },
   {
@@ -1288,7 +1288,7 @@
     "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.30%",
-    "uptimeMonth": "79.05%",
+    "uptimeMonth": "79.07%",
     "uptimeYear": "96.07%",
     "time": 922,
     "timeDay": 883,
