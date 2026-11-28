@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.88%",
-    "uptimeDay": "77.75%",
-    "uptimeWeek": "72.46%",
-    "uptimeMonth": "93.66%",
+    "uptimeDay": "78.69%",
+    "uptimeWeek": "72.51%",
+    "uptimeMonth": "93.67%",
     "uptimeYear": "99.47%",
-    "time": 1039,
-    "timeDay": 1019,
+    "time": 1040,
+    "timeDay": 1023,
     "timeWeek": 1022,
     "timeMonth": 1033,
     "timeYear": 1045,
@@ -22,7 +22,7 @@
       "2026-11-25": 470,
       "2026-11-26": 473,
       "2026-11-27": 435,
-      "2026-11-28": 115
+      "2026-11-28": 110
     }
   },
   {
@@ -483,14 +483,14 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.89%",
-    "uptimeDay": "79.55%",
-    "uptimeWeek": "75.40%",
-    "uptimeMonth": "94.34%",
+    "uptimeDay": "79.85%",
+    "uptimeWeek": "75.44%",
+    "uptimeMonth": "94.35%",
     "uptimeYear": "99.53%",
-    "time": 1054,
-    "timeDay": 997,
+    "time": 1055,
+    "timeDay": 998,
     "timeWeek": 1038,
     "timeMonth": 1042,
     "timeYear": 1053,
@@ -502,7 +502,7 @@
       "2026-11-25": 473,
       "2026-11-26": 370,
       "2026-11-27": 389,
-      "2026-11-28": 92
+      "2026-11-28": 87
     }
   },
   {
@@ -514,7 +514,7 @@
     "uptime": "97.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "89.05%",
     "time": 829,
     "timeDay": 348,
@@ -815,16 +815,17 @@
     "slug": "my-anona-mouse",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "92.70%",
-    "uptimeWeek": "95.03%",
-    "uptimeMonth": "96.64%",
-    "uptimeYear": "99.61%",
+    "uptimeDay": "93.09%",
+    "uptimeWeek": "95.09%",
+    "uptimeMonth": "96.65%",
+    "uptimeYear": "99.60%",
     "time": 945,
     "timeDay": 973,
     "timeWeek": 967,
     "timeMonth": 978,
     "timeYear": 962,
     "dailyMinutesDown": {
+      "2026-10-14": 30,
       "2026-10-16": 75,
       "2026-10-17": 24,
       "2026-10-18": 17,
@@ -860,7 +861,7 @@
       "2026-11-25": 113,
       "2026-11-26": 54,
       "2026-11-27": 138,
-      "2026-11-28": 22
+      "2026-11-28": 16
     }
   },
   {
@@ -1286,7 +1287,7 @@
     "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "82.65%",
+    "uptimeMonth": "82.67%",
     "uptimeYear": "96.07%",
     "time": 921,
     "timeDay": 873,
