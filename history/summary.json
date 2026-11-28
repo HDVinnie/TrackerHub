@@ -4,14 +4,14 @@
     "url": "$AIH",
     "icon": "$AIH_ICON",
     "slug": "aither",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "75.05%",
-    "uptimeWeek": "73.13%",
-    "uptimeMonth": "93.82%",
+    "uptimeDay": "74.72%",
+    "uptimeWeek": "73.08%",
+    "uptimeMonth": "93.81%",
     "uptimeYear": "99.48%",
     "time": 1041,
-    "timeDay": 1023,
+    "timeDay": 1021,
     "timeWeek": 1022,
     "timeMonth": 1033,
     "timeYear": 1045,
@@ -22,7 +22,7 @@
       "2026-11-25": 470,
       "2026-11-26": 473,
       "2026-11-27": 435,
-      "2026-11-28": 259
+      "2026-11-28": 264
     }
   },
   {
@@ -483,13 +483,13 @@
     "url": "$DST",
     "icon": "$DST_ICON",
     "slug": "desi-torrents",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "82.76%",
+    "uptimeDay": "82.49%",
     "uptimeWeek": "76.06%",
-    "uptimeMonth": "94.36%",
+    "uptimeMonth": "94.35%",
     "uptimeYear": "99.53%",
-    "time": 1055,
+    "time": 1060,
     "timeDay": 1022,
     "timeWeek": 1042,
     "timeMonth": 1042,
@@ -502,7 +502,7 @@
       "2026-11-25": 473,
       "2026-11-26": 370,
       "2026-11-27": 389,
-      "2026-11-28": 123
+      "2026-11-28": 127
     }
   },
   {
@@ -813,15 +813,15 @@
     "url": "$MAM",
     "icon": "$MAM_ICON",
     "slug": "my-anona-mouse",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "91.48%",
-    "uptimeWeek": "94.47%",
+    "uptimeDay": "91.26%",
+    "uptimeWeek": "94.44%",
     "uptimeMonth": "96.55%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.60%",
     "time": 946,
-    "timeDay": 964,
-    "timeWeek": 969,
+    "timeDay": 962,
+    "timeWeek": 968,
     "timeMonth": 978,
     "timeYear": 962,
     "dailyMinutesDown": {
@@ -860,7 +860,7 @@
       "2026-11-25": 113,
       "2026-11-26": 54,
       "2026-11-27": 138,
-      "2026-11-28": 78
+      "2026-11-28": 81
     }
   },
   {
@@ -1078,17 +1078,17 @@
     "url": "$PHD",
     "icon": "$PHD_ICON",
     "slug": "private-hd",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "99.63%",
     "time": 883,
-    "timeDay": 790,
-    "timeWeek": 979,
-    "timeMonth": 1411,
-    "timeYear": 959,
+    "timeDay": 657,
+    "timeWeek": 976,
+    "timeMonth": 1408,
+    "timeYear": 958,
     "dailyMinutesDown": {
       "2025-11-29": 17,
       "2025-12-19": 37,
@@ -1151,7 +1151,7 @@
       "2026-11-22": 6,
       "2026-11-24": 15,
       "2026-11-27": 8,
-      "2026-11-28": 2
+      "2026-11-28": 5
     }
   },
   {
@@ -1287,7 +1287,7 @@
     "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "83.42%",
+    "uptimeMonth": "83.43%",
     "uptimeYear": "96.07%",
     "time": 921,
     "timeDay": 873,
